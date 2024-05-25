@@ -1,6 +1,9 @@
-# Only Backtracking 🚀 || concise 🎗️|| newbie friendly 🔥|| 3 lang 🎉 || simple explanation 🧩--> [LEETCODE](https://leetcode.com/problems/the-number-of-beautiful-subsets/solutions/5195346/only-backtracking-concise-newbie-friendly-3-lang-simple-explanation) 
+# Only Backtracking 🚀 || concise 🎗️|| newbie friendly 🔥|| 3 lang 🎉 || simple explanation 🧩
 
+<h2 align="center"> 
 
+<a href="https://leetcode.com/problems/the-number-of-beautiful-subsets/solutions/5195346/only-backtracking-concise-newbie-friendly-3-lang-simple-explanation"><strong>➥ Live Solution On Leetcode</strong></a>
+</h2>
 
 # Screenshot 🎉
 
