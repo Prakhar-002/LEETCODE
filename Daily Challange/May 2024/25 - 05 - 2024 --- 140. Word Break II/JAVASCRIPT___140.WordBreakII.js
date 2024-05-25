@@ -1,6 +1,4 @@
 var wordBreak = function (s, wordDict) {
-      res = [];
-      cur = [];
 
       var backtracking = function (i) {
             if (i == s.length) {
@@ -18,6 +16,8 @@ var wordBreak = function (s, wordDict) {
             }
       }
 
+      let res = [];
+      let cur = [];
       backtracking(0);
       return res;
 };
