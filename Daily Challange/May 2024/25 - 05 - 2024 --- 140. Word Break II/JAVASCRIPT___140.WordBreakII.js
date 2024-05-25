@@ -6,7 +6,7 @@ var wordBreak = function (s, wordDict) {
                   return;
             }
 
-            for (let j = i; i < s.length; j++) {
+            for (let j = i; j < s.length; j++) {
                   let word = s.slice(i, j + 1);
                   if (wordDict.includes(word)) {
                         cur.push(word);
