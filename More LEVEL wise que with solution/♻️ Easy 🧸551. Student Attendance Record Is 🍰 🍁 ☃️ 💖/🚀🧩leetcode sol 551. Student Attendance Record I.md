@@ -3,7 +3,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/the-number-of-beautiful-subsets/solutions/5195346/only-backtracking-concise-newbie-friendly-3-lang-simple-explanation"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/student-attendance-record-i/solutions/5223578/java-100-beats-one-line-python-sol-step-wise-explanation-biggner-friendy"><strong>➥ Live Solution On Leetcode</strong></a>
 </h2>
 
 # Screenshot 🎉
