@@ -15,7 +15,7 @@
 # Intuition 🤔
 <!-- Describe your first thoughts on how to solve this problem. -->
 
-    We have to take xor or every posible subset of given array
+    We have to take xor or every possible subset of given array
 
     If it has more the 1 values then xor all of those values
 
