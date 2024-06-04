@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/reverse-string/solutions/5244010/beats-with-java-one-line-code-with-99-42-fully-explained"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/solutions/5250623/true-explanation-step-by-step-97-89-beats-best-visualization-formatted"><strong>➥ Live Solution On Leetcode</strong></a>
 </h2>
 
 
