@@ -1,7 +1,7 @@
-import java.util.*;
+import java.util.StringTokenizer;
 
 class Solution {
-
+      
       public static class Node {
             Node child[] = new Node[26];
             String str;
@@ -49,8 +49,10 @@ class Solution {
             }
 
             StringBuilder ans = new StringBuilder();
+            StringTokenizer tokenStr = new StringTokenizer(sentence);
 
-            for (String word : sentence.split(" ")) {
+            while (tokenStr.hasMoreTokens()) {
+                  String word = tokenStr.nextToken();
 
                   String prefix = searchPrefix(root, word);
                   if (prefix != null) {
