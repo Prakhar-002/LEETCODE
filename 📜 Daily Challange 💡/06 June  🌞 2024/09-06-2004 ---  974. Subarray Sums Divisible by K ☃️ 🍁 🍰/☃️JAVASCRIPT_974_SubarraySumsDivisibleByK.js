@@ -20,5 +20,4 @@ var subarraysDivByK = function(nums, k) {
       }
 
       return res;
-
 };
