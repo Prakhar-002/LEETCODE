@@ -15,7 +15,7 @@
 
     One C which is made with the sum of two positive numbers 
 
-        c = a ^ 2 + b ^ 2 
+        c = a ^ 2 + b ^ 2  
 
 
 ## Output 📤
