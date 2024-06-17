@@ -15,7 +15,7 @@ class Solution {
                   while (freqCount[n]-- > 0) {
                         ans[i++] = n;
                   }
-            }
+            } 
 
             for (int j = 0; j < freqCount.length; j++) {
                   while (freqCount[j]-- > 0) {

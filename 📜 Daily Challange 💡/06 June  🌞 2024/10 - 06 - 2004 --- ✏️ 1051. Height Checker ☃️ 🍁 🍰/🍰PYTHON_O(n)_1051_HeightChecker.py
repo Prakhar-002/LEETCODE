@@ -13,7 +13,7 @@ class Solution:
                   for _ in range(children):
                         expected.append(height)
 
-            count = 0
+            count = 0 
 
             for i in range(len(heights)):
                   if heights[i] != expected[i]:

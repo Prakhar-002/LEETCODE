@@ -8,4 +8,4 @@ var isSameTree = function(p, q) {
       }
 
       return ((p.val == q.val) && isEqual(p.left, q.left) && isEqual(p.right, q.right));
-};
+}; 

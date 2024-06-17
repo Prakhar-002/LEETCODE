@@ -8,6 +8,6 @@ class Solution {
                   s[j] = ch;
                   j--;
                   i++;
-            }
+            } 
       }
 }

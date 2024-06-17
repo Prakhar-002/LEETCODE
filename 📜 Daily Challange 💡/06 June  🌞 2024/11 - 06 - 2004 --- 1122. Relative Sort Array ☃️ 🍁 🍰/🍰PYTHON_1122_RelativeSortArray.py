@@ -18,7 +18,7 @@ class Solution:
                   while freq_count[j] > 0:
                         res.append(j)
                         freq_count[j] -= 1
-                  j += 1
+                  j += 1 
 
             return res
 

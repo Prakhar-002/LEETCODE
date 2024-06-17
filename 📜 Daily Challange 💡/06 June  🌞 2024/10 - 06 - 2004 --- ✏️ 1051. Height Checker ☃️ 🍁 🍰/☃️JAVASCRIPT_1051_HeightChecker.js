@@ -12,4 +12,4 @@ var heightChecker = function(heights) {
       }
 
       return count;
-};
+}; 

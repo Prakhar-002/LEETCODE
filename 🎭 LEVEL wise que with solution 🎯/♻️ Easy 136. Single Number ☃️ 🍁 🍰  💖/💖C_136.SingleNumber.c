@@ -4,5 +4,5 @@ int singleNumber(int* nums, int numsSize) {
       for (int i = 1; i < numsSize; i++) {
             xorNum ^= nums[i];
       }
-      return xorNum;
+      return xorNum; 
 }

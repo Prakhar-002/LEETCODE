@@ -9,7 +9,7 @@ class Solution {
                   freq[s.charAt(i) - 'a']++;
             }
 
-            return freq;
+            return freq; 
       }
 
       public List<String> commonChars(String[] words) {

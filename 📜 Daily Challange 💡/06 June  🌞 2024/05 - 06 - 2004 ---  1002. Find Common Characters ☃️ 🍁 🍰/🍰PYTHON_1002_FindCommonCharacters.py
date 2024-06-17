@@ -7,7 +7,7 @@ class Solution:
                   for ch in word_cnt:
                         word_cnt[ch] = min(word_cnt[ch], cur_cnt[ch])
 
-            res = []
+            res = [] 
 
             for ch in word_cnt: # remaining char 
                   for i in range(word_cnt[ch]):

@@ -15,7 +15,7 @@ class Solution {
 
                   while(children-- > 0) {
                         expected[k++] = height;
-                  }
+                  } 
             }
 
             int count = 0;

@@ -11,4 +11,4 @@ class Solution:
                   moves += abs(seats[i] - students[i])
 
 
-            return moves
+            return moves 

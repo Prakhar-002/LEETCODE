@@ -14,7 +14,7 @@ class Solution {
                   if (heights[i] != expected[i]) {
                         count++;
                   }
-            }
+            } 
 
             return count;
       }

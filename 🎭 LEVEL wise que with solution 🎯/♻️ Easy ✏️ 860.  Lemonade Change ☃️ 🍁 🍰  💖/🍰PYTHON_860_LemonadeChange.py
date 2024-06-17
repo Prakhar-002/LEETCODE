@@ -11,7 +11,7 @@ class Solution:
                   elif bill == 10:
                         if five >= 1:
                               five -= 1
-                              ten += 1
+                              ten += 1 
 
                         else :
                               return False

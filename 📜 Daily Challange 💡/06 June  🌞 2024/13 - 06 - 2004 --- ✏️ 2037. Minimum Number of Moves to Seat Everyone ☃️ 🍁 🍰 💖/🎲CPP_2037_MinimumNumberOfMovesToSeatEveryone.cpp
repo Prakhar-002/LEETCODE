@@ -12,6 +12,6 @@ public:
                   moves += abs(students[i] - seats[i]);
             }
 
-            return moves;
+            return moves; 
       }
 };

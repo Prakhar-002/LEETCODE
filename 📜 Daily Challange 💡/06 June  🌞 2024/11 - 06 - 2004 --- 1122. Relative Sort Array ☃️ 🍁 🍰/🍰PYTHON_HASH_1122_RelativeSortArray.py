@@ -17,7 +17,7 @@ class Solution:
 
             for n in arr2 :
                   for _ in range(arr_1_set[n]):
-                        res.append(n)
+                        res.append(n) 
 
 
             return res + end_elements 

@@ -5,4 +5,4 @@ class Solution:
             for n in nums:
                   xorNum ^= n
 
-            return xorNum
+            return xorNum 

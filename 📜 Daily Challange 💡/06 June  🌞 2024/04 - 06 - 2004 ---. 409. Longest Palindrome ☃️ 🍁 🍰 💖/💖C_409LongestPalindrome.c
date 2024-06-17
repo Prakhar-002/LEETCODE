@@ -9,7 +9,7 @@ int longestPalindrome(char* s) {
       bool isOdd = false;
 
       for (int i = 0; i < strlen(s); i++) {
-            if (s[i] > 96) {
+            if (s[i] > 96) { 
                   freq[s[i] - 'a']++;
             } else {
                   freq[(s[i] - 'A') + 26]++;

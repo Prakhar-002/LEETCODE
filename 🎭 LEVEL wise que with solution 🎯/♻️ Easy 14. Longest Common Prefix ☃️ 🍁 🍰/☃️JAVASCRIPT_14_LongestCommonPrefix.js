@@ -8,7 +8,7 @@ var longestCommonPrefix = function(strs) {
                   if (i == str.length || str.charAt(i) != strs[0].charAt(i)) {
                         return strs[0].slice(0, i);
                   }
-            }
+            } 
       }
 
       return strs[0];

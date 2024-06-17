@@ -17,7 +17,7 @@ class Solution {
 
                   if (!arr2Set.contains(n)) {
                         al.add(n);
-                  }
+                  } 
 
                   arr1HashMap.put(n, arr1HashMap.getOrDefault(n, 0) + 1);
             }

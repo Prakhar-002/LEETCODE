@@ -15,7 +15,7 @@ public:
                         if (i == str.length() || str[i] != strs[0][i])
                         {
                               return strs[0].substr(0, i);
-                        }
+                        } 
                   }
             }
 

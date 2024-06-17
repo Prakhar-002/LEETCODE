@@ -10,7 +10,7 @@ var relativeSortArray = function(arr1, arr2) {
       for (const n of arr2) {
             while(freqCount[n]-- > 0){
                   res.push(n);
-            }
+            } 
       }
 
       for (let j = 0; j < freqCount.length; j++) {

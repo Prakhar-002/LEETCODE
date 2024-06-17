@@ -14,4 +14,4 @@ var checkIfPangram = function(sentence) {
       }
 
       return true;
-};
+}; 

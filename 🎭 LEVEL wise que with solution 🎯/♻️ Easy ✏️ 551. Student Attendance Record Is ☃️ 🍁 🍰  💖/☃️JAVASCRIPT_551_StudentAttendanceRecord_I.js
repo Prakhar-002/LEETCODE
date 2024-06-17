@@ -11,7 +11,7 @@ var checkRecord = function(s) {
             }
 
             if (absCount > 1) {
-                  return false;
+                  return false; 
             }
       }
 

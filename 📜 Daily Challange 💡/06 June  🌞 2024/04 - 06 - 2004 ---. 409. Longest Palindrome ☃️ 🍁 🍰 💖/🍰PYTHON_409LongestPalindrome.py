@@ -10,7 +10,7 @@ class Solution:
                         freq[ord(ch) - ord('a')] += 1
 
                   else :
-                        freq[(ord(ch) - ord('A')) + 26] += 1
+                        freq[(ord(ch) - ord('A')) + 26] += 1 
 
             for n in freq :
                   if n % 2 == 0:

@@ -5,7 +5,7 @@ var freqCounter = (str) => {
             freq[str.charAt(i).charCodeAt(0) - 'a'.charCodeAt(0)]++;
       }
 
-      return freq;
+      return freq; 
 }
 
 var commonChars = function(words) {

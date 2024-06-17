@@ -11,7 +11,7 @@ var lemonadeChange = function(bills) {
                         five--;
                         ten++;
                   } else {
-                        return false;
+                        return false; 
                   }
             } else { // If we get 20$ 
                   if (five >= 1 && ten >= 1) { // We have to return 15$ so 1 -- 10$ and 1 -- 5$

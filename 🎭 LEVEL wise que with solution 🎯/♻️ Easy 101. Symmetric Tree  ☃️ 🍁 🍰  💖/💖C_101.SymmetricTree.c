@@ -11,5 +11,5 @@ bool isEqual(struct TreeNode* l, struct TreeNode* r){
 }
 
 bool isSymmetric(struct TreeNode* root) {
-      return isEqual(root->left, root->right);
+      return isEqual(root->left, root->right); 
 }

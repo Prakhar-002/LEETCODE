@@ -11,7 +11,7 @@ var relativeSortArray = function(arr1, arr2) {
             }
 
             arr1HashMap.set(n, (arr1HashMap.get(n) || 0) + 1);
-      }
+      } 
 
       endElements.sort((a, b) => a - b)
 

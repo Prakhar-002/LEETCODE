@@ -11,6 +11,6 @@ class Solution:
                         return False
 
             if n == 1:
-                  return True
+                  return True 
             
             return False

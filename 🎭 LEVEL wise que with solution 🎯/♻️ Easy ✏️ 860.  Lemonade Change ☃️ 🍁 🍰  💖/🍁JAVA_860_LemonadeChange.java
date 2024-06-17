@@ -11,7 +11,7 @@ class Solution {
                         if (five >= 1) { // we have to return 5$ so we should have it first
                               five--;
                               ten++;
-                        } else {
+                        } else { 
                               return false;
                         }
                   } else { // If we get 20$ 

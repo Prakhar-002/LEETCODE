@@ -11,7 +11,7 @@ class Solution:
                               return False
                         n //= 10
             
-                  return True
+                  return True 
 
             res = []
             for i in range(left, right + 1):

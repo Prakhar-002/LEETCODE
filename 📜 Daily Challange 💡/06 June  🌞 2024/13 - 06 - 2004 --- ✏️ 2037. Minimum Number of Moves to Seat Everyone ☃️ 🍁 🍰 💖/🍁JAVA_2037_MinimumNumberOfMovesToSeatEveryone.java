@@ -13,6 +13,6 @@ class Solution {
                   moves += Math.abs(students[i] - seats[i]);
             }
 
-            return moves;
+            return moves; 
       }
 }

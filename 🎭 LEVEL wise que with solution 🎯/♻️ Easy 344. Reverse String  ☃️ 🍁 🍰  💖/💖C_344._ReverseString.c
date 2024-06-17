@@ -5,6 +5,6 @@ void reverseString(char *s, int sSize){
             s[st] = s[end];
             s[end] = ch;
             end--;
-            st++;
+            st++; 
       }
 }

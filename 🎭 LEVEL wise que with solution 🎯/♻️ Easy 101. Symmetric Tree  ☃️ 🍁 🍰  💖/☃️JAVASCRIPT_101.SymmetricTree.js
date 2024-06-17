@@ -12,4 +12,4 @@ var isEqual = function(l, r){
 
 var isSymmetric = function(root) {
       return isEqual(root.left, root.right);
-};
+}; 

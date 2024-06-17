@@ -8,7 +8,7 @@ var isDivide = function (n) {
             n /= 10;
       }
 
-      return true;
+      return true; 
 }
 
 var selfDividingNumbers = function (left, right) {

@@ -4,5 +4,5 @@ var singleNumber = function(nums) {
       for (let i = 1; i < nums.length; i++) {
             xorNum ^= nums[i];
       }
-      return xorNum;
+      return xorNum; 
 };

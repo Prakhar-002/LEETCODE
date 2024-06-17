@@ -12,7 +12,7 @@ class Solution {
                   }
 
                   if (absCount > 1) {
-                        return false;
+                        return false; 
                   }
             }
 

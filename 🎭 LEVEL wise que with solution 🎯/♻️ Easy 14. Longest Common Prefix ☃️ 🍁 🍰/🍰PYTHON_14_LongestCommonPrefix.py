@@ -8,4 +8,4 @@ class Solution:
                         if i == len(str) or str[i] != strs[0][i]:
                               return strs[0][:i]
 
-            return strs[0]
+            return strs[0] 

@@ -9,7 +9,7 @@ var longestPalindrome = function(s){
             } else {
                   freq[(s.charAt(i).charCodeAt(0) - 'A'.charCodeAt(0)) + 26]++;
             }
-      }
+      } 
 
       for (let i = 0; i < freq.length; i++) {
             if (freq[i] % 2 == 0) {

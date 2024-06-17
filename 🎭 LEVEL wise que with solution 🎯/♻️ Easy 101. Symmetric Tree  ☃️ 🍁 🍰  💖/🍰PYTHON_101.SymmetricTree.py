@@ -9,4 +9,4 @@ class Solution:
                   
                   return (l.val == r.val and isEqual(l.left, r.right) and isEqual(l.right, r.left))
 
-            return isEqual(root.left, root.right)
+            return isEqual(root.left, root.right) 

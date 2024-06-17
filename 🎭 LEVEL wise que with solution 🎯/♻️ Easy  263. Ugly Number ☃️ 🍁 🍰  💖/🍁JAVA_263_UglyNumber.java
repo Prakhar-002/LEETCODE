@@ -10,7 +10,7 @@ class Solution {
                         n /= 5;
                   } else {
                         return false;
-                  }
+                  } 
             }
 
             if (n == 1) {

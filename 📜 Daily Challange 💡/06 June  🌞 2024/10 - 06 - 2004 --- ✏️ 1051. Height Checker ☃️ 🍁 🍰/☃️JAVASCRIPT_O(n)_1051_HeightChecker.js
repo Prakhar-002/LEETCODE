@@ -13,7 +13,7 @@ var heightChecker = function(heights) {
             while (children-- > 0) {
                   expected.push(height)
             }
-      }
+      } 
 
       let count = 0
 

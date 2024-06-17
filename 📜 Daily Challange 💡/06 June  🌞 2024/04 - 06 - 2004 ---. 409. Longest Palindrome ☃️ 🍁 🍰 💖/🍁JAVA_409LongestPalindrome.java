@@ -10,7 +10,7 @@ class Solution {
                   } else {
                         freq[(s.charAt(i) - 'A') + 26]++;
                   }
-            }
+            } 
 
             for (int i = 0; i < freq.length; i++) {
                   if (freq[i] % 2 == 0) {
