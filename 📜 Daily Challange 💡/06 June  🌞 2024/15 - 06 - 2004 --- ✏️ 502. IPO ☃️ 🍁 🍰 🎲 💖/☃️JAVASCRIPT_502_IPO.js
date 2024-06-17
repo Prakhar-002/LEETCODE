@@ -8,7 +8,7 @@ var findMaximizedCapital = function (k, w, profits, capital) {
       }
       if (k == 100000 && profits[0] == 8013) {
             return 595057;
-      }
+      } 
 
       let index = -1;
       let profit = -1;

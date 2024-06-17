@@ -270,5 +270,5 @@ int minPatches(int* nums, int numsSize, int n) {
 
 ## JAVA 🍁| PYTHON 🍰| JAVASCRIPT☃️ | C++ 🎲| C 💖
 
-![image.png](https://assets.leetcode.com/users/images/cd65a75c-9bd9-4b37-95e8-938ab1cfb2ea_1718515283.0818863.png)
+![image.png](https://assets.leetcode.com/users/images/cd65a75c-9bd9-4b37-95e8-938ab1cfb2ea_1718515283.0818863.png) 
 

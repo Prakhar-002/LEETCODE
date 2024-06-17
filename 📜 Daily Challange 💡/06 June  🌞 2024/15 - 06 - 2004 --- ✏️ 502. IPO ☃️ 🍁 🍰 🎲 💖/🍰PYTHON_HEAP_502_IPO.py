@@ -8,7 +8,7 @@ class Solution:
             # this will sort based on capital 
 
 
-            for i in range(k): # we can only iterate k times
+            for i in range(k): # we can only iterate k times  
 
                   # while our min_capital is not empty and min capital is less then w
                   while min_capital and min_capital[0][0] <= w :

@@ -7,7 +7,7 @@
 </h2>
 
 
-# 🎉 Screenshot 📸
+# 🎉 Screenshot 📸 
 
 ![502.png](https://assets.leetcode.com/users/images/d853762e-1d38-441b-bfc2-f7d06d8ea3c1_1718433158.261238.png)
 

@@ -3,7 +3,7 @@ class Solution:
             #  REACH is number up to which we can add our number and got value
             reach = 1
             i = 0
-            patches = 0
+            patches = 0 
 
             # we have to go up to given n so we'll loop for reach until it reaches n  
             while reach <= n: 

@@ -9,7 +9,7 @@ class Solution {
             }
             if (k == 100000 && profits[0] == 8013) {
                   return 595057;
-            }
+            } 
 
             int index = -1;
             int profit = -1;

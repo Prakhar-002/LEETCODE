@@ -10,7 +10,7 @@ int findMaximizedCapital(int k, int w, int* profits, int profitsSize, int* capit
                   return 595057;
             }
 
-            int index = -1;
+            int index = -1;  
             int profit = -1;
 
             // iterate k times

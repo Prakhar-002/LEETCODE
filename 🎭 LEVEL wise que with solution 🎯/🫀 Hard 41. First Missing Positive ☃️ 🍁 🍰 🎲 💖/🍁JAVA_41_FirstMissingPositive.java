@@ -7,7 +7,7 @@ class Solution {
                         // If number is -ve make it 0
                         nums[i] = 0;
                   }
-            }
+            } 
 
             for (int i = 0; i < n; i++) {
                   // Take the abs value of every elem of nums

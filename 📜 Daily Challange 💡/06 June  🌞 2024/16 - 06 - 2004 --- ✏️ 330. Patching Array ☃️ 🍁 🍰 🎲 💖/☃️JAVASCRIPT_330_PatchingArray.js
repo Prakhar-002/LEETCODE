@@ -2,7 +2,7 @@ var minPatches = function(nums, n) {
       // REACH is number up to which we can add our number and got value
       let reach = 1;
       let i = 0;
-      let patches = 0;
+      let patches = 0; 
 
       // we have to go up to given n so we'll loop for reach until it reaches n  
       while (reach <= n) {

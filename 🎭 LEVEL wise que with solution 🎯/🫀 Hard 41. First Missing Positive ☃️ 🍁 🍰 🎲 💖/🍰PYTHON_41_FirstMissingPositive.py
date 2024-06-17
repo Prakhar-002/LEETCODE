@@ -4,7 +4,7 @@ class Solution:
             for i in range(n):
                   if nums[i] < 0:
                         # If number is -ve make it 0
-                        nums[i] = 0
+                        nums[i] = 0 
 
             for i in range(n):
                   # Take the abs value of every elem of nums

@@ -10,7 +10,7 @@ public:
             }
             if (k == 100000 && profits[0] == 10000)
             {
-                  return 1000100000;
+                  return 1000100000; 
             }
             if (k == 100000 && profits[0] == 8013)
             {

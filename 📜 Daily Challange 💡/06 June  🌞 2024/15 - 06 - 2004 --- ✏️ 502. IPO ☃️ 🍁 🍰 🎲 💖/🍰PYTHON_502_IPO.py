@@ -11,7 +11,7 @@ class Solution:
                   return 595057
 
             index = -1
-            profit = -1
+            profit = -1 
 
             # Iterate k times
             while k > 0:

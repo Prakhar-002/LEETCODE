@@ -7,7 +7,7 @@ public:
                   if (nums[i] < 0) {
                         // If number is -ve make it 0
                         nums[i] = 0;
-                  }
+                  } 
             }
 
             for (int i = 0; i < n; i++) {

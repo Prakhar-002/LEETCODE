@@ -10,7 +10,7 @@ class Solution {
             // Create the minCapital heap
             for (int i = 0; i < profits.length; i++) {  
                   minCapital.offer(new int[] { capital[i], profits[i] });
-            }
+            } 
 
             // we can only iterate k times
             for (int i = 0; i < k; i++) {

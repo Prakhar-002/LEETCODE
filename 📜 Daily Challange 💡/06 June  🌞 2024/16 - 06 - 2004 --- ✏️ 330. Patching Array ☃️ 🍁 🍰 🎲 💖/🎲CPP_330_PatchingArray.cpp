@@ -4,7 +4,7 @@ public:
             // REACH is number up to which we can add our number and got value
             long long reach = 1;
             long long patches = 0;
-            long i = 0;
+            long i = 0; 
 
             // we have to go up to given n so we'll loop for reach until it reaches n  
             while ((reach <= n)){
