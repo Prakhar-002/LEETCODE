@@ -3,7 +3,7 @@ class Solution:
             prefix_sum = 0
             res = 0
 
-            prefix_cnt_map = { 0 : 1}
+            prefix_cnt_map = { 0 : 1} 
 
             for n in nums:
                   prefix_sum += n

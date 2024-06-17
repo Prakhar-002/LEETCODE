@@ -11,7 +11,7 @@ class Solution {
                         hand[i] = -1;
                         count++;
                   }
-                  i++;
+                  i++; 
             }
             if (count != groupSize){
                   return false;

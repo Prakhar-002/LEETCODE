@@ -12,4 +12,4 @@ class Solution:
                         tIdx += 1
                   sIdx += 1
 
-            return tLen - tIdx
+            return tLen - tIdx 

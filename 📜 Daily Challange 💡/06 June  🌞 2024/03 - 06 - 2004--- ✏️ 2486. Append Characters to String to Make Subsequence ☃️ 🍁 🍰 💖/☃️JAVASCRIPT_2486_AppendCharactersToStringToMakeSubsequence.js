@@ -9,7 +9,7 @@ var appendCharacters = function(s, t) {
                   tIdx++;
             }
             sIdx++;
-      }
+      } 
 
       return tLen - tIdx;
 };

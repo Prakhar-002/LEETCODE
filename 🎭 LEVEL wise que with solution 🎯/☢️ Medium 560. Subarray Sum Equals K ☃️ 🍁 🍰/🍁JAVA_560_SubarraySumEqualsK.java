@@ -9,7 +9,7 @@ class Solution {
             prefixMap.put(0, 1);
 
             for (int n : nums) {
-                  curSum += n;
+                  curSum += n; 
                   int diff = curSum - k;
 
                   res += prefixMap.containsKey(diff) ? prefixMap.get(diff) : 0;

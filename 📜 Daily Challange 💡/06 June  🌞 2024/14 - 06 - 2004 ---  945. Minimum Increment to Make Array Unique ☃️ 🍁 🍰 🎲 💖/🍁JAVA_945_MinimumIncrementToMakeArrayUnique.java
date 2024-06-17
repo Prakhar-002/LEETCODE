@@ -6,7 +6,7 @@ class Solution {
             Arrays.sort(nums);
 
             // Make variable 
-            int increment = 0;
+            int increment = 0; 
 
             for (int i = 1; i < nums.length; i++) {
                   // check adjacent values 

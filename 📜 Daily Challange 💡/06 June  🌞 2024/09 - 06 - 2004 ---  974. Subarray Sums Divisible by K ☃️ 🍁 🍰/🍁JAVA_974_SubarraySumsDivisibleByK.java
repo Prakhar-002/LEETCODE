@@ -7,7 +7,7 @@ class Solution {
 
             Map<Integer, Integer> prefixCntMap = new HashMap<>();
 
-            prefixCntMap.put(0, 1);
+            prefixCntMap.put(0, 1); 
 
             for (int n : nums) {
                   prefixSum += n;

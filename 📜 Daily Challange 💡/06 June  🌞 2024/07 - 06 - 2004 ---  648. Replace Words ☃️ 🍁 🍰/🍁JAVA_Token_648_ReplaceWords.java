@@ -12,7 +12,7 @@ class Solution {
                   char ch = s.charAt(i);
                   if (root.child[ch - 'a'] == null) {
                         root.child[ch - 'a'] = new Node();
-                  }
+                  } 
 
                   root = root.child[ch - 'a'];
                   if (root.str != null) {

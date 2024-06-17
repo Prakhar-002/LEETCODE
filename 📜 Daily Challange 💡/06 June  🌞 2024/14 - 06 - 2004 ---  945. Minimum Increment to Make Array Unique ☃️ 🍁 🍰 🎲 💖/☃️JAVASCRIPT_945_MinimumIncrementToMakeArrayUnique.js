@@ -12,7 +12,7 @@ var minIncrementForUnique = function(nums) {
                   // make Ith value to I - 1 th value +1 
                   nums[i] = nums[i - 1] + 1;
             }
-      }
+      } 
 
       return increment;
 };

@@ -3,7 +3,7 @@ class Solution:
             #  Make a array of length = length of nums and the max value present in nums array
             freq_count = [0] * (len(nums) + max(nums))
 
-            increment = 0
+            increment = 0 
 
             for n in nums:
                   # Count freq of each element

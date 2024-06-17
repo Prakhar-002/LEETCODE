@@ -8,7 +8,7 @@ var sortColors = function(nums) {
                   let temp = nums[st];
                   nums[st] = nums[i];
                   nums[i] = temp;
-                  st++;
+                  st++; 
             } else if (end > i && nums[i] == 2) {
                   // if we found 2 we'll shift it at end of array
                   let temp = nums[end];

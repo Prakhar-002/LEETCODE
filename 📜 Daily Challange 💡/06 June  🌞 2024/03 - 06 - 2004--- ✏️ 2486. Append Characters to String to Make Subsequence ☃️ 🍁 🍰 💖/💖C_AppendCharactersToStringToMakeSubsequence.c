@@ -9,4 +9,4 @@ int appendCharacters(char* s, char* t) {
             sIdx++;
       }
       return tLen - tIdx;
-}
+} 

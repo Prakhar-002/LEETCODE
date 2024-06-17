@@ -9,7 +9,7 @@ class Solution {
                         int temp = nums[st];
                         nums[st] = nums[i];
                         nums[i] = temp;
-                        st++;
+                        st++; 
                   } else if (end > i && nums[i] == 2) {
                         // if we found 2 we'll shift it at end of array
                         int temp = nums[end];

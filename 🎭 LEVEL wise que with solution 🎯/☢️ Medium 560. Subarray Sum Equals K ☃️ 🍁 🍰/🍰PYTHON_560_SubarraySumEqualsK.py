@@ -5,7 +5,7 @@ class Solution:
 
             prefixMap = { 0 : 1 }
 
-            for n in nums :
+            for n in nums : 
                   curSum += n
                   diff = curSum - k
 

@@ -12,7 +12,7 @@ class Solution {
 
             for (int card : hand) {
                   freq.put(card, freq.getOrDefault(card, 0) + 1); // Either inc by 1 or set to 0
-            }
+            }  
 
             // Sort the hand array to process cards in ascending order
             Arrays.sort(hand);

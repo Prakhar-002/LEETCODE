@@ -3,7 +3,7 @@ class Solution:
             # Count freq of each element by HashMap
             freqCount = Counter(nums)
 
-            increment = 0
+            increment = 0 
 
             for i in range (len(nums) + max(nums)):
                   # Check if freq of elem is > 1

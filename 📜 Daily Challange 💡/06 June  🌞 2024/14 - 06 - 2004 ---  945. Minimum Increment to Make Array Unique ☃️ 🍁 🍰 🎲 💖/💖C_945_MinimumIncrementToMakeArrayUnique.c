@@ -5,7 +5,7 @@
 int arrMax(int arr[], int size){
       int max = 0;
       for (int i = 0; i < size; i++){
-            max = fmax(max, arr[i]);
+            max = fmax(max, arr[i]); 
       }
       return max;
 }

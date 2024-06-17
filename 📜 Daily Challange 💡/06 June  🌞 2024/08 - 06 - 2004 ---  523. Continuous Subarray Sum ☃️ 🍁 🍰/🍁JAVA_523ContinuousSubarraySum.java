@@ -8,7 +8,7 @@ class Solution {
             int total = 0;
 
             // Initialize Map with 0 to -1
-            reminderMap.put(0, -1);
+            reminderMap.put(0, -1); 
 
             // Iterate whole array
             for (int i = 0; i < nums.length; i++) {

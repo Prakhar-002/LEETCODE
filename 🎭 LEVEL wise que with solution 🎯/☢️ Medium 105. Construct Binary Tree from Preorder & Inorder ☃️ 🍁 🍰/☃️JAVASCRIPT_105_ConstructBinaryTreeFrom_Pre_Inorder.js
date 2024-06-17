@@ -2,7 +2,7 @@ var buildTree = function (preorder, inorder) {
       if (preorder.length == 0 || inorder.length == 0) {
             // If we encounter end of one of empty arr
             // root.left = null root.right = null
-            return null;
+            return null; 
       }
 
       // Making root first

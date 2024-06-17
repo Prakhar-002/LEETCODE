@@ -8,7 +8,7 @@ class Solution:
             freq = Counter(hand)
 
             # Sort the hand array to process cards in ascending order
-            hand.sort()
+            hand.sort() 
 
             # Iterate through each card in the sorted hand
             for card in hand:

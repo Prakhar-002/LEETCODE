@@ -10,7 +10,7 @@ var insert = function (root, s) {
             ch = s.charAt(i)
             if (root.child[ch.charCodeAt(0) - 'a'.charCodeAt(0)] === null) {
                   root.child[ch.charCodeAt(0) - 'a'.charCodeAt(0)] = new Node();
-            }
+            } 
 
             root = root.child[ch.charCodeAt(0) - 'a'.charCodeAt(0)];
             if (root.str !== null) {

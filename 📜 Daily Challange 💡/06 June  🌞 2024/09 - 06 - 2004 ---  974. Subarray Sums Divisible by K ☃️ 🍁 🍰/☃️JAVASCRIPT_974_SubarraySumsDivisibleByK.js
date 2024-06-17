@@ -12,7 +12,7 @@ var subarraysDivByK = function(nums, k) {
 
             if (reminder < 0) {
                   reminder += k;
-            }
+            } 
 
             res += prefixCntMap.has(reminder) ? prefixCntMap.get(reminder) : 0;
 

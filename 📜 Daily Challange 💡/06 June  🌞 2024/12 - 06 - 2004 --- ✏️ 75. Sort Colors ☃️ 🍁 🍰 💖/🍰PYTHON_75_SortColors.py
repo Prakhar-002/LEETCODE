@@ -10,7 +10,7 @@ class Solution:
                   # If we found 0 we'll shift it in starting of array
                   if st != i and nums[i] == 0:
                         nums[i], nums[st] = nums[st], nums[i]
-                        st += 1
+                        st += 1 
 
                   # if we found 2 we'll shift it at end of array
                   elif end > i and nums[i] == 2:

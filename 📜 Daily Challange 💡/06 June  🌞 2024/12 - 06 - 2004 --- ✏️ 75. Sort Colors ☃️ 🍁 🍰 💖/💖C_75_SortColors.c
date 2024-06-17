@@ -9,7 +9,7 @@ void sortColors(int *nums, int numsSize){
                   nums[st] = nums[i];
                   nums[i] = temp;
                   st++;
-            }
+            } 
             else if (end > i && nums[i] == 2){
                   // if we found 2 we'll shift it at end of array
                   int temp = nums[end];

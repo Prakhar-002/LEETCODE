@@ -7,7 +7,7 @@ var subarraySum = function(nums, k) {
       prefixMap.set(0, 1);
 
       for (const n of nums) {
-            curSum += n;
+            curSum += n; 
             let diff = curSum - k;
 
             res += prefixMap.has(diff) ? prefixMap.get(diff) : 0;

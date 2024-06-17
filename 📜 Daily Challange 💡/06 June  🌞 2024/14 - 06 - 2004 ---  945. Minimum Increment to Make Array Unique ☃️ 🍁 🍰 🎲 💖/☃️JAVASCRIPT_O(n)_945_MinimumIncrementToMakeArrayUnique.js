@@ -7,7 +7,7 @@ var minIncrementForUnique = function(nums) {
       for (const n of nums) {
             // Count freq of each element
             freqCount[n]++;
-      }
+      } 
 
       for (let i = 0; i < freqCount.length; i++) {
             // Check if freq of elem is > 1 

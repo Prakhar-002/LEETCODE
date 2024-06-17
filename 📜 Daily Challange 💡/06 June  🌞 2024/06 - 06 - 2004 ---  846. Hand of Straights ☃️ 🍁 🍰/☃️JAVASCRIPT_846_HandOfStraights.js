@@ -18,7 +18,7 @@ var isNStraightHand = function (hand, groupSize) {
             // If the current card has already been used up, skip it
             if (freq.get(card) === 0) {
                   continue;
-            }
+            } 
 
             // Try to form a group of size groupSize starting from the current card
             for (let i = 0; i < groupSize; i++) {

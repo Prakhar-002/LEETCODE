@@ -5,7 +5,7 @@ class Solution {
             for (int n : arr) {
                   max = Math.max(max, n);
             }
-            return max;
+            return max; 
       }
 
       public int minIncrementForUnique(int[] nums) {

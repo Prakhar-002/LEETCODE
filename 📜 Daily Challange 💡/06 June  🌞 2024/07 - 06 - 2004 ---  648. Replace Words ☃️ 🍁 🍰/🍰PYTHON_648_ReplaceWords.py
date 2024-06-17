@@ -11,7 +11,7 @@ def insert(root, s):
 
             root = root.child[ord(ch) - ord('a')]
 
-      root.str = s
+      root.str = s 
 
 def search_prefix(root, str):
       for ch in str:            

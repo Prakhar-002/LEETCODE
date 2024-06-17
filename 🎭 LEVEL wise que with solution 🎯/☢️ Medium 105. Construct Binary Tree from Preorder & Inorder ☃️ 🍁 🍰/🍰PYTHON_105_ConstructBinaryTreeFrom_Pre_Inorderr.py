@@ -3,7 +3,7 @@ class Solution:
             if not preorder or not inorder:
                   # If we encounter end of one of empty arr
                   # root.left = null root.right = null
-                  return None
+                  return None 
 
             # Making root first
             # because preOrder[0] will be the root of our tree always

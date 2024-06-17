@@ -5,7 +5,7 @@ public:
             sort(nums.begin(), nums.end());
 
             // Make variable 
-            int increment = 0;
+            int increment = 0; 
 
             for (int i = 0; i < nums.size(); i++){
                   // check adjacent values  

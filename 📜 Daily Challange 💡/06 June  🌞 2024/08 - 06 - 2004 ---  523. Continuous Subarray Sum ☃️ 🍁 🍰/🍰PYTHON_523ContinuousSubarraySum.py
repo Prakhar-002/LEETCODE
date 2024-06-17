@@ -8,7 +8,7 @@ class Solution:
             # Iterate whole array
             for idx, num in enumerate(nums):
                   # Take total sum of el
-                  total += num
+                  total += num 
 
                   # FInd rem 
                   rem = total % k

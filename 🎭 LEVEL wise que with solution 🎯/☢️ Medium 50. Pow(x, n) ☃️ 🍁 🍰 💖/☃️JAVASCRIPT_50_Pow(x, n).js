@@ -5,7 +5,7 @@ var pow = function (x, n) {
 
       if (x == 0) {
             return 0;
-      }
+      } 
 
       var res = pow(x, Math.floor(n / 2));
 

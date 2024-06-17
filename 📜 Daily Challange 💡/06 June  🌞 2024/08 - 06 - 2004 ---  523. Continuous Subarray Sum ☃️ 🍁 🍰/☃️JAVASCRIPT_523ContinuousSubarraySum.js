@@ -9,7 +9,7 @@ var checkSubarraySum = function(nums, k) {
       // Iterate whole array
       for (let i = 0; i < nums.length; i++) {
             // Take total sum of el
-            total += nums[i];
+            total += nums[i]; 
 
             // FInd rem if k > 0 
             let rem = k == 0 ? total : total % k;
