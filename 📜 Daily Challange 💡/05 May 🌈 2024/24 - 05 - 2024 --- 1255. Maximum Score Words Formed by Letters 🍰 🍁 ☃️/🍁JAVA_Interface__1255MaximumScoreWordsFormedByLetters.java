@@ -8,7 +8,7 @@ class Solution {
 
             public int backtracking(int i);
 
-      }
+      } 
 
       public int[] counter(char[] letters) {
             int freqCount[] = new int[26];

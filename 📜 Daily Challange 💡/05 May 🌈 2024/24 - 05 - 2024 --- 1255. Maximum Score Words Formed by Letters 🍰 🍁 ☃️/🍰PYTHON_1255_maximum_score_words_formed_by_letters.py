@@ -9,7 +9,7 @@ class Solution:
 
             # we will check for every char count from our letter_count ... does we have enough letters available ? 
 
-            for char in word_count:
+            for char in word_count: 
                 if word_count[char] > letter_count[char]: # word_count[char] --> check the no of time one char comes in words[i]
                     return False # If does return false
                 

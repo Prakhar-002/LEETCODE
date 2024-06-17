@@ -6,7 +6,7 @@ class Solution {
         }
 
         int res = ans(words, score, freq, i + 1);
-        int wordScore = 0;
+        int wordScore = 0; 
         boolean flag = true;
         for (int j = 0; j < words[i].length(); j++) {
             char ch = words[i].charAt(j);

@@ -8,7 +8,7 @@ var maxScoreWords = function(words, letters, score) {
       var ans = function(i) {
             if (i == words.length) {
                   return 0
-            }
+            } 
 
             let res = ans(i + 1)
             let wordScore = 0;
