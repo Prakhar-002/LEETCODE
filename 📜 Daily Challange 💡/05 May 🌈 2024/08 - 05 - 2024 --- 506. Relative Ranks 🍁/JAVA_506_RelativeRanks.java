@@ -7,7 +7,7 @@ class Solution {
             int[][] sortArr = new int[n][2];
             for (int i = 0; i < n; i++) {
                   sortArr[i] = new int[] { i, score[i] };
-            }
+            } 
 
             Arrays.sort(sortArr, (a, b) -> (b[1] - a[1]));
 

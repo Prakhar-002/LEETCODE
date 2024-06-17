@@ -7,7 +7,7 @@ class Solution {
                   for (int j = col; j < col + 3; j++) {
                         maxValue = Math.max(maxValue, grid[i][j]);
                   }
-            }
+            } 
 
             return maxValue;
       }

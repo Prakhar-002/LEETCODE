@@ -10,5 +10,5 @@ class Solution {
             boolean right = evaluateTree(root.right);
 
             return root.val == 3 ? left && right : left || right;
-      }
+      } 
 }

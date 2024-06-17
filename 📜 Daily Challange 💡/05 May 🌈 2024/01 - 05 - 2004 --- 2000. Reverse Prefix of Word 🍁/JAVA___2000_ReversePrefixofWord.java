@@ -6,7 +6,7 @@ class Solution {
         String str = "";
         for (int i = index; i >= 0; i--) {
             str = str + word.charAt(i);
-        }
+        } 
 
         return str + word.substring(index + 1, word.length());
     }

@@ -10,6 +10,6 @@ class Solution {
                         max = Math.max(max, x);
                   }
             }
-            return max;
+            return max; 
       }
 }
