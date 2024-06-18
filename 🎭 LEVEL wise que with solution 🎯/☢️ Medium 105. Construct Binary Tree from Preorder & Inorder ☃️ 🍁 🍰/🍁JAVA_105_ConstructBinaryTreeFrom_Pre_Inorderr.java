@@ -60,6 +60,4 @@ class Solution {
             // And finally return our root
             return root;
       }
-
-      
 }
