@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
       public int numRescueBoats(int[] people, int limit) {
             Arrays.sort(people);
@@ -8,12 +9,12 @@ class Solution {
             int boat = 0;
 
             while (i <= j) {
-                  // If the lighteest go with highest weighted person
+                  // If the lightest go with highest weighted person
                   if (people[i++] + people[j--] <= limit) {
                         i++;
                         j--;
                         boat++;
-                        // or heaaviest persone go alone
+                        // or heaviest person go alone
                   } else {
                         j--;
                         boat++;
