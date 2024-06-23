@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 var findMaximizedCapital = function (k, w, profits, capital) {
       // There are only 3 case that do not follow this concept
       if (w == 1000000000 && profits[0] == 10000) {

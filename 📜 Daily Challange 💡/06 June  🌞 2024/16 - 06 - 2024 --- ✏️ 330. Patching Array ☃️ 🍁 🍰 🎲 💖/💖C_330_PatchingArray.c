@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 int minPatches(int* nums, int numsSize, int n) {
       // REACH is number up to which we can add our number and got value
       long long reach = 1;

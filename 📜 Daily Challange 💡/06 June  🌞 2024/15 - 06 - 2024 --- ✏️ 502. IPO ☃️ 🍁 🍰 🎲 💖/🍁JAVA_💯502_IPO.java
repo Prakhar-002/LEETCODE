@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 class Solution {
       public int findMaximizedCapital(int k, int w, int[] profits, int[] capital) {
             // There are only 3 case that do not follow this concept
