@@ -1,3 +1,5 @@
+# //! https://github.com/Prakhar-002/LEETCODE
+
 class Solution:
       def isNStraightHand(self, hand: List[int], groupSize: int) -> bool:
             # If the total number of cards is not divisible by groupSize, return false

@@ -1,8 +1,9 @@
+# //! https://github.com/Prakhar-002/LEETCODE
+
 class Node:
       def __init__(self):
             self.child = [None] * 26
             self.str = None
-
 
 def insert(root, s):
       for ch in s:

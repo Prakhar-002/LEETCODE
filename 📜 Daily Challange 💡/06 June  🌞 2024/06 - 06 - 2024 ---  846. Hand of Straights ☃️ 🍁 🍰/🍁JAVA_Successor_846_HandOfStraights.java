@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 import java.util.*;
 class Solution {
       public boolean findSuccessors(int[] hand, int groupSize, int i, int n) {

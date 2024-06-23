@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 var isNStraightHand = function (hand, groupSize) {
       // If the total number of cards is not divisible by groupSize, return false
       if (hand.length % groupSize !== 0) {
