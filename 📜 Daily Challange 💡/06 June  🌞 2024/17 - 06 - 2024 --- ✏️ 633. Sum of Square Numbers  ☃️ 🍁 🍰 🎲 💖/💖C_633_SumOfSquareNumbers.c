@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 bool judgeSquareSum(int c) {
       // taking to pointer a star with 0
       long long st = 0;

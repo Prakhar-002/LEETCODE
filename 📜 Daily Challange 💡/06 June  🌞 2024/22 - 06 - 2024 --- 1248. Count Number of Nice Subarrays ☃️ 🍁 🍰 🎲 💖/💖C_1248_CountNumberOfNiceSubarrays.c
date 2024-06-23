@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 int numberOfSubarrays(int* nums, int numsSize, int k){
       // 3 pointer sliding window problem
       // making 3 pointer left, middle assign with 0

@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 class Solution {
       public boolean judgeSquareSum(int c) {
             // taking to pointer a star with 0

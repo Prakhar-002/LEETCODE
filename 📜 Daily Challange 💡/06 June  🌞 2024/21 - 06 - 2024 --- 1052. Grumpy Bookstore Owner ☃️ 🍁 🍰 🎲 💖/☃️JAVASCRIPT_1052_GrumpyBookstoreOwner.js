@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 var satisfiedCustomers = function(customers, grumpy, start, end, initialSatisfied){
       // calculate more satisfied customer if owner use themselves power
       // for a period of time which is start to end 

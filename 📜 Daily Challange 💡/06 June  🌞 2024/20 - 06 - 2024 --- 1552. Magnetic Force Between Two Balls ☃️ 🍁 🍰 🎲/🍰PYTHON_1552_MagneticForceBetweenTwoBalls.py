@@ -1,3 +1,5 @@
+# //! https://github.com/Prakhar-002/LEETCODE
+
 class Solution:
       def canWePlace(self, position, dist, balls):
             # we place one ball at 0 index so count is 1

@@ -1,4 +1,7 @@
+# //! https://github.com/Prakhar-002/LEETCODE
+
 import math
+
 class Solution:
       def judgeSquareSum(self, c: int) -> bool:
             # taking to pointer a star with 0
