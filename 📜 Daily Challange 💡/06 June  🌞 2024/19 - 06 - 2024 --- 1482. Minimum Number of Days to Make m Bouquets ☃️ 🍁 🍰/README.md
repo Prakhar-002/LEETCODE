@@ -78,3 +78,14 @@
 1. **Array**
 2. **Binary Search**
 
+
+</br>
+
+# Solution ✏️ ˋ°•*⁀➷
+
+| 📒 Language 📒  | 🪶 Solution 🪶 |
+| ------------- | ------------- |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/19%20-%2006%20-%202024%20---%201482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0/%F0%9F%8D%81JAVA_1482_MinimumNumberOfDaysToMakemBouquets.java) |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/19%20-%2006%20-%202024%20---%201482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0/%F0%9F%8D%B0PYTHON_1482_MinimumNumberOfDaysToMakemBouquets.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   |    [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/19%20-%2006%20-%202024%20---%201482.%20Minimum%20Number%20of%20Days%20to%20Make%20m%20Bouquets%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0/%E2%98%83%EF%B8%8FJAVASCRIPT_1482_MinimumNumberOfDaysToMakemBouquets.js) |
+
