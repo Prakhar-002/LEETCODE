@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 var minMovesToSeat = function(seats, students) {
       // Sort the both arrays
       seats.sort((a, b) => a - b)
