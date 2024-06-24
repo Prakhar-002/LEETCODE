@@ -28,7 +28,7 @@ var longestSubarray = function(nums, limit) {
             // If condition is not true then we'll shift out left pointers
             while (decDeq[0] - incDeq[0] > limit) {
                   // if we update our left pointer we have to remove left pointer elem from both
-                  // deDue
+                  // decDue
                   // if left pointer value is present in decDeq remove it
                   if (decDeq[0] === nums[left]) {
                         decDeq.shift();
