@@ -23,9 +23,9 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### Input ➤ n = 9 
+  ### Input  ➤ n = 9 
 
-  ### Output ➤ false
+  ### Output  ➤ false
 
   ### Explanation ➤ In base 2: 9 = 1001 (base 2), which is palindromic. </br> In base 3: 9 = 100 (base 3), which is not palindromic. </br> Therefore, 9 is not strictly palindromic so we return false. </br> Note that in bases 4, 5, 6, and 7, n = 9 is also not palindromic.
 
@@ -33,7 +33,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### Input ➤ n = 4
+  ### Input  ➤ n = 4
 
   ### Output  ➤ false
 
