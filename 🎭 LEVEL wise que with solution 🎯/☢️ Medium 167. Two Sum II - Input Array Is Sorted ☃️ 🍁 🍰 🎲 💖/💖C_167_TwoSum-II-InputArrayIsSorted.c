@@ -1,3 +1,5 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
 int* twoSum(int* numbers, int numbersSize, int target, int* returnSize) {
       // taking to pointer a star with 0 and end
       int first = 0;
