@@ -27,7 +27,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-![1038 que](https://github.com/Prakhar-002/Prakhar-002/assets/136890202/b8077290-bbbc-48e0-9205-3cc41ed159b2)
+![1038 que](https://github.com/Prakhar-002/LEETCODE/assets/136890202/287ce02e-244f-4f69-93d8-df59c1d081a2)
 
 
   ### Input  ➤ root = [4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]
