@@ -1,27 +1,27 @@
-// Not working yet
-var checkRecord = function(n) {
-      let mod = 1000000007
+//! https://github.com/Prakhar-002/LEETCODE
 
-      let PorL = [];
-      let p = [];
 
-      PorL.push(1)
-      PorL.push(2)
+//Todo 📌 QUESTION NUMBER 552 
 
-      p.push(1)
-      p.push(1)
+const mod = Math.pow(10, 9) + 7;
 
-      for (let i = 2; i <= n; i++){
-            p.push(PorL[i - 1])
-            PorL.push((p[i] + p[i - 1] + p[i - 2]) % mod)
+function checkRecord(n) {
+      let PorL = new Array(n + 1).fill(0); // ending with P or L, no A [1, 2, 4, 7, 13]
+      let P = new Array(n + 1).fill(0); // ending with P, no A [1, 1, 2, 4, 7]
+      PorL[0] = P[0] = 1;
+      PorL[1] = 2;
+      P[1] = 1;
+
+      for (let i = 2; i <= n; i++) {
+            P[i] = PorL[i - 1];
+            PorL[i] = (P[i] + P[i - 1] + P[i - 2]) % mod;
       }
 
       let res = PorL[n];
-
-      for (let i = 0; i < n; i++) {
+      for (let i = 0; i < n; i++) { // inserting A into (n-1)-length strings
             let s = (PorL[i] * PorL[n - i - 1]) % mod;
             res = (res + s) % mod;
       }
 
-      return res;
-};
+      return Math.trunc(res);
+}
