@@ -1,4 +1,10 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+
+//Todo 📌 QUESTION NUMBER 506 
+
 import java.util.*;
+
 class Solution {
       public String[] findRelativeRanks(int[] score) {
 
