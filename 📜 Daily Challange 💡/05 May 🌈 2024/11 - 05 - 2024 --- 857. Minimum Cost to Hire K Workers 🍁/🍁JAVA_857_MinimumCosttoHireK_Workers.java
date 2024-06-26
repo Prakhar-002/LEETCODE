@@ -1,3 +1,8 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+
+//Todo 📌 QUESTION NUMBER 857 
+
 class Worker implements Comparable<Worker> {
       final int qualities, wage;
 
