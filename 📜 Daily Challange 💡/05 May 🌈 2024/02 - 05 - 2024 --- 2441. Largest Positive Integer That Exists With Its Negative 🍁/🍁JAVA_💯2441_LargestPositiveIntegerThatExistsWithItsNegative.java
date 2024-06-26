@@ -3,7 +3,7 @@
 
 //Todo 📌 QUESTION NUMBER 2441 
 
-class Solution {
+class Solution { 
       public int findMaxK(int[] nums) {
             int low = Integer.MAX_VALUE;
             int high = Integer.MIN_VALUE;

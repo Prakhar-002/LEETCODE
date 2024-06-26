@@ -1,7 +1,7 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
 
-//Todo 📌 QUESTION NUMBER 2000 
+//Todo 📌 QUESTION NUMBER 2000  
 
 class Solution {
     public String reversePrefix(String word, char ch) {
