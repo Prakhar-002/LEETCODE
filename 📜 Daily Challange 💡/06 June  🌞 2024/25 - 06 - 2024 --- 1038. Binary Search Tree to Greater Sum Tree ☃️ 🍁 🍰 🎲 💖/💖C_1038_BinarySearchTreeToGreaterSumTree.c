@@ -1,8 +1,11 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
-// ? Time complexity -> O(n)
 
-// ? Space complexity -> O(1)
+// Todo 📌 QUESTION NUMBER 1038 
+
+//? ⌚ Time complexity -> O(n) => n is number of nodes
+
+//? 🧺 Space complexity -> O(n) => n is number of nodes
 
 int curSum = 0;
 
