@@ -1,3 +1,9 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+
+//Todo 📌 QUESTION NUMBER 2597 
+
+
 var isSafe = function (nums, part, j, k) {
       for (let i = 0; i < part.length; i++) {
             if (Math.abs(nums[j] - part[i]) == k) {
