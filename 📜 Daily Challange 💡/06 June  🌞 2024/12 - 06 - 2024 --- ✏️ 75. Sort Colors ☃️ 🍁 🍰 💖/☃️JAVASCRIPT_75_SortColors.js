@@ -1,7 +1,7 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
 
-//Todo 📌 QUESTION NUMBER 75 
+//Todo 📌 QUESTION NUMBER 75  
 
 var sortColors = function(nums) {
       let st = 0

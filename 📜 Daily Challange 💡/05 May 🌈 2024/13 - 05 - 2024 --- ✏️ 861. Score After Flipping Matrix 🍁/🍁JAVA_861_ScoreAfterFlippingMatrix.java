@@ -1,7 +1,7 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
 
-//Todo 📌 QUESTION NUMBER 861 
+//Todo 📌 QUESTION NUMBER 861  
 
 class Solution {
 

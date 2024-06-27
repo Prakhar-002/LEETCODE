@@ -2,7 +2,7 @@ let steps;
 
 var countSteps = function (root) {
       if (!root) {
-            return 0;
+            return 0; 
       }
 
       let leftCoins = countSteps(root.left);

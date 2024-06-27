@@ -1,7 +1,7 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
 
-//Todo 📌 QUESTION NUMBER 1208 
+//Todo 📌 QUESTION NUMBER 1208  
 
 var equalSubstring = function(s, t, maxCost) {
       let curCost = 0

@@ -1,7 +1,7 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
 
-//Todo 📌 QUESTION NUMBER 2597 
+//Todo 📌 QUESTION NUMBER 2597  
 
 
 var isSafe = function (nums, part, j, k) {

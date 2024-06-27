@@ -1,6 +1,6 @@
 var removeLeafNodes = function (root, target) {
       if (!root) {
-            return null;
+            return null; 
       }
 
       root.left = removeLeafNodes(root.left, target);

@@ -1,7 +1,7 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
 
-//Todo 📌 QUESTION NUMBER 1404 
+//Todo 📌 QUESTION NUMBER 1404  
 
 var numSteps = function(s) {
       let steps = 0

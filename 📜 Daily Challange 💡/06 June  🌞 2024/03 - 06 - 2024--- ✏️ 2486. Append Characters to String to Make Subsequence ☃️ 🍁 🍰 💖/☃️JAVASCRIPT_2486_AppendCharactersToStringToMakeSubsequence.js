@@ -1,7 +1,7 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
 
-//Todo 📌 QUESTION NUMBER 2486 
+//Todo 📌 QUESTION NUMBER 2486  
 
 var appendCharacters = function(s, t) {
       // Index
