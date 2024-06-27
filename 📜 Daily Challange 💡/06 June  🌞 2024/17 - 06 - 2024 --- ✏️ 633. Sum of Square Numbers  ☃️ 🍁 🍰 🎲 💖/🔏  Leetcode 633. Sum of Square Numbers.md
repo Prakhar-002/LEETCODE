@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/sum-of-square-numbers/solutions/5325268/only-basic-binary-search-beats-with-proof-beginner-friendly-5-language"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/sum-of-square-numbers/solutions/5325268/only-basic-binary-search-beats-with-proof-beginner-friendly-5-language"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>   
 
 

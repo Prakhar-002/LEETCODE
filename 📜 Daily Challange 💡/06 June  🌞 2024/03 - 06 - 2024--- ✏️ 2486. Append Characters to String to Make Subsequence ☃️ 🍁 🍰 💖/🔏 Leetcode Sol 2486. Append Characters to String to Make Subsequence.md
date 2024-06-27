@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/solutions/5250623/true-explanation-step-by-step-97-89-beats-best-visualization-formatted"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/append-characters-to-string-to-make-subsequence/solutions/5250623/true-explanation-step-by-step-97-89-beats-best-visualization-formatted"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 

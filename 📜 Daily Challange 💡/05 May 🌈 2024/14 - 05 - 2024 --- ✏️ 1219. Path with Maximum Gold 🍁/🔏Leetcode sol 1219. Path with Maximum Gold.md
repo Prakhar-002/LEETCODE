@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/path-with-maximum-gold/solutions/5157801/beats-99-24-of-users-with-java-only-normal-dfs-in-n-2-two-for-loops-only"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/path-with-maximum-gold/solutions/5157801/beats-99-24-of-users-with-java-only-normal-dfs-in-n-2-two-for-loops-only"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 # Screenshot 🎉

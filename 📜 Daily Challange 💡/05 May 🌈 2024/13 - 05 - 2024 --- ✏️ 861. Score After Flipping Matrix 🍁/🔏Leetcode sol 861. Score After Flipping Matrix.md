@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/score-after-flipping-matrix/solutions/5153013/beats-100-of-users-with-java-piecewise-func-code-lets-code"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/score-after-flipping-matrix/solutions/5153013/beats-100-of-users-with-java-piecewise-func-code-lets-code"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 # Screenshot 🎉

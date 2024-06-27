@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solutions/5224440/beats-100-java-best-formated-solution-with-multiple-image-step-wise-explanation"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/solutions/5224440/beats-100-java-best-formated-solution-with-multiple-image-step-wise-explanation"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 # Screenshot 🎉 

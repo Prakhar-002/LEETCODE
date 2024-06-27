@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/single-number-iii/solutions/5234872/without-any-bit-manipulation-best-formatted-o-1-space-solution-dry-run"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/single-number-iii/solutions/5234872/without-any-bit-manipulation-best-formatted-o-1-space-solution-dry-run"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 # Screenshot 🎉 

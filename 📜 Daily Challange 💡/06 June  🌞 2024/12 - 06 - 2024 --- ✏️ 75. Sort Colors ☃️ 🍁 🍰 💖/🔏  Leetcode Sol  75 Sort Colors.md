@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/sort-colors/solutions/5301200/counting-sort-2-approach-both-beats-4-languages"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/sort-colors/solutions/5301200/counting-sort-2-approach-both-beats-4-languages"><strong>➥💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 

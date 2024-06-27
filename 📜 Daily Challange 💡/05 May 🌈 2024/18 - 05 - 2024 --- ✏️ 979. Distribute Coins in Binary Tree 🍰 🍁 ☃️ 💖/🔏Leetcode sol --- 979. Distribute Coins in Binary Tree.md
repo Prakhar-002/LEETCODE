@@ -1,5 +1,9 @@
-# 👏💯Beats 100% JAVA 🎉 || 100% JS 🎉|| PYTHON 🎉|| C 🎉||✅ Beggar Coin Principle || 🥳PostOrder ONLY 🧩--> [LEETCODE](https://leetcode.com/problems/distribute-coins-in-binary-tree/solutions/5174766/beats-100-java-100-js-python-c-beggar-coin-principle-postorder-only) 
+# 👏💯Beats 100% JAVA 🎉 || 100% JS 🎉|| PYTHON 🎉|| C 🎉||✅ Beggar Coin Principle || 🥳PostOrder ONLY 🧩--> 
 
+<h2 align="center"> 
+
+<a href="https://leetcode.com/problems/distribute-coins-in-binary-tree/solutions/5174766/beats-100-java-100-js-python-c-beggar-coin-principle-postorder-only"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
+</h2>
 
 # Screenshot 🎉
 

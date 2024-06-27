@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/student-attendance-record-i/solutions/5223682/java-100-beats-one-line-python-sol-step-wise-explanation-biggner-friendy"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/student-attendance-record-i/solutions/5223682/java-100-beats-one-line-python-sol-step-wise-explanation-biggner-friendy"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 

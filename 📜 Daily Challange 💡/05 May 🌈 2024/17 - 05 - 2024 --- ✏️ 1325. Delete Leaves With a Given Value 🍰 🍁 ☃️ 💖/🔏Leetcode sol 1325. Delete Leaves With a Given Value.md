@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/delete-leaves-with-a-given-value/solutions/5170793/beats-100-java-python-c-js-line-by-line-explanation-best-approach"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/delete-leaves-with-a-given-value/solutions/5170793/beats-100-java-python-c-js-line-by-line-explanation-best-approach"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 # Screenshot 🎉

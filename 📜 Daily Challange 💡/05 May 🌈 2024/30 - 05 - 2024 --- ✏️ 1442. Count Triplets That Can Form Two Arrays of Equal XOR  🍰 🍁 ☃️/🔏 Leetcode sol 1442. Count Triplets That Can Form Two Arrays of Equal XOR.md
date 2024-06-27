@@ -3,7 +3,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/solutions/5230002/100-beats-champion-s-explanation-cute-formatted-with-examples-3-languages"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor/solutions/5230002/100-beats-champion-s-explanation-cute-formatted-with-examples-3-languages"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 
