@@ -1,3 +1,8 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+
+//Todo 📌 QUESTION NUMBER 1208 
+
 int equalSubstring(char *s, char *t, int maxCost){
       int curCost = 0;
       int subStringLen = 0;

@@ -1,3 +1,8 @@
+# ! https://github.com/Prakhar-002/LEETCODE
+
+
+# Todo 📌 QUESTION NUMBER 1208 
+
 class Solution:
       def equalSubstring(self, s: str, t: str, maxCost: int) -> int:
             curCost = 0

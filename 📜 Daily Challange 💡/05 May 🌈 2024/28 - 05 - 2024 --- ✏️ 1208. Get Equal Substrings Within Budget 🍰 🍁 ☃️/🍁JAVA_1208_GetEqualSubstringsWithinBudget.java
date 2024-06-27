@@ -1,3 +1,8 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+
+//Todo 📌 QUESTION NUMBER 1208 
+
 class Solution {
       public int equalSubstring(String s, String t, int maxCost) {
             int curCost = 0;

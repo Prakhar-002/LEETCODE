@@ -1,3 +1,7 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+
+//Todo 📌 QUESTION NUMBER 1442 
 
 class Solution {
       public int countTriplets(int[] arr) {

@@ -1,3 +1,8 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+
+//Todo 📌 QUESTION NUMBER 1442 
+
 var countTriplets = function(arr) {
       let triplets = 0
 

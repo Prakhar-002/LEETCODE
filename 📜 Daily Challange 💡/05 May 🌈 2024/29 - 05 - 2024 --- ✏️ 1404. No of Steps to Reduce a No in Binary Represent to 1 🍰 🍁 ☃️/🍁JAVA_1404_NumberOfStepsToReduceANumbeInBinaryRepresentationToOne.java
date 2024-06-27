@@ -1,3 +1,8 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+
+//Todo 📌 QUESTION NUMBER 1404 
+
 class Solution {
       public int numSteps(String s) {
             int steps = 0; // Count total steps

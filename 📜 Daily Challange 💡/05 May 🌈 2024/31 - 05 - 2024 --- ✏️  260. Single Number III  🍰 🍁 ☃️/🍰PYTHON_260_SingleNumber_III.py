@@ -1,3 +1,12 @@
+#! https://github.com/Prakhar-002/LEETCODE
+
+
+#Todo 📌 QUESTION NUMBER 1442 
+
+#? ⌚ Time complexity -> O(n) 
+
+#? 🧺 Space complexity -> O(1) 
+
 class Solution:
       def singleNumber(self, nums: List[int]) -> List[int]:
             xor = 0
