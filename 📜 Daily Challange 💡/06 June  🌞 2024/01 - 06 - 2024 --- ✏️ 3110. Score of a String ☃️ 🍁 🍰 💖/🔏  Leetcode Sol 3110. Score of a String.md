@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/score-of-a-string/solutions/5238370/beats-simple-4-language-best-formatted"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/score-of-a-string/solutions/5238370/beats-simple-4-language-best-formatted"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 

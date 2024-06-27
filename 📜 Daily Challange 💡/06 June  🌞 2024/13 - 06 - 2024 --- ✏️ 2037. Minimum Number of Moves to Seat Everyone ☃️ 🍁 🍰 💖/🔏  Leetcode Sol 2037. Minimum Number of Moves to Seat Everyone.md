@@ -3,7 +3,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/solutions/5305555/easy-beats-detailed-explanation-formatted-java-c-js-py-git"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/solutions/5305555/easy-beats-detailed-explanation-formatted-java-c-js-py-git"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 

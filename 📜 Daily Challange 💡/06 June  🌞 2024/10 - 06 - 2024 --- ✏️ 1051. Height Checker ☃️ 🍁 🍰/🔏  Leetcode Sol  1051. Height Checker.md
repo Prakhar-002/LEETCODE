@@ -3,7 +3,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/height-checker/solutions/5288059/100-beats-two-approach-true-explanation-beginner-friendly-4-lang"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/height-checker/solutions/5288059/100-beats-two-approach-true-explanation-beginner-friendly-4-lang"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 

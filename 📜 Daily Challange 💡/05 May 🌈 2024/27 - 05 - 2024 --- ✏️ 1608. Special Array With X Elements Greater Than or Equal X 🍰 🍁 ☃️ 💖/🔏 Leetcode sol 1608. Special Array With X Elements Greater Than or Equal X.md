@@ -1,7 +1,7 @@
 # Only (N) Without sorting 🚀 || concise 🎗️|| newbie friendly 🔥|| simple explanation 🧩|| 4 lang 🎉
 <h2 align="center"> 
 
-<a  href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/solutions/5216642/only-n-without-sorting-concise-newbie-friendly-simple-explanation-4-lang"><strong>➥ Live Solution On Leetcode</strong></a>
+<a  href="https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/solutions/5216642/only-n-without-sorting-concise-newbie-friendly-simple-explanation-4-lang"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 # Screenshot 🎉

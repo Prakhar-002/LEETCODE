@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/solutions/5182585/100-java-simple-consice-without-making-subarrays"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/sum-of-all-subset-xor-totals/solutions/5182585/100-java-simple-consice-without-making-subarrays"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 
