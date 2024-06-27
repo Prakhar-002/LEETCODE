@@ -5,7 +5,7 @@
 
 //? ⌚ Time complexity -> O(n) 
 
-//? 🧺 Space complexity -> O(1) 
+//? 🧺 Space complexity -> O(1)  
 
 class Solution {
       public int[] singleNumber(int[] nums) { // [1,2,1,3,2,5]
