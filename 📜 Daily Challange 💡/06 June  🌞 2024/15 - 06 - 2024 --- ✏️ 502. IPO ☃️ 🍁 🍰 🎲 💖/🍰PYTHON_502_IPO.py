@@ -1,5 +1,8 @@
 # //! https://github.com/Prakhar-002/LEETCODE
 
+
+# Todo 📌 QUESTION NUMBER 502 
+
 class Solution:
       def findMaximizedCapital(self, k: int, w: int, profits: List[int], capital: List[int]) -> int:
             # There are only 3 case that do not follow this concept

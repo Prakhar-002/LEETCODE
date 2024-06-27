@@ -1,5 +1,8 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
+
+// Todo 📌 QUESTION NUMBER 330 
+
 class Solution {
       public int minPatches(int[] nums, int n) {
             // REACH is number up to which we can add our number and got value

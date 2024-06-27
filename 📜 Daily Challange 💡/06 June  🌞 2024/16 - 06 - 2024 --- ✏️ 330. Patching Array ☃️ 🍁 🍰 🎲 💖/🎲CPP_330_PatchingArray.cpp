@@ -1,5 +1,8 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
+
+// Todo 📌 QUESTION NUMBER 330 
+
 class Solution{
 public:
       int minPatches(vector<int> &nums, int n){
