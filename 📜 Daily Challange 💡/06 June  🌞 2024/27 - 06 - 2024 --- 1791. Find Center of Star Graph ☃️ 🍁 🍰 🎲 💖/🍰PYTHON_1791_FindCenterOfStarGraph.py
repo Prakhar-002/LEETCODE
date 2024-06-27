@@ -20,15 +20,15 @@ class Solution:
             # first Node of first edge will be =>
 
             # either equal to first node of any second edge (let say 2nd edge)
-            if (starFirstNode == edges[1][0]) :
+            if (starFirstNode == edges[1][0]):
                   return starFirstNode
             
 
             # or equal to second node of any second edge (let say 2nd edge)
-            elif (starFirstNode == edges[1][1]) :
+            elif (starFirstNode == edges[1][1]):
                   return starFirstNode
             
 
             # And if first node is not common is both edge second Node will common for sure
-            else :
+            else:
                   return starSecondNode
