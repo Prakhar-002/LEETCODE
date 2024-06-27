@@ -1,6 +1,6 @@
 # 1248. Count Number of Nice Subarrays
 
-</br>
+</br> 
 
 <h2 align="center"> 
 

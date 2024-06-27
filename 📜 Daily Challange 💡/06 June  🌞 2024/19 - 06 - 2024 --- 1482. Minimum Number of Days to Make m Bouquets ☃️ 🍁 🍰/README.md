@@ -1,6 +1,6 @@
 # 1482. Minimum Number of Days to Make m Bouquets
 
-</br>
+</br> 
 
 <h2 align="center"> 
 

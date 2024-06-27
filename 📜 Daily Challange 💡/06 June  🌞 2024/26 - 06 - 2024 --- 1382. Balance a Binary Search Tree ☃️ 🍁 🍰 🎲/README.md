@@ -1,6 +1,6 @@
 # 1382. Balance a Binary Search Tree
 
-</br>
+</br> 
 
 <h2 align="center"> 
 

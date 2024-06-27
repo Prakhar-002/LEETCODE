@@ -1,6 +1,6 @@
 # 1052. Grumpy Bookstore Owner
 
-</br>
+</br> 
 
 <h2 align="center"> 
 
