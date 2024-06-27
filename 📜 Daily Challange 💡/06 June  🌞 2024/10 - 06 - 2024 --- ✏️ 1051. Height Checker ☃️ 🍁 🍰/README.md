@@ -1,5 +1,5 @@
 # 1051. Height Checker
-</br>
+</br> 
 
 <h2 align="center"> 
 

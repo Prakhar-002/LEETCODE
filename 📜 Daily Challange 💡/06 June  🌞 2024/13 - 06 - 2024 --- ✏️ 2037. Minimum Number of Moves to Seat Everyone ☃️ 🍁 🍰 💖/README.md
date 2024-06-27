@@ -1,6 +1,6 @@
 # 2037. Minimum Number of Moves to Seat Everyone
 
-</br>
+</br> 
 
 <h2 align="center"> 
 

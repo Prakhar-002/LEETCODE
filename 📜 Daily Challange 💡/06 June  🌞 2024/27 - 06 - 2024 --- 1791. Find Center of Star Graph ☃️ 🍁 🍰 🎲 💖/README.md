@@ -1,6 +1,6 @@
 # 1791. Find Center of Star Graph
 
-</br>
+</br> 
 
 <h2 align="center"> 
 
