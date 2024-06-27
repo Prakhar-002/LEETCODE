@@ -1,7 +1,7 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
 
-// Todo 📌 QUESTION NUMBER 502 
+// Todo 📌 QUESTION NUMBER 502  
 
 var findMaximizedCapital = function (k, w, profits, capital) {
       // There are only 3 case that do not follow this concept

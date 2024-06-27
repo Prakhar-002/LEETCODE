@@ -5,7 +5,7 @@ var maximumValueSum = function (nums, k, edges) {
 
       for (let i = 0; i < nums.length; i += 2) {
             if (i == nums.length - 1) {
-                  break;
+                  break; 
             }
 
             let path_sum = xorArr[i] + xorArr[i + 1]

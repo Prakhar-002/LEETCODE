@@ -1,7 +1,7 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
 
-// Todo 📌 QUESTION NUMBER 330 
+// Todo 📌 QUESTION NUMBER 330  
 
 var minPatches = function(nums, n) {
       // REACH is number up to which we can add our number and got value
