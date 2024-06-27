@@ -3,9 +3,9 @@
 
 //Todo 📌 QUESTION NUMBER 1791 
 
-// ? Time complexity -> O(1) 
+//? ⌚ Time complexity -> O(1) 
 
-// ? Space complexity -> O(1) 
+//? 🧺 Space complexity -> O(1) 
 
 var findCenter = function(edges) {
       // We have n edge of star with two node only 
