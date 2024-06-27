@@ -1,5 +1,8 @@
 # //! https://github.com/Prakhar-002/LEETCODE
 
+
+# Todo 📌 QUESTION NUMBER 1552 
+
 class Solution:
       def canWePlace(self, position, dist, balls):
             # we place one ball at 0 index so count is 1

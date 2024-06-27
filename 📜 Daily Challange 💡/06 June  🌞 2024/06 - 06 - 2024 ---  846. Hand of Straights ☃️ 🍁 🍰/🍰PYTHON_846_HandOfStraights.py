@@ -1,4 +1,7 @@
-# //! https://github.com/Prakhar-002/LEETCODE
+#! https://github.com/Prakhar-002/LEETCODE
+
+
+#Todo 📌 QUESTION NUMBER 846 
 
 class Solution:
       def isNStraightHand(self, hand: List[int], groupSize: int) -> bool:

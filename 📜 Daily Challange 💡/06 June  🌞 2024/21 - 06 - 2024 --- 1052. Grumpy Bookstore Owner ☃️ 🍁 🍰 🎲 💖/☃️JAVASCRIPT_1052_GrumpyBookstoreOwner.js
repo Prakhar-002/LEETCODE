@@ -1,5 +1,8 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
+
+// Todo 📌 QUESTION NUMBER 1052 
+
 var satisfiedCustomers = function(customers, grumpy, start, end, initialSatisfied){
       // calculate more satisfied customer if owner use themselves power
       // for a period of time which is start to end 
