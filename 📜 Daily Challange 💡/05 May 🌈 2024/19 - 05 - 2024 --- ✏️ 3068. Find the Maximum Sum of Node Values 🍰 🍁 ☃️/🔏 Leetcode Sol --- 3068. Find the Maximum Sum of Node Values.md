@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/find-the-maximum-sum-of-node-values/solutions/5178932/python-js-java-best-visualization-new-question-only-sorting"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/find-the-maximum-sum-of-node-values/solutions/5178932/python-js-java-best-visualization-new-question-only-sorting"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 # Screenshot 🎉

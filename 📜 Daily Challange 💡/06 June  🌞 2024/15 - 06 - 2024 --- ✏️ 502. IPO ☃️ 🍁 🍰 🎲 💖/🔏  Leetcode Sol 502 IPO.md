@@ -3,7 +3,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/ipo/solutions/5316120/without-heap-without-sorting-beats-100-run-100-memory-proof"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/ipo/solutions/5316120/without-heap-without-sorting-beats-100-run-100-memory-proof"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 

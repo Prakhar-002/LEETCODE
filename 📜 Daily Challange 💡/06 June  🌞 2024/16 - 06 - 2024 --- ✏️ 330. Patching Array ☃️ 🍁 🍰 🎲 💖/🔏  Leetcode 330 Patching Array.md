@@ -2,7 +2,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/patching-array/solutions/5320371/100-beats-5-language-best-visualization-best-formatted"><strong>➥ Live Solution On Leetcode</strong></a>
+<a href="https://leetcode.com/problems/patching-array/solutions/5320371/100-beats-5-language-best-visualization-best-formatted"><strong>➥ 💡 Live Solution On Leetcode ✒️</strong></a>
 </h2>
 
 # 🎉 Screenshot 📸
