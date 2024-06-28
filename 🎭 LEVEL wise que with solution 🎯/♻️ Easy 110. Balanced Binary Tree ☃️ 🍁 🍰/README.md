@@ -1,69 +1,64 @@
-# 
+# 110. Balanced Binary Tree
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 1438 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/balanced-binary-tree/description/"><strong>➥ ♻️ 1438 Leetcode Que Easy ♻️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
-
+### Given a binary tree, determine if it is height-balanced
+.
+### height-balanced ➤ A height-balanced binary tree is a binary tree in which the depth of the two subtrees of every node never differs by more than one.
 
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### Input  ➤ 
+![110 que 1](https://github.com/Prakhar-002/LEETCODE/assets/136890202/579a2328-04f1-48eb-8c9e-94e1321f51eb)
 
-  ### Output  ➤ 2
+  ### Input  ➤ root = [3,9,20,null,null,15,7]
 
-  ### Explanation  ➤ 
+  ### Output  ➤ true
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### Input ➤ 
+![110 que 2](https://github.com/Prakhar-002/LEETCODE/assets/136890202/ad9218bc-7217-4145-ac94-e11cd3628ce4)
 
-  ### Output  ➤ 
+  ### Input ➤ root = [1,2,2,3,3,null,null,4,4]
 
-  ### Explanation ➤ 
+  ### Output  ➤ false
 
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### Input ➤ 
+  ### Input ➤ root = []
 
-  ### Output  ➤ 
-
-  ### Explanation  ➤ 
+  ### Output  ➤ true
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-- ****
-- ****
-- ****
+- **The number of nodes in the tree is in the range [0, 5000].**
+- **-10^4 <= Node.val <= 10^4**
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-1. **Array**
-2. **Queue**
-3. **Sliding**
-4. **Heap**
-5. **Ordered**
-6. **Monotonic**
+1. **Tree**
+2. **Depth-First Search**
+3. **Binary Tree**
 
 
 </br>
@@ -72,9 +67,7 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-|  [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]()  |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%99%BB%EF%B8%8F%20Easy%20110.%20Balanced%20Binary%20Tree%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0/%F0%9F%8D%81JAVA_110_BalancedBinaryTree.java) |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%99%BB%EF%B8%8F%20Easy%20110.%20Balanced%20Binary%20Tree%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0/%F0%9F%8D%B0PYTHON_110_BalancedBinaryTree.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%99%BB%EF%B8%8F%20Easy%20110.%20Balanced%20Binary%20Tree%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0/%E2%98%83%EF%B8%8FJAVASCRIPT_110_BalancedBinaryTree.js) |
+
