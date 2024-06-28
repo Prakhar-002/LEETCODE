@@ -3,9 +3,9 @@
 
 // Todo 📌 QUESTION NUMBER 2285
 
-//? Time complexity -> O(NLogN + E) // N is given E is number of edges
+//? ⌚ Time complexity -> O(NLogN + E) 👉 N is given E is number of edges
 
-//? Space complexity -> O(N) // given 
+//? 🧺 Space complexity -> O(N) 👉 given 
 
 var maximumImportance = function(n, roads) {
       // making array to count nodes of every edge
