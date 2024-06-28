@@ -21,11 +21,15 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![701 que 1 img 1](https://github.com/Prakhar-002/LEETCODE/assets/136890202/37acdfc6-572b-4a76-a88e-a5fc57fbdc40)
+
   ### Input  ➤ root = [4,2,7,1,3], val = 5
 
   ### Output  ➤ [4,2,7,1,3,5]
 
   ### Explanation  ➤ Another accepted tree is:
+
+  ![701 que 1 img 2](https://github.com/Prakhar-002/LEETCODE/assets/136890202/b32c57bb-60d9-4af3-ad2f-d4b1238d23d2)
 
 </br>
 
