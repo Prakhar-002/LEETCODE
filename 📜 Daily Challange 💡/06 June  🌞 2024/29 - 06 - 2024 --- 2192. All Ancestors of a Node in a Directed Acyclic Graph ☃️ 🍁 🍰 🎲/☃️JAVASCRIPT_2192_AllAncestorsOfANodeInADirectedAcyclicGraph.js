@@ -27,7 +27,7 @@ var getAncestors = function (n, edges) {
 
       // edgeList = [[0,3],[0,4],[1,3],[2,4],[2,7],[3,5],[3,6],[3,7],[4,6]]
 
-      for (let edge of edges) {
+      for (let edge of edges) { 
             graph[edge[0]].push(edge[1]);
       }
 
