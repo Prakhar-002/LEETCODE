@@ -35,9 +35,10 @@ June 🌞 2024
 | 26 ┆ JUNE ┆ 2024 | ☢️Medium☢️ | [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/?envType=daily-question&envId=2024-06-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/26%20-%2006%20-%202024%20---%201382.%20Balance%20a%20Binary%20Search%20Tree%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | 27 ┆ JUNE ┆ 2024 | ♻️Easy♻️ | [1791. Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/description/?envType=daily-question&envId=2024-06-27) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/27%20-%2006%20-%202024%20---%201791.%20Find%20Center%20of%20Star%20Graph%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
 | 28 ┆ JUNE ┆ 2024 | ☢️Medium☢️ | [2285. Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/description/?envType=daily-question&envId=2024-06-28) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/28%20-%2006%20-%202024%20---%202285.%20Maximum%20Total%20Importance%20of%20Roads%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| 27 ┆ JUNE ┆ 2024 | ☢️Medium☢️ | [2192. All Ancestors of a Node in a Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/?envType=daily-question&envId=2024-06-29) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/29%20-%2006%20-%202024%20---%202192.%20All%20Ancestors%20of%20a%20Node%20in%20a%20Directed%20Acyclic%20Graph%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
 
 </br>
-
 
 
 </br>
