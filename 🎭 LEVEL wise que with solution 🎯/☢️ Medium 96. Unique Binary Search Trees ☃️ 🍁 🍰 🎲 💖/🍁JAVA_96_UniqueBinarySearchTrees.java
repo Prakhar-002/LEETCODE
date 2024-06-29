@@ -31,7 +31,7 @@ class Solution {
                         //  1 2 4 5 6
                         //          ^ -> nodes
                         //      ^ -> root
-                        //    ^ -> left
+                        //    ^ -> left 
                         // right = total nodes - root 
                         int left = root - 1;
                         int right = nodes - root;
