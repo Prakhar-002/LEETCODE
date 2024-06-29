@@ -19,6 +19,9 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![96 que 1](https://github.com/Prakhar-002/LEETCODE/assets/136890202/084dc8df-70eb-47c6-a817-44b360790080)
+
+
   ### Input  ➤ n = 3
 
   ### Output  ➤ 5
