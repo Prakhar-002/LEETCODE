@@ -48,6 +48,9 @@ class UnionFind:
                   self.parent[firstNodeParent] = secNodeParent
                   self.rank[secNodeParent] += self.rank[firstNodeParent]
 
+            # once we got true mean we can union then we'll dec n by 1
+            self.n -= 1
+
             return 1
 
       # tells us is our graph is connected or not 
@@ -56,29 +59,37 @@ class UnionFind:
 
 class Solution:
       def maxNumEdgesToRemove(self, n: int, edges: List[List[int]]) -> int:
+            # we'll build 2 union find separately
+            # for alice and for bob
             alice, bob = UnionFind(n), UnionFind(n)
             # num of edges we gonna keep
             count = 0 
 
             for edge in edges:
-                  t = edge[0]
+                  type_ = edge[0]
                   src = edge[1]
                   dest = edge[2]
 
-                  if t == 3:
+                  # if type is 3 means they both can travel 
+                  if type_ == 3:
+                        # so we'll add this node for both UF model and inc count by 1
                         count += (alice.union(src, dest) | bob.union(src, dest))
 
             for edge in edges:
-                  t = edge[0]
+                  type_ = edge[0]
                   src = edge[1]
                   dest = edge[2]
 
-                  if t == 1:
+                  # now add individually add for specific type 
+                  if type_ == 1:
                         count += alice.union(src, dest)
-                  elif t == 2:
+                  elif type_ == 2:
                         count += bob.union(src, dest)
 
+            # if both of them could traverse the whole graph 
+            # we'll return total nodes - number of nodes we used to build both UF model 
             if bob.isConnected() and alice.isConnected():
                   return len(edges) - count
 
+            # if either of them not able to traverse the whole graph simply return -1
             return -1
