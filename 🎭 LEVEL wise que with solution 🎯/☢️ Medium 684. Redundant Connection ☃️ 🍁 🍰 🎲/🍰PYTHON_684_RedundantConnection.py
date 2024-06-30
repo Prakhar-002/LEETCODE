@@ -52,7 +52,7 @@ class Solution:
 
                   else:
                         # vice-versa
-                        parent[secNodeParent] = firstNodeParent
+                        parent[firstNodeParent] = secNodeParent
                         rank[secNodeParent] += rank[firstNodeParent]
 
                   return True
