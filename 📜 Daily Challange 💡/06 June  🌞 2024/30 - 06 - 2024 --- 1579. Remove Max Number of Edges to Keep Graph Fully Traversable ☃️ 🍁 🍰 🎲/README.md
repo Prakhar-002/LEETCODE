@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/?envType=daily-question&envId=2024-06-30"><strong>➥ ☢️ 1579 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/?envType=daily-question&envId=2024-06-30"><strong>➥ 🫀 1579 Leetcode Que Hard 🫀 </strong></a>
 </h2>
 
 </br>
@@ -29,6 +29,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![1579 que 1](https://github.com/Prakhar-002/LEETCODE/assets/136890202/0a2bc60f-4795-4dc3-9074-dd3833906bec)
+
   ### Input  ➤ n = 4, edges = [[3,1,2],[3,2,3],[1,1,3],[1,2,4],[1,1,2],[2,3,4]]
 
   ### Output  ➤ 2
@@ -38,6 +40,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+![1579 que 2](https://github.com/Prakhar-002/LEETCODE/assets/136890202/bea3bdb8-13ea-4898-86dd-2f745902251f)
 
   ### Input ➤  n = 4, edges = [[3,1,2],[3,2,3],[1,1,4],[2,1,4]]
 
@@ -49,6 +53,8 @@
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
+
+![1579 que 3](https://github.com/Prakhar-002/LEETCODE/assets/136890202/4cf4791c-4ec2-4548-b061-a0d25d5bf13c)
 
   ### Input ➤ n = 4, edges = [[3,2,3],[1,1,2],[2,3,4]] 
 
