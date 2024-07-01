@@ -5,7 +5,7 @@
 
 //? ⌚ Time complexity -> O(n) 👉 length of array
 
-//? 🧺 Space complexity -> O(1) 
+//? 🧺 Space complexity -> O(1)  
 
 class Solution {
       public boolean threeConsecutiveOdds(int[] arr) {
