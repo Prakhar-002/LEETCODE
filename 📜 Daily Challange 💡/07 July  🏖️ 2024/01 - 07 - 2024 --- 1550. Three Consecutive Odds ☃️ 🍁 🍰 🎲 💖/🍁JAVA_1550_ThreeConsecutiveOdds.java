@@ -7,7 +7,7 @@
 
 //? 🧺 Space complexity -> O(1)  
 
-class Solution {
+class Solution { 
       public boolean threeConsecutiveOdds(int[] arr) {
             if (arr.length < 3) {
                   return false;
