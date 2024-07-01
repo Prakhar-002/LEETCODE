@@ -17,36 +17,36 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### Input  ➤  arr = [2,6,4,1]
+  ### 📥 Input  ➤  arr = [2,6,4,1]
 
-  ### Output  ➤ false
+  ### 📤 Output  ➤ false
 
-  ### Explanation  ➤ There are no three consecutive odds.
+  ### 🔦 Explanation  ➤ There are no three consecutive odds.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### Input ➤  arr = [1,2,34,3,4,5,7,23,12]
+  ### 📥 Input ➤  arr = [1,2,34,3,4,5,7,23,12]
 
-  ### Output  ➤ true
+  ### 📤 Output  ➤ true
 
-  ### Explanation ➤ [5,7,23] are three consecutive odds.
+  ### 🔦 Explanation ➤ [5,7,23] are three consecutive odds.
 
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-- **1 <= arr.length <= 1000**
-- **1 <= arr[i] <= 1000**
+🔹 **1 <= arr.length <= 1000**  </br>
+🔹 **1 <= arr[i] <= 1000** </br>
 
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-1. **Array**
+🔸 **Array** </br>
 
 
 </br>
