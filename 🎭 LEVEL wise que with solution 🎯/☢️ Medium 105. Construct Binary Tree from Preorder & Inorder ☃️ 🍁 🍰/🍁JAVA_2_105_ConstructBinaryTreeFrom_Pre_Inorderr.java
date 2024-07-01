@@ -10,7 +10,7 @@ class Solution {
             }
       
             TreeNode(int val) {
-                  this.val = val;
+                  this.val = val; 
             }
       
             TreeNode(int val, TreeNode left, TreeNode right) {

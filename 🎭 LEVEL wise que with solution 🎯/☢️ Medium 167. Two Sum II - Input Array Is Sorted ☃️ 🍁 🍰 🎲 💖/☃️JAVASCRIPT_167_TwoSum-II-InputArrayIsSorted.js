@@ -5,7 +5,7 @@ var twoSum = function(numbers, target) {
       let second = numbers.length - 1
 
       // While first <= second
-      while (first <= second) {
+      while (first <= second) { 
             // Calculating sum
             let sum = numbers[first] + numbers[second];
             // If it is equal to target break

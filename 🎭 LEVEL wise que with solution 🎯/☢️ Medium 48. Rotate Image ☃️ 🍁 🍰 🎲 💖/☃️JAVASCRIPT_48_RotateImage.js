@@ -6,7 +6,7 @@ var rotate = function(matrix) {
       for (let i = 0, j = n - 1; i < j; i++, j--) {
             let temp = matrix[i];
             matrix[i] = matrix[j];
-            matrix[j] = temp;
+            matrix[j] = temp; 
       }
 
       // Taking transpose of matrix

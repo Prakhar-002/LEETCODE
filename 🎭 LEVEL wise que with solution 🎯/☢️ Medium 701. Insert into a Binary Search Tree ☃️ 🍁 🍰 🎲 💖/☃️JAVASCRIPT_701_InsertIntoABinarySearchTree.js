@@ -5,7 +5,7 @@
 
 //? ⌚ Time complexity -> O(n) 👉 given
 
-//? 🧺 Space complexity -> O(1) 
+//? 🧺 Space complexity -> O(1)  
 
 var insertIntoBST = function(root, val) {
       if (!root) {

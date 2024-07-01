@@ -5,7 +5,7 @@ var pow = function (x, n) {
             return 1;
       }
 
-      if (x == 0) {
+      if (x == 0) { 
             return 0;
       } 
 

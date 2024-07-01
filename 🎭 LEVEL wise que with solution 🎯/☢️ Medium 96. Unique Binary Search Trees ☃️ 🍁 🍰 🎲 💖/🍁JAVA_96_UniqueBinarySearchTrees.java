@@ -12,7 +12,7 @@ class Solution {
       public int numTrees(int n) {
             //* numTree [4] = numTree[0] * numTree[3] + 
             //*               numTree[1] * numTree[2] +
-            //*               numTree[2] * numTree[1] + 
+            //*               numTree[2] * numTree[1] +  
             //*               numTree[3] * numTree[0]
 
 

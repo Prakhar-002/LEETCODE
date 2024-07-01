@@ -7,7 +7,7 @@ var buildTree = function (inOrder, postOrder) {
       }
 
       // Making the last of postOrder to our main root
-      const root = new TreeNode(postOrder.pop());
+      const root = new TreeNode(postOrder.pop()); 
 
       // Finding position of root.val in our inOrder array
       const idx = inOrder.indexOf(root.val);

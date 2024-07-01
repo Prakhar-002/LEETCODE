@@ -2,7 +2,7 @@
 
 // ? Time complexity -> O(n)
 
-// ? Space complexity -> O(1)
+// ? Space complexity -> O(1) 
 
 var convertBST = function(root) {
       // Initiate curSum that store sum of all nodes

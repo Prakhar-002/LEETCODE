@@ -4,7 +4,7 @@ var subarraySum = function(nums, k) {
       let curSum = 0
       let res = 0
 
-      const prefixMap = new Map();
+      const prefixMap = new Map(); 
 
       prefixMap.set(0, 1);
 

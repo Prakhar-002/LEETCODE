@@ -5,7 +5,7 @@ var rob = function(nums) {
       let secHouseRob = 0;
 
       //? [firstSum, secSum, n, n + 1 ...]
-      for (let n of nums) {
+      for (let n of nums) { 
             // in temp variable we'll check for max after taking n with our self
             let temp = Math.max(firstHouseRob + n, secHouseRob);
             // update both variable
