@@ -6,7 +6,7 @@ var maxSlidingWindow = function(nums, k) {
       let maxWindow = []
 
       // A decDue that stores the index of nums
-      let decDeq = []
+      let decDeq = [] 
 
       // Traverse the whole list
       for (let right = 0; right < nums.length; right++) {

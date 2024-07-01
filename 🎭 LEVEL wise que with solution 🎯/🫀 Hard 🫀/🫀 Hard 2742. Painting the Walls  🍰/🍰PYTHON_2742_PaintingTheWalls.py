@@ -4,7 +4,7 @@ class Solution:
       def paintWalls(self, cost: List[int], time: List[int]) -> int:
             n = len(cost)
 
-            @cache 
+            @cache  
 
             def dfs(i, walls): 
                   # ? If remaining walls 0
