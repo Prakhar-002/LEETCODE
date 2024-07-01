@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Solution {
+class Solution { 
       public int[] maxSlidingWindow(int[] nums, int k) {
             int left = 0;
             // making a array of size = length - k(given) + 1 cause

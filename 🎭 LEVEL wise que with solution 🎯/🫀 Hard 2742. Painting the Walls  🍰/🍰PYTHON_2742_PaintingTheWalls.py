@@ -6,7 +6,7 @@ class Solution:
 
             @cache 
 
-            def dfs(i, walls):
+            def dfs(i, walls): 
                   # ? If remaining walls 0
                   if walls <= 0:
                         return 0

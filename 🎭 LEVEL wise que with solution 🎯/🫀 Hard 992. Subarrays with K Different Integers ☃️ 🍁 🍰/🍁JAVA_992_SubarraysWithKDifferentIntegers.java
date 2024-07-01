@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-class Solution {
+class Solution { 
       public int subarraysWithKDistinct(int[] nums, int k) {
             // Three pointer sliding window approach
             int left = 0, middle = 0, subArray = 0;
