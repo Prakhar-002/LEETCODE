@@ -10,7 +10,7 @@ var rob = function(nums) {
             let temp = Math.max(firstHouseRob + n, secHouseRob);
             // update both variable
             firstHouseRob = secHouseRob;
-            secHouseRob = temp;
+            secHouseRob = temp; 
       }
 
       return Math.max(firstHouseRob, secHouseRob);

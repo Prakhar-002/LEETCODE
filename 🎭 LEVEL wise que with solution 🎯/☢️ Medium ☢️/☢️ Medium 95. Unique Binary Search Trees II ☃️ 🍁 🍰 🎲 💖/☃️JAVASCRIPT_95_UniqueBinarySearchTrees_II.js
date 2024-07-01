@@ -6,7 +6,7 @@
 var generate = function(left, right){
       // base case for storing null
       if (left > right) {
-            return [null];
+            return [null]; 
       }
 
       let res = [];

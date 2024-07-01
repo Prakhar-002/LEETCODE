@@ -6,7 +6,7 @@ var subarraySum = function(nums, k) {
 
       const prefixMap = new Map(); 
 
-      prefixMap.set(0, 1);
+      prefixMap.set(0, 1); 
 
       for (const n of nums) {
             curSum += n; 

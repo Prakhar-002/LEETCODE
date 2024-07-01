@@ -10,7 +10,7 @@ var twoSum = function(numbers, target) {
             let sum = numbers[first] + numbers[second];
             // If it is equal to target break
             if (sum == target) {
-                  break;
+                  break; 
             // If sum is greater than target shift second pointer to left
             } else if (sum > target) {
                   second--;

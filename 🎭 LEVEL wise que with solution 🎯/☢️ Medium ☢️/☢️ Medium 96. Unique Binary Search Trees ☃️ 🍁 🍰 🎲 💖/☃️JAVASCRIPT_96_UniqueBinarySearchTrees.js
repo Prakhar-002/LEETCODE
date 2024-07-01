@@ -7,7 +7,7 @@
 
 //? 🧺 Space complexity -> O(n) 👉 for array on length n + 1
 
-var numTrees = function(n) {
+var numTrees = function(n) { 
       //* numTree [4] = numTree[0] * numTree[3] + 
       //*               numTree[1] * numTree[2] +
       //*               numTree[2] * numTree[1] + 

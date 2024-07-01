@@ -6,7 +6,7 @@
 
 var convertBST = function(root) {
       // Initiate curSum that store sum of all nodes
-      let curSum = 0;
+      let curSum = 0; 
 
       const dfs = function(root){
             // if we get null well return from there

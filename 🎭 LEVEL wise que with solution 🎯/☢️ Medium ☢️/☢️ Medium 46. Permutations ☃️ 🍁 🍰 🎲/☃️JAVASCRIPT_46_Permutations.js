@@ -7,7 +7,7 @@
 
 //? 🧺 Space complexity -> O(n! * n) 👉 length of nums array
 
-var permute = function(nums) {
+var permute = function(nums) { 
       if (nums.length == 0) {
             return [[]]
       }

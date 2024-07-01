@@ -11,7 +11,7 @@
 
 
 // finding the parent of our node
-var find = function (n, parent) {
+var find = function (n, parent) { 
       // find it in our parent array
       let p = parent[n];
 

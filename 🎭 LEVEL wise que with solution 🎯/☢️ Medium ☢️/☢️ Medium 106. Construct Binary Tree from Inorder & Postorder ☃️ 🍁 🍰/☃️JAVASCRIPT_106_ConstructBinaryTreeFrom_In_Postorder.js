@@ -3,7 +3,7 @@
 var buildTree = function (inOrder, postOrder) {
       // If we got out inOrder empty then we'll return false 
       if (!inOrder.length) {
-            return null;
+            return null; 
       }
 
       // Making the last of postOrder to our main root

@@ -7,7 +7,7 @@ var buildTree = function (preorder, inorder) {
             return null; 
       }
 
-      // Making root first
+      // Making root first 
       // because preOrder[0] will be the root of our tree always
       const root = new TreeNode(preorder[0]);
       // find the root value in inOrder array cause 

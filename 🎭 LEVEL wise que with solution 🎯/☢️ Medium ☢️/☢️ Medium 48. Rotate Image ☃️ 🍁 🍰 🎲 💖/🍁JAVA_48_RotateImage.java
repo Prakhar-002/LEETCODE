@@ -3,7 +3,7 @@
 class Solution {
       public void rotate(int[][] matrix) {
             // reverse the matrix first
-            int n = matrix.length;
+            int n = matrix.length; 
 
             for(int i = 0, j = n - 1; i <= j; i++, j-- ){
                   int temp[] = matrix[i];

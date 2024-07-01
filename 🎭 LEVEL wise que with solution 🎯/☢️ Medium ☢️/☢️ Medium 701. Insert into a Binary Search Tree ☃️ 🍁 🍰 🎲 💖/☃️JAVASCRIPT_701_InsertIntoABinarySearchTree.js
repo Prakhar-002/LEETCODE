@@ -10,7 +10,7 @@
 var insertIntoBST = function(root, val) {
       if (!root) {
             root = new TreeNode(val);
-            return root;
+            return root; 
       }
 
       if (root.val > val) {

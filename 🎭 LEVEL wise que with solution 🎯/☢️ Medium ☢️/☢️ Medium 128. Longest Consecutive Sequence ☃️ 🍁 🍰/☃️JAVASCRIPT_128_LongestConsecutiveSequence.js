@@ -8,7 +8,7 @@
 //? 🧺 Space complexity -> O(n) 👉 using a set of length n
 
 var longestConsecutive = function (nums) {
-      const numsSet = new Set(nums);
+      const numsSet = new Set(nums); 
 
       let longestConsecutive = 0;
 
