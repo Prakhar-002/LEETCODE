@@ -5,7 +5,7 @@
 <h2 align="center"> 
 
 <a href="https://leetcode.com/problems/painting-the-walls/description/"><strong>➥ 🫀 2742 Leetcode Que Hard 🫀 </strong></a>
-</h2>
+</h2> 
 
 </br>
 

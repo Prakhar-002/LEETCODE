@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/unique-binary-search-trees/description/"><strong>➥ ☢️ 96 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/unique-binary-search-trees/description/"><strong>➥ ☢️ 96 Leetcode Que Medium ☢️ </strong></a> 
 </h2>
 
 </br>

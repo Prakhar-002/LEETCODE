@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/strictly-palindromic-number/description/"><strong>➥ ☢️ 2396 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/strictly-palindromic-number/description/"><strong>➥ ☢️ 2396 Leetcode Que Medium ☢️ </strong></a> 
 </h2>
 
 </br>

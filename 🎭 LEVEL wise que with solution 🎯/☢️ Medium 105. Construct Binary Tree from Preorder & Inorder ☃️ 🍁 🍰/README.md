@@ -5,7 +5,7 @@
 <h2 align="center"> 
 
 <a href="https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/"><strong>➥ ☢️ 105 Leetcode Que Medium ☢️ </strong></a>
-</h2>
+</h2> 
 
 </br>
 

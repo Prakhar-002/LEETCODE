@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align="center"> 
+<h2 align="center">  
 
 <a href="https://leetcode.com/problems/unique-binary-search-trees-ii/description/"><strong>➥ ☢️ 95 Leetcode Que Medium ☢️ </strong></a>
 </h2>

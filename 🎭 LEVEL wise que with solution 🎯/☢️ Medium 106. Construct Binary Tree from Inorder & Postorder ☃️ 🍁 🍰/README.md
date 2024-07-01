@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align="center"> 
+<h2 align="center">  
 
 <a href="https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/"><strong>➥ ☢️ 106 Leetcode Que Medium ☢️ </strong></a>
 </h2>

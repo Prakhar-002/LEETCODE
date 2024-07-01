@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align="center"> 
+<h2 align="center">  
 
 <a href="https://leetcode.com/problems/sliding-window-maximum/description/"><strong>➥ 🫀 239 Leetcode Que Hard 🫀 </strong></a>
 </h2>

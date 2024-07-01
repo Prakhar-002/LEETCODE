@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/binary-tree-level-order-traversal/description/"><strong>➥ ☢️ 102 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/binary-tree-level-order-traversal/description/"><strong>➥ ☢️ 102 Leetcode Que Medium ☢️ </strong></a> 
 </h2>
 
 </br>

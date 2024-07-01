@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/redundant-connection/description/"><strong>➥ ☢️ 684 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/redundant-connection/description/"><strong>➥ ☢️ 684 Leetcode Que Medium ☢️ </strong></a> 
 </h2>
 
 </br>

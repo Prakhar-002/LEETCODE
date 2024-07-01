@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/subarrays-with-k-different-integers/description/"><strong>➥ 🫀 992 Leetcode Que Hard 🫀 </strong></a>
+<a href="https://leetcode.com/problems/subarrays-with-k-different-integers/description/"><strong>➥ 🫀 992 Leetcode Que Hard 🫀 </strong></a> 
 </h2>
 
 </br>
