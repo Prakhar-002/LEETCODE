@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2024-07-01"><strong>➥ ♻️ 1438 Leetcode Que Easy ♻️ </strong></a>
+<a href="https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2024-07-01"><strong>➥ ♻️ 1550 Leetcode Que Easy ♻️ </strong></a>
 </h2>
 
 </br>
