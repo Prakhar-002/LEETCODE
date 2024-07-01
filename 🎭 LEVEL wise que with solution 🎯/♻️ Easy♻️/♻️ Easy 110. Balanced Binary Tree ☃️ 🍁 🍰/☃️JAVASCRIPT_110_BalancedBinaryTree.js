@@ -13,7 +13,7 @@ var isBalanced = function(root) {
             // if null return tree for balance and height of tree till that
             if (!root) {
                   return [true, 0];
-            }
+            } 
 
             var left = checkBalance(root.left);
             var right = checkBalance(root.right);
