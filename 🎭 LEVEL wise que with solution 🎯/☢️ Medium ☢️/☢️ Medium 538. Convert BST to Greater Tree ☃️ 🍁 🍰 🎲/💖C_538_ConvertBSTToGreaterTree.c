@@ -9,7 +9,7 @@ int curSum = 0;
 void dfs(struct TreeNode* root) {
       // if we get null well return from there
       if (!root) {
-            return;
+            return; 
       }
 
       //? Step 1 right most
