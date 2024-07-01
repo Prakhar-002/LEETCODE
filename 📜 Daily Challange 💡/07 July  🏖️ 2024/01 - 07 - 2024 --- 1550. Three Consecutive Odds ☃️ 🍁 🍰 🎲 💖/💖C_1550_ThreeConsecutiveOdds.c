@@ -25,7 +25,7 @@ bool threeConsecutiveOdds(int* arr, int arrSize) {
             } 
             // if we hit one even odd count will 0
             else {
-                  odds = 0;
+                  odds = 0; 
             }
       }
 
