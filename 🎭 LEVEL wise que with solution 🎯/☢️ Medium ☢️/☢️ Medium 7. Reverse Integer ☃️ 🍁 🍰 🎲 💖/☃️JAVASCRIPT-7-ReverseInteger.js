@@ -11,7 +11,7 @@ var reverse = function (x) {
       let rev = 0n;
       let temp = BigInt(num);
 
-      while (temp > 0n) {
+      while (temp > 0n) { 
             const pop = temp % 10n;
             temp = temp / 10n;
             rev = (rev * 10n) + pop;
