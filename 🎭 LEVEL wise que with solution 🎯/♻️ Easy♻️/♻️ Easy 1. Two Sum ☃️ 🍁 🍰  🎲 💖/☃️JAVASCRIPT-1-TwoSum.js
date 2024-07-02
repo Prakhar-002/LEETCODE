@@ -16,3 +16,24 @@ var twoSum = function (nums, target) {
       }
       return nums;
 };
+
+
+// ---------------------------------------------
+
+//? ⌚ Time complexity -> O(n) 👉 array length
+
+//? 🧺 Space complexity -> O(n) 👉 map length
+
+var twoSum = function (nums, target) {
+      const mp = {}
+
+      for (let i = 0; i < nums.length; i++) {
+            const diff = target - nums[i]
+
+            if (diff in mp){
+                  return [i, mp[diff]]
+            } 
+
+            mp[nums[i]] = i
+      }
+}

@@ -7,6 +7,7 @@
 //? 🧺 Space complexity -> O(1) 
 
 #include<vector>
+#include<unordered_map>
 using namespace std;
 
 class Solution {
@@ -20,5 +21,30 @@ public:
                   }
             }
             return nums;
+      }
+};
+
+// ---------------------------------------------
+
+//? ⌚ Time complexity -> O(n) 👉 array length
+
+//? 🧺 Space complexity -> O(n) 👉 map length
+
+class Solution {
+      public:
+            vector<int> twoSum(vector<int>& nums, int target) {
+            unordered_map<int, int> mp;
+
+            for (int i = 0; i < nums.size(); i++) {
+                  int diff = target - nums[i];
+
+                  if (mp.find(diff) != mp.end()) {
+                        return {i, mp[diff]};
+                  }
+
+                  mp[nums[i]] = i;
+            }
+
+            return {}; // Return empty vector if no solution found
       }
 };
