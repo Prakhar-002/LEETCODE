@@ -11,7 +11,7 @@ import java.util.*;
 
 class Solution {
       public int[] intersection(int[] nums1, int[] nums2) {
-            ArrayList<Integer> res = new ArrayList<>();
+            ArrayList<Integer> res = new ArrayList<>(); 
             // making hash set of first array
             Set<Integer> firstSet = new HashSet<>();
 
