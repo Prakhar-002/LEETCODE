@@ -1,69 +1,59 @@
-# 
+# 7. Reverse Integer
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 1438 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/reverse-integer/"><strong>➥ ☢️ 7 Leetcode Que Medium ☢️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### Given a signed 32-bit integer `x`, return *`x` with its digits reversed*. If reversing `x` causes the value to go outside the signed 32-bit integer range `[-231, 231 - 1]`, then return `0`.
 
+### `Assume the environment does not allow you to store 64-bit integers (signed or unsigned)`.
 
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### 📥 Input  ➤ 
+  ### 📥 Input  ➤ x = 123
 
-  ### 📤 Output  ➤ 2
+  ### 📤 Output  ➤ 321
 
-  ### 🔦 Explanation  ➤ 
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 Input ➤ 
+  ### 📥 Input ➤  x = -123
 
-  ### 📤 Output  ➤ 
-
-  ### 🔦 Explanation ➤ 
+  ### 📤 Output  ➤ -321
 
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 Input ➤ 
+  ### 📥 Input ➤ x = 120
 
-  ### 📤 Output  ➤ 
-
-  ### 🔦 Explanation  ➤ 
+  ### 📤 Output  ➤  21
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
-🔹 **** </br>
-🔹 **** </br>
+🔹 **-2^31 <= x <= 2^31 - 1** </br>
+
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 **Queue**  </br>
-🔸 **Sliding**  </br>
-🔸 **Heap**  </br>
-🔸 **Ordered**  </br>
-🔸 **Monotonic**  </br>
+🔸 **Math**  </br>
 
 
 </br>
