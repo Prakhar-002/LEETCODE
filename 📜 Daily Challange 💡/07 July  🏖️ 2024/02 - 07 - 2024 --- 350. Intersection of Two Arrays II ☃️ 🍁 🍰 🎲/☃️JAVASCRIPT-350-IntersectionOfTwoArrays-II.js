@@ -11,7 +11,7 @@ var intersect = function (nums1, nums2) {
       // creating map of first array for num : freq
       // make a map of num : freq
       const mp = new Map();
-      for (const n of nums1) {
+      for (const n of nums1) { 
             mp.set(n, (mp.get(n) || 0) + 1);
       }
 
