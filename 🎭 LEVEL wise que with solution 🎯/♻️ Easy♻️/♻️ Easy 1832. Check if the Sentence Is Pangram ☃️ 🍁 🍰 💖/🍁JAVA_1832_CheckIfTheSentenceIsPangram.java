@@ -4,7 +4,7 @@ class Solution {
                   return false;
             }
             
-            char ch = 'a';
+            char ch = 'a'; 
 
             while (ch < 'z' + 1) {
                   if (!sentence.contains(String.valueOf(ch))) {

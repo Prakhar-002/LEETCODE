@@ -8,7 +8,7 @@ class Solution {
                   for (String str : strs) {
                         if (i == str.length() || str.charAt(i) != strs[0].charAt(i)) {
                               return strs[0].substring(0, i);
-                        }
+                        } 
                   } 
             }
 

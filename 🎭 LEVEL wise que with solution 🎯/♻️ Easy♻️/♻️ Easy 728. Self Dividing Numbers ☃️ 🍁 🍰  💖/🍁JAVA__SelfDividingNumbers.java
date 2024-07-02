@@ -9,7 +9,7 @@ class Solution {
                   if (rem == 0 || num % rem != 0) {
                         return false;
                   }
-                  n /= 10; 
+                  n /= 10;  
             }
 
             return true;

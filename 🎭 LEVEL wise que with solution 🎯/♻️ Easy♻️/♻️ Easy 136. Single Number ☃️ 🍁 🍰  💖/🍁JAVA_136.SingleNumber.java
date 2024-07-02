@@ -5,6 +5,6 @@ class Solution {
             for (int i = 1; i < nums.length; i++) {
                   xorNum ^= nums[i];
             }
-            return xorNum; 
+            return xorNum;  
       }
 }
