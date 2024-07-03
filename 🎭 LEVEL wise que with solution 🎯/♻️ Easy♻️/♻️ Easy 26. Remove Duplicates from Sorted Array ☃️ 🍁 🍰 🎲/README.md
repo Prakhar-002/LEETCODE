@@ -19,7 +19,7 @@
 
 - Return `k`.
 
-## Custom Judge:
+## Custom Judge ⚙️ ˋ°•*⁀➷
 
     // Input array
     int[] nums = [...];
