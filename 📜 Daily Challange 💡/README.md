@@ -6,7 +6,7 @@ JULY  🏖️ 2024
 </h1>
 
 
-| 🗓️DATE🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | SOLUTION🎯 | 🍄 LANGUAGE 🍄|
+| DATE🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | SOLUTION🎯 | 🍄 LANGUAGE 🍄|
 |-------------|-------------|------------------|-----------------|----------------|
 | 01 ┆ JULY ┆ 2024 | ♻️Easy♻️ | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2024-07-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/01%20-%2007%20-%202024%20---%201550.%20Three%20Consecutive%20Odds%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
 | 02 ┆ JULY ┆ 2024 | ♻️Easy♻️ | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=daily-question&envId=2024-07-02) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/02%20-%2007%20-%202024%20---%20350.%20Intersection%20of%20Two%20Arrays%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
