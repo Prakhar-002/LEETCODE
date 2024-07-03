@@ -9,7 +9,7 @@
 
 //* This is not without divide or mod solution 
 
-class Solution {
+class Solution { 
       public int divide(int dividend, int divisor) {
             int ans = dividend / divisor;
             if (dividend == Integer.MIN_VALUE && divisor == -1) {
