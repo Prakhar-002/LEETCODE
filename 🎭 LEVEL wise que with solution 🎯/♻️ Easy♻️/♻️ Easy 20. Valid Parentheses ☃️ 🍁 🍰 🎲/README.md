@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/valid-parentheses/description/"><strong>➥ ♻️ 1438 Leetcode Que Easy ♻️ </strong></a>
+<a href="https://leetcode.com/problems/valid-parentheses/description/"><strong>➥ ♻️ 20 Leetcode Que Easy ♻️ </strong></a>
 </h2>
 
 </br>
