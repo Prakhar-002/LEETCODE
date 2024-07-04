@@ -15,7 +15,7 @@
 
 ### For `every` two consecutive `0`'s, `merge` all the nodes lying in between them into a single node whose value is the `sum` of all the merged nodes. The modified list should not contain any `0`'s.
 
-### Return `the `head` of the modified linked list`.
+### Return *the `head` of the modified linked list*.
 
 
 
