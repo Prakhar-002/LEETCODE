@@ -1,17 +1,19 @@
-# 
+# 35. Search Insert Position
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 1438 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/search-insert-position/description/"><strong>➥ ♻️ 35 Leetcode Que Easy ♻️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.
+
+### You must write an algorithm with `O(log n)` runtime complexity.
 
 
 
@@ -19,51 +21,42 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### 📥 Input  ➤ 
+  ### 📥 Input  ➤ nums = [1,3,5,6], target = 5
 
   ### 📤 Output  ➤ 2
-
-  ### 🔦 Explanation  ➤ 
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 Input ➤ 
+  ### 📥 Input ➤ nums = [1,3,5,6], target = 2
 
-  ### 📤 Output  ➤ 
-
-  ### 🔦 Explanation ➤ 
+  ### 📤 Output  ➤ 1
 
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 Input ➤ 
+  ### 📥 Input ➤ nums = [1,3,5,6], target = 7
 
-  ### 📤 Output  ➤ 
-
-  ### 🔦 Explanation  ➤ 
+  ### 📤 Output  ➤ 4
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
-🔹 **** </br>
-🔹 **** </br>
+🔹 **1 <= nums.length <= 10<sup>4</sup>** </br>
+🔹 **-10<sup>4</sup> <= nums[i] <= 10<sup>4</sup>** </br>
+🔹 **`nums` contains `distinct` values sorted in `ascending order`.** </br>
+🔹 **-10<sup>4</sup> <= target <= 10<sup>4</sup>** </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
 🔸 **Array**  </br>
-🔸 **Queue**  </br>
-🔸 **Sliding**  </br>
-🔸 **Heap**  </br>
-🔸 **Ordered**  </br>
-🔸 **Monotonic**  </br>
+🔸 **Binary Search**  </br>
 
 
 </br>
