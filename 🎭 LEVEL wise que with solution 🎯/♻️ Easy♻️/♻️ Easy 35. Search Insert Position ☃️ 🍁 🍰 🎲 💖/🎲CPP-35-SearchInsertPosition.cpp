@@ -9,7 +9,7 @@
 #include <vector>
 using namespace std;
 
-class Solution{
+class Solution{ 
 public:
       int searchInsert(vector<int> &nums, int target){
             int low = 0;
