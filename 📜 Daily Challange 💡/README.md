@@ -76,7 +76,7 @@ May 🌈 2024
 </h1>
 
 
-| 🗓️ DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | SOLUTION🎯 | 🍄 LANGUAGE 🍄|
+| 🗓️DATE🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | SOLUTION🎯 | 🍄 LANGUAGE 🍄|
 |-------------|-------------|------------------|-----------------|----------------|
 | 01 ┆ MAY ┆ 2024 |♻️ Easy ♻️ | [2000 Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/?envType=daily-question&envId=2024-05-01) |  [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/05%20May%20%F0%9F%8C%88%202024/01%20-%2005%20-%202004%20---%202000.%20Reverse%20Prefix%20of%20Word%20%F0%9F%8D%81) |🔹JAVA 🍁|
 | 02 ┆ MAY ┆ 2024 | ♻️ Easy ♻️ | [2441 Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/?envType=daily-question&envId=2024-05-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/05%20May%20%F0%9F%8C%88%202024/02%20-%2005%20-%202024%20---%202441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative%20%F0%9F%8D%81) |🔹JAVA 🍁|
