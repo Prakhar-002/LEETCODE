@@ -27,6 +27,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![2058 que 1](https://github.com/Prakhar-002/LEETCODE/assets/136890202/af2aae7c-fbfc-4680-90c9-2660c710c449)
+
   ### 📥 Input  ➤ head = [3, 1]
 
   ### 📤 Output  ➤ [-1, -1]
@@ -36,6 +38,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+![2058 que 2](https://github.com/Prakhar-002/LEETCODE/assets/136890202/e571e58d-af16-4472-bd74-67c3be0742cc)
 
   ### 📥 Input ➤ head = [5,3,1,2,5,1,2]
 
@@ -47,6 +51,8 @@
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
+
+![2058 que 3](https://github.com/Prakhar-002/LEETCODE/assets/136890202/02eaed07-89c8-4602-8ca4-739a197f956d)
 
   ### 📥 Input ➤ head = [1,3,2,2,3,2,2,2,7]
 
