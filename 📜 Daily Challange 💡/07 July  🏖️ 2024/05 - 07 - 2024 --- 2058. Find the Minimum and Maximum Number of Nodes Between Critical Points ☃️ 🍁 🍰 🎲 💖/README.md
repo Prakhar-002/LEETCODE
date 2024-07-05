@@ -71,14 +71,14 @@
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Linked List**  </br>
+🔸 **Linked List**  </br> 
 
 
 </br>
 
 # Solution ✏️ ˋ°•*⁀➷
 
-| 📒 Language 📒  | 🪶 Solution 🪶 |
+| 📒 Language 📒  | 🪶 Solution 🪶 | 
 | ------------- | ------------- |
 |  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/05%20-%2007%20-%202024%20---%202058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96/%F0%9F%8D%81JAVA-2058-FindTheMinAndMaxNoOfNodesBtwCriticalPoints.java) |
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/05%20-%2007%20-%202024%20---%202058.%20Find%20the%20Minimum%20and%20Maximum%20Number%20of%20Nodes%20Between%20Critical%20Points%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96/%F0%9F%8E%B2CPP-2058-FindTheMinAndMaxNoOfNodesBtwCriticalPoints.cpp)  |
