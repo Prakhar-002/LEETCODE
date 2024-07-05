@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity -> O(1) 
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(n) -> Total nodes
-
-#  Space complexity -> O(1) 
-
 class Solution:
       def isCritical(self, prev, cur, nxt):
             return (
@@ -19,7 +13,7 @@ class Solution:
                               or
                   prev.val < cur.val > nxt.val
             )
-      
+
       def nodesBetweenCriticalPoints(self, head: Optional[ListNode]) -> List[int]:
             # we'll use 3 pointer 
             # [1,  2,  3, ...n]
