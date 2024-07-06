@@ -1,17 +1,23 @@
-# 
+# 2582. Pass the Pillow
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 1438 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/pass-the-pillow/description/?envType=daily-question&envId=2024-07-06"><strong>➥ ♻️ 2582 Leetcode Que Easy ♻️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### There are n people standing in a line labeled from 1 to n. The first person in the line is holding a pillow initially. Every second, the person holding the pillow passes it to the next person standing in the line. Once the pillow reaches the end of the line, the direction changes, and people continue passing the pillow in the opposite direction.
+
+- For example, once the pillow reaches the `n<sup>th</sup>` person they pass it to the `n - 1<sup>th</sup>` person, then to the `n - 2<sup>th</sup>` person and so on.
+
+### Given the two positive integers `n` and `time`, return *the index of the person holding the pillow after `time` seconds*.
+
+ 
 
 
 
