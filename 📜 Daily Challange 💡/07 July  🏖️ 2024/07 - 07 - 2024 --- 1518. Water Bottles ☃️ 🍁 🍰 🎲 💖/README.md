@@ -17,8 +17,6 @@
 
 ### Given the two integers `numBottles` and `numExchange`, return the `maximum` number of water bottles you can drink.
 
-
-
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
@@ -43,7 +41,6 @@
 
   ### 🔦 Explanation  ➤ You can exchange 4 empty bottles to get 1 full water bottle. </br> Number of water bottles you can drink: 15 + 3 + 1 = 19.
 
-
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
@@ -57,7 +54,6 @@
 
 🔸 **Math**  </br>
 🔸 **Simulation**  </br>
-
 
 </br>
 
