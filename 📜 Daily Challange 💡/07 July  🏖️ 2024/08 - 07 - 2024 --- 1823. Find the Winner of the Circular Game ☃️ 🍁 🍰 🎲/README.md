@@ -33,7 +33,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-![1823 que 1](https://github.com/Prakhar-002/LEETCODE/assets/136890202/51b1c0cf-077b-4c61-b978-1bab6493794e)
+![1823 que 1](https://github.com/Prakhar-002/LEETCODE/assets/136890202/ca7a4b93-b9bf-4c96-a653-69803f4ce2d8)
 
   ### 📥 Input  ➤ n = 5, k = 2
 
