@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity -> O(n) 👉 Total customers 
 
-#? 🧺 Space complexity -> O(1) 
+#? 🧺 Space complexity -> O(1)  
 
 class Solution:
       def averageWaitingTime(self, customers: List[List[int]]) -> float:
