@@ -19,7 +19,7 @@
 
 ### When a customer arrives, he gives the chef his order, and the chef starts preparing it once he is idle. The customer waits till the chef finishes preparing his order. The chef does not prepare food for more than one customer at a time. The chef prepares food for customers `in the order they were given in the input`.
 
-### Return *the `average` waiting time of all customers. Solutions within `10-5` from the actual answer are considered accepted*.
+### Return *the `average` waiting time of all customers. Solutions within `10`<sup>-5</sup> from the actual answer are considered accepted*.
 
 </br>
 
