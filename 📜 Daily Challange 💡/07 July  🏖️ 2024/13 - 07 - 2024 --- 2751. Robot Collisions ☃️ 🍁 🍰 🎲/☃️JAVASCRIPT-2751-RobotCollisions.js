@@ -2,9 +2,9 @@
 
 // Todo 📌 QUESTION NUMBER 2751
 
-//? ⌚ Time complexity -> O(n) 👉 SORTING 
+//? ⌚ Time complexity -> O(NLogN) 👉 SORTING 
 
-//? 🧺 Space complexity -> O(n) using HashMap and Stack
+//? 🧺 Space complexity -> O(n) 👉 using HashMap and Stack
 
 var survivedRobotsHealths = function (positions, healths, directions) {
       // making a map for position to index value

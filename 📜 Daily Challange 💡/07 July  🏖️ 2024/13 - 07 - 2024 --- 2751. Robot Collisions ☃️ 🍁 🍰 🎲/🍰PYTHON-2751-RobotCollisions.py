@@ -2,9 +2,9 @@
 
 # Todo 📌 QUESTION NUMBER 2751
 
-#? ⌚ Time complexity -> O(n) 👉 SORTING 
+#? ⌚ Time complexity -> O(NLogN) 👉 SORTING 
 
-#? 🧺 Space complexity -> O(n) using HashMap and Stack
+#? 🧺 Space complexity -> O(n) 👉 using HashMap and Stack
 
 class Solution:
       def survivedRobotsHealths(self, positions: List[int], healths: List[int], directions: str) -> List[int]:
