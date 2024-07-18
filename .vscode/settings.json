@@ -1,0 +1,8 @@
+{
+      "files.associations": {
+            "*.ejs": "html",
+            "xutility": "cpp",
+            "xiosbase": "cpp"
+      },
+      "C_Cpp.errorSquiggles": "enabled"
+}
