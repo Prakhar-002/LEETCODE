@@ -6,12 +6,6 @@
 
 //? 🧺 Space complexity -> O(K ^ 2) 👉 Making output Matrix
 
-// https://github.com/Prakhar-002/LEETCODE
-
-// ⌚ Time complexity ->  O(K ^ 2) -> Given 
-
-//  Space complexity -> O(K ^ 2) -> Making output Matrix
-
 var buildMatrix = function (k, rowConditions, colConditions) {
       // for detecting the cycle and finding the order
       function dfs(src, adjacency, visit, path, order) {

@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity -> O(K ^ 2) 👉 Making output Matrix
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity ->  O(K ^ 2) -> Given 
-
-#  Space complexity -> O(K ^ 2) -> Making output Matrix
-
 from collections import defaultdict
 
 class Solution:
