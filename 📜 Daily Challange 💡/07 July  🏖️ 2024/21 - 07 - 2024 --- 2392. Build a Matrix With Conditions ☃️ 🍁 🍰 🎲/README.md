@@ -70,10 +70,15 @@
 # Constraints 🔒 ˋ°•*⁀➷
 
 🔹 **`2 <= k <= 400`** </br>
+
 🔹 **1 <= rowConditions.length, colConditions.length <= 10<sup>4</sup>** </br>
+
 🔹 **rowConditions[i].length == colConditions[i].length == 2** </br>
+
 🔹 **1 <= above<sub>i</sub>, below<sub>i</sub>, left<sub>i</sub>, right<sub>i</sub> <= k** </br>
+
 🔹 **above<sub>i</sub> != below<sub>i</sub>** </br>
+
 🔹 **left<sub>i</sub> != right<sub>i</sub>** </br>
 
 </br>
