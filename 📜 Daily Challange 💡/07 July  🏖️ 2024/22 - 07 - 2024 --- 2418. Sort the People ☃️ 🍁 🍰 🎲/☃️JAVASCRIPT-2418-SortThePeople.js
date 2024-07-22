@@ -18,10 +18,10 @@ var sortPeople = function (names, heights) {
       let peopleHeights = [];
 
       // sorted people height in reverse order
-      let sortedHeights = heights.slice().sort((a, b) => b - a);
+      heights.sort((a, b) => b - a);
 
       // traverse in reverse order with sorted height
-      for (let height of sortedHeights) {
+      for (let height of heights) {
             // append the corresponding name assigned with height
             peopleHeights.push(heightNameMap[height]);
       }
