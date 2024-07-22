@@ -47,7 +47,7 @@
 🔹 **`1 <= names[i].length <= 20`** </br>
 🔹 **1 <= heights[i] <= 10<sup>5</sup>** </br>
 🔹 **`names[i]` consists of lower and upper case English letters.** </br>
-🔹 **`names[i]` consists of lower and upper case English letters.** </br>
+🔹 **All the values of `heights` are distinct.** </br>
 
 </br>
 
