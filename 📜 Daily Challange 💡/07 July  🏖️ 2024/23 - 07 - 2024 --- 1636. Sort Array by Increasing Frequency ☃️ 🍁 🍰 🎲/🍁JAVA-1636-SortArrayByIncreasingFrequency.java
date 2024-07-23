@@ -12,13 +12,14 @@ class Solution {
       public int[] frequencySort(int[] nums) {
             // count the freq of every num in nums
             Map<Integer, Integer> freqCount = new HashMap<>();
-            for (int num : nums) {
-                  freqCount.put(num, freqCount.getOrDefault(num, 0) + 1);
-            }
 
-            // Convert array to list for sorting
+            // and Convert array to list for sorting
             List<Integer> numList = new ArrayList<>();
+
             for (int num : nums) {
+                  // count freq
+                  freqCount.put(num, freqCount.getOrDefault(num, 0) + 1);
+                  // convert array to arraylist
                   numList.add(num);
             }
 
@@ -27,6 +28,7 @@ class Solution {
             numList.sort((numOne, numTwo) -> {
                   int freqOne = freqCount.get(numOne);
                   int freqTwo = freqCount.get(numTwo);
+
                   if (freqOne != freqTwo) {
                         return Integer.compare(freqOne, freqTwo);
                   } else {
