@@ -14,7 +14,7 @@ var frequencySort = function (nums) {
       }
 
       // sort based on the freq of num 
-      // if freq is same then sort by dec order 
+      // if freq is same then sort by dec order of num
       nums.sort((a, b) => {
             const freqA = freqCount.get(a);
             const freqB = freqCount.get(b);

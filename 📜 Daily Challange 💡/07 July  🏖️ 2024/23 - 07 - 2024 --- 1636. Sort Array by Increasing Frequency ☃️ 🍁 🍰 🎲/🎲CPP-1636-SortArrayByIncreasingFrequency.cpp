@@ -21,11 +21,13 @@ public:
             }
 
             // sort based on the freq of num 
-            // if freq is same then sort by dec order 
+            // if freq is same then sort by dec order of num
             sort(nums.begin(), nums.end(), [&freqCount](int a, int b) {
+
                   if (freqCount[a] == freqCount[b]) {
                         return a > b;
                   }
+
                   return freqCount[a] < freqCount[b];
             });
 

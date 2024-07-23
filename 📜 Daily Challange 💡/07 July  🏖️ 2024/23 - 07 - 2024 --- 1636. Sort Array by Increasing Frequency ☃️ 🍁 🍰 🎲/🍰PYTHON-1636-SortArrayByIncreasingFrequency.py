@@ -14,7 +14,7 @@ class Solution:
             freqCount = Counter(nums)
 
             # sort based on the freq of num 
-            # if freq is same them sort by dec order 
+            # if freq is same them sort by dec order of num
             nums.sort(key = lambda n : (freqCount[n], -n))
 
             return nums
