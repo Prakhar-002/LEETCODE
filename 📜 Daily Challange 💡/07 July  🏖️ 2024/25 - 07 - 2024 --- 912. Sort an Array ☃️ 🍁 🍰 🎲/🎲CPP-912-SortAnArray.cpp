@@ -25,7 +25,7 @@ public:
             }
 
             // get the length of our new array
-            int n = max - min;
+            int n = max - min; 
             // make the array of out length (n) which will be used to 
             // store the frequency of each integer value in `nums`.
             vector<int> arr(n + 1, 0);
