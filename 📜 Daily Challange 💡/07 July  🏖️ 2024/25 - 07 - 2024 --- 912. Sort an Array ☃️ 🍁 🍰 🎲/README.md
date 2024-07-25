@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a target="_blank" href="https://leetcode.com/problems/sort-an-array/description/?envType=daily-question&envId=2024-07-25"><strong>➥ ☢️ 912 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/sort-an-array/description/?envType=daily-question&envId=2024-07-25"><strong>➥ ☢️ 912 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
