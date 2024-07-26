@@ -52,7 +52,7 @@ var findTheCity = function (n, edges, distanceThreshold) {
             if (neighbor <= min_neighbor) {
                   city = curCity;
                   min_neighbor = neighbor;
-            }
+            } 
       }
 
       // Return the city that can reach the fewest number of cities within the distanceThreshold
