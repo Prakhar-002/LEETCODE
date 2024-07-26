@@ -102,6 +102,6 @@
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/26%20-%2007%20-%202024%20---%201334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON-1334-FindCitysmallestNghbrAtThreasholdDist.py) |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/26%20-%2007%20-%202024%20---%201334.%20Find%20the%20City%20With%20the%20Smallest%20Number%20of%20Neighbors%20at%20a%20Threshold%20Distance%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT-1334-FindCitysmallestNghbrAtThreasholdDist.js) |
 
-![1334 que 2](https://github.com/user-attachments/assets/ed61fbe6-c3f3-4577-98f8-0c986b8e9294)
+![1334 que 2](https://github.com/user-attachments/assets/fc26314c-e0d6-4a8b-932c-97633437b71d)
 
 ![1334 que 1](https://github.com/user-attachments/assets/9dc63049-8640-4a06-af9f-0d2db9bee40d)
