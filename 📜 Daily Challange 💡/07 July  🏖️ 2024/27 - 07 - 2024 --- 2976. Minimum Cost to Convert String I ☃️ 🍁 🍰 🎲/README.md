@@ -23,7 +23,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### 📥 Input  ➤ source = "abcd", target = "acbe", original = ["a","b","c","c","e","d"], changed = ["b","c","b","e","b","e"], cost = [2,5,5,1,2,20]
+  **📥 Input  ➤** source = "abcd", target = "acbe", original = ["a","b","c","c","e","d"], changed = ["b","c","b","e","b","e"], cost = [2,5,5,1,2,20]
 
   ### 📤 Output  ➤ 28
 
