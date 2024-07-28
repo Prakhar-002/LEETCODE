@@ -31,9 +31,9 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-![2045 que 1](https://github.com/user-attachments/assets/748e89dc-e1f3-44a4-a764-781a01a7a676)
+![2045 que 1](https://github.com/user-attachments/assets/98d440cf-bca1-4e70-8e6e-da5ebd166d79)
 
-![2045 que 1 1](https://github.com/user-attachments/assets/3386b57d-c19f-4fc4-bb48-61a1fa7e9d29)
+![2045 que 1 1](https://github.com/user-attachments/assets/86642e5a-520a-4020-a8c3-a897c4d32d39)
 
   ### 📥 Input  ➤ n = 5, edges = [[1,2],[1,3],[1,4],[3,4],[4,5]], time = 3, change = 5
 
@@ -70,8 +70,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-![2045 que 2](https://github.com/user-attachments/assets/084696a2-50ed-4e3f-9202-0b3512d90384)
-
+![2045 que 2](https://github.com/user-attachments/assets/007f4bbf-9df9-4c9c-9dad-a36ac1f73224)
 
   ### 📥 Input ➤ n = 2, edges = [[1,2]], time = 3, change = 2
 
