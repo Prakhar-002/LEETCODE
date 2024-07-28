@@ -1,0 +1,6 @@
+
+| 🔏 LEVEL 🔏| 📜 QUESTION 📜  | 🎯 SOLUTION 🎯 | 🍄 LANGUAGE 🍄|
+|-------------|------------------|-----------------|----------------|
+| ♻️ Easy ♻️ | [1. Two Sum](https://leetcode.com/problems/two-sum/description/) | [✏️ SOLUTION ✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%99%BB%EF%B8%8F%20Easy%E2%99%BB%EF%B8%8F/%E2%99%BB%EF%B8%8F%20Easy%201.%20Two%20Sum%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%20%F0%9F%8E%B2%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+| ☢️ Medium ☢️ | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | [✏️ SOLUTION ✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%98%A2%EF%B8%8F%20Medium%20%E2%98%A2%EF%B8%8F/%E2%98%A2%EF%B8%8F%20Medium%202.%20Add%20Two%20Numbers%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ♻️ Easy ♻️ | []() | [✏️ SOLUTION ✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
