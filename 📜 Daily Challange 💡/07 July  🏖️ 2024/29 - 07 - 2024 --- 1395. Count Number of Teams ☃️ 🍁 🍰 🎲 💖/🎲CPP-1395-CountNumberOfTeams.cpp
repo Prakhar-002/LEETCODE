@@ -9,7 +9,7 @@
 #include <vector>
 using namespace std;
 
-class Solution {
+class Solution { 
 public:
       // Intuition is we go for every soldier we have btw 1 to last 2nd soldier
 
