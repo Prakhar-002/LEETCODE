@@ -59,7 +59,7 @@ class Solution {
 
                   // now check for the smaller one
                   // and to the right side of our current soldier
-                  // it will be total right - leftLarger
+                  // it will be total right - rightLarger
                   int rightSmaller = ratingLength - soldier - 1 - rightLarger;
 
                   // make teams for descending order

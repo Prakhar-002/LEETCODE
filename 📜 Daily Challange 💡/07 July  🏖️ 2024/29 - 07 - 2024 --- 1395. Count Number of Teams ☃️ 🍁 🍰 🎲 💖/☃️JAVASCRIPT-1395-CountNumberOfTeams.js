@@ -56,7 +56,7 @@ var numTeams = function (rating) {
 
             // now check for the smaller one 
             // and to the right side of our current soldier
-            // it will be total right - leftLarger
+            // it will be total right - rightLarger
             let rightSmaller = ratingLength - soldier - 1 - rightLarger;
 
             // make teams for descending order 
