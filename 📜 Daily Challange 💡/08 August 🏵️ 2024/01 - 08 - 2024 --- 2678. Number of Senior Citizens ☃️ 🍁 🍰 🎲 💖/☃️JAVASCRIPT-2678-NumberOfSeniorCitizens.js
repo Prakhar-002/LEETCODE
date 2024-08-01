@@ -25,7 +25,7 @@ var countSeniors = function (details) {
       return oldPassenger;
 };
 
-// ------------------------------------------------
+//-------------------------------------------------
 
 //* One line code 
 
