@@ -14,6 +14,8 @@ class Solution {
             for (String passenger : details) {
                   // our age lies between 11 and 12 character
                   int age = Integer.parseInt(passenger.substring(11, 13));
+                  // Integer.parseInt will do ->
+                  // int age = (passenger.charAt(11) - '0') * 10 + (passenger.charAt(12) - '0');
 
                   // check if age is greater than 60
                   if (age > 60) {
