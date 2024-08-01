@@ -20,7 +20,7 @@ JULY  🏖️ 2024
 
 </h1>
 
-| 🗓️ DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+| 🗓️DATE🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
 |-------------|-------------|------------------|-----------------|----------------|
 | 01 ┆ JULY ┆ 2024 | ♻️ Easy ♻️ | [1550. Three Consecutive Odds](https://leetcode.com/problems/three-consecutive-odds/description/?envType=daily-question&envId=2024-07-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/01%20-%2007%20-%202024%20---%201550.%20Three%20Consecutive%20Odds%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
 | 02 ┆ JULY ┆ 2024 | ♻️ Easy ♻️ | [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=daily-question&envId=2024-07-02) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/02%20-%2007%20-%202024%20---%20350.%20Intersection%20of%20Two%20Arrays%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
@@ -66,7 +66,7 @@ June 🌞 2024
 
 </h1>
 
-| 🗓️ DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  |  ✒️SOLUTION✒️  | 🍄 LANGUAGE 🍄|
+| 🗓️DATE🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  |  ✒️SOLUTION✒️  | 🍄 LANGUAGE 🍄|
 |-------------|-------------|------------------|-----------------|----------------|
 | 01 ┆ JUNE ┆ 2024 | ♻️ Easy ♻️ | [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/01%20-%2006%20-%202024%20---%20%E2%9C%8F%EF%B8%8F%203110.%20Score%20of%20a%20String%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
 | 02 ┆ JUNE ┆ 2024 | ♻️ Easy ♻️ | [344. Reverse String](https://leetcode.com/problems/reverse-string/description/?envType=daily-question&envId=2024-06-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/02%20-%2006%20-%202024%20---%20%E2%9C%8F%EF%B8%8F%20344.%20Reverse%20String%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
@@ -109,7 +109,7 @@ May 🌈 2024
 
 </h1>
 
-| 🗓️ DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  |  ✒️SOLUTION✒️  | 🍄 LANGUAGE 🍄|
+| 🗓️DATE🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  |  ✒️SOLUTION✒️  | 🍄 LANGUAGE 🍄|
 |-------------|-------------|------------------|-----------------|----------------|
 | 01 ┆ MAY ┆ 2024 |♻️ Easy ♻️ | [2000 Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/?envType=daily-question&envId=2024-05-01) |  [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/05%20May%20%F0%9F%8C%88%202024/01%20-%2005%20-%202004%20---%202000.%20Reverse%20Prefix%20of%20Word%20%F0%9F%8D%81) |🔹JAVA 🍁|
 | 02 ┆ MAY ┆ 2024 | ♻️ Easy ♻️ | [2441 Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/?envType=daily-question&envId=2024-05-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/05%20May%20%F0%9F%8C%88%202024/02%20-%2005%20-%202024%20---%202441.%20Largest%20Positive%20Integer%20That%20Exists%20With%20Its%20Negative%20%F0%9F%8D%81) |🔹JAVA 🍁|
