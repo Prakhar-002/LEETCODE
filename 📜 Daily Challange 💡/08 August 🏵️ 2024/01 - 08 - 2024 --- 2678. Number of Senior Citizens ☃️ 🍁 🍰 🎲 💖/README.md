@@ -27,21 +27,21 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### 📥 Input  ➤ details = ["7868190130M7522","5303914400F9211","9273338290F4010"]
+  ### 📥 `Input`  ➤ details = ["7868190130M7522","5303914400F9211","9273338290F4010"]
 
-  ### 📤 Output  ➤ 2
+  ### 📤 `Output`  ➤ 2
 
-  ### 🔦 Explanation  ➤  The passengers at indices 0, 1, and 2 have ages 75, 92, and 40. Thus, there are 2 people who are over 60 years old.
+  ### 🔦 `Explanation`  ➤  The passengers at indices 0, 1, and 2 have ages 75, 92, and 40. Thus, there are 2 people who are over 60 years old.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 Input ➤ details = ["1313579440F2036","2921522980M5644"]
+  ### 📥 `Input` ➤ details = ["1313579440F2036","2921522980M5644"]
 
-  ### 📤 Output  ➤ 0
+  ### 📤 `Output`  ➤ 0
 
-  ### 🔦 Explanation ➤  None of the passengers are older than 60.
+  ### 🔦 `Explanation` ➤  None of the passengers are older than 60.
 
 
 </br>
