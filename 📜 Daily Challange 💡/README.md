@@ -6,7 +6,7 @@ AUGUST 🏵️ 2024
 
 | 🔹DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | SOLUTION🎯 | 🍄 LANGUAGE 🍄|
 |-------------|-------------|------------------|-----------------|----------------|
-| 01 ┆ AUG ┆ 2024 | ♻️ Easy ♻️ | [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/?envType=daily-question&envId=2024-08-01) | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+| 01 ┆ AUG ┆ 2024 | ♻️Easy♻️ | [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/?envType=daily-question&envId=2024-08-01) | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
 
 </br>
 
