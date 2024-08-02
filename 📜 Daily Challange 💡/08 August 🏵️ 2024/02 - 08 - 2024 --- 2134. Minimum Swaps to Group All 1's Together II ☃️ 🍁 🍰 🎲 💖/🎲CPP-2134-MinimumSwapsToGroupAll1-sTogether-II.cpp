@@ -10,7 +10,7 @@
 #include <algorithm>
 using namespace std;
 
-class Solution {
+class Solution { 
 public:
       // we have to minimize the swap for grouping all 1
       int minSwaps(vector<int>& nums) {
