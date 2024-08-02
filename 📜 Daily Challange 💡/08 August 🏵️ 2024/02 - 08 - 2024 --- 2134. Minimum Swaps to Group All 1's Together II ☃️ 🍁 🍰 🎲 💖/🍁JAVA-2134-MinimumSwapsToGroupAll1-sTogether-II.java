@@ -6,12 +6,6 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-// https://github.com/Prakhar-002/LEETCODE
-
-// ⌚ Time complexity -> O(n) ->  n = len(nums)
-
-//  Space complexity -> O(1)  
-
 class Solution {
       // we have to minimize the swap for grouping all 1
       public int minSwaps(int[] nums) {
@@ -45,9 +39,8 @@ class Solution {
                         // update the windowOne cause we're shrinking our window
                         // cause our 'nums[left]' only contain '1' or '0' 
                         // so just sub the 'nums[left]' from our windowOne
-                        // also increment the left pointer for sliding window
-
                         windowOne -= nums[left % n]; // circular array
+                        // also increment the left pointer for sliding window
                         left++;
                   }
 
