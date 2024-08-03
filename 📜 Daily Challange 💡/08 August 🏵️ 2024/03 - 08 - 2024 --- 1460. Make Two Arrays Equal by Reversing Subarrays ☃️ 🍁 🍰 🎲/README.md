@@ -25,11 +25,11 @@
 
   ### 🔦 `Explanation`  ➤ You can follow the next steps to convert arr to target:
 
-    1- Reverse subarray [2,4,1], arr becomes [1,4,2,3]
+    1 ➺ Reverse subarray [2,4,1], arr becomes [1,4,2,3]
     
-    2- Reverse subarray [4,2], arr becomes [1,2,4,3]
+    2 ➺ Reverse subarray [4,2], arr becomes [1,2,4,3]
     
-    3- Reverse subarray [4,3], arr becomes [1,2,3,4]
+    3 ➺ Reverse subarray [4,3], arr becomes [1,2,3,4]
     
     There are multiple ways to convert arr to target, 
     this is not the only way to do so.
@@ -43,7 +43,6 @@
   ### 📤 `Output`  ➤ true
 
   ### 🔦 `Explanation` ➤ arr is equal to target without any reverses.
-
 
 </br>
 
@@ -81,7 +80,7 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/03%20-%2008%20-%202024%20---%201460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA-1460-MakeTwoArraysEqualByReversingSubarrays.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/03%20-%2008%20-%202024%20---%201460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP-1460-MakeTwoArraysEqualByReversingSubarrays.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/03%20-%2008%20-%202024%20---%201460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON-1460-MakeTwoArraysEqualByReversingSubarrays.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/03%20-%2008%20-%202024%20---%201460.%20Make%20Two%20Arrays%20Equal%20by%20Reversing%20Subarrays%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT-1460-MakeTwoArraysEqualByReversingSubarrays.js) |
