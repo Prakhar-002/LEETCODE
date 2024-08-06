@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-// Intuition -> we'll find the freq of each char in word
+// Intuition 🌀 ➺ we'll find the freq of each char in word
 // most occurring char will go to first position and in separate button
 // we have only 8 distinct keypads so upto 8 we have to push 1 to get that char
 // after 8 upto 16 we have to assign char that will be pushed twice to print char
