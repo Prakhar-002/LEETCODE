@@ -21,9 +21,14 @@
 
 ### An example mapping of letters to keys on a telephone keypad is given below. Note that `1`, `*,` `#`, and `0` do not map to any letters.
 
+
+![3016 que ex 1](https://github.com/user-attachments/assets/9c584092-2f8c-4f3a-8267-025ef1b71aee)
+
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
+
+![3016 que 1](https://github.com/user-attachments/assets/ff792c2e-bbaf-49b0-a1a6-635416386292)
 
   ### 📥 `Input`  ➤ word = "abcde"
 
@@ -48,6 +53,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+![3016 que 2](https://github.com/user-attachments/assets/d25e43ef-0ddb-49bc-936b-db80d73827bc)
 
   ### 📥 `Input` ➤ word = "xyzxyzxyzxyz"
 
@@ -74,29 +81,31 @@
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
+![3016 que 3](https://github.com/user-attachments/assets/c98444d5-806d-48e9-80e2-a8469d8d8a0d)
+
   ### 📥 `Input` ➤ word = "aabbccddeeffgghhiiiiii"
 
   ### 📤 `Output`  ➤ 24
 
   ### 🔦 `Explanation`  ➤ The remapped keypad given in the image provides the minimum cost.
 
-    "a" -> one push on key 2
+    "a" ➺ one push on key 2
 
-    "b" -> one push on key 3
+    "b" ➺ one push on key 3
 
-    "c" -> one push on key 4
+    "c" ➺ one push on key 4
 
-    "d" -> one push on key 5
+    "d" ➺ one push on key 5
 
-    "e" -> one push on key 6
+    "e" ➺ one push on key 6
 
-    "f" -> one push on key 7
+    "f" ➺ one push on key 7
 
-    "g" -> one push on key 8
+    "g" ➺ one push on key 8
 
-    "h" -> two pushes on key 9
+    "h" ➺ two pushes on key 9
 
-    "i" -> one push on key 9
+    "i" ➺ one push on key 9
 
     Total cost is 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 + 1 * 2 
     + 1 * 2 + 1 * 2 + 2 * 2 + 6 * 1 = 24.
@@ -127,8 +136,8 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/06%20-%2008%20-%202024%20---%203016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA-3016-MinimumNumberOfPushesToTypeWord-II.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/06%20-%2008%20-%202024%20---%203016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP-3016-MinimumNumberOfPushesToTypeWord-II.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/06%20-%2008%20-%202024%20---%203016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON-3016-MinimumNumberOfPushesToTypeWord-II.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/06%20-%2008%20-%202024%20---%203016.%20Minimum%20Number%20of%20Pushes%20to%20Type%20Word%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT-3016-MinimumNumberOfPushesToTypeWord-II.js) |
 
