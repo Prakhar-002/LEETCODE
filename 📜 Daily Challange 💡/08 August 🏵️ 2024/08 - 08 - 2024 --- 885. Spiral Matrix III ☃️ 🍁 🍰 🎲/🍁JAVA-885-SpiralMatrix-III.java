@@ -43,7 +43,7 @@ class Solution {
                               col += dc;
                         }
 
-                        // After completing steps in two directions,
+                  // After completing steps in two directions,
                         // update `i` to change the direction
                         i = (i + 1) % 4;
                   }
