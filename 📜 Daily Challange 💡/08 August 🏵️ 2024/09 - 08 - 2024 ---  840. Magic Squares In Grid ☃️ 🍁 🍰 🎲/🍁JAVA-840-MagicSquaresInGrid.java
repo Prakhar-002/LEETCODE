@@ -10,7 +10,7 @@ import java.util.*;
 
 class Solution {
       public int numMagicSquaresInside(int[][] grid) {
-            int ROWS = grid.length, COLS = grid[0].length;
+            int ROWS = grid.length, COLS = grid[0].length; 
 
             int magicSquares = 0;
 
