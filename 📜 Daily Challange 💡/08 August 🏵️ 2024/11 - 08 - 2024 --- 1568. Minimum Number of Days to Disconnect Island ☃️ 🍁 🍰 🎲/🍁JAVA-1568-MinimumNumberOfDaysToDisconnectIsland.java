@@ -11,7 +11,7 @@ class Solution {
       private int[][] grid;
       // a 2D boolean array used for marking the cells visited
       private boolean[][] visited;
-      // variables that store the number of rows and columns
+      // variables that store the number of rows and columns 
       private int rows, cols;
 
       public int minDays(int[][] grid) {
