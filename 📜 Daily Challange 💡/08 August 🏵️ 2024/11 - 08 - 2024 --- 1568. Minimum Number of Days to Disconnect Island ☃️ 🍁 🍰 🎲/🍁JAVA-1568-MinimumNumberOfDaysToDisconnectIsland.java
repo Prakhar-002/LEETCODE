@@ -88,7 +88,7 @@ class Solution {
             dfs(row + 1, col);
             dfs(row, col - 1);
             dfs(row, col + 1);
-      }
+      } 
 
       //  `0` if multiple islands already exist or no land is present
       //  `1` if altering a single land cell can separate the grid into multiple islands
