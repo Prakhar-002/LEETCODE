@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=daily-question&envId=2024-08-12"><strong>➥ ☢️ 703 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=daily-question&envId=2024-08-12"><strong>➥ ♻️ 703 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
