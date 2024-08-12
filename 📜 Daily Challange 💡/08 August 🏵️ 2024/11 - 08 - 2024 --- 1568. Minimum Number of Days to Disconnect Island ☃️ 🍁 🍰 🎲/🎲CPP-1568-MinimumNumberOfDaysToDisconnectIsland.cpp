@@ -14,19 +14,19 @@ using namespace std;
 class Solution {
 private:
       // func counts the number of islands (disconnected clusters of `1`s)
-      int count_islands(const std::vector<std::vector<int>>& grid) {
+      int count_islands(const vector<vector<int>>& grid) {
             // set keeps track of all the cells that have been visited
-            std::set<std::pair<int, int>> seen;
+            set<pair<int, int>> seen;
 
             auto dfs = [&](int r, int c) {
                   // stack to manage cells to visit
-                  std::stack<std::pair<int, int>> stack;
+                  stack<pair<int, int>> stack;
                   stack.push({r, c});
                   while (!stack.empty()) {
                         auto [row, col] = stack.top();
                         stack.pop();
                         //  visit all neighboring cells `(neiRow, neiCol)` 
-                        for (auto [dr, dc] : std::vector<std::pair<int, int>>{{-1, 0}, {1, 0}, {0, -1}, {0, 1}}) {
+                        for (auto [dr, dc] : vector<pair<int, int>>{{-1, 0}, {1, 0}, {0, -1}, {0, 1}}) {
                               int neiRow = row + dr, neiCol = col + dc;
                               if (
                                     // if they are part of the island 
@@ -65,7 +65,7 @@ private:
       }
 
 public:
-      int minDays(std::vector<std::vector<int>>& grid) {
+      int minDays(vector<vector<int>>& grid) {
             // if count_islands() != 1
             // If there are initially no valid islands or already more than one island
             if (count_islands(grid) != 1) {
