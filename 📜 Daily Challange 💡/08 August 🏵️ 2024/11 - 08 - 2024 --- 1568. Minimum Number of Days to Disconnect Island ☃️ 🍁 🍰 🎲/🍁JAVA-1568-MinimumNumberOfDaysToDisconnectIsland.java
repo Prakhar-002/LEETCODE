@@ -92,5 +92,5 @@ class Solution {
 
       //  `0` if multiple islands already exist or no land is present
       //  `1` if altering a single land cell can separate the grid into multiple islands
-      //  `2` if more complex alterations are required (e.g., changing more than one cell).
+      //  `2` if more complex alterations are required (e.g., changing more than one cell)
 }
