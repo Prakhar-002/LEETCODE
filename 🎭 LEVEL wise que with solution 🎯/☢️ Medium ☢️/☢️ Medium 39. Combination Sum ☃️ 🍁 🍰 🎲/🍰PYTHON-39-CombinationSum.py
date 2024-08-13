@@ -9,7 +9,7 @@
 class Solution:
       def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
             # array to store all the combinations to add equal to target
-            combinations = []
+            combinations = [] 
 
             # recursive function
             # `i` -> for index 

@@ -10,7 +10,7 @@
 #include <algorithm>
 using namespace std;
 
-class Solution {
+class Solution { 
 public:
       vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
             // Vector to store all the combinations that add up to target
