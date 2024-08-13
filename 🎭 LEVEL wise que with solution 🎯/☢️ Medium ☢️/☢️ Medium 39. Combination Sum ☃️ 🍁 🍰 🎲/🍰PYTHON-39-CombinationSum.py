@@ -12,7 +12,7 @@ class Solution:
             combinations = []
 
             # recursive function
-            # `i` -> for index
+            # `i` -> for index 
             # `cur` -> current sequence 
             def dfs(i, cur, total):
                   # if our total is equal to target add this in comb..

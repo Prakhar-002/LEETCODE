@@ -13,7 +13,7 @@ function combinationSum(candidates, target) {
       // call our dfs
       dfs(0, [], 0, candidates, target, combinations);
 
-      return combinations;
+      return combinations; 
 }
 
 /*
