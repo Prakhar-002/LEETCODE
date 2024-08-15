@@ -1,29 +1,50 @@
-var lemonadeChange = function(bills) {
+//! https://github.com/Prakhar-002/LEETCODE
+
+// Todo 💎 QUESTION NUMBER 860
+
+//? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(bills)
+
+//? 🧺 Space complexity ➺ O(1)
+
+var lemonadeChange = function (bills) {
+      // Initialize counters for $5 and $10 bills
       let five = 0;
       let ten = 0;
 
-      for (const bill of bills) {
-            // if we get 5$ 
-            if (bill == 5) {
+      // Iterate through each bill in the input array
+      for (let bill of bills) {
+            // Case 1: Customer pays with $5
+            if (bill === 5) {
                   five++;
-            } else if (bill == 10) { // If we get 10$ 
-                  if (five >= 1) { // we have to return 5$ so we should have it first
+            }
+            // Case 2: Customer pays with $10
+            else if (bill === 10) {
+                  // Check if we have a $5 bill to give as change
+                  if (five >= 1) {
                         five--;
                         ten++;
                   } else {
-                        return false; 
+                        return false;  // Can't provide change
                   }
-            } else { // If we get 20$ 
-                  if (five >= 1 && ten >= 1) { // We have to return 15$ so 1 -- 10$ and 1 -- 5$
+            }
+            // Case 3: Customer pays with $20
+            else {
+                  // Option 1: Give change as $10 + $5
+                  if (five >= 1 && ten >= 1) {
                         ten--;
                         five--;
-                  } else if (five >= 3) { // OR we can return 3-- 5% 
+                  }
+                  // Option 2: Give change as $5 + $5 + $5
+                  else if (five >= 3) {
                         five -= 3;
-                  } else {
+                  }
+                  // If neither option is possible, we can't provide change
+                  else {
                         return false;
                   }
             }
       }
 
+      // If we've made it through all transactions, return true
       return true;
 };
