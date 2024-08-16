@@ -3,7 +3,7 @@
 <h2 align="center"> 
 
 <a href="https://leetcode.com/problems/lemonade-change/solutions/5230494/explained-greedy-basic-solution-easy-concise-4-langauge"><strong>➥ Live Solution On Leetcode</strong></a>
-</h2>
+</h2> 
 
 # Screenshot 🎉
 
