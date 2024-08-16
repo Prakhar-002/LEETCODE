@@ -12,7 +12,7 @@
 bool lemonadeChange(int* bills, int billsSize) {
       // Initialize counters for $5 and $10 bills
       int five = 0;
-      int ten = 0;
+      int ten = 0; 
 
       // Iterate through each bill in the input array
       for (int i = 0; i < billsSize; i++) {
