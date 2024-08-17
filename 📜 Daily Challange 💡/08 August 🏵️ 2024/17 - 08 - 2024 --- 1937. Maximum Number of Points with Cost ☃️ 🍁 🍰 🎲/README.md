@@ -58,7 +58,8 @@
 
   ### 🔦 `Explanation` ➤ 
 
-    The blue cells denote the optimal cells to pick, which have coordinates (0, 1), (1, 1), and (2, 0).
+    The blue cells denote the optimal cells to pick, 
+    which have coordinates (0, 1), (1, 1), and (2, 0).
     
     You add 5 + 3 + 4 = 12 to your score.
 
