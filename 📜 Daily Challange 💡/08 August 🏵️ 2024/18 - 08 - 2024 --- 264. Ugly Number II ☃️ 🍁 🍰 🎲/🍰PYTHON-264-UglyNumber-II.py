@@ -9,7 +9,7 @@
 class Solution:
       def nthUglyNumber(self, n: int) -> int:
             # initialized with `1` cause `1` is considered as the first ugly
-            ugliNum = [1]
+            ugliNum = [1] 
 
             # pointers keep track of where we are in the list for the multiples of `2`, `3`, and `5` respectively
             twoPointer, threePointer, fivePointer = 0, 0, 0
