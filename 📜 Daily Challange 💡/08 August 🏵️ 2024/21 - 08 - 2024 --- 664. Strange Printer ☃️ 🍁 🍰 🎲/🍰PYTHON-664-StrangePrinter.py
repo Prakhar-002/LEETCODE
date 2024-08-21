@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity ➺ O(n ^ 2)
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(n ^ 3) ->  n = len(s)
-
-#  Space complexity -> O(n ^ 2)
-
 #* Problem Description
 # The "strange printer" starts with a blank paper, 
 # represented as a string `s`, and wants to print characters one contiguous sequence at a time. 
