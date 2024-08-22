@@ -8,7 +8,7 @@
 
 import math
 
-class Solution:
+class Solution: 
       def findComplement(self, n: int) -> int:
             # Calculate the number of bits in n, `adding one reason` 
             # `n = 5` (binary `101`), `math.log2(n)` is approximately 2.32,
