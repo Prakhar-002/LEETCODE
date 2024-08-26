@@ -57,6 +57,12 @@
 
 </br>
 
+# Similar Question with Prakhar-002 🎭 ˋ°•*⁀➷
+
+### 💎 [590. N-ary Tree Postorder Traversal](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/26%20-%2008%20-%202024%20---%20590.%20N-ary%20Tree%20Postorder%20Traversal%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2)
+
+</br>
+
 # Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
