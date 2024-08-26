@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(h) 👉🏻 H = height of tree
 
 """
-#* Definition for a Node.
+#* Definition for a Node. 
 
 class Node:
       def __init__(self, val=None, children=None):
