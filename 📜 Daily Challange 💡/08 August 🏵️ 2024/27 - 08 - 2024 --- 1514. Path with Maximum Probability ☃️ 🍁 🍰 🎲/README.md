@@ -65,7 +65,7 @@
 
 🔹 **`a != b`** </br>
 
-🔹 **0 <= succProb.length == edges.length <= 2*10<sup>4</sup>** </br>
+🔹 **0 <= succProb.length == edges.length <= 2 * 10<sup>4</sup>** </br>
 
 🔹 **`0 <= succProb[i] <= 1`** </br>
 
