@@ -17,7 +17,7 @@
 
 ### Your task is to modify `all edges` with a weight of `-1` by assigning them `positive integer values` in the range `[1, 2 * 10^9]` so that the `shortest distance` between the nodes `source` and `destination` becomes equal to an integer `target`. If there are `multiple modifications` that make the shortest distance between `source` and `destination` equal to `target`, any of them will be considered correct.
 
-### Return `an array containing all edges (even unmodified ones) in any order if it is possible to make the shortest distance from `source` to `destination` equal to `target`, or an `empty array` if it's impossible`.
+### Return *an array containing all edges (even unmodified ones) in any order if it is possible to make the shortest distance from `source` to `destination` equal to `target`, or an `empty array` if it's impossible*.
 
 ### Note: You are not allowed to modify the weights of edges with initial positive weights.
 
