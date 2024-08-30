@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align="center"> 
+<h2 align="center">  
 
 <a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
 </h2>
