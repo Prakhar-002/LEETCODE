@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align="center"> 
+<h2 align="center">  
 
 <a href="https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27"><strong>➥ ☢️ 1514 Leetcode Medium ☢️ </strong></a>
 </h2>
