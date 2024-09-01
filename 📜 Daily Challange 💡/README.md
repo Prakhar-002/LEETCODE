@@ -14,7 +14,7 @@ SEPTEMBER 🍂 2024
 
 <h1 align="center"> 
 
-AUGUST 🏵️ 2024 
+AUGUST 🏵️ 2024
 
 </h1>
 
