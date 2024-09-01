@@ -1,5 +1,19 @@
 <h1 align="center"> 
 
+SEPTEMBER 🍂 2024
+
+</h1>
+
+| 🔹DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|-------------|-------------|------------------|-----------------|----------------|
+| 01 ┆ SEP ┆ 2024 | ♻️ Easy ♻️ | [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/description/?envType=daily-question&envId=2024-09-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/01%20-%2009%20-%202024%20---%202022.%20Convert%201D%20Array%20Into%202D%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+</br>
+
+</br>
+
+<h1 align="center"> 
+
 AUGUST 🏵️ 2024 
 
 </h1>
@@ -34,6 +48,9 @@ AUGUST 🏵️ 2024
 | 26 ┆ AUG ┆ 2024 | ♻️ Easy ♻️ | [590. N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/description/?envType=daily-question&envId=2024-08-26) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/26%20-%2008%20-%202024%20---%20590.%20N-ary%20Tree%20Postorder%20Traversal%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | 27 ┆ AUG ┆ 2024 | ☢️Medium☢️ | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/27%20-%2008%20-%202024%20---%201514.%20Path%20with%20Maximum%20Probability%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | 28 ┆ AUG ┆ 2024 | ☢️Medium☢️ | [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/?envType=daily-question&envId=2024-08-28) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/28%20-%2008%20-%202024%20---%201905.%20Count%20Sub%20Islands%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| 29 ┆ AUG ┆ 2024 | ☢️Medium☢️ | [947. Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/description/?envType=daily-question&envId=2024-08-29) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/29%20-%2008%20-%202024%20---%20947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| 30 ┆ AUG ┆ 2024 | 🫀 Hard 🫀 | [2699. Modify Graph Edge Weights](https://leetcode.com/problems/modify-graph-edge-weights/description/?envType=daily-question&envId=2024-08-30) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/30%20-%2008%20-%202024%20---%202699.%20Modify%20Graph%20Edge%20Weights%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| 31 ┆ AUG ┆ 2024 | ☢️Medium☢️ | [1514. Path with Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/?envType=daily-question&envId=2024-08-27) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/08%20August%20%F0%9F%8F%B5%EF%B8%8F%202024/31%20-%2008%20-%202024%20---%201514.%20Path%20with%20Maximum%20Probability%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
 </br>
 
