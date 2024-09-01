@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 2022 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/convert-1d-array-into-2d-array/description/?envType=daily-question&envId=2024-09-01"><strong>➥ ♻️ 2022 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
@@ -20,6 +20,8 @@
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
+
+![2022 que 1](https://github.com/user-attachments/assets/bbc54b90-9a93-4f5e-a946-d36cab51ad45)
 
   ### 📥 `Input`  ➤ original = [1,2,3,4], m = 2, n = 2
 
