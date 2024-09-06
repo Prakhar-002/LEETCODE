@@ -23,6 +23,8 @@
 
   ### 🔦 `Explanation`  ➤ Remove the nodes with values 1, 2, and 3.
 
+![3217 que 1](https://github.com/user-attachments/assets/8ad7cc36-125f-4f29-b28f-3b8d7b109a1c)
+
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
@@ -33,6 +35,7 @@
 
   ### 🔦 `Explanation` ➤ Remove the nodes with value 1.
 
+![3217 que 2](https://github.com/user-attachments/assets/d9acb212-3ea3-403c-b64c-2d9c7fa320f1)
 
 </br>
 
@@ -43,6 +46,8 @@
   ### 📤 `Output`  ➤  [1,2,3,4]
 
   ### 🔦 `Explanation`  ➤ No node has value 5.
+
+![3217 que 3](https://github.com/user-attachments/assets/27003080-d00a-4efe-ab69-9f11270630d4)
 
 </br>
 
@@ -74,7 +79,7 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/06%20-%2009%20-%202024%20---%203217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA-3217-DeleteNodesFromLinkedListPresentInArray.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/06%20-%2009%20-%202024%20---%203217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP-3217-DeleteNodesFromLinkedListPresentInArray.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/06%20-%2009%20-%202024%20---%203217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON-3217-DeleteNodesFromLinkedListPresentInArray.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/06%20-%2009%20-%202024%20---%203217.%20Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT-3217-DeleteNodesFromLinkedListPresentInArray.js) |
