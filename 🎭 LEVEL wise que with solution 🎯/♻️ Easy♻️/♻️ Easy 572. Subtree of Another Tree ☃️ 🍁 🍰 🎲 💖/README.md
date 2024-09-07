@@ -19,7 +19,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-![572 que 1](https://github.com/user-attachments/assets/82567593-7f51-4fca-afa6-c0c7e871919a)
+![572 que 1](https://github.com/user-attachments/assets/3c908bd9-978b-47d0-9136-f11f9caa4975)
 
   ### 📥 `Input`  ➤ root = [3,4,5,1,2], subRoot = [4,1,2]
 
@@ -29,7 +29,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-![572 que 2](https://github.com/user-attachments/assets/d2d6ef86-035a-4e59-8daf-a1a12cbc4805)
+![572 que 2](https://github.com/user-attachments/assets/e6fb3dfa-2af3-4e63-8272-eecc3a5dca40)
 
   ### 📥 `Input` ➤ root = [3,4,5,1,2,null,null,null,null,0], subRoot = [4,1,2]
 
