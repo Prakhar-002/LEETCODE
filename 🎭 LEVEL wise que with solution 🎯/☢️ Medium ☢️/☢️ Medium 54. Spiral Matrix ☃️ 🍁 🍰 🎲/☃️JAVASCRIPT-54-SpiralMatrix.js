@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(m * n) 👉🏻 m = No. o rows n = No. of columns
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(1) 
 
 var spiralOrder = function (matrix) {
       // initializes an array to store value of matrix in spiral way

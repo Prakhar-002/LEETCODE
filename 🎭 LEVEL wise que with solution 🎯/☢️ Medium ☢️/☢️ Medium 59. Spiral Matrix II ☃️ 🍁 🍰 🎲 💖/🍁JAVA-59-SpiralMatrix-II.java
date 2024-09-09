@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(N^2)
 
-//? 🧺 Space complexity ➺ O(N^2)
+//? 🧺 Space complexity ➺ O(N^2) 
 
 class Solution {
       public int[][] generateMatrix(int n) {
