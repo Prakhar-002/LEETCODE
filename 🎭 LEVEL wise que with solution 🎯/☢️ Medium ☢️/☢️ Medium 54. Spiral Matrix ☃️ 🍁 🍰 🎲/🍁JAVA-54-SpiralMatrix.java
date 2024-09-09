@@ -6,12 +6,6 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-// https://github.com/Prakhar-002/LEETCODE
-
-// ⌚ Time complexity -> O(m * n) -> m = No. o rows n = No. of columns
-
-//  Space complexity -> O(1)  
-
 import java.util.*;
 
 class Solution {
