@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
             # initializes a list to store value of matrix in spiral way
             matrix_list = []

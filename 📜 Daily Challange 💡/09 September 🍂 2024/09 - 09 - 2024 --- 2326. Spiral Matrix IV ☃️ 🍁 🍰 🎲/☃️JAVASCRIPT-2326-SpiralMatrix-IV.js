@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(m * n) 👉🏻 m = No. o rows n = No. of columns
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(1) 
 
 var spiralMatrix = function (m, n, head) {
       // initializes a 2D array `matrix` of integers with dimensions `m` by `n`

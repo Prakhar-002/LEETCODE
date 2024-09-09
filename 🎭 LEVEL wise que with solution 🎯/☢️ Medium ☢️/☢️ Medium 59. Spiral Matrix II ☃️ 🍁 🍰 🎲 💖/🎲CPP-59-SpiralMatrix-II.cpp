@@ -10,7 +10,7 @@
 using namespace std;
 
 class Solution {
-public:
+public: 
       vector<vector<int>> generateMatrix(int n) {
             // initializes a 2D vector `matrix` of integers with dimensions `n` by `n`
             // To store 1 to N^2 value in this matrix in spiral format
