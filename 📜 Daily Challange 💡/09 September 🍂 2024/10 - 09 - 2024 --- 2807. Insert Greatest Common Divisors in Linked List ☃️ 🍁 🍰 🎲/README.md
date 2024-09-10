@@ -23,6 +23,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![2807 que 1](https://github.com/user-attachments/assets/ab037c90-640b-4ab8-a45f-e99c77ab14bc)
+
   ### 📥 `Input`  ➤ head = [18,6,10,3]
 
   ### 📤 `Output`  ➤ [18,6,6,2,10,1,3]
@@ -44,6 +46,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+![2807 que 2](https://github.com/user-attachments/assets/72dd7acc-bd9a-4631-be7d-8e13209c72d4)
 
   ### 📥 `Input` ➤ head = [7]
 
@@ -76,8 +80,8 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/10%20-%2009%20-%202024%20---%202807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA-2807-InsertGreatestCommonDivisorsInLinkedList.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/10%20-%2009%20-%202024%20---%202807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP-2807-InsertGreatestCommonDivisorsInLinkedList.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/10%20-%2009%20-%202024%20---%202807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON-2807-InsertGreatestCommonDivisorsInLinkedList.pyhttps://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/10%20-%2009%20-%202024%20---%202807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON-2807-InsertGreatestCommonDivisorsInLinkedList.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/10%20-%2009%20-%202024%20---%202807.%20Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT-2807-InsertGreatestCommonDivisorsInLinkedList.js) |
 
