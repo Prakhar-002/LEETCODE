@@ -65,7 +65,7 @@
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
+🔸 **Bit Manipulation**  </br>
 
 </br>
 
