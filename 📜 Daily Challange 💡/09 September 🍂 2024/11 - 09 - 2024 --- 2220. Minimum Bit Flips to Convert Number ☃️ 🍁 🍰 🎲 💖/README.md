@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/?envType=daily-question&envId=2024-09-11"><strong>➥ ☢️ 2220 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/?envType=daily-question&envId=2024-09-11"><strong>➥ ♻️ 2220 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
