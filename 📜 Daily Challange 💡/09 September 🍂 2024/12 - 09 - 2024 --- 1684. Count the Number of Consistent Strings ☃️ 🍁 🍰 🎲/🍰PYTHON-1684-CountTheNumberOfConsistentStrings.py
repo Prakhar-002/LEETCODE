@@ -8,6 +8,25 @@
 
 class Solution:
       def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
+            # set(allowed) => Converts allowed into a set for efficient membership checking.
+
+            # all(ch in set(allowed) for ch in word) => Checks if all characters in each word are in the allowed set. 
+            #                                           Returns True if the word is consistent, False otherwise.
+
+            # sum(...) => Sums up the True values (which are treated as 1) for all consistent words, 
+            #             resulting in the total count of consistent strings.
+
+            return sum(all(ch in set(allowed) for ch in word) for word in words)
+
+
+#!----------------------------------------------------------------------------------------------------
+
+#? ⌚ Time complexity ➺ O(n * m) 👉🏻  n = len(words) m = len(allowed)
+
+#? 🧺 Space complexity ➺ O(1)
+
+class Solution:
+      def countConsistentStrings(self, allowed: str, words: List[str]) -> int:
             # Converts the string into a set to reduces the time complexity
             allowed_set = set(allowed)
 
