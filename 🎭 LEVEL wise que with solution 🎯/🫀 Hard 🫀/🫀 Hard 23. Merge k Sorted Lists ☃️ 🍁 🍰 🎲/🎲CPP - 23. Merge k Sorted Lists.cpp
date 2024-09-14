@@ -1,6 +1,6 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
-// Todo 💎 QUESTION NUMBER 23
+/* Todo 💎 QUESTION NUMBER 23 */
 
 //? ⌚ Time complexity ➺ O(n Log n) 👉🏻  n = Total Nodes
 
