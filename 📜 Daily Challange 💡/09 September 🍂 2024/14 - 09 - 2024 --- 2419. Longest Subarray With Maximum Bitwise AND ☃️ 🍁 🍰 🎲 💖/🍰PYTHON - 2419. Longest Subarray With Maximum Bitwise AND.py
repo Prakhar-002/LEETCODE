@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
-
-#  Space complexity -> O(1)  
-
 class Solution:
       # Intention => taking bitwise AND of two values let say n and max value in arr
       # 1. if n >  max(nums) : n & max(nums) < max(nums)
