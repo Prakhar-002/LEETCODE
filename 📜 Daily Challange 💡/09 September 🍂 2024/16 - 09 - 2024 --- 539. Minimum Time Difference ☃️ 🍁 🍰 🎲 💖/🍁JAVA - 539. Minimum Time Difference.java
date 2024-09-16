@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-import java.util.List;
+import java.util.List; 
 
 class Solution {
       // Converts a time string in "HH:MM" format to the total minutes
