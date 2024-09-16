@@ -19,6 +19,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![441 que 1](https://github.com/user-attachments/assets/34a9c4a5-dff8-4a71-8410-7074092aa171)
+
   ### 📥 `Input`  ➤ n = 5
 
   ### 📤 `Output`  ➤ 2
@@ -28,6 +30,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+![441 que 2](https://github.com/user-attachments/assets/ebb78da9-d295-4d09-9226-b6ba43409ea1)
 
   ### 📥 `Input` ➤ n = 8
 
