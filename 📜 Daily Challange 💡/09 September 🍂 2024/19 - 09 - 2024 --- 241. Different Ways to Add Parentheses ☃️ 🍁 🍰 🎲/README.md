@@ -59,6 +59,8 @@
 
 🔹 **All the integer values in the input expression are in the range `[0, 99]`.** </br>
 
+🔹 **The integer values in the input expression do not have a leading `'-'` or `'+'` denoting the sign.** </br>
+
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
