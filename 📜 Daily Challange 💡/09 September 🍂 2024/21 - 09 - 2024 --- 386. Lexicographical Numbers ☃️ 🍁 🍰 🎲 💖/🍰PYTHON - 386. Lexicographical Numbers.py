@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
-
-#  Space complexity -> O(1)
-
 class Solution:
       def lexicalOrder(self, n: int) -> List[int]:
             # to store sequence of numbers in lexicographical order
