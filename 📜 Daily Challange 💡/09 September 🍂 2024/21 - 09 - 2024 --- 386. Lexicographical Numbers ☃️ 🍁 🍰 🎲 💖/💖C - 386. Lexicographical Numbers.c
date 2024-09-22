@@ -2,7 +2,7 @@
 
 // Todo 💎 QUESTION NUMBER 386
 
-//? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+//? ⌚ Time complexity ➺ O(n) 
 
 //? 🧺 Space complexity ➺ O(1)
 

@@ -1,24 +1,35 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER 386
+# Todo 💎 QUESTION NUMBER 440
 
-#? ⌚ Time complexity ➺ O(n) 
+#? ⌚ Time complexity ➺ O(n)
 
 #? 🧺 Space complexity ➺ O(1)
 
+# https://github.com/Prakhar-002/LEETCODE
+
+# ⌚ Time complexity -> O(n) 
+
+#  Space complexity -> O(1)
+
 class Solution:
-      def lexicalOrder(self, n: int) -> List[int]:
-            # to store sequence of numbers in lexicographical order
-            lexicographical = []
+      def findKthNumber(self, n: int, k: int) -> int:
+            # to count current sequence of numbers in lexicographical order
+            count = 1
 
             # used to generate the next number in lexicographical order
             cur = 1
 
-            # until the length of the `lexicographical` list is less than `n`
+            # until the count is less than `n`
             # ensures that exactly `n` numbers are added to the list
-            while len(lexicographical) < n:
-                  # current value of `cur` (starting with 1) is appended to the list
-                  lexicographical.append(cur)
+            while count < n:
+                  # checking the lexicographical order current elem's number
+                  if k == count:
+                        # return current lexicographical element
+                        return cur
+
+                  # inc count per next lexicographical number
+                  count += 1
 
                   # `cur * 10` is less than or equal to `n`
                   if cur * 10 <= n:
@@ -38,4 +49,4 @@ class Solution:
                         cur += 1
 
             # Return the list
-            return lexicographical
+            return cur
