@@ -15,7 +15,7 @@
 
 ### A `double booking` happens when two events have some non-empty intersection (i.e., some moment is common to both events.).
 
-### The event can be represented as a pair of integers `start` and `end` that represents a booking on the half-open interval `[start, end]`, the range of real numbers `x` such that `start <= x < end`.
+### The event can be represented as a pair of integers `start` and `end` that represents a booking on the half-open interval `[start, end)`, the range of real numbers `x` such that `start <= x < end`.
 
 ### Implement the `MyCalendar` class:
 
