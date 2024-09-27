@@ -31,7 +31,7 @@ class MyCalendar {
                         // returns `false`
                         return false;
                   }
-            }
+            } 
             // If no conflict is found : Add the new event `(start, end)`
             this.events.add(new int[] { start, end });
             // returns `true`, indicating that the event has been successfully booked
