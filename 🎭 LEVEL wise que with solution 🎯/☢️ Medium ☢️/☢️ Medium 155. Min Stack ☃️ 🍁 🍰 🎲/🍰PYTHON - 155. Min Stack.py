@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity ➺ O(n) 👉🏻  n = stack size
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(1) 
-
-#  Space complexity -> O(n) ->  n = stack size
-
 class MinStack:
 
       def __init__(self):
