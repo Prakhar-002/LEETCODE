@@ -1,3 +1,19 @@
+
+<h1 align="center"> 
+
+OCTOBER 🪔 2024
+
+</h1>
+
+| 🔹DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|-------------|-------------|------------------|-----------------|----------------|
+| 01 ┆ OCT ┆ 2024 | ☢️Medium☢️ | [1497. Check If Array Pairs Are Divisible by k](https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/description/?envType=daily-question&envId=2024-10-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/10%20October%20%F0%9F%AA%94%202024/01%20-%2010%20-%202024%20---%201497.%20Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+
+</br>
+
+</br>
+
 <h1 align="center"> 
 
 SEPTEMBER 🍂 2024
