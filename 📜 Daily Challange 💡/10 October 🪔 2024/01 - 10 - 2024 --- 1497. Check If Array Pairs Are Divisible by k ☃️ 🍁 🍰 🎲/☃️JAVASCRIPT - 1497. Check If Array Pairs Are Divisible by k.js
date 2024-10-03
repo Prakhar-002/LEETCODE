@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(arr)
 
-//? 🧺 Space complexity ➺ O(k)
+//? 🧺 Space complexity ➺ O(k) 
 
 var canArrange = function (arr, k) {
       // `freq` is declared to store frequencies of remainders 

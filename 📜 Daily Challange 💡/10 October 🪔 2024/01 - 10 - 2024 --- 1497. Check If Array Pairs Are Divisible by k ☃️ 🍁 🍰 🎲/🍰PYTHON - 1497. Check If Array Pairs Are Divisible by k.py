@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(k)
 
-class Solution:
+class Solution:  
       def canArrange(self, arr: List[int], k: int) -> bool:
             # `freq` is declared to store frequencies of remainders 
             # when elements of `arr` are divided by `k`

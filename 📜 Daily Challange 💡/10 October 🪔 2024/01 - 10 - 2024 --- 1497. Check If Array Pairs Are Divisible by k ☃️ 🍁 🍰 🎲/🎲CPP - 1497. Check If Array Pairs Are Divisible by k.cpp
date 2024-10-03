@@ -9,7 +9,7 @@
 #include <vector>
 using namespace std;
 
-class Solution {
+class Solution {  
 public:
       bool canArrange(vector<int>& arr, int k) {
             // `freq` is declared to store frequencies of remainders 

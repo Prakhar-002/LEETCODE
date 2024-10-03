@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(k)
 
-class Solution {
+class Solution { 
       public boolean canArrange(int[] arr, int k) {
             // `freq` is declared to store frequencies of remainders 
             // when elements of `arr` are divided by `k`
