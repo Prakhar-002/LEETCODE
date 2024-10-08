@@ -95,8 +95,12 @@
 
 </h2>
 
+<div style="text-align: center;">
+
 | 🗓️ DAY 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
 |------------|-------------|------------------|---------------|----------------|
 | Day ➺ 28 | ☢️ Medium ☢️ | [2694. Event Emitter](https://leetcode.com/problems/event-emitter/?envType=study-plan-v2&envId=30-days-of-javascript) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%92%2030%20Days%20of%20JavaScript%20-%20%F0%9F%8C%BB%20Learn%20JS%20Basics/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/6.%20Classes/DAY-28-%E2%98%83%EF%B8%8F2694.EventEmitter.js) |🔹JAVASCRIPT ☃️|
 | Day ➺ 29 | ♻️ Easy ♻️ | [2695. Array Wrapper](https://leetcode.com/problems/array-wrapper/?envType=study-plan-v2&envId=30-days-of-javascript) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%92%2030%20Days%20of%20JavaScript%20-%20%F0%9F%8C%BB%20Learn%20JS%20Basics/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/6.%20Classes/DAY-29-%E2%98%83%EF%B8%8F2695.ArrayWrapper.js) |🔹JAVASCRIPT ☃️|
 | Day ➺ 30 | ♻️ Easy ♻️ | [2726. Calculator with Method Chaining](https://leetcode.com/problems/calculator-with-method-chaining/?envType=study-plan-v2&envId=30-days-of-javascript) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%92%2030%20Days%20of%20JavaScript%20-%20%F0%9F%8C%BB%20Learn%20JS%20Basics/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/6.%20Classes/DAY-30-%E2%98%83%EF%B8%8F2726.CalculatorWithMethodChaining.js) |🔹JAVASCRIPT ☃️|
+
+</div>
