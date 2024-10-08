@@ -8,7 +8,7 @@
 
 <h2 align="center"> 
 
-    1. Closures
+1️⃣ Closures
 
 </h2>
 
@@ -23,7 +23,7 @@
 
 <h2 align="center"> 
 
-    2. Basic Array Transformations
+2️⃣ Basic Array Transformations
 
 </h2>
 
@@ -37,7 +37,7 @@
 
 <h2 align="center"> 
 
-    3. Function Transformations
+3️⃣ Function Transformations
 
 </h2>
 
@@ -52,7 +52,7 @@
 
 <h2 align="center"> 
 
-    4. Promises and Time
+4️⃣ Promises and Time
 
 </h2>
 
@@ -71,7 +71,7 @@
 
 <h2 align="center"> 
 
-    5. JSON
+5️⃣ JSON
 
 </h2>
 
@@ -91,7 +91,7 @@
 
 <h2 align="center"> 
 
-    6. Classes
+6️⃣ Classes
 
 </h2>
 
