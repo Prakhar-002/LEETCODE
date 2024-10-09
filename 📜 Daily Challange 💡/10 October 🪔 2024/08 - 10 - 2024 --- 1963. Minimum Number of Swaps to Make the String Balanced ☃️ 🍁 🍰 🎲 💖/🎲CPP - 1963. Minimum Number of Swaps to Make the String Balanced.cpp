@@ -10,7 +10,7 @@
 #include <algorithm>
 using namespace std;
 
-class Solution {
+class Solution { 
 public:
       int minSwaps(string s) {
             // `extraClose` tracks the net number of extra closing brackets
