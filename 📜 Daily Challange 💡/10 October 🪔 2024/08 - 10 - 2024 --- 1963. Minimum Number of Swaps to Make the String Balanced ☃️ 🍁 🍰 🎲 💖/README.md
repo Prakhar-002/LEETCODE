@@ -68,7 +68,7 @@ A string is called `balanced` if and only if:
 
 🔹 **`n == s.length`** </br>
 
-🔹 **2 <= n <= 106** </br>
+🔹 **2 <= n <= 10<sup>6</sup>** </br>
 
 🔹 **`n` is even.** </br>
 
