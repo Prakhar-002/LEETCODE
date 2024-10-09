@@ -12,7 +12,7 @@ class Solution {
             int[] res = new int[nums.length];
 
             // for prefix multiply
-            int prefix = 1;
+            int prefix = 1; 
 
             for (int i = 0; i < nums.length; i++) {
                   res[i] = prefix;
