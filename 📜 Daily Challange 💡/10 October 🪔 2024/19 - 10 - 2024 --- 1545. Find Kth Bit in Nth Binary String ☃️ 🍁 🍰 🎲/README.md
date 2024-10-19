@@ -1,68 +1,71 @@
-# 
+# 1545. Find Kth Bit in Nth Binary String
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/?envType=daily-question&envId=2024-10-19"><strong>➥ ☢️ 1545 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### Given two positive integers n and k, the binary string Sn is formed as follows:
+
+- S1 = "0"
+
+- Si = Si - 1 + "1" + reverse(invert(Si - 1)) for i > 1
+
+### Where `+` denotes the concatenation operation, `reverse(x)` returns the reversed string `x`, and `invert(x)` inverts all the bits in `x` (`0` changes to `1` and `1` changes to `0`).
+
+### For example, the first four strings in the above sequence are:
+
+- `S1 = "0"`
+
+- `S2 = "011"`
+
+- `S3 = "0111001"`
+
+- `S4 = "011100110110001"`
+
+### Return the k<sup>th</sup> bit in S<sub>n</sub>. It is guaranteed that `k` is valid for the given `n`.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input`  ➤ 
+  ### 📥 `Input`  ➤ n = 3, k = 1
 
-  ### 📤 `Output`  ➤ 2
+  ### 📤 `Output`  ➤ "0"
 
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤ S<sub>3</sub> is "<u>**0**</u>111001". </br> The 1<sup>st</sup> bit is `"0"`.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ n = 4, k = 11
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ "1"
 
-  ### 🔦 `Explanation` ➤ 
-
-</br>
-
-# Example 💡 3️⃣ ˋ°•*⁀➷
-
-  ### 📥 `Input` ➤ 
-
-  ### 📤 `Output`  ➤ 
-
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation` ➤ S<sub>4</sub> is "0111001101<u>**1**</u>0001". </br> The 11<sup>th</sup> bit is "1".
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
+🔹 **`1 <= n <= 20`** </br>
 
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 **1 <= k <= 2<sup>n</sup> - 1** </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **String**  </br>
+🔸 **Recursion**  </br>
+🔸 **Simulation**  </br>
 
 </br>
 
@@ -70,11 +73,10 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/10%20October%20%F0%9F%AA%94%202024/19%20-%2010%20-%202024%20---%201545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA%20-%201545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/10%20October%20%F0%9F%AA%94%202024/19%20-%2010%20-%202024%20---%201545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP%20-%201545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/10%20October%20%F0%9F%AA%94%202024/19%20-%2010%20-%202024%20---%201545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON%20-%201545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/10%20October%20%F0%9F%AA%94%202024/19%20-%2010%20-%202024%20---%201545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%201545.%20Find%20Kth%20Bit%20in%20Nth%20Binary%20String.js) |
+
 
 
