@@ -72,8 +72,6 @@
 
 🔹 **`expression[i]` is one following characters: `'('`, `')'`, `'&'`, `'|'`, `'!'`, `'t'`, `'f'`, and `','`.** </br>
 
-🔹 **** </br>
-
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
