@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 1233 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/?envType=daily-question&envId=2024-10-25"><strong>➥ ☢️ 1233 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
