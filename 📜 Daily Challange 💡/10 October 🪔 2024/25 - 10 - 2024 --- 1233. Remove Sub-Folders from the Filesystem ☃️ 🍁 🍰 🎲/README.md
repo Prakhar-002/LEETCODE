@@ -51,7 +51,7 @@
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **1 <= folder.length <= 4 * 104** </br>
+🔹 **1 <= folder.length <= 4 * 10<sup>4</sup>** </br>
 
 🔹 **`2 <= folder[i].length <= 100`** </br>
 
