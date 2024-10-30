@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 2458 Leetcode Medium ☢️ </strong></a>
+<a href=""><strong>➥ 🫀 2458 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
