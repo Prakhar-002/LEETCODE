@@ -7,7 +7,7 @@
 <a href="https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/?envType=daily-question&envId=2024-10-30"><strong>➥ 🫀 1671 Leetcode Hard 🫀 </strong></a>
 </h2>
 
-</br>
+</br> 
 
 # Description 📜 ˋ°•*⁀➷
 
