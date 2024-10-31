@@ -1,7 +1,7 @@
 # 1671. Minimum Number of Removals to Make Mountain Array
 
 </br>
-
+ 
 <h2 align="center"> 
 
 <a href="https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array/description/?envType=daily-question&envId=2024-10-30"><strong>➥ 🫀 1671 Leetcode Hard 🫀 </strong></a>
