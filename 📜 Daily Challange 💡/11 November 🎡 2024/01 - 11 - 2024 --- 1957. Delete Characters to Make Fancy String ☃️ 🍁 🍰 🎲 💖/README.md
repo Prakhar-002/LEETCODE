@@ -51,7 +51,7 @@
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **1 <= s.length <= 105** </br>
+🔹 **1 <= s.length <= 10<sup>5</sup>** </br>
 
 🔹 **`s` consists only of lowercase English letters** </br>
 
