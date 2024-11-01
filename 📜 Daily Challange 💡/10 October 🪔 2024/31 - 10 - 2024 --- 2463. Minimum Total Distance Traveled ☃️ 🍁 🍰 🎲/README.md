@@ -37,6 +37,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![2463 que 1](https://github.com/user-attachments/assets/d3287d6f-bab4-45f0-8b2d-8f33841ac1cb)
+
   ### 📥 `Input`  ➤ robot = [0,4,6], factory = [[2,2],[6,2]]
 
   ### 📤 `Output`  ➤ 4
@@ -54,6 +56,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+![2463 que 2](https://github.com/user-attachments/assets/8da9a27c-43cd-41e0-bfa0-dd0fea0474b6)
 
   ### 📥 `Input` ➤ robot = [1,-1], factory = [[-2,1],[2,1]]
 
