@@ -24,7 +24,9 @@
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
   ### 📥 `Input`  ➤ grid = 
-  
+
+![2684 que 1](https://github.com/user-attachments/assets/dacb6898-eb8b-4206-985c-76c1636fa7e5)
+
     [
       [2,4,3,5],
       [5,4,9,3],
@@ -43,6 +45,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+![2684 que 2](https://github.com/user-attachments/assets/db4da6c1-35e4-4ca8-a30b-0ae8aa89f410)
 
   ### 📥 `Input` ➤ grid = 
     [
