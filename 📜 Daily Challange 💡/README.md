@@ -1,6 +1,20 @@
 
 <h1 align="center"> 
 
+NOVEMBER 🎡 2024
+
+</h1>
+
+| 🔹DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|-------------|-------------|------------------|-----------------|----------------|
+| 01 ┆ NOV ┆ 2024 | ♻️ Easy ♻️ | []() | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+</br>
+
+</br>
+
+<h1 align="center"> 
+
 OCTOBER 🪔 2024
 
 </h1>
