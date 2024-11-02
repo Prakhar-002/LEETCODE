@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(strArr)
 
-//? 🧺 Space complexity ➺ O(n)
+//? 🧺 Space complexity ➺ O(n) 
 
 function isCircularSentence(sentence) {
       // Splitting the sentence into words automatically removes extra spaces
