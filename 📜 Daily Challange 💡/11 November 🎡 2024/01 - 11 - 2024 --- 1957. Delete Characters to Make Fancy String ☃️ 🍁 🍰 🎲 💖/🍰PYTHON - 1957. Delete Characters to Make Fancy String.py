@@ -1,13 +1,29 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER 1957
 
-#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(s)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(n)
 
-# https://github.com/Prakhar-002/LEETCODE
+class Solution:
+      def makeFancyString(self, s: str) -> str:
+            # Initialize 'fancy' with the first two characters of 's' since we need at least
+            # two characters to check for three consecutive duplicates.
+            fancy = s[:2]
 
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
+            # Start iterating from the third character in the string.
+            for i in range(2, len(s)):
+                  ch = s[i]
+                  
+                  # Check if the last two characters in 'fancy' are the same as the current character.
+                  # If they are, it means we would have three consecutive identical characters, 
+                  # so we skip adding 'ch' to 'fancy'.
+                  if fancy[-1] == ch and fancy[-2] == ch:
+                        continue
+                  else:
+                        # Otherwise, add 'ch' to 'fancy' since it won't create three consecutive duplicates.
+                        fancy += ch
 
-#  Space complexity -> O(1)
+            # Return the modified string that avoids three consecutive identical characters.
+            return fancy
