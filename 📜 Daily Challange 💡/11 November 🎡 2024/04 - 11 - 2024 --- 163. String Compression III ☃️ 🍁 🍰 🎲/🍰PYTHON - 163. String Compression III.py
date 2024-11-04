@@ -1,6 +1,6 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER 1277
+# Todo 💎 QUESTION NUMBER ----
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
@@ -11,7 +11,3 @@
 # ⌚ Time complexity -> O(n) ->  n = len(nums)
 
 #  Space complexity -> O(1)
-
-class Solution:
-      def countSquares(self, matrix: List[List[int]]) -> int:
-            
