@@ -28,11 +28,15 @@
   ### 🔦 `Explanation`  ➤ 
 
 ➺ For queries[0]=1, [1,2] is the only item which has price <= 1. Hence, the answer for this query is 2.
+
 ➺ For queries[1]=2, the items which can be considered are [1,2] and [2,4]. 
   The maximum beauty among them is 4.
+
 ➺ For queries[2]=3 and queries[3]=4, the items which can be considered are [1,2], [3,2], [2,4], and [3,5].
   The maximum beauty among them is 5.
+
 ➺ For queries[4]=5 and queries[5]=6, all items can be considered.
+
 Hence, the answer for them is the maximum beauty of all items, i.e., 6.
 
 </br>
