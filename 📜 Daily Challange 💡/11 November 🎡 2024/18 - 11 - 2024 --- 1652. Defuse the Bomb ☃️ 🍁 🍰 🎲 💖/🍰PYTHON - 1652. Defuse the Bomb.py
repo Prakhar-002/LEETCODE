@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def decrypt(self, code: List[int], k: int) -> List[int]:
             # Get the length of the code list
             N = len(code)
