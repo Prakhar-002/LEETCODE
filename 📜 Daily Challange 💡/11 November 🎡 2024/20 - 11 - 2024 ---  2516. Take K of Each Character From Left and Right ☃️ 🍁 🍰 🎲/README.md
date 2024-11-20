@@ -39,7 +39,7 @@
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **1 <= s.length <= 105** </br>
+🔹 **1 <= s.length <= 10<sup>5</sup>** </br>
 
 🔹 **`s` consists of only the letters `'a'`, `'b'`, and `'c'`.** </br>
 
