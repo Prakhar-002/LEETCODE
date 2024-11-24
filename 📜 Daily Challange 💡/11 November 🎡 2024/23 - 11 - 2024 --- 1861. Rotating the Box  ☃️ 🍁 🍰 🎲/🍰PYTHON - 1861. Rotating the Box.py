@@ -29,4 +29,4 @@ class Solution:
                               i = c - 1  # Reset the tracked position to the left of the obstacle
 
             # Return the rotated box
-            return rotatedBox
+            return rotatedBox 
