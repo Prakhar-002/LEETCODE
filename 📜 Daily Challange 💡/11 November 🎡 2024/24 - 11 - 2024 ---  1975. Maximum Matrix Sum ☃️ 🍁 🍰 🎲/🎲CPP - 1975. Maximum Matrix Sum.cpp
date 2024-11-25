@@ -10,10 +10,11 @@
 #include <cmath>
 #include <algorithm>
 #include <climits>
+using namespace std;
 
 class Solution {
 public:
-      long long maxMatrixSum(std::vector<std::vector<int>>& matrix) {
+      long long maxMatrixSum(vector<vector<int>>& matrix) {
             // maxSum to store the sum of absolute values of the matrix elements,
             long long maxSum = 0;
             // minus to count the number of negative elements,
@@ -28,9 +29,9 @@ public:
                         // Increment the minus counter if the current element is negative.
                         if (n < 0) minus++;
                         // Add the absolute value of the current element to maxSum.
-                        maxSum += static_cast<long long>(std::abs(n));
+                        maxSum += static_cast<long long>(abs(n));
                         // Update minVal to the smallest absolute value encountered so far.
-                        minVal = std::min(minVal, std::abs(n));
+                        minVal = min(minVal, abs(n));
                   }
             }
 
