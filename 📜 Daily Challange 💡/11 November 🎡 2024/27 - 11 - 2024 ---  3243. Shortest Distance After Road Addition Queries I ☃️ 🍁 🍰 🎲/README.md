@@ -29,9 +29,15 @@
 
   ### 🔦 `Explanation`  ➤ 
 
+![3243 expl 1 1](https://github.com/user-attachments/assets/69ae6a09-fcb8-4af4-ad1c-242b6487a97a)
+
 ➺ After the addition of the road from 2 to 4, the length of the shortest path from 0 to 4 is 3.
 
+![3243 expl 1 2](https://github.com/user-attachments/assets/b81c1fda-acf1-4d62-a413-43b5d2281fcb)
+
 ➺ After the addition of the road from 0 to 2, the length of the shortest path from 0 to 4 is 2.
+
+![3243 expl 1 3](https://github.com/user-attachments/assets/ad3b3d43-5fb3-496c-8053-42bc0c5bd3a5)
 
 ➺ After the addition of the road from 0 to 4, the length of the shortest path from 0 to 4 is 1.
 
@@ -45,7 +51,11 @@
 
   ### 🔦 `Explanation` ➤ 
 
+![3243 expl 2 1](https://github.com/user-attachments/assets/5d82d22e-8a9f-4a55-a2ba-931e2971ab69)
+
 ➺ After the addition of the road from 0 to 3, the length of the shortest path from 0 to 3 is 1.
+
+![3243 expl 2 2](https://github.com/user-attachments/assets/cb9a3c41-9496-4ff1-9f02-f7a4b62c0a0d)
 
 ➺ After the addition of the road from 0 to 2, the length of the shortest path remains 1.
 
@@ -79,7 +89,7 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/11%20November%20%F0%9F%8E%A1%202024/27%20-%2011%20-%202024%20---%20%203243.%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA%20-%203243.%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/11%20November%20%F0%9F%8E%A1%202024/27%20-%2011%20-%202024%20---%20%203243.%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP%20-%203243.%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/11%20November%20%F0%9F%8E%A1%202024/27%20-%2011%20-%202024%20---%20%203243.%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON%20-%203243.%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/11%20November%20%F0%9F%8E%A1%202024/27%20-%2011%20-%202024%20---%20%203243.%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%203243.%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I.js) |
