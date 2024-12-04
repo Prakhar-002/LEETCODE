@@ -1,6 +1,25 @@
 
 <h1 align="center"> 
 
+DECEMBER 🐻‍❄️ 2024
+
+</h1>
+
+| 🔹DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|-------------|-------------|------------------|-----------------|----------------|
+| 01 ┆ DEC ┆ 2024 | ♻️ Easy ♻️ | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/?envType=daily-question&envId=2024-12-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/01%20-%2012%20-%202024%20---%201346.%20Check%20If%20N%20and%20Its%20Double%20Exist%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| 02 ┆ DEC ┆ 2024 | ♻️ Easy ♻️ | [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/description/?envType=daily-question&envId=2024-12-02) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/02%20-%2012%20-%202024%20---%201455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix%20of%20Any%20Word%20in%20a%20Sentence%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| 03 ┆ DEC ┆ 2024 | ☢️Medium☢️ | [2109. Adding Spaces to a String](https://leetcode.com/problems/adding-spaces-to-a-string/description/?envType=daily-question&envId=2024-12-01) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/03%20-%2012%20-%202024%20---%202109.%20Adding%20Spaces%20to%20a%20String%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| 04 ┆ DEC ┆ 2024 | ☢️Medium☢️ | [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/description/?envType=daily-question&envId=2024-12-04) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/04%20-%2012%20-%202024%20---%202825.%20Make%20String%20a%20Subsequence%20Using%20Cyclic%20Increments%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+
+
+</br>
+
+</br>
+
+<h1 align="center"> 
+
 NOVEMBER 🎡 2024
 
 </h1>
