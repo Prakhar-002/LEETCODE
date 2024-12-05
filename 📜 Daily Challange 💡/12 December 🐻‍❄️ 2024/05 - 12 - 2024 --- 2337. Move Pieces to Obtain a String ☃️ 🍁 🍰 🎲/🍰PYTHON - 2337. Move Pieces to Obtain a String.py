@@ -19,7 +19,7 @@ class Solution:
 
                   # Skip all underscores in the target string
                   while j < n and target[j] == '_':
-                        j += 1
+                        j += 1 
 
                   # Check if both pointers are out of bounds (end of strings)
                   if i == n or j == n:
