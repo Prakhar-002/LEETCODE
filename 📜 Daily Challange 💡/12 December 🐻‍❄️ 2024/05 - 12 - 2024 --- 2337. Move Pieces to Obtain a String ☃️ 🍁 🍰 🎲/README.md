@@ -60,7 +60,7 @@
 
 🔹 **`n == start.length == target.length`** </br>
 
-🔹 **1 <= n <= 105** </br>
+🔹 **1 <= n <= 10<sup>5</sup>** </br>
 
 🔹 **`start` and `target` consist of the characters `'L'`, `'R'`, and `'_'`.** </br>
 
