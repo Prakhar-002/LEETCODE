@@ -14,24 +14,19 @@ DECEMBER 🐻‍❄️ 2024
 | 05 ┆ DEC ┆ 2024 | ☢️Medium☢️ | [2337. Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string/description/?envType=daily-question&envId=2024-12-05) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/05%20-%2012%20-%202024%20---%202337.%20Move%20Pieces%20to%20Obtain%20a%20String%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | 06 ┆ DEC ┆ 2024 | ☢️Medium☢️ | [2554. Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/?envType=daily-question&envId=2024-12-06) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/06%20-%2012%20-%202024%20---%202554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
-
-
 </br>
 
+<img align="left" src="https://github.com/user-attachments/assets/c2231bf0-a75f-4728-9441-5eb701ae537e" width="90" height="90" alt="November badge">
+
+<img align="right" src="https://github.com/user-attachments/assets/c2231bf0-a75f-4728-9441-5eb701ae537e" width="90" height="90" alt="November badge">
+
 </br>
-
-<img align="left" src="https://github.com/user-attachments/assets/c2231bf0-a75f-4728-9441-5eb701ae537e" width="60" height="60" alt="November badge">
-
-<img align="right" src="https://github.com/user-attachments/assets/c2231bf0-a75f-4728-9441-5eb701ae537e" width="60" height="60" alt="November badge">
 
 <h1 align="center"> 
 
 NOVEMBER 🎡 2024
 
 </h1>
-
-
-
 
 | 🔹DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
 |-------------|-------------|------------------|-----------------|----------------|
@@ -57,6 +52,10 @@ NOVEMBER 🎡 2024
 | 27 ┆ NOV ┆ 2024 | ☢️Medium☢️ | [3243. Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/description/?envType=daily-question&envId=2024-11-27) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/11%20November%20%F0%9F%8E%A1%202024/27%20-%2011%20-%202024%20---%20%203243.%20Shortest%20Distance%20After%20Road%20Addition%20Queries%20I%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
 </br>
+
+<img align="left" src="https://github.com/user-attachments/assets/ab3e9de1-1292-4fce-843f-38c5cc3b9dc7" width="90" height="90" alt="October badge">
+
+<img align="right" src="https://github.com/user-attachments/assets/ab3e9de1-1292-4fce-843f-38c5cc3b9dc7" width="90" height="90" alt="October badge">
 
 </br>
 
@@ -95,6 +94,10 @@ OCTOBER 🪔 2024
 | 25 ┆ OCT ┆ 2024 | ☢️Medium☢️ | [1233. Remove Sub-Folders from the Filesystem](https://leetcode.com/problems/remove-sub-folders-from-the-filesystem/description/?envType=daily-question&envId=2024-10-25) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/10%20October%20%F0%9F%AA%94%202024/25%20-%2010%20-%202024%20---%201233.%20Remove%20Sub-Folders%20from%20the%20Filesystem%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
 </br>
+
+<img align="left" src="https://github.com/user-attachments/assets/d5bf3d37-57e3-42d2-b26d-e83fb5e6fd34" width="90" height="90" alt="September badge">
+
+<img align="right" src="https://github.com/user-attachments/assets/d5bf3d37-57e3-42d2-b26d-e83fb5e6fd34" width="90" height="90" alt="September badge">
 
 </br>
 
@@ -137,8 +140,11 @@ SEPTEMBER 🍂 2024
 | 29 ┆ SEP ┆ 2024 | 🫀 Hard 🫀 | [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/?envType=daily-question&envId=2024-09-29) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/29%20-%2009%20-%202024%20---%20432.%20All%20O%60one%20Data%20Structure%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | 30 ┆ SEP ┆ 2024 | ☢️Medium☢️ | [1381. Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/description/?envType=daily-question&envId=2024-09-30) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/09%20September%20%F0%9F%8D%82%202024/30%20-%2009%20-%202024%20---%201381.%20Design%20a%20Stack%20With%20Increment%20Operation%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
-
 </br>
+
+<img align="left" src="https://github.com/user-attachments/assets/c841de05-2110-4fc4-9bc1-184df9d233c3" width="90" height="90" alt="August badge">
+
+<img align="right" src="https://github.com/user-attachments/assets/c841de05-2110-4fc4-9bc1-184df9d233c3" width="90" height="90" alt="August badge">
 
 </br>
 
@@ -184,6 +190,10 @@ AUGUST 🏵️ 2024
 
 </br>
 
+<img align="left" src="https://github.com/user-attachments/assets/33885589-2099-41f5-95de-19d34fc33e18" width="90" height="90" alt="July badge">
+
+<img align="right" src="https://github.com/user-attachments/assets/33885589-2099-41f5-95de-19d34fc33e18" width="90" height="90" alt="July badge">
+
 </br>
 
 <h1 align="center"> 
@@ -226,9 +236,11 @@ JULY  🏖️ 2024
 | 30 ┆ JULY ┆ 2024 | ☢️Medium☢️ | [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2024-07-30) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/30%20-%2007%20-%202024%20---%201653.%20Minimum%20Deletions%20to%20Make%20String%20Balanced%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
 | 31 ┆ JULY ┆ 2024 | ☢️Medium☢️ | [1105. Filling Bookcase Shelves](https://leetcode.com/problems/filling-bookcase-shelves/description/?envType=daily-question&envId=2024-07-31) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/07%20July%20%20%F0%9F%8F%96%EF%B8%8F%202024/31%20-%2007%20-%202024%20---%201105.%20Filling%20Bookcase%20Shelves%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
-
-
 </br>
+
+<img align="left" src="https://github.com/user-attachments/assets/0e3cfa5a-d926-4e87-a2b2-192d0a0dcee1" width="90" height="90" alt="June badge">
+
+<img align="right" src="https://github.com/user-attachments/assets/0e3cfa5a-d926-4e87-a2b2-192d0a0dcee1" width="90" height="90" alt="June badge">
 
 </br>
 
@@ -272,6 +284,10 @@ June 🌞 2024
 | 30 ┆ JUNE ┆ 2024 | 🫀 Hard 🫀 | [1579. Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/description/?envType=daily-question&envId=2024-06-30) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/06%20June%20%20%F0%9F%8C%9E%202024/30%20-%2006%20-%202024%20---%201579.%20Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
 </br>
+
+<img align="left" src="https://github.com/user-attachments/assets/4500d9f6-4a09-4fb1-9a5f-8ff0eeaecfd7" width="90" height="90" alt="May badge">
+
+<img align="right" src="https://github.com/user-attachments/assets/4500d9f6-4a09-4fb1-9a5f-8ff0eeaecfd7" width="90" height="90" alt="May badge">
 
 </br>
 
