@@ -9,9 +9,14 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-long long minimalKSum(int* nums, int numsSize, int k) {
-      // Sort the input array
-      qsort(nums, numsSize, sizeof(int), (int(*)(const void*, const void*)) strcmp);
+// Function to compare integers for qsort
+int compare(const void *a, const void *b) {
+      return (*(int *)a - *(int *)b);
+}
+
+long long minimalKSum(int *nums, int numsSize, int k) {
+      // Sort the input array using a more efficient integer comparator
+      qsort(nums, numsSize, sizeof(int), compare);
 
       // Initialize the result sum
       long long res = 0;
@@ -21,12 +26,14 @@ long long minimalKSum(int* nums, int numsSize, int k) {
 
       for (int i = 0; i < numsSize; i++) {
             int num = nums[i];
+
             // If there is a gap between prev and the current number
             if (num > prev + 1) {
                   // Calculate the number of missing elements in the gap
                   int gap = (k < (num - prev - 1)) ? k : (num - prev - 1);
 
                   // Add the sum of the first 'gap' missing numbers
+                  // Using the formula for the sum of an arithmetic sequence: sum = (first + last) * count / 2
                   res += (long long)(prev + 1 + prev + gap) * gap / 2;
 
                   // Reduce k by the number of elements added
@@ -43,10 +50,10 @@ long long minimalKSum(int* nums, int numsSize, int k) {
       }
 
       // If k > 0, add the next k numbers starting from prev + 1
-      if (k > 0) {
+      if (k > 0)
+      {
             res += (long long)(prev + 1 + prev + k) * k / 2;
       }
 
       return res;
 }
-
