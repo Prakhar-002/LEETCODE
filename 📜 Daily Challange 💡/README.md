@@ -20,11 +20,18 @@ DECEMBER 🐻‍❄️ 2024
 
 </br>
 
+<img align="left" src="https://github.com/user-attachments/assets/c2231bf0-a75f-4728-9441-5eb701ae537e" width="60" height="60" alt="November badge">
+
+<img align="right" src="https://github.com/user-attachments/assets/c2231bf0-a75f-4728-9441-5eb701ae537e" width="60" height="60" alt="November badge">
+
 <h1 align="center"> 
 
 NOVEMBER 🎡 2024
 
 </h1>
+
+
+
 
 | 🔹DATE 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
 |-------------|-------------|------------------|-----------------|----------------|
