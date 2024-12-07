@@ -12,6 +12,6 @@
 
 #  Space complexity -> O(1)
 
-# class Solution:
-#       def can_divide(self, candies, )
-#       def maximumCandies(self, candies: List[int], k: int) -> int:
+class Solution:
+      def can_divide(self, candies, )
+      def maximumCandies(self, candies: List[int], k: int) -> int:
