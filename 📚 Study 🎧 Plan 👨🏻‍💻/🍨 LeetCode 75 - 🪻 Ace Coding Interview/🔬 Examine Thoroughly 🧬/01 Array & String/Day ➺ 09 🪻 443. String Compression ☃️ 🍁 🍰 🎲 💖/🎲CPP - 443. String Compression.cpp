@@ -11,7 +11,7 @@
 using namespace std;
 
 class Solution {
-public:
+public: 
       int compress(vector<char>& chars) {
             int n = chars.size();
             int i = 0; // Position to read characters
