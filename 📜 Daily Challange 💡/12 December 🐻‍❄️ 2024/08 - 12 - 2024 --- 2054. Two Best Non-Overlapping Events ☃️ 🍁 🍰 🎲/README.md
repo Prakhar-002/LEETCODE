@@ -21,6 +21,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![2054 que 1](https://github.com/user-attachments/assets/625fde7a-fcf0-4d90-b572-9d136a2cca13)
+
   ### 📥 `Input`  ➤ events = [[1,3,2],[4,5,2],[2,4,3]]
 
   ### 📤 `Output`  ➤ 4
@@ -31,6 +33,8 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
+![2054 que 2](https://github.com/user-attachments/assets/ab343039-de13-4c8b-b391-aadef808813f)
+
   ### 📥 `Input` ➤ events = [[1,3,2],[4,5,2],[1,5,5]]
 
   ### 📤 `Output`  ➤ 5
@@ -40,6 +44,8 @@
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
+
+![2054 que 3](https://github.com/user-attachments/assets/d0f2a517-e8b3-499c-aa9d-5b5e85998a99)
 
   ### 📥 `Input` ➤ events = [[1,5,3],[1,5,1],[6,6,5]]
 
@@ -75,7 +81,7 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/08%20-%2012%20-%202024%20---%202054.%20Two%20Best%20Non-Overlapping%20Events%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA%20-%202054.%20Two%20Best%20Non-Overlapping%20Events.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/08%20-%2012%20-%202024%20---%202054.%20Two%20Best%20Non-Overlapping%20Events%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP%20-%202054.%20Two%20Best%20Non-Overlapping%20Events.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/08%20-%2012%20-%202024%20---%202054.%20Two%20Best%20Non-Overlapping%20Events%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON%20-%202054.%20Two%20Best%20Non-Overlapping%20Events.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/08%20-%2012%20-%202024%20---%202054.%20Two%20Best%20Non-Overlapping%20Events%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%202054.%20Two%20Best%20Non-Overlapping%20Events.js) |
