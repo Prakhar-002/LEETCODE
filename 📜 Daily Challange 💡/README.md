@@ -1,9 +1,4 @@
 
-
-<a href="https://leetcode.com/u/Prakhar-002/" target="_blank">🏷️ PRAKHAR-002 🏷️</a>
-
-
-
 <h1 align="center"> 
 
 DECEMBER 🐻‍❄️ 2024
