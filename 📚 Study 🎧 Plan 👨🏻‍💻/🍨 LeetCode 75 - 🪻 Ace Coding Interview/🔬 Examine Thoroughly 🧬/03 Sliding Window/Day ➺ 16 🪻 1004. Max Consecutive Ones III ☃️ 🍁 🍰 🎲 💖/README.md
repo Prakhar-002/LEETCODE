@@ -23,7 +23,7 @@
 
   ### 🔦 `Explanation`  ➤ 
 
-[1, 1, 1, 0, 0, <u>**1**</u>, <u>1</u>, <u>1</u>, <u>1</u>, <u>1</u>, <u>**1**</u>] Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
+[1, 1, 1, 0, 0, <ins>**1**</ins>, <ins>1</ins>, <ins>1</ins>, <ins>1</ins>, <ins>1</ins>, <ins>**1**</ins>] Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
 
 </br>
 
@@ -35,7 +35,7 @@
 
   ### 🔦 `Explanation` ➤ 
   
-[0, 0, 1, 1, <u>**1**</u>, <u>**1**</u>, <u>1</u>, <u>1</u>, <u>1</u>, <u>**1**</u>, <u>1</u>, <u>1</u>, 0, 0, 0, 1, 1, 1, 1] Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
+[0, 0, 1, 1, <ins>**1**</ins>, <ins>**1**</ins>, <ins>1</ins>, <ins>1</ins>, <ins>1</ins>, <ins>**1**</ins>, <ins>1</ins>, <ins>1</ins>, 0, 0, 0, 1, 1, 1, 1] Bolded numbers were flipped from 0 to 1. The longest subarray is underlined.
 
 </br>
 
