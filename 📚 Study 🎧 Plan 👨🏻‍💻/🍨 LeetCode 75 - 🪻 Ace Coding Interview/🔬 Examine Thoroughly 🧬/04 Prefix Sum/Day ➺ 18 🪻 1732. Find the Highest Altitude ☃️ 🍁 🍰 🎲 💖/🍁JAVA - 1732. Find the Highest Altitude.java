@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-class Solution {
+class Solution { 
       public int largestAltitude(int[] gain) {
             // Initialize the highest altitude to negative infinity
             int highAltitude = Integer.MIN_VALUE;

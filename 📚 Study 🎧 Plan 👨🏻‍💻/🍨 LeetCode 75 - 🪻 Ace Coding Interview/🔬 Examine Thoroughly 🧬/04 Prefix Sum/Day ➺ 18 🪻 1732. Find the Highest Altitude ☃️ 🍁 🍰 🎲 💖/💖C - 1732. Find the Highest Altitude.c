@@ -7,7 +7,7 @@
 //? 🧺 Space complexity ➺ O(1)
 
 #include <stdio.h>
-#include <limits.h>
+#include <limits.h> 
 
 int largestAltitude(int* gain, int gainSize) {
       // Initialize the highest altitude to negative infinity

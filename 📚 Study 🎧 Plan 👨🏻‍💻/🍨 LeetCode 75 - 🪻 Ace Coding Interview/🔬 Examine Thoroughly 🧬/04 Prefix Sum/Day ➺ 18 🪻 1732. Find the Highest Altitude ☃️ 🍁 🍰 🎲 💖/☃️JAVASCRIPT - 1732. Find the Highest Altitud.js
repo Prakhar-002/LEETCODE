@@ -8,7 +8,7 @@
 
 var largestAltitude = function (gain) {
       // Initialize the highest altitude to negative infinity
-      let highAltitude = -Infinity;
+      let highAltitude = -Infinity; 
 
       // Initialize the current altitude to 0
       let curSum = 0;

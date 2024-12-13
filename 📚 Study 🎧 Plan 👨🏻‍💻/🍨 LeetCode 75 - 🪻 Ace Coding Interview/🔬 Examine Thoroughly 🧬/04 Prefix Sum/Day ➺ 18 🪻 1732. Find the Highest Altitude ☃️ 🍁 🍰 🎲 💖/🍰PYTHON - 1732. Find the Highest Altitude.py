@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def largestAltitude(self, gain: List[int]) -> int:
             # Initialize the highest altitude to negative infinity
             highAltitude = float('-inf')
