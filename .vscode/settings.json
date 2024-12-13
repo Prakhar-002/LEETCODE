@@ -1,0 +1,8 @@
+{
+      "files.associations": {
+            "*.ejs": "html",
+            "algorithm": "cpp",
+            "limits": "cpp",
+            "utility": "cpp"
+      }
+}
