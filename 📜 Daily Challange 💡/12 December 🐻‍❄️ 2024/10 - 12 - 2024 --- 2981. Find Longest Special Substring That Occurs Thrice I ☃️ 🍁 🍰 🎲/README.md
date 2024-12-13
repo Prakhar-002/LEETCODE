@@ -47,7 +47,7 @@
 
   ### 📤 `Output`  ➤ 1
 
-  ### 🔦 `Explanation`  ➤ The longest special substring which occurs thrice is "a": substrings "<u>a</u>bcaba", "abc<u>a</u>ba", and "abcab<u>a</u>".</br> It can be shown that the maximum length achievable is 1.
+  ### 🔦 `Explanation`  ➤ The longest special substring which occurs thrice is "a": substrings "<ins>a</ins>bcaba", "abc<ins>a</ins>ba", and "abcab<ins>a</ins>".</br> It can be shown that the maximum length achievable is 1.
 
 </br>
 
