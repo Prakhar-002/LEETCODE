@@ -74,33 +74,11 @@ Our score is 1 + 2 + 2 = 5.
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  &nbsp;
-🔸 **Heap (Priority Queue)**  &nbsp;
-🔸 **Sorting** &nbsp;
-🔸 **Array** &nbsp;
-🔸 **Simulation** &nbsp;
-🔸 **Hash Table** &nbsp;
-🔸 **Ordered Set** &nbsp;
-🔸 **Ordered Map** &nbsp;
-🔸 **Greedy** &nbsp;
-🔸 **Sliding Window** &nbsp;
-🔸 **Monotonic Stack** &nbsp;
-🔸 **Two Pointers** &nbsp;
-🔸 **Queue** &nbsp;
-🔸 **Stack** &nbsp;
-🔸 **Divide and Conquer** &nbsp;
-🔸 **Dynamic Programming** &nbsp;
-🔸 **Doubly-Linked List** &nbsp;
-🔸 **Data Stream** &nbsp;
-🔸 **Radix Sort** &nbsp;
-🔸 **Tree** &nbsp;
-🔸 **String** &nbsp;
-🔸 **Design** &nbsp;
-🔸 **Hash Function** &nbsp;
-🔸 **Bit Manipulation** &nbsp;
-🔸 **Iterator** &nbsp;
-🔸 **Counting Sort** &nbsp;
-🔸 **Linked List**  &nbsp;
+🔸 **Array**  </br>
+🔸 **Heap (Priority Queue)**  </br>
+🔸 **Sorting** </br>
+🔸 **Simulation** </br>
+🔸 **Hash Table** </br>
 
 </br>
 
