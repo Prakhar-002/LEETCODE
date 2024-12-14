@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n1, n2)  -> m = len(nums) n2 = unique in nums2
 
-class Solution:
+class Solution: 
       def findDifference(self, nums1, nums2):
             # Create sets to store unique elements from both arrays
             nums1_set = set(nums1)
