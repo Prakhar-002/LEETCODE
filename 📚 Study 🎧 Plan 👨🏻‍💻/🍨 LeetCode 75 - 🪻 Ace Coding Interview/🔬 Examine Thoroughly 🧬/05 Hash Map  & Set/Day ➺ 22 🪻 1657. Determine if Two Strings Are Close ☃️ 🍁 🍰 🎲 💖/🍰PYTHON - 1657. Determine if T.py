@@ -6,6 +6,9 @@
 
 #? 🧺 Space complexity ➺ O(1)    👉🏻  m = len(word2)
 
+from typing import Counter
+
+
 class Solution:
       def closeStrings(self, word1: str, word2: str) -> bool:
             # If lengths of the words don't match, they cannot be close
@@ -28,3 +31,14 @@ class Solution:
 
             # Compare sorted frequency distributions
             return sorted(freq1) == sorted(freq2)
+
+#!-------------------------------------------------------------------------------
+
+#? ⌚ Time complexity ➺ O(n + m) 👉🏻  n = len(word1)
+
+#? 🧺 Space complexity ➺ O(1)    👉🏻  m = len(word2)
+
+class Solution:
+      def closeStrings(self, word1: str, word2: str) -> bool:
+            # if sorted(word1) != sorted(word2): return False
+            return sorted(Counter(word1).values()) == sorted(Counter(word2).values()) and sorted(Counter(word1).keys()) == sorted(Counter(word2).keys())
