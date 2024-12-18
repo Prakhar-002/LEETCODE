@@ -28,8 +28,6 @@ class Solution {
                   s.push(prices[i]);
             }
 
-            System.out.println(s);
-
             return ans;
       }
 }
