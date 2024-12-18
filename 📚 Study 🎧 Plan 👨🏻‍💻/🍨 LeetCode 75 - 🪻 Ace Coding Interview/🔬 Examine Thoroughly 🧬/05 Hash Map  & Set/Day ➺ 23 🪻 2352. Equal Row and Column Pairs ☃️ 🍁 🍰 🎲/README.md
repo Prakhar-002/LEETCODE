@@ -19,6 +19,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![2352 que 1](https://github.com/user-attachments/assets/b10cacd0-b26a-489a-9fb9-74e17ef1d46d)
+
   ### 📥 `Input`  ➤  grid = [[3,2,1],[1,7,6],[2,7,7]]
 
   ### 📤 `Output`  ➤ 1
@@ -30,6 +32,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+![2352 que 2](https://github.com/user-attachments/assets/a053891d-573c-47fa-bc01-b240bd3c3bf7)
 
   ### 📥 `Input` ➤ grid = [[3,1,2,2],[1,4,4,5],[2,4,2,2],[2,4,2,2]]
 
