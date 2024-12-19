@@ -1,11 +1,15 @@
 
 import java.util.*;
 
-class Solution {
-      public int equalPairs(int[][] grid) {
-            HashSet<int[]> rowSet = new HashSet<>();
-            HashSet<int[]> colSet = new HashSet<>();
+// class Solution {
+//       public int equalPairs(int[][] grid) {
 
-            
+//       }
+// }
+
+class Solution {
+      public int[] asteroidCollision(int[] asteroids) {
+            Stack<Integer> s = new Stack<>();
+
       }
 }
