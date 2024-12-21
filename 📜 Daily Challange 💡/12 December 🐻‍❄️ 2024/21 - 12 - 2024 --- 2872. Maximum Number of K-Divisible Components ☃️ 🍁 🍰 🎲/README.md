@@ -23,7 +23,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-![2872 que 1](https://github.com/user-attachments/assets/89673eb4-17d0-42d7-b438-b96057c4ec9b)
+![2872 que 1](https://github.com/user-attachments/assets/d6450a62-aa51-4e29-a313-3aeb4cba526b)
 
   ### 📥 `Input`  ➤ n = 5, edges = [[0,2],[1,2],[1,3],[2,4]], values = [1,8,1,4,4], k = 6
 
@@ -41,7 +41,7 @@ It can be shown that no other valid split has more than 2 connected components.
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-![2872 que 2](https://github.com/user-attachments/assets/e49c2456-1da1-43a1-ab6f-936d1fabe9c4)
+![2872 que 2](https://github.com/user-attachments/assets/ab7bfaa6-80ce-4be0-b291-ed5ed6aee529)
 
   ### 📥 `Input` ➤  n = 7, edges = [[0,1],[0,2],[1,3],[1,4],[2,5],[2,6]], values = [3,0,6,1,5,2,1], k = 3
 
