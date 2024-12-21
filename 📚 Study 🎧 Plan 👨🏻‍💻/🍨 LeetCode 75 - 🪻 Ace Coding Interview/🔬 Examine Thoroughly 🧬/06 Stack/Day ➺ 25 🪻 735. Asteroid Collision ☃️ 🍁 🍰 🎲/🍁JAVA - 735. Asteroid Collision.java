@@ -8,7 +8,7 @@
 
 import java.util.Stack;
 
-class Solution {
+class Solution { 
       public int[] asteroidCollision(int[] asteroids) {
             // Create a stack to store surviving asteroids
             Stack<Integer> stack = new Stack<>();
