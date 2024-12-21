@@ -8,7 +8,7 @@
 
 import java.util.*;
 
-class Solution {
+class Solution { 
       public String removeStars(String s) {
             // Create a stack to store characters of the string
             Stack<Character> charStack = new Stack<>();
