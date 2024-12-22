@@ -8,7 +8,7 @@
 
 import java.util.HashMap;
 
-class Solution {
+class Solution { 
       public int maximumLength(String s) {
             // Create a HashMap to store the count of substrings.
             HashMap<String, Integer> subStringCount = new HashMap<>();
