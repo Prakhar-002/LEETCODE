@@ -1,7 +1,7 @@
 
 <h1 align="center">
 
-🎓 Explore the courses 📛
+🧭 Explore the courses 🥧
 
 </h1>
 
