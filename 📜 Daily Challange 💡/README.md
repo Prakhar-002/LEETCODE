@@ -1,7 +1,7 @@
 
-<img align="left" src="https://github.com/user-attachments/assets/38c7a6a6-33ee-4457-9127-7eda5f61a0c7" width="90" height="90" alt="November badge">
+<img align="left" src="https://github.com/user-attachments/assets/38c7a6a6-33ee-4457-9127-7eda5f61a0c7" width="90" height="90" alt="Coid Gif">
 
-<img align="right" src="https://github.com/user-attachments/assets/38c7a6a6-33ee-4457-9127-7eda5f61a0c7" width="90" height="90" alt="November badge">
+<img align="right" src="https://github.com/user-attachments/assets/38c7a6a6-33ee-4457-9127-7eda5f61a0c7" width="90" height="90" alt="Coid Gif">
 
 </br>
 
