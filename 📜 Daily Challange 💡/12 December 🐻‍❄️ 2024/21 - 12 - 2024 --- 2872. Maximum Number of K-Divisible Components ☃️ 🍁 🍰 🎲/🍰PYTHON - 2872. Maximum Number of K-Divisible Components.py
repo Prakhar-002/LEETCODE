@@ -8,7 +8,7 @@
 
 from collections import defaultdict
 
-class Solution:
+class Solution: 
       def maxKDivisibleComponents(self, n: int, edges: List[List[int]], node_values: List[int], k: int) -> int:
             # Create an adjacency list to represent the graph
             graph = defaultdict(list)

@@ -10,7 +10,7 @@
 #include <unordered_map>
 using namespace std;
 
-class Solution {
+class Solution { 
 public:
       int maxKDivisibleComponents(int numNodes, vector<vector<int>>& edges, vector<int>& nodeValues, int k) {
             // Create an adjacency list to represent the graph

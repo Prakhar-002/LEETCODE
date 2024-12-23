@@ -12,7 +12,7 @@ var maxKDivisibleComponents = function (numNodes, edges, nodeValues, k) {
       for (const [node1, node2] of edges) {
             graph[node1].push(node2);
             graph[node2].push(node1);
-      }
+      } 
 
       // Initialize the count of k-divisible components
       let kDivisibleCount = 0;

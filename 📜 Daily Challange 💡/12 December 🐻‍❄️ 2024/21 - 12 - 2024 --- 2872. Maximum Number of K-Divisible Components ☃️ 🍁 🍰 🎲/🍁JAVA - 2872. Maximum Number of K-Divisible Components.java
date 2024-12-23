@@ -8,7 +8,7 @@
 
 import java.util.*;
 
-class Solution {
+class Solution { 
       public int maxKDivisibleComponents(int n, int[][] edges, int[] nodeValues, int k) {
             // Create an adjacency list to represent the graph
             Map<Integer, List<Integer>> graph = new HashMap<>();
