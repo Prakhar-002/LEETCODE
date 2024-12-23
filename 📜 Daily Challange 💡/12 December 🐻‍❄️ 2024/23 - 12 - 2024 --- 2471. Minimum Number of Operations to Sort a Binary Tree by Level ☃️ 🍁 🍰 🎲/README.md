@@ -23,6 +23,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![2471 que  1](https://github.com/user-attachments/assets/a7345aeb-abff-449c-a7bd-9ed66fb79183)
+
   ### 📥 `Input`  ➤ root = [1,4,3,7,6,8,5,null,null,null,null,9,null,10]
 
   ### 📤 `Output`  ➤ 3
@@ -43,6 +45,8 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
+![2471 que 2](https://github.com/user-attachments/assets/e950abe9-1d1d-4ac2-be4b-47d7cfee091e)
+
   ### 📥 `Input` ➤ root = [1,3,2,7,6,5,4]
 
   ### 📤 `Output`  ➤ 3
@@ -62,6 +66,8 @@
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
+
+![2471 que 3](https://github.com/user-attachments/assets/a75cc11e-9dd5-4441-bd35-7d84e5f786a5)
 
   ### 📥 `Input` ➤  root = [1,2,3,4,5,6]
 
@@ -93,7 +99,7 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/23%20-%2012%20-%202024%20---%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA%20-%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/23%20-%2012%20-%202024%20---%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP%20-%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20b.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/23%20-%2012%20-%202024%20---%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON%20-%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/12%20December%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202024/23%20-%2012%20-%202024%20---%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20Tree%20by%20Level%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%202471.%20Minimum%20Number%20of%20Operations%20to%20Sort%20a%20Binary%20.js) |
