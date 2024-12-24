@@ -23,7 +23,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-![3203 que 1](https://github.com/user-attachments/assets/e210f854-6c6d-4600-8b6f-4235ae4a947b)
+<img src="https://github.com/user-attachments/assets/e210f854-6c6d-4600-8b6f-4235ae4a947b" width="500" height="250" alt="3203 Que 1">
 
   ### 📥 `Input`  ➤ edges1 = [[0,1],[0,2],[0,3]], edges2 = [[0,1]]
 
@@ -35,7 +35,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-![3203 que 2](https://github.com/user-attachments/assets/e04f77eb-d70b-498d-b869-0eeb1e9153af)
+<img src="https://github.com/user-attachments/assets/e04f77eb-d70b-498d-b869-0eeb1e9153af" width="500" height="250" alt="3203 Que 2">
 
   ### 📥 `Input` ➤ edges1 = [[0,1],[0,2],[0,3],[2,4],[2,5],[3,6],[2,7]], edges2 = [[0,1],[0,2],[0,3],[2,4],[2,5],[3,6],[2,7]]
 
