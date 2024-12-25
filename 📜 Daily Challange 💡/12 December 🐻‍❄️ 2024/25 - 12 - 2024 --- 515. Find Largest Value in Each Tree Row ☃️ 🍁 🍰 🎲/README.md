@@ -17,7 +17,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="https://github.com/user-attachments/assets/abc1dd45-c481-450e-9073-029702857bd1" width="500" height="250" alt="3203 Que 1">
+<img src="https://github.com/user-attachments/assets/abc1dd45-c481-450e-9073-029702857bd1" width="450" height="258" alt="3203 Que 1">
 
   ### 📥 `Input`  ➤  root = [1,3,2,5,3,null,9]
 
