@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-class Solution {
+class Solution { 
       public int maxScoreSightseeingPair(int[] values) {
             int res = 0; // Stores the maximum score found so far
             int cur_max = values[0]; // Tracks the current maximum value of values[i] + i
