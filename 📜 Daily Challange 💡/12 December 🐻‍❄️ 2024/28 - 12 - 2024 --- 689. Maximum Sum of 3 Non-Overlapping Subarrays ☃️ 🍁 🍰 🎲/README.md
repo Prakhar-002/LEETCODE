@@ -37,9 +37,9 @@
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **1 <= nums.length <= 2 * 104** </br>
+🔹 **1 <= nums.length <= 2 * 10<sup>4</sup>** </br>
 
-🔹 **1 <= nums[i] < 216** </br>
+🔹 **1 <= nums[i] < 2<sup>16</sup>** </br>
 
 🔹 **`1 <= k <= floor(nums.length / 3)`** </br>
 
