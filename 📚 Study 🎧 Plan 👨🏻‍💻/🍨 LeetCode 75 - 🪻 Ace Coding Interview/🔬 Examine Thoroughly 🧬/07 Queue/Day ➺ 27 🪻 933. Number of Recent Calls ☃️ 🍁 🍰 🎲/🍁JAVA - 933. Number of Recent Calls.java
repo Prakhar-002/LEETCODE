@@ -24,7 +24,7 @@ class RecentCounter {
             // Remove timestamps that are outside the 3000 ms window
             while (queue.peek() < t - 3000) {
                   queue.poll();
-            }
+            } 
 
             // The size of the queue represents the number of valid requests
             return queue.size();
