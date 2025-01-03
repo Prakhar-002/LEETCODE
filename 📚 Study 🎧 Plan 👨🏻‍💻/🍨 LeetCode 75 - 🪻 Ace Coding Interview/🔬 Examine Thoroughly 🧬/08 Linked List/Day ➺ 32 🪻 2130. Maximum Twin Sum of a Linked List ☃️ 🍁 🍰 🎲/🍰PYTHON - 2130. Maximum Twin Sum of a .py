@@ -10,7 +10,7 @@
 
 # ⌚ Time complexity -> O(n) ->  n = len(nums)
 
-#  Space complexity -> O(1)
+#  Space complexity -> O(1) 
 
 class Solution:
       def pairSum(self, head: Optional[ListNode]) -> int:
