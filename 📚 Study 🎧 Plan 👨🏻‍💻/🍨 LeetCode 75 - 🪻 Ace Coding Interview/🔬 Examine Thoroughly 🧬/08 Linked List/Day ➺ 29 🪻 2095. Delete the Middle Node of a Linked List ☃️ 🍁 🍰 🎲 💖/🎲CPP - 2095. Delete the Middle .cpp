@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-class Solution {
+class Solution { 
 public:
       ListNode* deleteMiddle(ListNode* head) {
             // If the list has only one node, return null as deleting the middle means no nodes remain.
