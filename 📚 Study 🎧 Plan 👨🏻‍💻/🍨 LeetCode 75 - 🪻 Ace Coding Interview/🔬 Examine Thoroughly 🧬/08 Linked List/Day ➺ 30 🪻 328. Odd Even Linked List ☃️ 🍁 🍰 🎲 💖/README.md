@@ -23,7 +23,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-![328 que 1](https://github.com/user-attachments/assets/6a4a8544-a640-4779-bff5-96c25562f5c2)
+<img src="https://github.com/user-attachments/assets/6a4a8544-a640-4779-bff5-96c25562f5c2" width="300px" height="123px"/>
 
   ### 📥 `Input`  ➤ head = [1,2,3,4,5]
 
@@ -33,7 +33,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-![328 que 2](https://github.com/user-attachments/assets/ea185cdf-5a5a-4f3e-835f-14244d286dc8)
+<img src="https://github.com/user-attachments/assets/ea185cdf-5a5a-4f3e-835f-14244d286dc8" width="500px" height="142px"/>
 
   ### 📥 `Input` ➤ head = [2,1,3,5,6,4,7]
 
