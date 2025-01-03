@@ -47,6 +47,8 @@
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
+<img src="https://github.com/user-attachments/assets/44ddbb22-9c8c-4e98-a712-f4e9465ec9ec" width="200px" height="88px" />
+
   ### 📥 `Input` ➤ head = [1,100000]
 
   ### 📤 `Output`  ➤ 100001
