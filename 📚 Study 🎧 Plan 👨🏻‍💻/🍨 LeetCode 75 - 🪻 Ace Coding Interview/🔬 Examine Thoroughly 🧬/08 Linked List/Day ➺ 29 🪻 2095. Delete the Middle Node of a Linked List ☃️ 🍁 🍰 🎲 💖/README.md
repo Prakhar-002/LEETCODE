@@ -21,6 +21,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![2095 que 1](https://github.com/user-attachments/assets/92e91bdc-1577-47d9-9bc1-9c2e5c0f7c97)
+
   ### 📥 `Input`  ➤ head = [1,3,4,7,1,2,6]
 
   ### 📤 `Output`  ➤ [1,3,4,1,2,6]
@@ -31,6 +33,8 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
+![2095 que 2](https://github.com/user-attachments/assets/83353822-12ec-4c93-9017-7a346604e796)
+
   ### 📥 `Input` ➤ head = [1,2,3,4]
 
   ### 📤 `Output`  ➤ [1,2,4]
@@ -40,6 +44,8 @@
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
+
+![2095 que 3](https://github.com/user-attachments/assets/3962bb46-74a0-46c5-813c-0d5ab5a5824a)
 
   ### 📥 `Input` ➤ head = [2,1]
 
