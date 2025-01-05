@@ -21,8 +21,6 @@
 
 <img src="https://github.com/user-attachments/assets/2eac7604-41ea-44e5-a05a-83bcf177b733" width="400px" height="277px"/>
 
-![104 que 1]()
-
   ### 📥 `Input`  ➤ root = [3,9,20,null,null,15,7]
 
   ### 📤 `Output`  ➤ 3
