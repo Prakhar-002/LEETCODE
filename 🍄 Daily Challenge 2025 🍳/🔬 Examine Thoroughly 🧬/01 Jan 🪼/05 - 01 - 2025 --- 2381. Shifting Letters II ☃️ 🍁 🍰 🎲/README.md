@@ -45,7 +45,7 @@
 
 🔹 **`shifts[i].length == 3`** </br>
 
-🔹 **0 <= start<sub>i</sub> <= en<sub>i</sub>i < s.length** </br>
+🔹 **0 <= start<sub>i</sub> <= end<sub>i</sub> < s.length** </br>
 
 🔹 **0 <= direction<sub>i</sub> <= 1** </br>
 
