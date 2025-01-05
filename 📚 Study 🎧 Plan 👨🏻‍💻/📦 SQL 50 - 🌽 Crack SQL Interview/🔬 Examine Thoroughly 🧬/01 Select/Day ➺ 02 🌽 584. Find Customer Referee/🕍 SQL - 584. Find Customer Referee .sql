@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 584
+--Todo 💎 QUESTION NUMBER 584 
 
 SELECT name 
 FROM Customer
