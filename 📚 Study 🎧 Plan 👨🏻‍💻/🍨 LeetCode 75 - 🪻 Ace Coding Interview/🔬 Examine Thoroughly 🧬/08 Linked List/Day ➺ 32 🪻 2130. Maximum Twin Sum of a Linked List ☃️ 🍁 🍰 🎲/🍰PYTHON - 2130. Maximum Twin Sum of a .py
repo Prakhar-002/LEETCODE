@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def pairSum(self, head: ListNode) -> int:
             # If the list has only two elements, return their sum directly
             if head.next and head.next.next is None:
