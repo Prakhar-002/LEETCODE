@@ -123,3 +123,15 @@
 | Day ➺ 30 | ☢️Medium☢️ | [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/?envType=study-plan-v2&envId=leetcode-75) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%8D%A8%20LeetCode%2075%20-%20%F0%9F%AA%BB%20Ace%20Coding%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/08%20Linked%20List/Day%20%E2%9E%BA%2030%20%F0%9F%AA%BB%20328.%20Odd%20Even%20Linked%20List%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
 | Day ➺ 31 | ♻️ Easy ♻️ | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%8D%A8%20LeetCode%2075%20-%20%F0%9F%AA%BB%20Ace%20Coding%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/08%20Linked%20List/Day%20%E2%9E%BA%2031%20%F0%9F%AA%BB%20206.%20Reverse%20Linked%20List%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
 | Day ➺ 32 | ☢️Medium☢️ | [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/?envType=study-plan-v2&envId=leetcode-75) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%8D%A8%20LeetCode%2075%20-%20%F0%9F%AA%BB%20Ace%20Coding%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/08%20Linked%20List/Day%20%E2%9E%BA%2032%20%F0%9F%AA%BB%202130.%20Maximum%20Twin%20Sum%20of%20a%20Linked%20List%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+</br>
+
+<h2 align="center">
+
+9️⃣ Binary Tree - DFS
+
+</h2>
+
+| 🔹DAY🔹 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|------------|-------------|------------------|---------------|----------------|
+| Day ➺ 33 | ♻️ Easy ♻️ | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/?envType=study-plan-v2&envId=leetcode-75) | [✏️SOLUTION✏️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%8D%A8%20LeetCode%2075%20-%20%F0%9F%AA%BB%20Ace%20Coding%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/09%20Binary%20Tree%20-%20DFS/Day%20%E2%9E%BA%2033%20%F0%9F%AA%BB%20104.%20Maximum%20Depth%20of%20Binary%20Tree%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
