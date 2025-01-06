@@ -27,7 +27,7 @@
 
   ### 📤 `Output`  ➤ [1,1,3]
 
-  ### 🔦 `Explanation`  ➤ ➺The answer for each box is as follows:</br> </br> 1) First box: you will have to move one ball from the second box to the first box in one operation.</br> </br> 2) Second box: you will have to move one ball from the first box to the second box in one operation.</br> </br> 3) Third box: you will have to move one ball from the first box to the third box in two operations, and move one ball from the second box to the third box in one operation.
+  ### 🔦 `Explanation`  ➤ The answer for each box is as follows:</br> </br> 1) First box: you will have to move one ball from the second box to the first box in one operation.</br> </br> 2) Second box: you will have to move one ball from the first box to the second box in one operation.</br> </br> 3) Third box: you will have to move one ball from the first box to the third box in two operations, and move one ball from the second box to the third box in one operation.
 
 </br>
 
