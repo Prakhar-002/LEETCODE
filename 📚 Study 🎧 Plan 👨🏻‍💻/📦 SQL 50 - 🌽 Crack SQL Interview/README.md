@@ -49,3 +49,30 @@
 </div>
 
 </br>
+
+</div>
+
+</br>
+
+<h2 align="center"> 
+
+3️⃣ Basic Aggregate Functions
+
+</h2>
+
+<div align="center">
+
+| 🗓️ DAY 🗓️ | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️ SOLUTION ✒️ | 🍄 LANGUAGE 🍄|
+|------------|-------------|------------------|---------------|----------------|
+| Day ➺ 15 | ♻️ Easy ♻️ | [620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50) | [🌽SOLUTION🌽](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Basic%20Aggregate%20Functions/Day%20%E2%9E%BA%2015%20%F0%9F%8C%BD%20620.%20Not%20Boring%20Movies) |🕍 SQL 🕍|
+| Day ➺ 16 | ♻️ Easy ♻️ | [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/?envType=study-plan-v2&envId=top-sql-50) | [🌽SOLUTION🌽](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Basic%20Aggregate%20Functions/Day%20%E2%9E%BA%2016%20%F0%9F%8C%BD%201251.%20Average%20Selling%20Price) |🕍 SQL 🕍|
+| Day ➺ 17 | ♻️ Easy ♻️ | [1075. Project Employees I](https://leetcode.com/problems/project-employees-i/?envType=study-plan-v2&envId=top-sql-50) | [🌽SOLUTION🌽](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Basic%20Aggregate%20Functions/Day%20%E2%9E%BA%2017%20%F0%9F%8C%BD%201075.%20Project%20Employees%20I) |🕍 SQL 🕍|
+| Day ➺ 18 | ♻️ Easy ♻️ | [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/?envType=study-plan-v2&envId=top-sql-50) | [🌽SOLUTION🌽](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Basic%20Aggregate%20Functions/Day%20%E2%9E%BA%2018%20%F0%9F%8C%BD%201633.%20Percentage%20of%20Users%20Attended%20a%20Contest) |🕍 SQL 🕍|
+| Day ➺ 19 | ♻️ Easy ♻️ | [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/?envType=study-plan-v2&envId=top-sql-50) | [🌽SOLUTION🌽](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Basic%20Aggregate%20Functions/Day%20%E2%9E%BA%2019%20%F0%9F%8C%BD%201211.%20Queries%20Quality%20and%20Percentage) |🕍 SQL 🕍|
+| Day ➺ 20 | ☢️Medium☢️ | [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/?envType=study-plan-v2&envId=top-sql-50) | [🌽SOLUTION🌽](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Basic%20Aggregate%20Functions/Day%20%E2%9E%BA%2020%20%F0%9F%8C%BD%201193.%20Monthly%20Transactions%20I) |🕍 SQL 🕍|
+| Day ➺ 21 | ☢️Medium☢️ | [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/?envType=study-plan-v2&envId=top-sql-50) | [🌽SOLUTION🌽]() |🕍 SQL 🕍|
+| Day ➺ 22 | ☢️Medium☢️ | [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/?envType=study-plan-v2&envId=top-sql-50) | [🌽SOLUTION🌽]() |🕍 SQL 🕍|
+
+</div>
+
+</br>
