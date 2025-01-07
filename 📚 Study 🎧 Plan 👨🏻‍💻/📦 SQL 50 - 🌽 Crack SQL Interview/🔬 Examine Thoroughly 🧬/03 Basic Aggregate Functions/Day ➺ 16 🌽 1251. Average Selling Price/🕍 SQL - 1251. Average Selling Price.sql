@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1251
+--Todo 💎 QUESTION NUMBER 1251 
 
 SELECT p.product_id ,
       IFNULL(ROUND(SUM(p.price * u.units) / SUM(u.units) ,2), 0) AS average_price
