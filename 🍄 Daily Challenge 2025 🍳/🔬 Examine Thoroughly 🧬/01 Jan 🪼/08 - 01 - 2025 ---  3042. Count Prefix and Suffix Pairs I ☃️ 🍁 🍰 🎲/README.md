@@ -39,7 +39,7 @@
 
   ### 📤 `Output`  ➤ 2
 
-  ### 🔦 `Explanation` ➤  In this example, the counted index pairs are:</br> i = 0 and j = 1 because isPrefixAndSuffix("pa", "papa") is true.</br> i = 2 and j = 3 because isPrefixAndSuffix("ma", "mama") is true.</br> Therefore, the answer is 2. 
+  ### 🔦 `Explanation` ➤  In this example, the counted index pairs are:</br>➺ i = 0 and j = 1 because isPrefixAndSuffix("pa", "papa") is true.</br>➺ i = 2 and j = 3 because isPrefixAndSuffix("ma", "mama") is true.</br>➺ Therefore, the answer is 2. 
 
 </br>
 
@@ -49,7 +49,7 @@
 
   ### 📤 `Output`  ➤ 0
 
-  ### 🔦 `Explanation`  ➤ In this example, the only valid index pair is i = 0 and j = 1, and isPrefixAndSuffix("abab", "ab") is false.</br> Therefore, the answer is 0.
+  ### 🔦 `Explanation`  ➤ In this example, the only valid index pair is i = 0 and j = 1, and isPrefixAndSuffix("abab", "ab") is false.</br>➺ Therefore, the answer is 0.
 
 </br>
 
