@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08"><strong>➥ ☢️ 3042 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=daily-question&envId=2025-01-08"><strong>➥ ♻️ 3042 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
