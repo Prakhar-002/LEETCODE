@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1) 👉🏻  m = len(prefix)   
 
-class Solution:
+class Solution: 
       def prefixCount(self, words: List[str], prefix: str) -> int:
             # Initialize a counter to store the number of matching prefixes
             count = 0

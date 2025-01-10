@@ -6,7 +6,7 @@
 
 # ? 🧺 Space complexity ➺ O(1)        👉🏻  m = Max len(one word)
 
-class Solution:
+class Solution: 
       def countPrefixSuffixPairs(self, words: List[str]) -> int:
             n = len(words)
             count = 0
