@@ -10,7 +10,7 @@
 #include <string>
 using namespace std;
 
-class Solution {
+class Solution { 
 public:
       int prefixCount(const vector<string>& words, const string& prefix) {
             // Initialize a counter to store the number of matching prefixes
