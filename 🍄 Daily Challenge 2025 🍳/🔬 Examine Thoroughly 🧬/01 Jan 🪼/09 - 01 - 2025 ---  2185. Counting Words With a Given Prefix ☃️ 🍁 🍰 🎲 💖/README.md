@@ -59,7 +59,7 @@
 
 # Similar Question with Prakhar-002 🎭 ˋ°•*⁀➷
 
-### 💎 [3045. Count Prefix and Suffix Pairs II]()
+### 💎 [3045. Count Prefix and Suffix Pairs II](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%F0%9F%AB%80%20Hard%20%F0%9F%AB%80/%F0%9F%AB%80%20Hard%203045.%20Count%20Prefix%20and%20Suffix%20Pairs%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2)
 
 </br>
 
