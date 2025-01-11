@@ -21,7 +21,7 @@
 
   ### 📤 `Output`  ➤  true
 
-  ### 🔦 `Explanation`  ➤ ➺You can construct two palindromes using all characters in s.</br> Some possible constructions "anna" + "elble", "anbna" + "elle", "anellena" + "b"
+  ### 🔦 `Explanation`  ➤ You can construct two palindromes using all characters in s.</br> Some possible constructions "anna" + "elble", "anbna" + "elle", "anellena" + "b"
 
 </br>
 
