@@ -35,7 +35,7 @@ This table contains information of the patients in the hospital.
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input`  ➤ 
+  ### 📥 `Input`  ➤ Patients table:
 
 | patient_id | patient_name | conditions   |
 | ---------- | ------------ | ------------ |
