@@ -64,4 +64,4 @@ This table contains the IDs of a user and a follower in a social media app where
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍]() |
+|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/04%20Sorting%20and%20Grouping/Day%20%E2%9E%BA%2027%20%F0%9F%8C%BD1729.%20Find%20Followers%20Count/%F0%9F%95%8D%20SQL%20-%201729.%20Find%20Followers%20Count.sql) |
