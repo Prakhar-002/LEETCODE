@@ -13,7 +13,7 @@
 
 ### A parentheses string is a `non-empty` string consisting only of `'('` and `')'`. It is valid if `any` of the following conditions is `true`:
 
-- It is ().
+- It is `()`.
 
 - It can be written as `AB` (`A` concatenated with `B`), where `A` and `B` are valid parentheses strings.
 
@@ -63,7 +63,7 @@
 
 🔹 **`n == s.length == locked.length`** </br>
 
-🔹 **1 <= n <= 105** </br>
+🔹 **1 <= n <= 10<sup>5</sup>** </br>
 
 🔹 **`s[i]` is either `'('` or `')'`.** </br>
 
