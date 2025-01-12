@@ -19,7 +19,7 @@
 | product_name     | varchar |
 | product_category | varchar |
 
-product_id is the primary key (column with unique values) for this table.
+product_id is the primary key (column with unique values) for this table.</br>
 This table contains data about the company's products.
 
 ---
@@ -32,8 +32,8 @@ This table contains data about the company's products.
 | order_date    | date    |
 | unit          | int     |
 
-This table may have duplicate rows.
-product_id is a foreign key (reference column) to the Products table.
+This table may have duplicate rows.</br>
+product_id is a foreign key (reference column) to the Products table.</br>
 unit is the number of products ordered in order_date.
 
 ---
