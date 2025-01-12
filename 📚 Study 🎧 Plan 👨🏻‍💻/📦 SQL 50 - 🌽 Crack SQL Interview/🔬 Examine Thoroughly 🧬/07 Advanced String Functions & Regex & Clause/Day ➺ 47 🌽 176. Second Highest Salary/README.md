@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/second-highest-salary/description/?envType=study-plan-v2&envId=top-sql-50"><strong>➥ ♻️ 176 Leetcode Easy ♻️ </strong></a>
+<a href="https://leetcode.com/problems/second-highest-salary/description/?envType=study-plan-v2&envId=top-sql-50"><strong>➥ ☢️ 176 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
@@ -33,7 +33,17 @@ Each row of this table contains information about the salary of an employee.
 
   ### 📥 `Input`  ➤ Employee table:
 
+| id | salary |
+| -- | ------ |
+| 1  | 100    |
+| 2  | 200    |
+| 3  | 300    |
+
   ### 📤 `Output`  ➤
+
+| SecondHighestSalary |
+| ------------------- |
+| 200                 |
 
 </br>
 
@@ -41,7 +51,15 @@ Each row of this table contains information about the salary of an employee.
 
   ### 📥 `Input`  ➤ Employee table:
 
+| id | salary |
+| -- | ------ |
+| 1  | 100    |
+
   ### 📤 `Output`  ➤
+
+| SecondHighestSalary |
+| ------------------- |
+| null                |
 
 </br>
 
