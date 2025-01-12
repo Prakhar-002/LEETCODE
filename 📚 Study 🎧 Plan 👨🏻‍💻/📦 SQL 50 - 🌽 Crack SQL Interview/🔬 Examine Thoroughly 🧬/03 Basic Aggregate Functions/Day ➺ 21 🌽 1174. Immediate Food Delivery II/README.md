@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50"><strong>➥ ♻️ 1174 Leetcode Easy ♻️ </strong></a>
+<a href="https://leetcode.com/problems/immediate-food-delivery-ii/description/?envType=study-plan-v2&envId=top-sql-50"><strong>➥ ☢️ 1174 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
