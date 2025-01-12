@@ -31,6 +31,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+<img src="https://github.com/user-attachments/assets/663abbfd-5982-4c87-b3c6-e1152a986647" width="311px" height="101px"/>
+
   ### 📥 `Input`  ➤ s = "))()))", locked = "010100"
 
   ### 📤 `Output`  ➤ true
