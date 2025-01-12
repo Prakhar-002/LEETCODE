@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50"><strong>➥ ♻️ 1204 Leetcode Easy ♻️ </strong></a>
+<a href="https://leetcode.com/problems/last-person-to-fit-in-the-bus/?envType=study-plan-v2&envId=top-sql-50"><strong>➥ ☢️ 1204 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
@@ -42,7 +42,20 @@ weight is the weight of the person in kilograms.
 
   ### 📥 `Input`  ➤ Queue table:
 
+| person_id | person_name | weight | turn |
+| --------- | ----------- | ------ | ---- |
+| 5         | Alice       | 250    | 1    |
+| 4         | Bob         | 175    | 5    |
+| 3         | Alex        | 350    | 2    |
+| 6         | John Cena   | 400    | 3    |
+| 1         | Winston     | 500    | 6    |
+| 2         | Marie       | 200    | 4    |
+
   ### 📤 `Output`  ➤
+
+| person_name |
+| ----------- |
+| John Cena   |
 
   ### 🔦 `Explanation`  ➤  The folowing table is ordered by the turn for simplicity.
 
@@ -51,11 +64,14 @@ weight is the weight of the person in kilograms.
 |------|----|-----------|--------|--------------|
 | 1    | 5  | Alice     | 250    | 250          |
 | 2    | 3  | Alex      | 350    | 600          |
-| 3    | 6  | John Cena | 400    | 1000         | (last person to board)
-| 4    | 2  | Marie     | 200    | 1200         | (cannot board)
+| 3    | 6  | John Cena | 400    | 1000         | 
+| 4    | 2  | Marie     | 200    | 1200         |
 | 5    | 4  | Bob       | 175    | ___          |
 | 6    | 1  | Winston   | 500    | ___          |
 
+### 3 (last person to board)
+
+### 4  (cannot board)
 
 </br>
 
@@ -69,4 +85,4 @@ weight is the weight of the person in kilograms.
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍]() |
+|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/05%20Advanced%20Select%20and%20Joins/Day%20%E2%9E%BA%2035%20%F0%9F%8C%BD1204.%20Last%20Person%20to%20Fit%20in%20the%20Bus/%F0%9F%95%8D%20SQL%20-%201204.%20Last%20Person%20to%20Fit%20in%20the%20Bus.sql) |
