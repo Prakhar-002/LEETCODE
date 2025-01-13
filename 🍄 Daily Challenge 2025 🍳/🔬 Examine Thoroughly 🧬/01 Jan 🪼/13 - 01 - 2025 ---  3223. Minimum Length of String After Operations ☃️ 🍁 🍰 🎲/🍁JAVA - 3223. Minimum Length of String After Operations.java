@@ -12,7 +12,8 @@ class Solution {
             int[] charFreq = new int[26];
 
             // Iterate over each character in the string
-            for (char ch : s.toCharArray()) {
+            for (int i = 0; i < s.length(); i++) {
+                  char ch = s.charAt(i);
                   // Increment the count for the corresponding character
                   charFreq[ch - 'a']++;
             }
