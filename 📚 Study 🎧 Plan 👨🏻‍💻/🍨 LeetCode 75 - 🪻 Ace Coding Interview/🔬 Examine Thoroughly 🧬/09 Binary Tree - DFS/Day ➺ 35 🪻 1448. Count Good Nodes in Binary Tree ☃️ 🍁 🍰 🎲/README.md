@@ -19,15 +19,19 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+<img src="https://github.com/user-attachments/assets/08790724-db1f-4470-a036-f882cf1f48ac" width="263px" height="156px"/>
+
   ### 📥 `Input`  ➤ root = [3,1,4,3,null,1,5]
 
   ### 📤 `Output`  ➤ 4
 
-  ### 🔦 `Explanation`  ➤ ➺Nodes in blue are good.</br> Root Node (3) is always a good node.</br> Node 4 -> (3,4) is the maximum value in the path starting from the root.</br> Node 5 -> (3,4,5) is the maximum value in the path</br> Node 3 -> (3,1,3) is the maximum value in the path.
+  ### 🔦 `Explanation`  ➤ Nodes in blue are good.</br> Root Node (3) is always a good node.</br> Node 4 -> (3,4) is the maximum value in the path starting from the root.</br> Node 5 -> (3,4,5) is the maximum value in the path</br> Node 3 -> (3,1,3) is the maximum value in the path.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+<img src="https://github.com/user-attachments/assets/2ccdc5e0-d1e5-442b-83d3-de937222deeb" width="157px" height="161px"/>
 
   ### 📥 `Input` ➤ root = [3,3,null,4,2]
 
@@ -43,7 +47,7 @@
 
   ### 📤 `Output`  ➤ 1
 
-  ### 🔦 `Explanation`  ➤ Root is considered as good.
+  ### 🔦 `Explanation`  ➤ Root is considered as <h2>good</h2>.
 
 </br>
 
