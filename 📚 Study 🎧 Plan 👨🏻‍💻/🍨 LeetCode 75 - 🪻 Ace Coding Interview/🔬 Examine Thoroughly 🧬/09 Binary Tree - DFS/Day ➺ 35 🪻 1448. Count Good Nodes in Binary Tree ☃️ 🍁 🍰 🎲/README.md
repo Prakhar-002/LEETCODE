@@ -47,7 +47,7 @@
 
   ### 📤 `Output`  ➤ 1
 
-  ### 🔦 `Explanation`  ➤ Root is considered as <h2>good</h2>.
+  ### 🔦 `Explanation`  ➤ Root is considered as good.
 
 </br>
 
