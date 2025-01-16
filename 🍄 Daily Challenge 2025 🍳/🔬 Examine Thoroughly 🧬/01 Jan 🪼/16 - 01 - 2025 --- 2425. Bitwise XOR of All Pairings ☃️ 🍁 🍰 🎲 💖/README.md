@@ -43,8 +43,6 @@
 
 🔹 **0 <= nums1[i], nums2[j] <= 10<sup>9</sup>** </br>
 
-🔹 **** </br>
-
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
