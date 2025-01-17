@@ -19,6 +19,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+<img src="https://github.com/user-attachments/assets/ec3ee994-df2d-4b36-b181-66ebc020a217" width="450px" height="386px"/>
+
   ### 📥 `Input`  ➤ root = [10,5,-3,3,2,null,11,3,-2,null,1], targetSum = 8
 
   ### 📤 `Output`  ➤ 3
