@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/valid-arrangement-of-pairs/description/?envType=daily-question&envId=2024-11-30"><strong>➥ ☢️ 2097 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/valid-arrangement-of-pairs/description/?envType=daily-question&envId=2024-11-30"><strong>➥ 🫀 2097 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
