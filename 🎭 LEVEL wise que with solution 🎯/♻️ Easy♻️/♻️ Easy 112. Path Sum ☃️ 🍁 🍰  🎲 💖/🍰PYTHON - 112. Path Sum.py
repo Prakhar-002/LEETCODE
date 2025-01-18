@@ -6,6 +6,8 @@
 
 #? 🧺 Space complexity ➺ O(h) 👉🏻  h = Height of Tree
 
+#* Recursive Modify targetSum
+
 class Solution:
       def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
             # If the tree is empty, there is no path, so return False
@@ -30,6 +32,8 @@ class Solution:
 #? ⌚ Time complexity ➺ O(n)  👉🏻  n = No. of Nodes
 
 #? 🧺 Space complexity ➺ O(h) 👉🏻  h = Height of Tree
+
+#* Iterative way
 
 class Solution:
       def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
@@ -60,3 +64,44 @@ class Solution:
 
             # If no path with the target sum was found, return False
             return False
+
+#!---------------------------------------------------------------------------------------
+
+#? ⌚ Time complexity ➺ O(n)  👉🏻  n = No. of Nodes
+
+#? 🧺 Space complexity ➺ O(h) 👉🏻  h = Height of Tree
+
+#* Recursive with cur_sum 
+
+class Solution:
+      def hasPathSum(self, root: Optional[TreeNode], target_sum: int) -> bool:
+            # Variable to track if a path with the given sum exists
+            path_exists = False
+
+            # Helper function for Depth-First Search (DFS)
+            def dfs(node, current_sum):
+                  nonlocal path_exists  # Allow modification of the outer variable
+
+                  # If the node is null, simply return
+                  if not node:
+                        return
+
+                  # Add the current node's value to the running sum
+                  current_sum += node.val
+
+                  # Check if the current node is a leaf node
+                  if not node.left and not node.right:
+                        # If the sum matches target_sum, set path_exists to True
+                        if current_sum == target_sum:
+                              path_exists = True
+                        return
+
+                  # Recursively check the left and right subtrees
+                  dfs(node.left, current_sum)
+                  dfs(node.right, current_sum)
+
+            # Start DFS from the root node with an initial sum of 0
+            dfs(root, 0)
+
+            # Return the result indicating whether a path exists
+            return path_exists
