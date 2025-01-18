@@ -25,7 +25,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/0e5dc1de-94ce-4f0d-b8b6-490f432ecf70" width="605px" height="246px" />
 
   ### 📥 `Input`  ➤ grid = [[0,1,1],[1,1,0],[1,1,0]]
 
@@ -36,6 +36,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+<img src="https://github.com/user-attachments/assets/95670c54-d360-4848-9acc-d97e330a38a5" width="405px" height="246px"/>
 
   ### 📥 `Input` ➤  grid = [[0,1,0,0,0],[0,1,0,1,0],[0,0,0,1,0]]
 
@@ -76,7 +78,7 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/11%20November%20%F0%9F%8E%A1%202024/28%20-%2011%20-%202024%20---%20%202290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA%20-%202290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/11%20November%20%F0%9F%8E%A1%202024/28%20-%2011%20-%202024%20---%20%202290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP%20-%202290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/11%20November%20%F0%9F%8E%A1%202024/28%20-%2011%20-%202024%20---%20%202290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON%20-%202290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9C%20Daily%20Challange%20%F0%9F%92%A1/11%20November%20%F0%9F%8E%A1%202024/28%20-%2011%20-%202024%20---%20%202290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%202290.%20Minimum%20Obstacle%20Removal%20to%20Reach%20Corner.js) |
