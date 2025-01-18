@@ -74,12 +74,12 @@ class Solution:
 #* Recursive with cur_sum 
 
 class Solution:
-      def hasPathSum(self, root: Optional[TreeNode], target_sum: int) -> bool:
+      def hasPathSum(self, root: Optional[TreeNode], targetSum: int) -> bool:
             # Variable to track if a path with the given sum exists
             path_exists = False
 
             # Helper function for Depth-First Search (DFS)
-            def dfs(node, current_sum):
+            def dfs(node, cur_sum):
                   nonlocal path_exists  # Allow modification of the outer variable
 
                   # If the node is null, simply return
@@ -87,18 +87,18 @@ class Solution:
                         return
 
                   # Add the current node's value to the running sum
-                  current_sum += node.val
+                  cur_sum += node.val
 
                   # Check if the current node is a leaf node
                   if not node.left and not node.right:
-                        # If the sum matches target_sum, set path_exists to True
-                        if current_sum == target_sum:
+                        # If the sum matches targetSum, set path_exists to True
+                        if cur_sum == targetSum:
                               path_exists = True
                         return
 
                   # Recursively check the left and right subtrees
-                  dfs(node.left, current_sum)
-                  dfs(node.right, current_sum)
+                  dfs(node.left, cur_sum)
+                  dfs(node.right, cur_sum)
 
             # Start DFS from the root node with an initial sum of 0
             dfs(root, 0)
