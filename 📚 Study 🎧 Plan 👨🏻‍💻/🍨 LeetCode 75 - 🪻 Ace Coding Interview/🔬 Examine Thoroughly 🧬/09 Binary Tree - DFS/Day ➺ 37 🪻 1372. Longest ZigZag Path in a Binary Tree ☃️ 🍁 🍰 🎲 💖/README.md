@@ -63,7 +63,7 @@
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **The number of nodes in the tree is in the range `[1, 5 * 104]`.** </br>
+🔹 **The number of nodes in the tree is in the range [1, 5 * 10<sup>4</sup>].** </br>
 
 🔹 **`1 <= Node.val <= 100`** </br>
 
