@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-class Solution:
+class Solution: 
       def trap(self, height):
             n = len(height)
 
