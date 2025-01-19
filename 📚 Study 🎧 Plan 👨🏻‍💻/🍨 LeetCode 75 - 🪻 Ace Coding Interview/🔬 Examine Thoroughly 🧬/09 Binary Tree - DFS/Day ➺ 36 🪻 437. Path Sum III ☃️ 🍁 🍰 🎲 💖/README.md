@@ -55,6 +55,14 @@
 
 </br>
 
+# 🌯 Similar 🍲 Questions 🍜 `Solution` 🍱 ˋ°•*⁀➷
+
+### ♻️ [112. Path Sum](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%99%BB%EF%B8%8F%20Easy%E2%99%BB%EF%B8%8F/%E2%99%BB%EF%B8%8F%20Easy%20112.%20Path%20Sum%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%20%F0%9F%8E%B2%20%F0%9F%92%96) </br>
+
+### ☢️ [113. Path Sum II](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%98%A2%EF%B8%8F%20Medium%20%E2%98%A2%EF%B8%8F/%E2%98%A2%EF%B8%8F%20Medium%20113.%20Path%20Sum%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) </br>
+
+</br>
+
 # Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
