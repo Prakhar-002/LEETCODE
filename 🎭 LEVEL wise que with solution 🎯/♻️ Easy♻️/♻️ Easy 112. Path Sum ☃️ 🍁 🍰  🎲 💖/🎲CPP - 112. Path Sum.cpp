@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(h) 👉🏻  h = Height of Tree
 
-class Solution {
+class Solution { 
 public:
       bool hasPathSum(TreeNode* root, int targetSum) {
             // If the tree is empty, there is no path, so return false
