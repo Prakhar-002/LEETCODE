@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/trapping-rain-water-ii/description/?envType=daily-question&envId=2025-01-19"><strong>➥ ☢️ 407 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/trapping-rain-water-ii/description/?envType=daily-question&envId=2025-01-19"><strong>➥ 🫀 407 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
