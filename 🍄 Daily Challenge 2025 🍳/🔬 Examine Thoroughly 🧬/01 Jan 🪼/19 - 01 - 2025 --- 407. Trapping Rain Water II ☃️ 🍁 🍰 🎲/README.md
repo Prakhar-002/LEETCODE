@@ -58,6 +58,12 @@
 
 </br>
 
+# 🌯 Similar 🍲 Questions 🍜 `Solution` 🍱 ˋ°•*⁀➷
+
+### 🫀 [42. Trapping Rain Water](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%F0%9F%AB%80%20Hard%20%F0%9F%AB%80/%F0%9F%AB%80%20Hard%2042.%20Trapping%20Rain%20Water%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) </br>
+
+</br>
+
 # Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
