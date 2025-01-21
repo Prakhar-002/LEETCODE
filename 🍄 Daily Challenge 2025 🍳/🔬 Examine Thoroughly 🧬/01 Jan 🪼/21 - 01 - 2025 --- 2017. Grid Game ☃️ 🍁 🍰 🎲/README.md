@@ -23,7 +23,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/5bb2bb35-8d67-4a54-915d-643145eefd5f" width="388px" height="103px"/>
 
   ### 📥 `Input`  ➤ grid = [[2,5,4],[1,5,1]]
 
@@ -35,7 +35,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/f70a28d6-27bb-4fd0-9b75-d2d6978e3f18" width="384px" height="105px"/>
 
   ### 📥 `Input` ➤ grid = [[3,3,1],[8,5,2]]
 
@@ -47,7 +47,7 @@
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/39b70f86-55c6-4bcd-9825-00c45226843b" width="493px" height="103px"/>
 
   ### 📥 `Input` ➤ grid = [[1,3,1,15],[1,3,3,1]]
 
@@ -81,7 +81,7 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/01%20Jan%20%F0%9F%AA%BC/21%20-%2001%20-%202025%20---%202017.%20Grid%20Game%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA%20-%202017.%20Grid%20Game.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/01%20Jan%20%F0%9F%AA%BC/21%20-%2001%20-%202025%20---%202017.%20Grid%20Game%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP%20-%202017.%20Grid%20Game.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/01%20Jan%20%F0%9F%AA%BC/21%20-%2001%20-%202025%20---%202017.%20Grid%20Game%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON%20-%202017.%20Grid%20Game.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/01%20Jan%20%F0%9F%AA%BC/21%20-%2001%20-%202025%20---%202017.%20Grid%20Game%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%202017.%20Grid%20Game.js) |
