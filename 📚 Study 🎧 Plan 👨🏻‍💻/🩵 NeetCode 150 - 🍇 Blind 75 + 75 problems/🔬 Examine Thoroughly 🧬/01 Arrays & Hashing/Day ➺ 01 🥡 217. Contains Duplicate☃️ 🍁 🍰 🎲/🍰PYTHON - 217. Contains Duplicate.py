@@ -23,3 +23,13 @@ class Solution:
 
             # If no duplicates are found, return False.
             return False
+
+#!------------------------------------------------------------------------ 
+
+#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+
+#? 🧺 Space complexity ➺ O(n)
+
+class Solution:
+      def hasDuplicate(self, nums: List[int]) -> bool:
+            return len(set(nums)) < len(nums)
