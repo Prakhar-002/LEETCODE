@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(s + t) 👉🏻  s, t = len(s), len(t) 
 
-#? 🧺 Space complexity ➺ O(1) 
+#? 🧺 Space complexity ➺ O(s + t) 
 
 from collections import Counter, defaultdict
 
@@ -34,7 +34,7 @@ class Solution:
 
 #? ⌚ Time complexity -> O(s + t) -> s, t = len(s), len(t) 
 
-#?  Space complexity -> O(1)  
+#?  Space complexity -> O(s + t)  
 
 class Solution:
       def isAnagram(self, s: str, t: str) -> bool:
@@ -44,7 +44,7 @@ class Solution:
 
 #? ⌚ Time complexity -> O(N Log N) ->  N = max(len(s), len(t))
 
-#? Space complexity -> O(1)  
+#? Space complexity -> O(s + t)  
 
 #* one line
 

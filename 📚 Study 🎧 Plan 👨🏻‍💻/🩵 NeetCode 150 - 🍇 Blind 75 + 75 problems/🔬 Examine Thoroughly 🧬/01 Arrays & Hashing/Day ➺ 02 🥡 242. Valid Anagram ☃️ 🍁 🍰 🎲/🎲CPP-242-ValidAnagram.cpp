@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(s + t) 👉🏻  s, t = len(s), len(t) 
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(s + t)
 
 #include <string>
 #include <unordered_map>

@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(s + t) 👉🏻  s, t = len(s), len(t) 
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(s + t)
 
 var isAnagram = function (s, t) {
       // if length of both string is not equal 
@@ -33,7 +33,7 @@ var isAnagram = function (s, t) {
 
 //? ⌚ Time complexity -> O(N Log N) ->  N = max(len(s), len(t))
 
-//? Space complexity -> O(1)  
+//? Space complexity -> O(s + t)  
 
 //* one line
 
