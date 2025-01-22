@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(s + t) 👉🏻  s, t = len(s), len(t) 
 
-#? 🧺 Space complexity ➺ O(s + t) 
+#? 🧺 Space complexity ➺ O(s + t)  
 
 from collections import Counter, defaultdict
 

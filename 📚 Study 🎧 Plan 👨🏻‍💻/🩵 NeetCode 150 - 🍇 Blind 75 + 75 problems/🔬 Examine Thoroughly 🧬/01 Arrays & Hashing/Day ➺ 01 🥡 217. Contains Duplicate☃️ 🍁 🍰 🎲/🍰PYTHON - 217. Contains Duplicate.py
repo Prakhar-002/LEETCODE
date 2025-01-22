@@ -22,7 +22,7 @@ class Solution:
                   seen.add(num)
 
             # If no duplicates are found, return False.
-            return False
+            return False 
 
 #!------------------------------------------------------------------------ 
 

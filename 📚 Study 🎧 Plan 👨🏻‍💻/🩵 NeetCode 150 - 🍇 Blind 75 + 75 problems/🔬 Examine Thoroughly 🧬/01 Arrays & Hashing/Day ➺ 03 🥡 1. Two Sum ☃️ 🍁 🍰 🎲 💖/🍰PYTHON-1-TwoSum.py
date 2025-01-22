@@ -5,7 +5,7 @@
 
 #? ⌚ Time complexity -> O(n^2) 👉 array length
 
-#? 🧺 Space complexity -> O(1) 
+#? 🧺 Space complexity -> O(1)  
 
 class Solution:
       def twoSum(self, nums: List[int], target: int) -> List[int]:
