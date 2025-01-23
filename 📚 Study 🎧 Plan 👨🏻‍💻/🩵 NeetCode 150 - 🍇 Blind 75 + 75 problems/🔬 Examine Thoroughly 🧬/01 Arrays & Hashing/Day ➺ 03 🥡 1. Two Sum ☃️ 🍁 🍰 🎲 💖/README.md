@@ -11,7 +11,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/two-sum/description/"><strong>➥ ♻️ 1 Leetcode Que♻️ Easy ♻️ </strong></a>
+<a href="https://leetcode.com/problems/two-sum/description/"><strong>➥ ♻️ 1 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
