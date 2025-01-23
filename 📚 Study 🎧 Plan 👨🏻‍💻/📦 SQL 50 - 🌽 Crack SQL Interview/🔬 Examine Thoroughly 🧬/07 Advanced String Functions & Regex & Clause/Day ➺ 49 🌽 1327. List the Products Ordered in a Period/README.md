@@ -115,7 +115,7 @@ HAVING SUM(o.unit) >= 100
 
 </br>
 
-# Solution ✏️ ˋ°•*⁀➷
+# Detail Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |

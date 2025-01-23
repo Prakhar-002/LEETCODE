@@ -91,7 +91,7 @@ HAVING COUNT(DISTINCT product_key) = (SELECT COUNT(product_key) FROM Product)
 
 </br>
 
-# Solution ✏️ ˋ°•*⁀➷
+# Detail Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |

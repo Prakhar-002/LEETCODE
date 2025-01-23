@@ -114,7 +114,7 @@ ORDER BY percentage DESC , contest_id ASC
 
 </br>
 
-# Solution ✏️ ˋ°•*⁀➷
+# Detail Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |

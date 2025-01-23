@@ -104,7 +104,7 @@ on p.product_id = s.product_id
 
 </br>
 
-# Solution ✏️ ˋ°•*⁀➷
+# Detail Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |

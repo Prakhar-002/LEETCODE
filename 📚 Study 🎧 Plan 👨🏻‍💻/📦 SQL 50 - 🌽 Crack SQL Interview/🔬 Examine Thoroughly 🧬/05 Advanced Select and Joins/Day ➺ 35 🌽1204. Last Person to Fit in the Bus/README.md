@@ -104,7 +104,7 @@ ORDER BY q1.turn DESC LIMIT 1
 
 </br>
 
-# Solution ✏️ ˋ°•*⁀➷
+# Detail Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |

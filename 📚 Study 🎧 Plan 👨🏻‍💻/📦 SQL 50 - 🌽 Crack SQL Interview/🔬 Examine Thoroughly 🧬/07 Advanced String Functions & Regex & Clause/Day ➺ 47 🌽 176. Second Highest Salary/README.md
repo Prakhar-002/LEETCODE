@@ -88,7 +88,7 @@ WHERE salary NOT IN (SELECT MAX(salary) FROM Employee)
 
 </br>
 
-# Solution ✏️ ˋ°•*⁀➷
+# Detail Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
