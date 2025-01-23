@@ -1,3 +1,10 @@
+
+[<img align="left" src ="https://github.com/user-attachments/assets/c5e05cce-05ba-4f7d-8cea-67dc1112ab98" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/01%20Select/Day%20%E2%9E%BA%2003%20%F0%9F%8C%BD%20595.%20Big%20Countries)
+[<img align="right" src ="https://github.com/user-attachments/assets/6614aa7c-a424-4349-b963-2111d9e9aa0d" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/01%20Select/Day%20%E2%9E%BA%2005%20%F0%9F%8C%BD%201683.%20Invalid%20Tweets)
+
+</br>
+</br>
+
 # 1148. Article Views I
 
 </br>
@@ -60,6 +67,19 @@ Note that equal author_id and viewer_id indicate the same person.
 # Topics 📋 ˋ°•*⁀➷
 
 🔸 **Database**  </br>
+
+</br>
+
+# SQL 🕍 ˋ°•*⁀➷
+
+```sql
+
+SELECT DISTINCT author_id as id
+FROM Views
+WHERE author_id = viewer_id 
+ORDER BY author_id
+
+```
 
 </br>
 

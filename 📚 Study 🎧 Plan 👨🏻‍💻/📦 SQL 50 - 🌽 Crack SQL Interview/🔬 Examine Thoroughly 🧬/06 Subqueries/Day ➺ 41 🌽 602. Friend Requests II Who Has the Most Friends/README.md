@@ -1,3 +1,10 @@
+
+[<img align="left" src ="https://github.com/user-attachments/assets/c5e05cce-05ba-4f7d-8cea-67dc1112ab98" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/06%20Subqueries/Day%20%E2%9E%BA%2040%20%F0%9F%8C%BD1321.%20Restaurant%20Growth)
+[<img align="right" src ="https://github.com/user-attachments/assets/6614aa7c-a424-4349-b963-2111d9e9aa0d" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/06%20Subqueries/Day%20%E2%9E%BA%2042%20%F0%9F%8C%BD%20585.%20Investments%20in%202016)
+
+</br>
+</br>
+
 # 602. Friend Requests II: Who Has the Most Friends
 
 </br>
@@ -56,6 +63,30 @@ This table contains the ID of the user who sent the request, the ID of the user 
 # Topics 📋 ˋ°•*⁀➷
 
 🔸 **Database**  </br>
+
+</br>
+
+# SQL 🕍 ˋ°•*⁀➷
+
+```sql
+
+SELECT id, COUNT(id) AS num FROM
+(
+
+      SELECT requester_id AS id 
+      FROM RequestAccepted
+
+      UNION ALL
+
+      SELECT accepter_id  AS id
+      FROM RequestAccepted
+
+) temp
+GROUP BY id 
+ORDER BY num DESC
+LIMIT 1 
+
+```
 
 </br>
 

@@ -1,3 +1,10 @@
+
+[<img align="left" src ="https://github.com/user-attachments/assets/c5e05cce-05ba-4f7d-8cea-67dc1112ab98" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/04%20Sorting%20and%20Grouping/Day%20%E2%9E%BA%2023%20%F0%9F%8C%BD2356.%20Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher)
+[<img align="right" src ="https://github.com/user-attachments/assets/6614aa7c-a424-4349-b963-2111d9e9aa0d" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/04%20Sorting%20and%20Grouping/Day%20%E2%9E%BA%2025%20%F0%9F%8C%BD1070.%20Product%20Sales%20Analysis%20III)
+
+</br>
+</br>
+
 # 1141. User Activity for the Past 30 Days I
 
 </br>
@@ -67,6 +74,21 @@ Note that each session belongs to exactly one user.
 # Topics 📋 ˋ°•*⁀➷
 
 🔸 **Database**  </br>
+
+</br>
+
+# SQL 🕍 ˋ°•*⁀➷
+
+```sql
+
+SELECT 
+      activity_date AS day,
+      COUNT(DISTINCT user_id ) AS active_users
+FROM Activity 
+WHERE activity_date BETWEEN date_sub('2019-07-27', interval 29 day) AND '2019-07-27'
+GROUP BY day
+
+```
 
 </br>
 

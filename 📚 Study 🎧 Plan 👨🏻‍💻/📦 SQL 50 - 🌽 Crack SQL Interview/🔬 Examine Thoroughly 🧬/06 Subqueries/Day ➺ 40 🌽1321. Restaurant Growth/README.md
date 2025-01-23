@@ -1,3 +1,10 @@
+
+[<img align="left" src ="https://github.com/user-attachments/assets/c5e05cce-05ba-4f7d-8cea-67dc1112ab98" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/06%20Subqueries/Day%20%E2%9E%BA%2039%20%F0%9F%8C%BD1341.%20Movie%20Rating)
+[<img align="right" src ="https://github.com/user-attachments/assets/6614aa7c-a424-4349-b963-2111d9e9aa0d" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/06%20Subqueries/Day%20%E2%9E%BA%2041%20%F0%9F%8C%BD%20602.%20Friend%20Requests%20II%20Who%20Has%20the%20Most%20Friends)
+
+</br>
+</br>
+
 # 1321. Restaurant Growth
 
 </br>
@@ -71,6 +78,36 @@ amount is the total paid by a customer.
 # Topics 📋 ˋ°•*⁀➷
 
 🔸 **Database**  </br>
+
+</br>
+
+# SQL 🕍 ˋ°•*⁀➷
+
+```sql
+
+(
+      SELECT SUM(amount)
+      FROM Customer
+      WHERE visited_on BETWEEN DATE_SUB(c.visited_on, INTERVAL 6 DAY)
+      AND c.visited_on
+) AS amount , 
+
+ROUND((
+      SELECT SUM(amount) / 7
+      FROM Customer
+      WHERE visited_on BETWEEN DATE_SUB(c.visited_on, INTERVAL 6 DAY)
+      AND c.visited_on
+), 2) AS average_amount  
+
+FROM Customer c
+WHERE visited_on >= (
+      SELECT DATE_ADD(MIN(visited_on), INTERVAL 6 DAY)
+      FROM Customer
+)
+GROUP BY visited_on
+ORDER BY visited_on
+
+```
 
 </br>
 

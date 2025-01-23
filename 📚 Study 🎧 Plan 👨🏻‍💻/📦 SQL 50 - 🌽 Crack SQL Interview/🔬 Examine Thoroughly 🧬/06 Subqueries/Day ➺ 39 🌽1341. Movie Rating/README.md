@@ -1,3 +1,10 @@
+
+[<img align="left" src ="https://github.com/user-attachments/assets/c5e05cce-05ba-4f7d-8cea-67dc1112ab98" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/06%20Subqueries/Day%20%E2%9E%BA%2038%20%F0%9F%8C%BD626.%20Exchange%20Seats)
+[<img align="right" src ="https://github.com/user-attachments/assets/6614aa7c-a424-4349-b963-2111d9e9aa0d" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/06%20Subqueries/Day%20%E2%9E%BA%2040%20%F0%9F%8C%BD1321.%20Restaurant%20Growth)
+
+</br>
+</br>
+
 # 1341. Movie Rating
 
 </br>
@@ -103,6 +110,37 @@ created_at is the user's review date.
 # Topics 📋 ˋ°•*⁀➷
 
 🔸 **Database**  </br>
+
+</br>
+
+# SQL 🕍 ˋ°•*⁀➷
+
+```sql
+
+(
+SELECT u.name AS results
+FROM Users u 
+LEFT JOIN MovieRating mr 
+ON u.user_id = mr.user_id
+GROUP BY u.user_id
+ORDER BY COUNT(mr.user_id) DESC , u.name 
+LIMIT 1
+)
+
+UNION ALL
+
+(
+SELECT m.title AS results
+FROM Movies m 
+LEFT JOIN MovieRating mr 
+ON m.movie_id = mr.movie_id
+WHERE EXTRACT(year_month FROM created_at) = 202002 
+GROUP BY m.movie_id
+ORDER BY AVG(mr.rating) DESC , m.title 
+LIMIT 1
+)
+
+```
 
 </br>
 

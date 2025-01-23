@@ -1,3 +1,10 @@
+
+[<img align="left" src ="https://github.com/user-attachments/assets/c5e05cce-05ba-4f7d-8cea-67dc1112ab98" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/02%20Basic%20Joins/Day%20%E2%9E%BA%2011%20%F0%9F%8C%BD%20577.%20Employee%20Bonus)
+[<img align="right" src ="https://github.com/user-attachments/assets/6614aa7c-a424-4349-b963-2111d9e9aa0d" width = "120px" />](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%93%A6%20SQL%2050%20-%20%F0%9F%8C%BD%20Crack%20SQL%20Interview/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/02%20Basic%20Joins/Day%20%E2%9E%BA%2013%20%F0%9F%8C%BD%20570.%20Managers%20with%20at%20Least%205%20Direct%20Reports)
+
+</br>
+</br>
+
 # 1280. Students and Examinations
 
 </br>
@@ -115,6 +122,24 @@ Each row of this table indicates that a student with ID student_id attended the 
 # Topics 📋 ˋ°•*⁀➷
 
 🔸 **Database**  </br>
+
+</br>
+
+# SQL 🕍 ˋ°•*⁀➷
+
+```sql
+
+SELECT s.student_id, s.student_name, sub.subject_name, 
+COUNT(e.subject_name) AS attended_exams
+FROM Students s 
+CROSS JOIN Subjects sub 
+LEFT JOIN Examinations e 
+on e.student_id = s.student_id
+and e.subject_name = sub.subject_name
+GROUP BY  s.student_id, s.student_name, sub.subject_name
+ORDER BY  s.student_id, s.student_name
+
+```
 
 </br>
 
