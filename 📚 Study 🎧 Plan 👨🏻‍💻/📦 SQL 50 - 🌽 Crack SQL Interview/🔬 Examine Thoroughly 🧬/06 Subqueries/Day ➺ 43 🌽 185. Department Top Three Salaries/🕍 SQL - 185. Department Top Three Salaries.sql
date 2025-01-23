@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 185
+--Todo 💎 QUESTION NUMBER 185 
 
 SELECT Department, Employee, Salary  -- Selects the Department, Employee, and Salary from the inner query
 FROM
