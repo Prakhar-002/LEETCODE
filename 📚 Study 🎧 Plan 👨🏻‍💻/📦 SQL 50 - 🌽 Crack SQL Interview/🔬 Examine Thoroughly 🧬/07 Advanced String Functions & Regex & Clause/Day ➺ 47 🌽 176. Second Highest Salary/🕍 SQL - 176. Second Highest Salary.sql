@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 176
+--Todo 💎 QUESTION NUMBER 176 
 
 SELECT MAX(salary) AS SecondHighestSalary  -- Selects the maximum salary, renamed as 'SecondHighestSalary'
 FROM Employee  -- From the Employee table

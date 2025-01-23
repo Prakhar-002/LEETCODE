@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1164
+--Todo 💎 QUESTION NUMBER 1164 
 
 SELECT product_id, new_price AS price  -- Selects the product_id and new_price (renamed as price) from Products table
 FROM Products  -- From the Products table

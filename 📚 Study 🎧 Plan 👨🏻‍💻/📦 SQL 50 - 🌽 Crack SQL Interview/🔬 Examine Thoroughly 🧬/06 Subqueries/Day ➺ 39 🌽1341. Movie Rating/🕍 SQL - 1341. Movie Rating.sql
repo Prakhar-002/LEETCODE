@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1341
+--Todo 💎 QUESTION NUMBER 1341 
 
 (
       SELECT u.name AS results  -- Selects the name from Users table and renames it as 'results'

@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 570
+--Todo 💎 QUESTION NUMBER 570 
 
 SELECT e1.name  -- Selects the name of the employee (e1) who manages 5 or more employees
 FROM employee e1  -- From the employee table (alias 'e1') representing managers

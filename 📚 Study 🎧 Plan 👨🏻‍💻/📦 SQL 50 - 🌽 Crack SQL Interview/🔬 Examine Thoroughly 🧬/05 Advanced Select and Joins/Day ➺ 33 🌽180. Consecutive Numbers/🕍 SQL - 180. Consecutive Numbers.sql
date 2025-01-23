@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 180
+--Todo 💎 QUESTION NUMBER 180 
 
 SELECT l1.num AS ConsecutiveNums
 FROM Logs l1, Logs l2, Logs l3

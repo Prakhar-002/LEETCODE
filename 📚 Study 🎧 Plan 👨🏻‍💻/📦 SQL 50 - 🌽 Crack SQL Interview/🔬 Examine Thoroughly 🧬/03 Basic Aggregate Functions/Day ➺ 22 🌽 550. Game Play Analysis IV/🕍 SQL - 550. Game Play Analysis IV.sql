@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 550
+--Todo 💎 QUESTION NUMBER 550 
 
 SELECT 
       ROUND(SUM(player_login) / COUNT(DISTINCT player_id), 2) AS fraction  -- Calculates the fraction of logins by dividing the sum of player_logins by the distinct player_id count, rounded to 2 decimal places

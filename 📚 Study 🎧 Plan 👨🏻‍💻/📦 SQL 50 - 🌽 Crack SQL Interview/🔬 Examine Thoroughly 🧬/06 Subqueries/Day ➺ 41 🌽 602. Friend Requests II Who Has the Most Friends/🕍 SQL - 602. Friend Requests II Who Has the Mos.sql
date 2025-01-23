@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 602
+--Todo 💎 QUESTION NUMBER 602 
 
 SELECT id, COUNT(id) AS num  -- Selects the id and the count of occurrences of each id, renamed as 'num'
 FROM

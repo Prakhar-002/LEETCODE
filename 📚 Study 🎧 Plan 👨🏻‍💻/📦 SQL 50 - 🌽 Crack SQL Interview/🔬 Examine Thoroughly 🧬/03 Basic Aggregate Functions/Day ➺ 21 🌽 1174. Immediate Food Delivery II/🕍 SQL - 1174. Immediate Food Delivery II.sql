@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1174
+--Todo 💎 QUESTION NUMBER 1174 
 
 SELECT 
        ROUND(SUM(IF(min_order_date = min_customer_pref_delivery_date, 1, 0) * 100) / COUNT(min_order_date), 2) AS immediate_percentage  -- Calculates the percentage of immediate deliveries (where order date matches customer preferred delivery date), rounded to 2 decimal places

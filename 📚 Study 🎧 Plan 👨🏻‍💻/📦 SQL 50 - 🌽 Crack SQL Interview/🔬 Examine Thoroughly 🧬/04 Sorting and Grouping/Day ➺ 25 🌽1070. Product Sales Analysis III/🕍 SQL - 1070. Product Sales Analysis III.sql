@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1070
+--Todo 💎 QUESTION NUMBER 1070 
 
 SELECT 
       product_id,  -- Selects the product_id from the sales table

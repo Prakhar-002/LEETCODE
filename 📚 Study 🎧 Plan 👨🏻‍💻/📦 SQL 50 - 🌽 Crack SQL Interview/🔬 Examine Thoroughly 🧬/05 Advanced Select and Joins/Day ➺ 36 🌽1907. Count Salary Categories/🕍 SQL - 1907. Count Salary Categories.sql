@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1907
+--Todo 💎 QUESTION NUMBER 1907 
 
 SELECT "Low Salary" AS category,  -- Selects a constant value "Low Salary" as the category
       SUM(IF(income < 20000, 1, 0)) AS accounts_count  -- Sums the count of accounts where income is less than 20,000

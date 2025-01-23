@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1204
+--Todo 💎 QUESTION NUMBER 1204 
 
 SELECT q1.person_name  -- Selects the person_name from the first instance of the Queue table (q1)
 FROM Queue q1  -- From the Queue table (alias 'q1')

@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1045
+--Todo 💎 QUESTION NUMBER 1045 
 
 SELECT customer_id  -- Selects the customer_id from the Customer table
 FROM Customer  -- From the Customer table

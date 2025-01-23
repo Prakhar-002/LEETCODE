@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 585
+--Todo 💎 QUESTION NUMBER 585 
 
 SELECT ROUND(SUM(tiv_2016), 2) AS tiv_2016  -- Selects the rounded sum of tiv_2016, renamed as 'tiv_2016'
 FROM Insurance  -- From the Insurance table

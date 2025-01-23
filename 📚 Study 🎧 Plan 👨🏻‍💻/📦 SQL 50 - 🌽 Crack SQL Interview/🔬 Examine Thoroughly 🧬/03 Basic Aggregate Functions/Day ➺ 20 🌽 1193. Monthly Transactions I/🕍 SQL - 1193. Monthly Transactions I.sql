@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1193
+--Todo 💎 QUESTION NUMBER 1193 
 
 SELECT 
       -- LEFT(trans_date , 7) AS month ,  -- Alternative approach to extract the month (commented out)

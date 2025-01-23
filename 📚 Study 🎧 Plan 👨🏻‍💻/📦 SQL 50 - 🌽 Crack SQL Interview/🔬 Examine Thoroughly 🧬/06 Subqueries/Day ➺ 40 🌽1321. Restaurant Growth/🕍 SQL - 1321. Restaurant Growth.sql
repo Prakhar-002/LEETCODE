@@ -1,6 +1,6 @@
 --! https://github.com/Prakhar-002/LEETCODE
 
---Todo 💎 QUESTION NUMBER 1321
+--Todo 💎 QUESTION NUMBER 1321 
 
 SELECT visited_on,  -- Selects the visited_on date from the Customer table
 
