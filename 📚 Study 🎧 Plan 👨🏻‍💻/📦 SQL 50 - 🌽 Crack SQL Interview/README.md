@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/f11a5188-86bb-41cc-a87b-e2b0f9787cdd" width="90" height="90" alt="Top 50 SQL Gif">
 
-</br>
+</br> 
 
 <h1 align="center"> 
 
