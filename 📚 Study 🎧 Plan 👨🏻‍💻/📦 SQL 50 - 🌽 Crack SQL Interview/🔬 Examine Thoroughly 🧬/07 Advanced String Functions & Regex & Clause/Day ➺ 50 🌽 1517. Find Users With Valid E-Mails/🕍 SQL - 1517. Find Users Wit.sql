@@ -2,5 +2,6 @@
 
 --Todo 💎 QUESTION NUMBER 1517
 
-SELECT * FROM Users
-WHERE mail REGEXP '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode[.]com$'
+SELECT *  -- Selects all columns from the Users table
+FROM Users  -- From the Users table
+WHERE mail REGEXP '^[a-zA-Z][a-zA-Z0-9_.-]*@leetcode[.]com$'  -- Filters records where the mail column matches the given regular expression pattern
