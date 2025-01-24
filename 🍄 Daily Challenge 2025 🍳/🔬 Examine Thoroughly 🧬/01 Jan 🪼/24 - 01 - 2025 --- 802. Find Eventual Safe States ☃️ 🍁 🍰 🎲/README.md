@@ -21,7 +21,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="https://github.com/user-attachments/assets/7b55c245-5e3d-4aec-9969-c0c1d79c73f2" width="171px" height="600px"/>
+<img src="https://github.com/user-attachments/assets/7b55c245-5e3d-4aec-9969-c0c1d79c73f2" width="600px" height="171px"/>
 
   ### 📥 `Input`  ➤ graph = [[1,2],[2,3],[5],[0],[5],[],[]]
 
