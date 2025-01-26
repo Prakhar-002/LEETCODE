@@ -1,6 +1,6 @@
 <h1 align="center"> 
 
-🍢 Top Interview 150 -🥡 Must-do List for Interview Preparation
+🍢 Top Interview 150 -🥡 Must-do List for Interview Preparation 🍻
 
 </h1> 
 
