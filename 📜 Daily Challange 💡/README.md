@@ -5,7 +5,7 @@
 
 </br>
 
-<h1 align="center"> 
+<h1 align="center">
 
 DECEMBER 🐻‍❄️ 2024
 
