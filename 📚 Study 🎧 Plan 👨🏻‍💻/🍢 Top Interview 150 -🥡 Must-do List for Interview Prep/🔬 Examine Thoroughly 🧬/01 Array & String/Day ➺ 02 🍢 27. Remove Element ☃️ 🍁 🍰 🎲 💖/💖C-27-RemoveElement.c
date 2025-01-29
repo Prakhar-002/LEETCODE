@@ -9,11 +9,17 @@
 #include <stdio.h>
 
 int removeElement(int* nums, int numsSize, int val) {
-      int index = 0;
+      // Initialize a pointer `j` to track the position where the next non-`val` element should be placed
+      int j = 0;
+
+      // Iterate through the array
       for (int i = 0; i < numsSize; i++) {
+            // If the current element is not equal to `val`, keep it
             if (nums[i] != val) {
-                  nums[index++] = nums[i];
+                  nums[j++] = nums[i]; // Assign the element to the `j`-th position and increment `j`
             }
       }
-      return index;
+
+      // Return the new length of the array, which is the value of `j`
+      return j;
 }
