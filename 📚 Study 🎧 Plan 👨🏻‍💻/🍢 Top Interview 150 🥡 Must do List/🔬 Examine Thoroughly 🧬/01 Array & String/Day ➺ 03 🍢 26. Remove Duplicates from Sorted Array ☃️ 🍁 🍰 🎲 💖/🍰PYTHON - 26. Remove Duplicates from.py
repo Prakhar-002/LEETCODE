@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def removeDuplicates(self, nums: list[int]) -> int:
             # Initialize pointer `i` to track the position of the last unique element
             i = 0

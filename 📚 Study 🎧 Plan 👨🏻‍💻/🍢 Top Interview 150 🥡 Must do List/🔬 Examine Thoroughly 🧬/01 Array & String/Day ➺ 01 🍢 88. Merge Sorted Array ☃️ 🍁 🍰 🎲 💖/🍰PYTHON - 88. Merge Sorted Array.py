@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def merge(self, nums1, m, nums2, n):
             # Initialize pointers for nums1, nums2, and the merged array
             i = m - 1  # Pointer for the last element in nums1's initial part

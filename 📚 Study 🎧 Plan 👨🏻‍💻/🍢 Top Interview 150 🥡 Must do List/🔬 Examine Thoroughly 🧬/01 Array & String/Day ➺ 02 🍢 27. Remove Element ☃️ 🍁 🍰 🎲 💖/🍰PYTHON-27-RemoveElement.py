@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity -> O(1) 
 
-class Solution:
+class Solution: 
       def removeElement(self, nums: list[int], val: int) -> int:
             # Initialize a pointer `j` to track the position where the next non-`val` element should be placed
             j = 0
