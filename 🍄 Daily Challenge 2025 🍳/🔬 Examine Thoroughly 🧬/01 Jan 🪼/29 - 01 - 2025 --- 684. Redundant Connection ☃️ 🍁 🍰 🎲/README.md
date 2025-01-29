@@ -21,7 +21,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/4452949a-6bf1-430d-9fde-28458c8837c8" width="222px" height="222px" />
 
   ### 📥 `Input`  ➤ edges = [[1,2],[1,3],[2,3]]
 
@@ -31,7 +31,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/e67dd401-c21f-45e7-88f1-f077984e5113" width="384px" height="222px"/>
 
   ### 📥 `Input` ➤ edges = [[1,2],[2,3],[3,4],[1,4],[1,5]]
 
