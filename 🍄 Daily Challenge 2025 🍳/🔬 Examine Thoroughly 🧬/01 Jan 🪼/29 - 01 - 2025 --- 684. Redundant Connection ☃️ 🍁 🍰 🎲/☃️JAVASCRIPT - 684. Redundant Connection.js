@@ -1,7 +1,6 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
-
-// Todo 📌 QUESTION NUMBER 684
+// Todo 💎 QUESTION NUMBER 684
 
 //* Union find algorithm
 
@@ -21,6 +20,7 @@ var find = function (n, parent) {
             // then check for new parent
             p = parent[p];
       }
+
       return p;
 }
 
