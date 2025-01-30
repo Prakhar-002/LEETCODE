@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(n ^ 2)
 
-import java.util.*;
+import java.util.*; 
 
 class Solution {
       public boolean isValidSudoku(char[][] board) {
