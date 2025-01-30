@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity -> O(n) 👉 length of nums 
 
-//? 🧺 Space complexity -> O(1) 
+//? 🧺 Space complexity -> O(1)
 
 var productExceptSelf = function(nums) {
       // making a output array for storing result
