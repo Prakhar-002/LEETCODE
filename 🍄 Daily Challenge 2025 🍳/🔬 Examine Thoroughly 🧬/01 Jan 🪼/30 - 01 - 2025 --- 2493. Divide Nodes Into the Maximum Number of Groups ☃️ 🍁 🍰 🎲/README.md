@@ -27,7 +27,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/c98b3ac3-b657-4525-88e3-5f0fe7a64ac2" width="352px" height="201px"/>
 
   ### 📥 `Input`  ➤  n = 6, edges = [[1,2],[1,4],[1,5],[2,6],[2,3],[4,6]]
 
