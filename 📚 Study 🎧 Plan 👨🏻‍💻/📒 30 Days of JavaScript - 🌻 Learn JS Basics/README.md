@@ -1,6 +1,6 @@
 <h1 align="center"> 
 
-📒 30 Days of JavaScript - 🌻 Learn JS Basics
+📒 𝟑𝟎 𝑫𝒂𝒚𝒔 𝒐𝒇 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 - 🌻 𝑳𝒆𝒂𝒓𝒏 𝑱𝑺 𝑩𝒂𝒔𝒊𝒄𝒔
 
 </h1>
 
