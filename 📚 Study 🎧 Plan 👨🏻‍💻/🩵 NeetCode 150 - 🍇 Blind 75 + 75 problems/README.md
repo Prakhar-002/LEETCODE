@@ -1,6 +1,6 @@
 <h1 align="center"> 
 
-🩵 NeetCode 150 - 🍇 Blind 75 + 75 problems
+🩵 𝑵𝒆𝒆𝒕𝑪𝒐𝒅𝒆 𝟏𝟓𝟎 - 🍇 𝑩𝒍𝒊𝒏𝒅 𝟕𝟓 + 𝟕𝟓 𝒑𝒓𝒐𝒃𝒍𝒆𝒎𝒔
 
 </h1> 
 
