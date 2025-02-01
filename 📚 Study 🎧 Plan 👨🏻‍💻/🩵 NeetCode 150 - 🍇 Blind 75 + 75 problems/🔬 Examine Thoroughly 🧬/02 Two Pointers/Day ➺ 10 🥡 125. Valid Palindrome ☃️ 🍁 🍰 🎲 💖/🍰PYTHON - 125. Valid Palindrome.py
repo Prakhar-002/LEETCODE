@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       # Function to check if a given string is a palindrome
       def isPalindrome(self, s: str) -> bool:
             # Initialize two pointers: left (l) at the start, right (r) at the end of the string
