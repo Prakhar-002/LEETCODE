@@ -28,7 +28,7 @@
 
 <h2 align="center"> 
 
-2️⃣ Two Pointers
+2️⃣ Two Pointers 
 
 </h2>
 
