@@ -1,3 +1,10 @@
+
+<img align="left" src="https://github.com/user-attachments/assets/711ec5b2-55d5-401d-abb1-180f53b57855" width="110" height="110" alt="30 Days JS Gif">
+
+<img align="right" src="https://github.com/user-attachments/assets/711ec5b2-55d5-401d-abb1-180f53b57855" width="110" height="110" alt="30 Days JS Gif">
+
+</br> 
+
 <h1 align="center"> 
 
 📒 𝟑𝟎 𝑫𝒂𝒚𝒔 𝒐𝒇 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕 - 🌻 𝑳𝒆𝒂𝒓𝒏 𝑱𝑺 𝑩𝒂𝒔𝒊𝒄𝒔
