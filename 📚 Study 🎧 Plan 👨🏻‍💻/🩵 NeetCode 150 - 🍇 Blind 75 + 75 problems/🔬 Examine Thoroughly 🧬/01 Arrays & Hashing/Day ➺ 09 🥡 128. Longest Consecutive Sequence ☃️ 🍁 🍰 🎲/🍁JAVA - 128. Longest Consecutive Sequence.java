@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity -> O(n) 👉 using a set of length n
 
-import java.util.*;
+import java.util.*; 
 
 class Solution {
       public int longestConsecutive(int[] nums) {
