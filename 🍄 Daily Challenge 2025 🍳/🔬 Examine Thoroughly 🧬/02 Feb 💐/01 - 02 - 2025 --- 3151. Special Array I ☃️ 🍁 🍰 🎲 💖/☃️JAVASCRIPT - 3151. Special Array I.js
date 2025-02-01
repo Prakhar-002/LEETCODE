@@ -17,3 +17,13 @@ var isArraySpecial = function (nums) {
       // If no adjacent even sums were found, return true
       return true;
 }
+
+//!-------------------------------------------------------------------------------
+
+//? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+//* One liner 
+
+const isArraySpecial = nums => nums.every((_, i) => i === nums.length - 1 || (nums[i] + nums[i + 1]) % 2);

@@ -19,3 +19,15 @@ class Solution:
 
             # If no adjacent even sums were found, return True
             return True
+
+#!-------------------------------------------------------------------------------
+
+#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+
+#? 🧺 Space complexity ➺ O(1)
+
+#* One liner 
+
+class Solution:
+      def isArraySpecial(self, nums: List[int]) -> bool:
+            return all((nums[i] + nums[i + 1]) % 2 for i in range(len(nums) - 1))
