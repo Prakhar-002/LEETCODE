@@ -7,7 +7,7 @@
 
 <h1 align="center"> 
 
-FEBRUARY 💐 2025
+𝐅𝐄𝐁𝐑𝐔𝐀𝐑𝐘 💐 𝟐𝟎𝟐𝟓
 
 </h1>
 
@@ -25,7 +25,7 @@ FEBRUARY 💐 2025
 
 <h1 align="center"> 
 
-JANUARY 🪼 2025
+𝐉𝐀𝐍𝐔𝐀𝐑𝐘 🪼 2025
 
 </h1>
 
