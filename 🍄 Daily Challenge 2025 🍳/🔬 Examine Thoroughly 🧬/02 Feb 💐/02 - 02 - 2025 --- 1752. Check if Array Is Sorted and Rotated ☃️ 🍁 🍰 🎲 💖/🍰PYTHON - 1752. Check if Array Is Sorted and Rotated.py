@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def check(self, nums):
             k = 0  # Counter for rotation points
             n = len(nums)  # Get the length of the array

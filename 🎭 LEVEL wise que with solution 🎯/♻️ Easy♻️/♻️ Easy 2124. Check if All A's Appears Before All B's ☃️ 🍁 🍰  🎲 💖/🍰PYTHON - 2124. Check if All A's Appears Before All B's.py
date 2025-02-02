@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def checkString(self, s: str) -> bool:
             # The problem states that all 'a's should appear before any 'b'
             # This means the string should not contain "ba" as a substring
