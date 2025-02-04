@@ -2,7 +2,7 @@
 
 # Todo 🐼 QUESTION NUMBER 2891
 
-import pandas as pd
+import pandas as pd 
 
 def findHeavyAnimals(animals: pd.DataFrame) -> pd.DataFrame:
       # Filters the DataFrame to include only animals with weight > 100.
