@@ -61,6 +61,13 @@
 
 ```python
 
+# https://github.com/Prakhar-002/LEETCODE
+
+import pandas as pd
+
+def modifySalaryColumn(employees: pd.DataFrame) -> pd.DataFrame:
+      employees["salary"] = employees["salary"] * 2
+      return employees
 
 
 ```
