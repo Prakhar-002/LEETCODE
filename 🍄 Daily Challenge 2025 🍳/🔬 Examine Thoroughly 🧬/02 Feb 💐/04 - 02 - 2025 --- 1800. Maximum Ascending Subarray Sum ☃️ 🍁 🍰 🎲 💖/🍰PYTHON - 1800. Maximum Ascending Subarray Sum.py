@@ -1,6 +1,6 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER 1800
+# Todo 💎 QUESTION NUMBER 1800 
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
