@@ -5,4 +5,6 @@
 import pandas as pd
 
 def dropDuplicateEmails(customers: pd.DataFrame) -> pd.DataFrame:
-      return customers.drop_duplicates(subset = ['email'], keep = 'first')
+      # drop_duplicates() removes duplicate rows based on the "email" column.
+      # keep='first' keeps the first occurrence and removes subsequent duplicates.
+      return customers.drop_duplicates(subset=['email'], keep='first')
