@@ -84,4 +84,4 @@ def findHeavyAnimals(animals: pd.DataFrame) -> pd.DataFrame:
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | [PANDAS🐼]() |
+| ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) | [PANDAS🐼](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%93%9A%20Study%20%F0%9F%8E%A7%20Plan%20%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB/%F0%9F%A7%AE%20Introduction%20to%20Pandas%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%20Learn%20Basic%20Pandas/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/06%20Advanced%20Techniques/Day%20%E2%9E%BA%2015%20%F0%9F%90%BB%E2%80%8D%E2%9D%84%EF%B8%8F%202891.%20Method%20Chaining/%F0%9F%90%BC%20Pandas%20-%202891.%20Method%20Chaining.py) |
