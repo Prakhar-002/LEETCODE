@@ -1,5 +1,8 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 🐼 QUESTION NUMBER ----
+# Todo 🐼 QUESTION NUMBER 2882
 
-# https://github.com/Prakhar-002/LEETCODE
+import pandas as pd
+
+def dropDuplicateEmails(customers: pd.DataFrame) -> pd.DataFrame:
+      return customers.drop_duplicates(subset = ['email'], keep = 'first')

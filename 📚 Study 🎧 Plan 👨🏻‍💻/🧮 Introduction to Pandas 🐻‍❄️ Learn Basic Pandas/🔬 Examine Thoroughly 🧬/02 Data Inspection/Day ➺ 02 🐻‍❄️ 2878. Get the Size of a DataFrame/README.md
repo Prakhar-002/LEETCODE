@@ -65,7 +65,12 @@
 
 ```python
 
+# https://github.com/Prakhar-002/LEETCODE
 
+import pandas as pd
+
+def getDataframeSize(players: pd.DataFrame) -> List[int]:
+      return list(players.shape)
 
 ```
 
