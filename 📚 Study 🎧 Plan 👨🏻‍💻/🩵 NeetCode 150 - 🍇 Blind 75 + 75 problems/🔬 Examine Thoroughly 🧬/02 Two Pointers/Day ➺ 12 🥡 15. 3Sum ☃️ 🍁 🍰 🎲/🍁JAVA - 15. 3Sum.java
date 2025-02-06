@@ -38,7 +38,7 @@ class Solution {
                         // if sum is < 0 shift the left pointer
                         else if (threeSum < 0) {
                               left++;
-                        }
+                        } 
 
                         // `threeSum == 0`
                         else {
