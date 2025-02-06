@@ -12,6 +12,6 @@
 
 #  Space complexity -> O(1)
 
-class Solution:
+class Solution: 
       def characterReplacement(self, s: str, k: int) -> int:
             
