@@ -51,8 +51,6 @@
 
 🔹 **`s` consists of English letters, digits, symbols and spaces.** </br>
 
-🔹 **** </br>
-
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
