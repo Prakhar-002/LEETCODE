@@ -29,6 +29,7 @@
 
   ### 🔦 `Explanation`  ➤ 
 
+![3160 que 1 expl](https://github.com/user-attachments/assets/597f60f3-c9fc-41c6-8f31-55c522518cdd)
 
 - After query 0, ball 1 has color 4.
 
@@ -48,6 +49,7 @@
 
   ### 🔦 `Explanation` ➤ 
 
+![3160 que 2 expl](https://github.com/user-attachments/assets/72566c12-ef24-4e4f-8ef5-4a97a95893c8)
 
 - After query 0, ball 0 has color 1.
 
