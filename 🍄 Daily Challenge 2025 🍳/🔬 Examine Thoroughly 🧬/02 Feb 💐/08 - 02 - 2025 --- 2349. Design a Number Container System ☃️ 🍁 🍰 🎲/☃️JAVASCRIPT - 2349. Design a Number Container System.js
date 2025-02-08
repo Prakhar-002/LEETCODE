@@ -6,48 +6,66 @@
 
 //? 🧺 Space complexity ➺ O(n)
 
-class NumberContainers {
-      constructor() {
-            this.num_idx_set = new Map(); // Maps number to sorted set of indices
-            this.idx_num = new Map(); // Maps index to number
+var NumberContainers = function () {
+      // Maps a number to a set of indices where the number is assigned.
+      this.num_map = {};
+
+      // Caches the smallest index for each number to optimize the 'find' method.
+      this.num_map_cache = {};
+
+      // Maps an index to the number it is currently associated with.
+      this.idx_map = {};
+};
+
+// Updates the index to a new number or reassigns the index to the same number.
+NumberContainers.prototype.change = function (index, number) {
+      // If the index already has a number assigned.
+      if (index in this.idx_map) {
+            const old_num = this.idx_map[index];
+
+            // If the number is unchanged, do nothing.
+            if (old_num == number) return;
+
+            // Remove the index from the old number's set.
+            const set = this.num_map[old_num];
+            set.delete(index);
+
+            // If the index is the smallest for the old number and it's removed, clear the cache.
+            if (old_num in this.num_map_cache && index == this.num_map_cache[old_num]) {
+                  delete this.num_map_cache[old_num];
+            }
       }
 
-      /*
-      * Updates the mapping of an index to a new number.
-      * If the index was previously associated with a different number,
-      * it removes the index from the old number's set.
-      */
-      change(index, number) {
-            if (this.idx_num.has(index)) {
-                  let prevNum = this.idx_num.get(index);
-                  let set = this.num_idx_set.get(prevNum);
-                  
-                  set.delete(index); // Remove index from previous number's set
+      // Update the index to the new number.
+      this.idx_map[index] = number;
 
-                  // If no more indices exist for previous number, remove the entry
-                  if (set.size === 0) {
-                        this.num_idx_set.delete(prevNum);
-                  }
-            }
+      // Create a new set for the number if it doesn't exist and add the index.
+      this.num_map[number] ||= new Set();
+      this.num_map[number].add(index);
 
-            // Assign the new number to the index
-            this.idx_num.set(index, number);
+      // Update the cached smallest index for the number if necessary.
+      if (number in this.num_map_cache) {
+            this.num_map_cache[number] = Math.min(index, this.num_map_cache[number]);
+      }
+};
 
-            // Add the index to the set corresponding to the new number
-            if (!this.num_idx_set.has(number)) {
-                  this.num_idx_set.set(number, new Set());
-            }
-            this.num_idx_set.get(number).add(index);
+// Finds the smallest index associated with the given number.
+NumberContainers.prototype.find = function (number) {
+      // If no indices are associated with the number, return -1.
+      if (!this.num_map[number] || this.num_map[number].size <= 0) {
+            return -1;
       }
 
-      /*
-      * Finds the smallest index associated with the given number.
-      * If no index is found, returns -1.
-      */
-      find(number) {
-            if (!this.num_idx_set.has(number) || this.num_idx_set.get(number).size === 0) {
-                  return -1;
-            }
-            return Math.min(...this.num_idx_set.get(number)); // Get the smallest index
+      // Return the cached smallest index if it exists.
+      if (number in this.num_map_cache) {
+            return this.num_map_cache[number];
       }
-}
+
+      // Otherwise, sort the indices and find the smallest.
+      const arr = [...this.num_map[number].values()].sort((a, b) => a - b);
+
+      // Cache the smallest index for future reference.
+      this.num_map_cache[number] = arr[0];
+
+      return arr[0];
+};
