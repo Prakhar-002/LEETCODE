@@ -1,13 +1,24 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER 3174
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(n)
 
-# https://github.com/Prakhar-002/LEETCODE
+class Solution:
+      def clearDigits(self, s: str) -> str:
+            # Stack to store non-digit characters
+            stack = []
 
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
+            # Iterate through each character in the string
+            for ch in s:
+                  # If the character is a digit, remove the last added character from the stack
+                  if ch.isdigit():
+                        stack.pop()
+                  else:
+                        # If it's not a digit, add it to the stack
+                        stack.append(ch)
 
-#  Space complexity -> O(1)
+            # Convert stack contents to a string
+            return "".join(stack)
