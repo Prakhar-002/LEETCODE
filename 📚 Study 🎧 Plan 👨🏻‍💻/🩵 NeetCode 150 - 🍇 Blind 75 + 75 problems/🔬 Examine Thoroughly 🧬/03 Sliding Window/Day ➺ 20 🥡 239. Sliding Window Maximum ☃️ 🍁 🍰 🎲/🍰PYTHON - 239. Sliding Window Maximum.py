@@ -1,6 +1,6 @@
 # ! https:#github.com/Prakhar-002/LEETCODE
 
-from collections import deque
+from collections import deque 
 
 class Solution:
       def maxSlidingWindow(self, nums: List[int], k: int) -> List[int]:
