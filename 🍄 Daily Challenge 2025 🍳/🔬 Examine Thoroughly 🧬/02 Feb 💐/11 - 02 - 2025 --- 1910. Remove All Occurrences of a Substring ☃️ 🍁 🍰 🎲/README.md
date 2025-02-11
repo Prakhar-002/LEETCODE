@@ -27,7 +27,7 @@
 
   ### 📤 `Output`  ➤ "dab"
 
-  ### 🔦 `Explanation`  ➤ The following operations are done:</br> </br> ➺ s = "da<ins>abc<ins/>baabcbc", remove "abc" starting at index 2, so s = "dabaabcbc".</br> </br> ➺ s = "daba<ins>abc<ins/>bc", remove "abc" starting at index 4, so s = "dababc".</br> </br> ➺ s = "dab<ins>abc<ins/>", remove "abc" starting at index 3, so s = "dab". </br> </br> Now s has no occurrences of "abc".
+  ### 🔦 `Explanation`  ➤ The following operations are done:</br> </br> ➺ s = "da<ins>abc</ins>baabcbc", remove "abc" starting at index 2, so s = "dabaabcbc".</br> </br> ➺ s = "daba<ins>abc</ins>bc", remove "abc" starting at index 4, so s = "dababc".</br> </br> ➺ s = "dab<ins>abc</ins>", remove "abc" starting at index 3, so s = "dab". </br> </br> Now s has no occurrences of "abc".
 
 </br>
 
@@ -37,7 +37,7 @@
 
   ### 📤 `Output`  ➤ "ab"
 
-  ### 🔦 `Explanation` ➤ The following operations are done:</br> </br> ➺ s = "axxx<ins>xy<ins/>yyyb", remove "xy" starting at index 4 so s = "axxyyb".</br> </br> ➺ s = "axx<ins>xy<ins/>yyb", remove "xy" starting at index 3 so s = "axxyyb".</br> </br> ➺ s = "ax<ins>xy<ins/>yb", remove "xy" starting at index 2 so s = "axyb".</br> </br> ➺ s = "a<ins>xy<ins/>b", remove "xy" starting at index 1 so s = "ab".</br> </br> Now s has no occurrences of "xy".
+  ### 🔦 `Explanation` ➤ The following operations are done:</br> </br> ➺ s = "axxx<ins>xy</ins>yyyb", remove "xy" starting at index 4 so s = "axxyyb".</br> </br> ➺ s = "axx<ins>xy</ins>yyb", remove "xy" starting at index 3 so s = "axxyyb".</br> </br> ➺ s = "ax<ins>xy</ins>yb", remove "xy" starting at index 2 so s = "axyb".</br> </br> ➺ s = "a<ins>xy</ins>b", remove "xy" starting at index 1 so s = "ab".</br> </br> Now s has no occurrences of "xy".
 
 </br>
 
