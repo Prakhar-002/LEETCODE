@@ -1,0 +1,72 @@
+# 1962. Remove Stones to Minimize the Total
+
+</br>
+
+<h2 align="center"> 
+
+<a href="https://leetcode.com/problems/remove-stones-to-minimize-the-total/description/"><strong>➥ ☢️ 1962 Leetcode Medium ☢️ </strong></a>
+</h2>
+
+</br>
+
+# Description 📜 ˋ°•*⁀➷
+
+### You are given a 0-indexed integer array `piles`, where `piles[i]` represents the number of stones in the i<sup>th</sup> pile, and an integer k. You should apply the following operation exactly k times:
+
+- Choose any `piles[i]` and remove `floor(piles[i] / 2)` stones from it.
+
+### Notice that you can apply the operation on the same pile more than once.
+
+### Return t*he minimum possible total number of stones remaining after applying the* `k` *operations*.
+
+### `floor(x)` is the greatest integer that is smaller than or equal to `x` (i.e., rounds `x` down).
+
+</br>
+
+# Example 💡 1️⃣ ˋ°•*⁀➷
+
+  ### 📥 `Input`  ➤ piles = [5,4,9], k = 2
+
+  ### 📤 `Output`  ➤ 12
+
+  ### 🔦 `Explanation`  ➤ Steps of a possible scenario are:</br></br>➺ Apply the operation on pile 2. The resulting piles are [5,4,5].</br></br>➺ Apply the operation on pile 0. The resulting piles are [3,4,5].</br></br> The total number of stones in [3,4,5] is 12.
+
+</br>
+
+# Example 💡 2️⃣ ˋ°•*⁀➷
+
+  ### 📥 `Input` ➤ piles = [4,3,6,7], k = 3
+
+  ### 📤 `Output`  ➤ 12
+
+  ### 🔦 `Explanation` ➤ Steps of a possible scenario are:</br></br>➺ Apply the operation on pile 2. The resulting piles are [4,3,3,7].</br></br>➺ Apply the operation on pile 3. The resulting piles are [4,3,3,4].</br></br>➺ Apply the operation on pile 0. The resulting piles are [2,3,3,4].</br></br> The total number of stones in [2,3,3,4] is 12.
+
+</br>
+
+# Constraints 🔒 ˋ°•*⁀➷
+
+🔹 **1 <= piles.length <= 10<sup>5</sup>** </br>
+
+🔹 **1 <= piles[i] <= 10<sup>4</sup>** </br>
+
+🔹 **1 <= k <= 10<sup>5</sup>** </br>
+
+</br>
+
+# Topics 📋 ˋ°•*⁀➷
+
+🔸 **Array**  </br>
+🔸 **Greedy**  </br>
+🔸 **Heap (Priority Queue)**  </br>
+
+</br>
+
+# Solution ✏️ ˋ°•*⁀➷
+
+| 📒 Language 📒  | 🪶 Solution 🪶 |
+| ------------- | ------------- |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
