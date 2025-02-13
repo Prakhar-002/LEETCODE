@@ -7,30 +7,30 @@
 //? 🧺 Space complexity ➺ O(n)
 
 var minOperations = function (nums, k) {
-      // Using a min-heap (priority queue) to always process the smallest elements first
-      let minHeap = [];
+      // Create a min-heap (priority queue) to efficiently 
+      // find the smallest elements
+      const minHeap = new MinPriorityQueue();
 
-      // Helper function to push an element while maintaining heap property
-      const pushHeap = (num) => {
-            minHeap.push(num);
-            minHeap.sort((a, b) => a - b); // Ensure the heap remains sorted
-      };
-
-      // Adding all elements of nums array to the heap
-      nums.forEach(n => pushHeap(n));
-
-      let operations = 0; // Counter for the number of operations
-
-      // Continue merging elements until the smallest element in the heap is at least k
-      while (minHeap[0] < k) {
-            let x = minHeap.shift(); // Remove the smallest element
-            let y = minHeap.shift(); // Remove the second smallest element
-
-            // Merge the two elements using the given formula
-            pushHeap(Math.min(x, y) * 2 + Math.max(x, y));
-
-            operations++; // Increment operation count
+      // Add all elements from the 'nums' array to the heap
+      for (const num of nums) {
+            minHeap.enqueue(num);
       }
 
-      return operations; // Return the total number of operations
-}
+      let operations = 0;
+
+      // Iterate until there are enough elements and 
+      // the top element remains smaller than 'k'
+      while (minHeap.size() >= 2 && minHeap.front().element < k) {
+            const x = minHeap.dequeue().element;
+            const y = minHeap.dequeue().element;
+
+            // Calculate the result for combining elements
+            // Add the combined result back into the heap
+            minHeap.enqueue(2 * Math.min(x, y) + Math.max(x, y));
+
+            operations++;
+      }
+
+      // If the heap is not empty, all elements are now >= k
+      return minHeap.isEmpty() ? -1 : operations;
+};
