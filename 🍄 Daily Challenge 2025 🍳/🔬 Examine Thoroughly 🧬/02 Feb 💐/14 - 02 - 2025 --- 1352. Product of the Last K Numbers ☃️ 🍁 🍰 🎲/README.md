@@ -45,7 +45,7 @@
 
 🔹 **The product of the stream at any point in time will fit in a 32-bit integer.** </br>
 
-##### `Follow-up`: Can you implement both `GetProduct` and `Add` to work in `O(1)` time complexity instead of `O(k)` time complexity?
+**`Follow-up`**: **Can you implement both `GetProduct` and `Add` to work in `O(1)` time complexity instead of `O(k)` time complexity?**
 
 </br>
 
