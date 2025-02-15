@@ -10,31 +10,42 @@ import java.util.*;
 
 class Solution {
       public int longestConsecutive(int[] nums) {
-            Set<Integer> numSet = new HashSet<>();
-            for (int n : nums) {
-                  numSet.add(n);
+            // Edge case: if the array is empty, return 0
+            if (nums.length == 0) {
+                  return 0;
             }
 
-            int longestConsecutive = 0;
+            // Use a HashSet to store unique numbers for O(1) lookups
+            Set<Integer> numSet = new HashSet<>();
+            for (int num : nums) {
+                  numSet.add(num);
+            }
 
-            for (int n : nums) {
-                  // check if our sequence is starting from n
-                  if (!numSet.contains(n - 1)) {
-                        int length = 0;
-                        // we'll check our sequence starting from n
-                        while (numSet.contains(n + length)) {
-                              // check the sequence
-                              length++;
+            int longestConsecutive = 0; // Variable to track the longest sequence length
+
+            // Iterate through the set of unique numbers
+            for (int num : numSet) {
+                  // Only check if 'num' is the start of a sequence
+                  if (!numSet.contains(num - 1)) {
+                        int currentNum = num; // Start of the sequence
+                        int length = 1; // Initialize length to 1
+
+                        // Expand the sequence as long as the next number exists in the set
+                        while (numSet.contains(currentNum + 1)) {
+                              currentNum++; // Move to the next number in sequence
+                              length++; // Increase the sequence length
                         }
 
-                        n = n + length;
+                        // Update the longest sequence found so far
                         longestConsecutive = Math.max(longestConsecutive, length);
                   }
             }
 
+            // Return the longest consecutive sequence length
             return longestConsecutive;
       }
 }
+
 
 // ------------------------------------------------------------
 
