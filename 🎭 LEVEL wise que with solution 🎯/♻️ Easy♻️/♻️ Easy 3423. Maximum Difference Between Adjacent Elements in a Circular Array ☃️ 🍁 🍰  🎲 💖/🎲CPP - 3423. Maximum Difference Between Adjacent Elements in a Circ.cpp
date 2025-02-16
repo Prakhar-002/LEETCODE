@@ -21,7 +21,7 @@ public:
             // Iterate through the array to find the max adjacent difference
             for (int i = 1; i < n; i++) {
                   maxDiff = max(maxDiff, abs(nums[i] - nums[i - 1]));
-            }
+            } 
 
             return maxDiff; // Return the maximum adjacent difference
       }
