@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/"><strong>➥ ☢️ 3423 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/description/"><strong>➥ ♻️ 3423 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
