@@ -17,9 +17,9 @@
 
 2. For any `treeNode`:
 
-  1. If `treeNode.val` has a value `x` and `treeNode.left != null`, then `treeNode.left.val == 2 * x + 1`
+    1. If `treeNode.val` has a value `x` and `treeNode.left != null`, then `treeNode.left.val == 2 * x + 1`
 
-  2. If `treeNode.val` has a value `x` and `treeNode.right != null`, then `treeNode.right.val == 2 * x + 2`
+    2. If `treeNode.val` has a value `x` and `treeNode.right != null`, then `treeNode.right.val == 2 * x + 2`
 
 ### Now the binary tree is contaminated, which means all `treeNode.val` have been changed to `-1`.
 
@@ -33,7 +33,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/3c69fb39-5f32-432c-9492-ab52f5a3b04a" width="320px" height="119px"/>
 
   ### 📥 `Input`  ➤ ["FindElements","find","find"]  [[[-1,null,-1]],[1],[2]]
 
@@ -45,7 +45,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/17956601-66ca-4f29-838d-9b2e81921d79" width="400px" height="198px"/>
 
   ### 📥 `Input` ➤ ["FindElements","find","find","find"]   [[[-1,-1,-1,-1,-1]],[1],[3],[5]]
 
@@ -57,7 +57,7 @@
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/820e9e11-2a16-4e15-95b2-9d286c519774" width="306px" height="274px"/>
 
   ### 📥 `Input` ➤ ["FindElements","find","find","find","find"] [[[-1,null,-1,-1,null,-1]],[2],[3],[4],[5]]
 
