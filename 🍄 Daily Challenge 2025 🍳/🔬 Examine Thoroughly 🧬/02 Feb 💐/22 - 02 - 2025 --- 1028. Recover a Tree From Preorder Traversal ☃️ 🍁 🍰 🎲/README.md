@@ -35,7 +35,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="https://github.com/user-attachments/assets/69071bae-17c3-4e0c-929d-2a848821460a" width="423px" height="200px"/>
+<img src="https://github.com/user-attachments/assets/69071bae-17c3-4e0c-929d-2a848821460a" width="432px" height="250px"/>
 
   ### 📥 `Input`  ➤ traversal = "1-2--3---4-5--6---7"
 
