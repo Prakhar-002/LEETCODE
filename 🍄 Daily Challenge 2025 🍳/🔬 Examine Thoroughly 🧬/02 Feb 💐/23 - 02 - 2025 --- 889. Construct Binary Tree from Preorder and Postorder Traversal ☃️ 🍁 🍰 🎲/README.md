@@ -11,10 +11,10 @@
 
 # Description 📜 ˋ°•*⁀➷
 
-### Given two integer arrays, **preorder** and **postorder**, where:
+### Given two integer arrays, `preorder` and `postorder`, where:
 
-🔹 **preorder** is the **preorder traversal** of a binary tree of **distinct values**. </br>
-🔹 **postorder** is the **postorder traversal** of the **same** binary tree. </br>
+🔹 `preorder` is the `preorder traversal` of a binary tree of `distinct values`. </br>
+🔹 `postorder` is the `postorder traversal` of the **same** binary tree. </br>
 
 ### Reconstruct and return the **binary tree**.
 
