@@ -40,7 +40,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/34a1bf93-4895-4e77-b920-8f4440ad8feb" width="275px" height="275px"/>
 
   ### 📥 Input  ➤ edges = [[0,1],[1,2],[1,3],[3,4]], bob = 3, amount = [-2,4,2,-4,6]
 
@@ -76,7 +76,7 @@ It is not possible for Alice to get a higher net income.
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/f8b5c965-93dc-4c70-a91d-43b9478b1ebd" width="250px" height="78px"/>
 
   ### 📥 Input ➤ edges = [[0,1]], bob = 1, amount = [-7280,2350]
 
