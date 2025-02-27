@@ -13,9 +13,9 @@
 
 ### A sequence x1, x2, ..., xn is *Fibonacci-like* if:
 
-- n >= 3
+- `n >= 3`
 
-- xi + xi+1 == xi+2 for all i + 2 <= n
+- x<sub>i</sub> + x<sub>i+1</sub> == x<sub>i+2</sub> for all `i + 2 <= n`
 
 ### Given a strictly increasing array `arr` of positive integers forming a sequence, return *the length of the longest Fibonacci-like subsequence of* `arr`. If one does not exist, return `0`.
 
