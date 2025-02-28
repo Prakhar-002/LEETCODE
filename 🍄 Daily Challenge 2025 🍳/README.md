@@ -5,7 +5,25 @@
 
 </br>
 
-<h1 align="center"> 
+<h1 align="center">
+
+𝐌𝐀𝐑𝐂𝐇 🌼 𝟐𝟎𝟐𝟓
+
+</h1>
+
+| 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
+|-------------|-------------|------------------|-----------------|----------------|
+| 01 ┆ MAR ┆ 2025 | ♻️ Easy ♻️ | []() | [🌼SOLUTION🌼]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+</br> 
+
+<img align="left" src="https://github.com/user-attachments/assets/8e0b1047-f5ad-40d8-86d9-f9699b4ebdef" width="90" height="90" alt="February Gif">
+
+<img align="right" src="https://github.com/user-attachments/assets/8e0b1047-f5ad-40d8-86d9-f9699b4ebdef" width="90" height="90" alt="February Gif">
+
+</br>
+
+<h1 align="center">
 
 𝐅𝐄𝐁𝐑𝐔𝐀𝐑𝐘 💐 𝟐𝟎𝟐𝟓
 
