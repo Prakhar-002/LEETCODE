@@ -33,9 +33,7 @@
 
   ### 📤 `Output`  ➤ [1,4,2,0,0,0]
 
-  ### 🔦 `Explanation`  ➤ We do the following operations:
-
-➺ i = 0: nums[0] and nums[1] are not equal, so we skip this operation.</br></br> ➺ i = 1: nums[1] and nums[2] are equal, we multiply nums[1] by 2 and change nums[2] to 0. The array becomes [1,<ins>4</ins>,<ins>0</ins>,1,1,0].</br></br> ➺ i = 2: nums[2] and nums[3] are not equal, so we skip this operation.</br></br> ➺ i = 3: nums[3] and nums[4] are equal, we multiply nums[3] by 2 and change nums[4] to 0. The array becomes [1,4,0,<ins>2</ins>,<ins>0</ins>,0].</br></br> ➺ i = 4: nums[4] and nums[5] are equal, we multiply nums[4] by 2 and change nums[5] to 0. The array becomes [1,4,0,2,<ins>0</ins>,<ins>0</ins>].</br></br> After that, we shift the 0's to the end, which gives the array [1,4,2,0,0,0].
+  ### 🔦 `Explanation`  ➤ We do the following operations:</br></br>➺ i = 0: nums[0] and nums[1] are not equal, so we skip this operation.</br></br> ➺ i = 1: nums[1] and nums[2] are equal, we multiply nums[1] by 2 and change nums[2] to 0. The array becomes [1,<ins>4</ins>,<ins>0</ins>,1,1,0].</br></br> ➺ i = 2: nums[2] and nums[3] are not equal, so we skip this operation.</br></br> ➺ i = 3: nums[3] and nums[4] are equal, we multiply nums[3] by 2 and change nums[4] to 0. The array becomes [1,4,0,<ins>2</ins>,<ins>0</ins>,0].</br></br> ➺ i = 4: nums[4] and nums[5] are equal, we multiply nums[4] by 2 and change nums[5] to 0. The array becomes [1,4,0,2,<ins>0</ins>,<ins>0</ins>].</br></br> After that, we shift the 0's to the end, which gives the array [1,4,2,0,0,0].
 
 </br>
 
