@@ -6,39 +6,29 @@
 
 # ? 🧺 Space complexity ➺ O(1)
 
-from typing import List 
+from typing import List
 
 class Solution:
       def applyOperations(self, nums: List[int]) -> List[int]:
-            N = len(nums)   # Total number of elements in the array
+            # Total number of elements in the array
+            N = len(nums)
 
-            # 'w' (write pointer) tracks the position where the next non-zero element should go
-            w = 0
+            # First pass - apply the operation:
+            # If two adjacent elements are equal, double the first and set the second to zero
+            for i in range(N - 1):
+                  if nums[i] == nums[i + 1]:
+                        nums[i] *= 2  # Double the value of nums[i]
+                        nums[i + 1] = 0  # Set the next element to zero
 
-            # First loop processes elements from index 0 to N-2 (pairs are nums[i] and nums[i+1])
-            for r in range(N - 1):      # 'r' (read pointer) scans every element except the last one
+            # Second pass - shift all non-zero elements to the left (maintain order)
+            j = 0  # Pointer to track where the next non-zero element should go
 
-                  # Check if current element and next element are equal
-                  # If they are equal, we merge them (double the value of nums[r])
-                  if nums[r] == nums[r + 1]:
-                        nums[r] *= 2       # Merge - double the value of nums[r]
-                        nums[r + 1] = 0     # Set the next element to zero after merge
+            for i in range(N):
+                  if nums[i] != 0:
+                        # Swap nums[i] and nums[j]
+                        nums[i], nums[j] = nums[j], nums[i]
+                        # Move the non-zero pointer forward
+                        j += 1
 
-                  # After merging (or if no merge happened), shift non-zero numbers to the left
-                  # nums[w] is where the next valid non-zero number should be placed
-                  if nums[r] != 0:
-                        nums[w] = nums[r]   # Move current number to 'w' position (compaction)
-                        if w != r:
-                              nums[r] = 0    # Clear the old position if element moved
-                        w += 1               # Move write pointer ahead to next empty spot
-
-            # After the loop, we need to check the last element (nums[N-1]), since the loop
-            # only covers pairs and stops at N-2.
-            if nums[N - 1] != 0:
-                  nums[w] = nums[N - 1]     # Place last non-zero element at correct spot
-                  if w != N - 1:
-                        nums[N - 1] = 0      # Clear original spot if moved
-                  w += 1
-
-            # Final array is now processed — merged & compacted
+            # Return the final modified array
             return nums

@@ -8,41 +8,34 @@
 
 class Solution {
       public int[] applyOperations(int[] nums) {
-            int N = nums.length; // Total number of elements in the array
+            // Total number of elements in the array
+            int N = nums.length;
 
-            // 'w' (write pointer) tracks the position where the next non-zero element
-            // should go
-            int w = 0;
-
-            // First loop processes elements from index 0 to N-2 (pairs are nums[i] and
-            // nums[i+1])
-            for (int r = 0; r < N - 1; r++) {
-                  // Check if current element and next element are equal
-                  // If they are equal, we merge them (double the value of nums[r])
-                  if (nums[r] == nums[r + 1]) {
-                        nums[r] *= 2; // Merge - double the value of nums[r]
-                        nums[r + 1] = 0; // Set the next element to zero after merge
-                  }
-
-                  // Shift non-zero numbers to the left
-                  if (nums[r] != 0) {
-                        nums[w] = nums[r]; // Move current number to 'w' position (compaction)
-                        if (w != r) {
-                              nums[r] = 0; // Clear the old position if element moved
-                        }
-                        w++;
+            // First pass - apply the operation:
+            // If two adjacent elements are equal, double the first and set the second to zero
+            for (int i = 0; i < N - 1; i++) {
+                  if (nums[i] == nums[i + 1]) {
+                        nums[i] *= 2; // Double the value of nums[i]
+                        nums[i + 1] = 0; // Set the next element to zero
                   }
             }
 
-            // Handle the last element (not covered in the loop above)
-            if (nums[N - 1] != 0) {
-                  nums[w] = nums[N - 1];
-                  if (w != N - 1) {
-                        nums[N - 1] = 0;
+            // Second pass - shift all non-zero elements to the left (maintain order)
+            int j = 0; // Pointer to track where the next non-zero element should go
+
+            for (int i = 0; i < N; i++) {
+                  if (nums[i] != 0) {
+                        // Swap nums[i] and nums[j]
+                        int temp = nums[i];
+                        nums[i] = nums[j];
+                        nums[j] = temp;
+
+                        // Move the non-zero pointer forward
+                        j++;
                   }
-                  w++;
             }
 
+            // Return the final modified array
             return nums;
       }
 }
