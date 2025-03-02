@@ -1,10 +1,10 @@
-# 2570. Merge Two 2D Arrays by Summing Values
+# 2363. Merge Similar Items
 
 </br>
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/merge-similar-items/"><strong>➥ ♻️ 2570 Leetcode Easy ♻️ </strong></a>
+<a href="https://leetcode.com/problems/merge-similar-items/"><strong>➥ ♻️ 2363 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
@@ -73,6 +73,12 @@
 🔸 **Hash Table**  </br>
 🔸 **Sorting**  </br>
 🔸 **Ordered Set**  </br>
+
+</br>
+
+# 🌯 Similar 🍲 Questions 🍜 `Solution` 🍱 ˋ°•*⁀➷
+
+### ♻️ [2570. Merge Two 2D Arrays by Summing Values](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/02%20-%2003%20-%202025%20---%202570.%20Merge%20Two%202D%20Arrays%20by%20Summing%20Values%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) </br>
 
 </br>
 
