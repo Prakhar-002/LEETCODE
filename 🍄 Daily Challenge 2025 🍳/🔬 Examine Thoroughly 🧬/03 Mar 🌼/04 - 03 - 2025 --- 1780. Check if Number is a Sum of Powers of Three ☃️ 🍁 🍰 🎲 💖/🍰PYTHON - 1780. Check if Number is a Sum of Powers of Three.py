@@ -1,13 +1,22 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER 1780
 
-#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+#? ⌚ Time complexity ➺ O(Log n) Base 3 
 
 #? 🧺 Space complexity ➺ O(1)
 
-# https://github.com/Prakhar-002/LEETCODE
+class Solution:
+      def checkPowersOfThree(self, n: int) -> bool:
+            # Loop runs until 'n' becomes 0
+            while n > 0:
+                  # If remainder is 2 when dividing by 3, it's not possible to represent
+                  # 'n' as sum of distinct powers of 3 (only 0 or 1 coefficient allowed)
+                  if n % 3 == 2:
+                        return False
 
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
+                  # Divide 'n' by 3 to check the next digit in base 3
+                  n //= 3
 
-#  Space complexity -> O(1)
+            # If the loop completes, 'n' can be represented as sum of distinct powers of 3
+            return True
