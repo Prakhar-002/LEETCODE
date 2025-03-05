@@ -39,7 +39,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="(https://github.com/user-attachments/assets/96ff271d-fae8-43d1-afe7-5f2e4dd6020d" width="200px" height="200px"/>
+<img src="https://github.com/user-attachments/assets/96ff271d-fae8-43d1-afe7-5f2e4dd6020d" width="200px" height="200px"/>
 
   ### 📥 `Input` ➤ n = 3
 
