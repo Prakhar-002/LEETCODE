@@ -29,23 +29,24 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
-
   ### 📥 `Input`  ➤ colors = `[0,1,0,1,0]`, k = `3`
 
   ### 📤 `Output`  ➤ 3
 
   ### 🔦 `Explanation`  ➤ 
 
-<img src="" width="" height=""/>
+- The three valid **alternating groups** are:
+  - `[0,1,0]`
+  - `[1,0,1]`
+  - `[0,1,0]`
+
+<img src="https://github.com/user-attachments/assets/a006fc32-7619-4864-9558-50b8973112d0" width="150px" height="150px"/>
 
 ### 🔀 `Alternating groups`  ➤ 
 
-<img src="" width="" height=""/>
-
-<img src="" width="" height=""/>
-
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/4aec8957-a777-4ae7-bdb9-6aa21741be37" width="150px" height="150px"/> &nbsp;
+<img src="https://github.com/user-attachments/assets/3a891ff8-427a-4780-b48b-1fb26111e974" width="150px" height="150px"/> &nbsp;
+<img src="https://github.com/user-attachments/assets/0340d2af-dbb8-4da7-a58d-9dfdd323696e" width="150px" height="150px"/> &nbsp;
 
 </br>
 
@@ -56,19 +57,17 @@
   ### 📤 `Output`  ➤ 2
 
   ### 🔦 `Explanation` ➤ 
+
 - The two valid **alternating groups** are:
   - `[0,1,0,0,1,0]`
   - `[1,0,0,1,0,1]`
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/d9cc5b14-45df-4e35-99d7-702cd98c455f" width="150px" height="150px"/>
 
 ### 🔀 `Alternating groups`  ➤ 
 
-<img src="" width="" height=""/>
-
-<img src="" width="" height=""/>
-
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/976620c1-1a10-443f-a831-cfc84c63e45f" width="150px" height="150px"/> &nbsp;
+<img src="https://github.com/user-attachments/assets/99115811-d26a-41ba-9e60-d2d2f98e31a4" width="150px" height="150px"/> &nbsp;
 
 </br>
 
@@ -78,10 +77,9 @@
 
   ### 📤 `Output`  ➤ 0
 
-  ### 🔦 `Explanation` ➤ 
-- No valid **alternating groups** exist in the given array.
+  ### 🔦 `Explanation` ➤ No valid **alternating groups** exist in the given array.
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/07f9af4a-489c-45d6-a19b-520c7718bd02" width="150px" height="150px"/>
 
 </br>
 
@@ -103,11 +101,8 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
-
-
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/09%20-%2003%20-%202025%20---%203208.%20Alternating%20Groups%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96/%F0%9F%8D%81JAVA%20-%203208.%20Alternating%20Groups%20II.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/09%20-%2003%20-%202025%20---%203208.%20Alternating%20Groups%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96/%F0%9F%8E%B2CPP%20-%203208.%20Alternating%20Groups%20II.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/09%20-%2003%20-%202025%20---%203208.%20Alternating%20Groups%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96/%F0%9F%8D%B0PYTHON%20-%203208.%20Alternating%20Groups%20II.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/09%20-%2003%20-%202025%20---%203208.%20Alternating%20Groups%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%203208.%20Alternating%20Groups%20II.js) |
+|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/09%20-%2003%20-%202025%20---%203208.%20Alternating%20Groups%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96/%F0%9F%92%96C%20-%203208.%20Alternating%20Groups%20II.c)  |
