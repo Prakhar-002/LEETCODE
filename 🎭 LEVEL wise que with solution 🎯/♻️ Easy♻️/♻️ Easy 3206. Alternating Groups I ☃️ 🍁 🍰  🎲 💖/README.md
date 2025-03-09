@@ -78,6 +78,12 @@
 
 </br>
 
+# 🌯 Similar 🍲 Questions 🍜 `Solution` 🍱 ˋ°•*⁀➷
+
+### ☢️ [3208. Alternating Groups II](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/09%20-%2003%20-%202025%20---%203208.%20Alternating%20Groups%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2%20%F0%9F%92%96) </br>
+
+</br>
+
 # Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
