@@ -8,7 +8,7 @@
 
 from typing import List
 
-class Solution:
+class Solution: 
       def numberOfAlternatingGroups(self, colors: List[int], k: int) -> int:
             N = len(colors)  # Total number of elements in the colors list
             altGroup = 0  # Counter for alternating groups of at least length k

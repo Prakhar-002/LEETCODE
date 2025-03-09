@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-#include <stdio.h>
+#include <stdio.h> 
 
 int numberOfAlternatingGroups(int* colors, int colorsSize, int k) {
       // Get the total number of elements in the colors array

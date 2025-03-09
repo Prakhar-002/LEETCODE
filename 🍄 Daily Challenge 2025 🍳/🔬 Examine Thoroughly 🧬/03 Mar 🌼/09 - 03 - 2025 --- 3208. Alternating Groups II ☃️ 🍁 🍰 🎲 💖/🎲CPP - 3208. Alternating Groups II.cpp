@@ -38,7 +38,7 @@ public:
             // Step 2: Additional check for the first k-1 elements (potential wrap-around)
             for (int i = 0; i < k - 1; i++) {
                   if (colors[i] == last_color) {  // Stop if colors repeat
-                        break;
+                        break; 
                   }
 
                   alt_elem_cnt++;  // Extend alternating sequence

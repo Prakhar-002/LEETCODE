@@ -4,7 +4,7 @@
 
 // ? ⌚ Time complexity ➺ O(n + k) 👉🏻 n = len(colors)
 
-// ? 🧺 Space complexity ➺ O(1)
+// ? 🧺 Space complexity ➺ O(1) 
 
 class Solution {
       public int numberOfAlternatingGroups(int[] colors, int k) {

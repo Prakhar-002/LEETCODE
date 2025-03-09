@@ -19,7 +19,7 @@ var numberOfAlternatingGroups = function (colors, k) {
                   alt_elem_cnt = 1;
                   last_color = colors[i];
                   continue;
-            }
+            } 
 
             alt_elem_cnt++;  // Increase count for alternating colors
 
