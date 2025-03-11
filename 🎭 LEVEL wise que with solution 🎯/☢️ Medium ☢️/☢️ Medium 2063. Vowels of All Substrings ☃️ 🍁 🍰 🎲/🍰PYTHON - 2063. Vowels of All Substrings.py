@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def countVowels(self, word: str) -> int:
             # Initialize the total sum of contributions
             total_vowel_contribution = 0
