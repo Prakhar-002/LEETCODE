@@ -42,7 +42,7 @@ class Solution:
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def numberOfSubstrings(self, s: str) -> int:
             # Store the latest indices of 'a', 'b', and 'c'
             last_seen = {'a': -1, 'b': -1, 'c': -1}
