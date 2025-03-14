@@ -90,6 +90,6 @@ Return **the maximum** number of candies **each child can receive**.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/b3b0a1cd-d509-4dea-9834-f1fbc23ff77d" width = "700px" height="462px" />
 
 </h1>
