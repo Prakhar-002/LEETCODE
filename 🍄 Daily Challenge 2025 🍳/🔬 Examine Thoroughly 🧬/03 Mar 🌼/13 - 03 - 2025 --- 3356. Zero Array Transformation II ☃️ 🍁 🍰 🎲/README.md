@@ -115,6 +115,6 @@ Return **the minimum** non-negative value of `k` such that after processing the 
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/90ce8419-8706-4094-88e6-d51e1ba7bdf2" width = "700px" height="462px" />
 
 </h1>
