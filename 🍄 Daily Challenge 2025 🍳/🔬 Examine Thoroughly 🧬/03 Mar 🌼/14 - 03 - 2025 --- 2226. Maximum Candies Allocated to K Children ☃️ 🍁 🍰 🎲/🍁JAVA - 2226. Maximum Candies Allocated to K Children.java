@@ -4,7 +4,7 @@
 
 // ? ⌚ Time complexity ➺ O(n log(m)) 👉🏻 n = len(candies)
 
-// ? 🧺 Space complexity ➺ O(1) 👉🏻 m = sum(candies) / k
+// ? 🧺 Space complexity ➺ O(1) 👉🏻 m = sum(candies) / k 
 
 class Solution {
       public int maximumCandies(int[] candies, long k) {
