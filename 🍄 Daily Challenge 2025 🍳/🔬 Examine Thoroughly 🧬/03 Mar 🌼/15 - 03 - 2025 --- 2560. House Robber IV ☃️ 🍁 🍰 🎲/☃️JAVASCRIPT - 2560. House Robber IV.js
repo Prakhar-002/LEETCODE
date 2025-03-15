@@ -10,7 +10,7 @@
 // without robbing two consecutive houses when the max house value is `maxRobValue`
 var canRobHouses = function (nums, maxRobValue, k) {
       let i = 0;
-      let housesRobbed = 0;
+      let housesRobbed = 0; 
 
       while (i < nums.length) {
             // If the current house value is within `maxRobValue`, rob it and skip the next house
