@@ -106,6 +106,6 @@ Possible ways to rob **at least `2` houses**:
 
 <h1  align="center" > 
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/4fdca1d6-3e3c-4d18-b081-c5bdd5d9bdea" width = "700px" height="462px" />
 
 </h1>
