@@ -35,15 +35,11 @@ Return `true` if such a division is possible; otherwise, return `false`.
 
   ### 🔦 `Explanation` ➤  
 
-<h4>
-
 - The array contains **6 elements**, so it should be divided into **6 / 2 = 3 pairs**.  
 
 - Possible valid pairs: **(2,2), (3,3), (2,2)**.  
 
 ✅ **Pairs satisfy the conditions** → Return `true`.  
-
-</h4>
 
 </br>  
 
@@ -55,15 +51,11 @@ Return `true` if such a division is possible; otherwise, return `false`.
 
   ### 🔦 `Explanation` ➤  
 
-<h4>
-
 - The array contains **4 elements**, so it should be divided into **4 / 2 = 2 pairs**.  
 
 - No valid way to pair elements such that **both numbers in a pair are equal**.  
 
 ❌ **No valid pairs possible** → Return `false`.  
-
-</h4>
 
 </br>  
 
