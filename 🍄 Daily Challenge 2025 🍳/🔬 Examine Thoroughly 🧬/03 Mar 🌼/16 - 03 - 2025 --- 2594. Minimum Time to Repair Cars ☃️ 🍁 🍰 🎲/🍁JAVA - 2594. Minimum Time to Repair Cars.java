@@ -18,7 +18,7 @@ class Solution {
                   repairedCars += Math.sqrt(time / rank);
             }
 
-            return repairedCars;
+            return repairedCars; 
       }
 
       public long repairCars(int[] ranks, int cars) {
