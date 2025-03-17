@@ -20,7 +20,8 @@
 - **All mechanics work simultaneously** to repair the cars.  
 
 ### **Goal**:  
-Return the **minimum time** required to repair all the cars.  
+
+#### Return the **minimum time** required to repair all the cars.  
 
 </br>
 
