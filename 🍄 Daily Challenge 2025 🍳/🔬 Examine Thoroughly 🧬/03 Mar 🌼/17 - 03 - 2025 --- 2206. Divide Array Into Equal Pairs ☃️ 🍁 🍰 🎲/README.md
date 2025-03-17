@@ -61,19 +61,18 @@ Return `true` if such a division is possible; otherwise, return `false`.
 
 # Constraints 🔒 ˋ°•*⁀➷  
 
-🔹 `nums.length == 2 * n` </br>  
-🔹 `1 <= n <= 500` </br>  
-🔹 `1 <= nums[i] <= 500` </br>  
+🔹 `nums.length == 2 * n` </br>
+🔹 `1 <= n <= 500` </br>
+🔹 `1 <= nums[i] <= 500` </br>
 
 </br>  
 
 # Topics 📋 ˋ°•*⁀➷  
 
-🔸 **Array**  </br>  
-🔸 **Hash Table**  </br>  
-🔸 **Bit Manipulation**  </br>  
-🔸 **Counting**  </br>  
-
+🔸 **Array**  </br>
+🔸 **Hash Table**  </br>
+🔸 **Bit Manipulation**  </br>
+🔸 **Counting**  </br>
 
 </br>
 
