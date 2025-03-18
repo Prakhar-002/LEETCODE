@@ -99,6 +99,6 @@ The **longest nice subarray** is `[3,8,48]` because:
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/ebe6fb10-0ce4-49d9-8a94-578f433177ab" width = "700px" height="462px" />
 
 </h1>
