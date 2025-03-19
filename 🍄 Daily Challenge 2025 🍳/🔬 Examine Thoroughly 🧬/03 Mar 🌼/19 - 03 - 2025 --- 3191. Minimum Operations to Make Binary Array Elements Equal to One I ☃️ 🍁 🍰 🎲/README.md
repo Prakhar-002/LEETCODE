@@ -88,6 +88,6 @@ Return the **minimum number of operations** required to make **all elements in `
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/ffaa8ca1-9b71-4180-9fd2-26327684e280" width = "700px" height="462px" />
 
 </h1>
