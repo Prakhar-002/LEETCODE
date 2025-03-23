@@ -60,9 +60,9 @@ Additionally, you are given a **2D integer array** `edges`, where `edges[i] = [a
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 1 <= n <= 50 </br>
-🔹 0 <= edges.length <= n * (n - 1) / 2 </br>
-🔹 edges[i].length == 2 </br>
+🔹 `1 <= n <= 50` </br>
+🔹 `0 <= edges.length <= n * (n - 1) / 2` </br>
+🔹 `edges[i].length == 2` </br>
 🔹 0 <= a<sub>i</sub>, b<sub>i</sub> <= n - 1 </br>
 🔹 a<sub>i</sub> != b<sub>i</sub> </br>
 🔹 There are no repeated edges. </br>
