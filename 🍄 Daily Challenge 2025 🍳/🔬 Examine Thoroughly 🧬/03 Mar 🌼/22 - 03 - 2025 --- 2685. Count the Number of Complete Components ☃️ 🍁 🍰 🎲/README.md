@@ -26,7 +26,7 @@ Additionally, you are given a **2D integer array** `edges`, where `edges[i] = [a
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="https://github.com/user-attachments/assets/6260f93f-27ca-4718-9122-c59262410e5b" width="671px" height="270px"/>
+<img src="https://github.com/user-attachments/assets/6260f93f-27ca-4718-9122-c59262410e5b" width="414px" height="166.88px"/>
 
   ### 📥 `Input`  ➤ n = 6, edges = [[0,1],[0,2],[1,2],[3,4]]
 
@@ -38,7 +38,7 @@ Additionally, you are given a **2D integer array** `edges`, where `edges[i] = [a
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="https://github.com/user-attachments/assets/dba9a820-1c36-474c-8c57-b7032a72bc5a" width="671px" height="270px" />
+<img src="https://github.com/user-attachments/assets/dba9a820-1c36-474c-8c57-b7032a72bc5a" width="414px" height="166.88px" />
 
   ### 📥 `Input` ➤ n = 6, edges = [[0,1],[0,2],[1,2],[3,4],[3,5]]
 
