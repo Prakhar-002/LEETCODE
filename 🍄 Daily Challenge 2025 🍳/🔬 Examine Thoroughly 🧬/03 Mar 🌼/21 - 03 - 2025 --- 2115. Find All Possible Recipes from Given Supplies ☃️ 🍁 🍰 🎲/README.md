@@ -122,6 +122,6 @@ supplies = ["yeast","flour","meat"]
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/d8080176-02e5-4db6-998b-8548939b1083" width = "700px" height="462px" />
 
 </h1>
