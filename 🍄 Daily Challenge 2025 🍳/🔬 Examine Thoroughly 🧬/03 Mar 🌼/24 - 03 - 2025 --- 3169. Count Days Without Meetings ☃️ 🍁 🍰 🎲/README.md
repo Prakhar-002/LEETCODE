@@ -96,6 +96,6 @@ Return the **count of days** when the employee is **available for work** but **n
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/2f251060-0f9a-4b69-8f93-e55d5044de6e" width = "700px" height="462px" />
 
 </h1>
