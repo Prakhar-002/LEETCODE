@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align="center"> 
+<h2 align="center">
 
 <a href="https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/?envType=daily-question&envId=2025-03-23"><strong>➥ ☢️ 1976 Leetcode Medium ☢️ </strong></a>
 </h2>
