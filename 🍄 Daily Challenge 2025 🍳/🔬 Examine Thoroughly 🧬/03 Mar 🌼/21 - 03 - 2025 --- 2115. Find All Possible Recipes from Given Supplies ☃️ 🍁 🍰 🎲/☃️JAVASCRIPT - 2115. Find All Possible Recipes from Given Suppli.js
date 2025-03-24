@@ -10,7 +10,7 @@ var findAllRecipes = function (recipes, ingredients, supplies) {
       // Dictionary to keep track of available supplies
       let can_make = new Map();
       for (let supply of supplies) {
-            can_make.set(supply, true);
+            can_make.set(supply, true); 
       }
 
       // Dictionary to store the index of each recipe for quick lookup
