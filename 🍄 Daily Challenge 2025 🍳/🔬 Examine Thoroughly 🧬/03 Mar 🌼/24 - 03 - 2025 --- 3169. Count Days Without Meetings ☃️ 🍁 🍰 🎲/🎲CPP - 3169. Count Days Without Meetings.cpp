@@ -17,7 +17,7 @@ public:
             sort(meetings.begin(), meetings.end());
 
             // Variable to track the end of the last processed meeting
-            int prev_meet_end = 0;
+            int prev_meet_end = 0; 
 
             // Iterate through each meeting interval
             for (const auto& meeting : meetings) {
