@@ -103,6 +103,6 @@ Return `true` if such cuts are possible; otherwise, return `false`.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/d3469404-5e0e-4479-94f4-286a0dbf79ff" width = "700px" height="462px" />
 
 </h1>
