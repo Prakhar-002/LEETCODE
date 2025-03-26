@@ -26,6 +26,8 @@ A **uni-value grid** is a grid where **all the elements are equal**.
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+<img src='https://github.com/user-attachments/assets/4427098f-3245-4e19-9b94-a9be103aa2c4' width='164px' height='165px' />
+
   ### 📥 `Input`  ➤ grid = [[2,4],[6,8]], x = 2
 
   ### 📤 `Output`  ➤ 4
@@ -40,6 +42,8 @@ A total of 4 operations were used.
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
+<img src='https://github.com/user-attachments/assets/bf4d3fb6-c942-4709-b80b-af22439206e6' width='164px' height='165px'  />
+
   ### 📥 `Input` ➤ grid = [[1,5],[2,3]], x = 1
 
   ### 📤 `Output`  ➤ 5
@@ -49,6 +53,8 @@ A total of 4 operations were used.
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
+
+<img src='https://github.com/user-attachments/assets/52016bfb-0bb5-45be-b7c3-aff318d5feaf' width='164px' height='165px' />
 
   ### 📥 `Input` ➤ grid = [[1,2],[3,4]], x = 2
 
