@@ -8,7 +8,7 @@
 
 from typing import List
 
-class Solution:
+class Solution: 
       def minMoves2(self, nums: List[int]) -> int:
             # Sort the array to find the median efficiently
             nums.sort()
