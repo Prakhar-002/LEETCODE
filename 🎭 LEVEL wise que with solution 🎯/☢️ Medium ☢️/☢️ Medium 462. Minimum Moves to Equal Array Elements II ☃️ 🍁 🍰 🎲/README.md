@@ -91,6 +91,6 @@ In **one move**, you can **increment or decrement** an element of the array by `
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/05d2bf61-5c35-41e6-9fc6-9aae207c7f58" width = "700px" height="462px" />
 
 </h1>
