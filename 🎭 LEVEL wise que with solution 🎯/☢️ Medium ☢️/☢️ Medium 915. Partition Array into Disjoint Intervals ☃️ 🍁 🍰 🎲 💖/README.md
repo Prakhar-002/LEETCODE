@@ -93,6 +93,6 @@ You are **guaranteed** that at least **one valid partitioning** exists for the g
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/efd23797-99c5-4135-8c1c-da93f341b545" width = "700px" height="462px" />
 
 </h1>
