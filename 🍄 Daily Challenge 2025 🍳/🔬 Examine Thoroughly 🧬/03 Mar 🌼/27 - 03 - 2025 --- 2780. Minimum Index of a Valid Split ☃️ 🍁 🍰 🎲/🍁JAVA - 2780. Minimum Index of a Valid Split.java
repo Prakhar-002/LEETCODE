@@ -58,7 +58,7 @@ class Solution {
 
 //? 🧺 Space complexity ➺ O(n)
 
-class Solution {
+class Solution { 
       public int minimumIndex(List<Integer> nums) {
             // HashMaps to store frequency of elements in left and right partitions
             Map<Integer, Integer> left = new HashMap<>();
