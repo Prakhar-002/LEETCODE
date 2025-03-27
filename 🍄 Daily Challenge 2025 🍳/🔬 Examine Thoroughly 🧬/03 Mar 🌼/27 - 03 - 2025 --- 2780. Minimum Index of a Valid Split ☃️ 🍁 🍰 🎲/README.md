@@ -125,6 +125,6 @@ You are given a **0-indexed integer array** `nums` of length `n` with **one domi
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/382f0050-4699-4408-885e-be0e7bb46873" width = "700px" height="462px" />
 
 </h1>
