@@ -124,6 +124,6 @@ Return the resulting array `answer`.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/b336ecb8-b271-4e42-9205-1344dc02defa" width = "700px" height="462px" />
 
 </h1>
