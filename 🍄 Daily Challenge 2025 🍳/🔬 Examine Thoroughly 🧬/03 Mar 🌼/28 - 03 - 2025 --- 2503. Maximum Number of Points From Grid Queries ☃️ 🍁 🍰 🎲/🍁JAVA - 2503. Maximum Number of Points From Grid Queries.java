@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(n * m) 👉🏻 q = len(queries) 👉🏻  m = len(grid[0])
 
-import java.util.*;
+import java.util.*; 
 
 class Solution {
       public int[] maxPoints(int[][] grid, int[] queries) {
