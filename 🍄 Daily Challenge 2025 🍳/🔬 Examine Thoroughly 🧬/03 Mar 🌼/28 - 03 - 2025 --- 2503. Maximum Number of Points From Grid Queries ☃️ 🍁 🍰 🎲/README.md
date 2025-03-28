@@ -69,18 +69,18 @@ Return the resulting array `answer`.
    ### 📥 `Input`  ➤ grid = [[2, 3], [4, 5]], queries = [6, 3, 1]
    ### 📤 `Output`  ➤ [4, 1, 0]
    ### 🔦 `Explanation`  ➤
-   *Query 6:
+   *Query 6:  
    Start at grid[0][0] which equals 2 and since 6 > 2, we get a point
    We can now visit grid[0][1] since 6 > 3 and get a point
    We can now visit grid[1][0] since 6 > 4 and get a point
    Lastly we visit grid[1][1] since 6 > 5 and get a point
    The result is 4
 
-   *Query 3:
+   *Query 3:  
    Start at grid[0][0] which equals 2 and since 3 > 2, we get a point
    We can move to grid[0][1], but since 3 !> 3, then the process stops and the result is 1
 
-   *Query 1:
+   *Query 1:  
    Start at grid[0][0] which equals 2 and since 1 !> 2, then the process stops and the result is 0
 
 </br>
