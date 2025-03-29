@@ -144,6 +144,6 @@ Thus, the **maximum score is `4788`**. ✅
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/07569ae9-f197-401c-9665-f434cb10c997" width = "700px" height="462px" />
 
 </h1>
