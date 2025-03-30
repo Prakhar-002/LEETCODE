@@ -1,13 +1,13 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER 763
 
-#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(s)
 
 #? 🧺 Space complexity ➺ O(1)
 
 # https://github.com/Prakhar-002/LEETCODE
 
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
+# ⌚ Time complexity -> O(n) ->  n = len(s)
 
 #  Space complexity -> O(1)
