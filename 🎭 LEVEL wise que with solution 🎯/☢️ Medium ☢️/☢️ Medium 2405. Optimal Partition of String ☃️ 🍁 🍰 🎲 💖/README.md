@@ -15,7 +15,7 @@ Given a string `s`, partition it into one or more substrings such that **the cha
 
 That is, **no letter appears more than once in a single substring**.  
 
-🔹 **Return the minimum number of substrings** in such a partition.  
+🔹 Return ***the minimum number of substrings*** in such a partition.  
 
 🔹 **Each character must belong to exactly one substring**.
 
