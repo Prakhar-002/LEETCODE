@@ -95,6 +95,6 @@ A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits 
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/192ca904-c82d-4324-9f51-5e5886dd8d96" width = "700px" height="462px" />
 
 </h1>
