@@ -1,10 +1,10 @@
-# 
+# 2405. Optimal Partition of String
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/optimal-partition-of-string/description/"><strong>➥ ☢️ 2405 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
