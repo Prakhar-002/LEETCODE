@@ -94,6 +94,6 @@ It can be shown that 4 is the minimum number of substrings needed.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/6ac7fe75-d34a-4a1b-b434-202a1a19450d" width = "700px" height="462px" />
 
 </h1>
