@@ -7,6 +7,24 @@
 
 <h1 align="center">
 
+𝐀𝐏𝐑𝚰𝐋 ☔ 𝟐𝟎𝟐𝟓
+
+</h1>
+
+| 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
+|-------------|-------------|------------------|-----------------|----------------|
+| 01 ┆ APR ┆ 2025 | ☢️Medium☢️ | []() | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+</br>
+
+<img align="left" src="https://github.com/user-attachments/assets/aa2b121a-048e-4cc3-b2ce-0a51a7f5389b" width="90" height="90" alt="March Gif">
+
+<img align="right" src="https://github.com/user-attachments/assets/aa2b121a-048e-4cc3-b2ce-0a51a7f5389b" width="90" height="90" alt="March Gif">
+
+</br>
+
+<h1 align="center">
+
 𝐌𝐀𝐑𝐂𝐇 🌼 𝟐𝟎𝟐𝟓
 
 </h1>
