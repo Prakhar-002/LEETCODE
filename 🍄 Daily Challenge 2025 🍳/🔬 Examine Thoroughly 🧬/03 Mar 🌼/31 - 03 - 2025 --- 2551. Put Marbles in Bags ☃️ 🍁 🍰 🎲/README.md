@@ -31,10 +31,7 @@ Your task is to return *the **difference** between the **maximum** and **minimum
 
   ### 📤 `Output`  ➤ 4
 
-  ### 🔦 `Explanation`  ➤
-The distribution [1],[3,5,1] results in the minimal score of (1+1) + (3+1) = 6.
-The distribution [1,3],[5,1], results in the maximal score of (1+3) + (5+1) = 10.
-Thus, we return their difference 10 - 6 = 4.
+  ### 🔦 `Explanation`  ➤ The distribution [1],[3,5,1] results in the minimal score of (1+1) + (3+1) = 6.  The distribution [1,3],[5,1], results in the maximal score of (1+3) + (5+1) = 10.  Thus, we return their difference 10 - 6 = 4.
 
 </br>
 
@@ -44,9 +41,7 @@ Thus, we return their difference 10 - 6 = 4.
 
   ### 📤 `Output`  ➤ 0
 
-  ### 🔦 `Explanation` ➤
-The only distribution possible is [1],[3].
-Since both the maximal and minimal score are the same, we return 0.
+  ### 🔦 `Explanation` ➤ The only distribution possible is [1],[3].  Since both the maximal and minimal score are the same, we return 0.
 
 </br>
 
