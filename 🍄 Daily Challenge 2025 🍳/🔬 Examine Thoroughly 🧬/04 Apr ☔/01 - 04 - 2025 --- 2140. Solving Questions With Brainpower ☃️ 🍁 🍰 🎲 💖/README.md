@@ -107,6 +107,6 @@ Total points earned: 2 + 5 = 7. There is no other way to earn 7 or more points.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/109f0bfe-2ede-43da-85b3-e97f75fcec48" width = "700px" height="462px" />
 
 </h1>
