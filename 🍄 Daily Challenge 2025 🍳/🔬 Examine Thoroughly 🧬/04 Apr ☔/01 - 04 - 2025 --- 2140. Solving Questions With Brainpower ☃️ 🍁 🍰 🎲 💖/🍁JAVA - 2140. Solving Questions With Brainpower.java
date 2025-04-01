@@ -39,7 +39,7 @@ class Solution {
 
 //? 🧺 Space complexity ➺ O(n)
 
-//* Recursion Solution 
+//* Recursion Solution
 
 class Solution {
       public long mostPoints(int[][] questions) {
