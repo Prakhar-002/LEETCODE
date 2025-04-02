@@ -73,3 +73,64 @@ long long maximumTripletValue(int* nums, int numsSize) {
       return maxTripletValue; // Return the maximum triplet value
 }
 
+
+//!---------------------------------------------------------------------- 
+
+//? ⌚ Time complexity ➺ O(n ^ 2) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+//* Greedy   
+
+long long maximumTripletValue(int* nums, int numsSize) {
+      long long maxTripletValue = 0; // Variable to store the maximum triplet value
+
+      // Iterate over the last element (k) of the triplet starting from index 2
+      for (int k = 2; k < numsSize; k++) {
+            int maxPrefix = nums[0]; // Initialize maxPrefix with the first element
+
+            // Iterate over the second element (j) of the triplet
+            for (int j = 1; j < k; j++) {
+                  // Calculate triplet value and update the maximum result
+                  long long value = (long long)(maxPrefix - nums[j]) * nums[k];
+                  if (value > maxTripletValue) {
+                        maxTripletValue = value;
+                  }
+
+                  // Update maxPrefix to maintain the maximum value up to index j
+                  if (nums[j] > maxPrefix) {
+                        maxPrefix = nums[j];
+                  }
+            }
+      }
+
+      return maxTripletValue; // Return the maximum triplet value
+}
+
+
+//!---------------------------------------------------------------------- 
+
+//? ⌚ Time complexity ➺ O(n ^ 3) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+//*  Three nested loops
+
+long long maximumTripletValue(int* nums, int numsSize) {
+      long long maxTripletValue = 0; // Variable to store the maximum triplet value
+
+      // Iterate over all possible triplets (i, j, k)
+      for (int i = 0; i < numsSize; i++) {
+            for (int j = i + 1; j < numsSize; j++) {
+                  for (int k = j + 1; k < numsSize; k++) {
+                        // Compute the triplet value and update the maximum result
+                        long long value = (long long)(nums[i] - nums[j]) * nums[k];
+                        if (value > maxTripletValue) {
+                              maxTripletValue = value;
+                        }
+                  }
+            }
+      }
+
+      return maxTripletValue; // Return the maximum triplet value
+}

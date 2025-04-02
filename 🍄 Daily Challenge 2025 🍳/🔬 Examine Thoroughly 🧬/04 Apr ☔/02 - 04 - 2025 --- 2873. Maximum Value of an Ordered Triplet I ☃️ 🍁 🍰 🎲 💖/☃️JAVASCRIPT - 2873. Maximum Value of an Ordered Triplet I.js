@@ -57,3 +57,58 @@ var maximumTripletValue = function (nums) {
       return maxTripletValue; // Return the maximum triplet value
 };
 
+
+//!---------------------------------------------------------------------- 
+
+//? ⌚ Time complexity ➺ O(n ^ 2) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+//* Greedy   
+
+var maximumTripletValue = function (nums) {
+      let n = nums.length; // Get the length of the array
+      let maxTripletValue = 0; // Variable to store the maximum triplet value
+
+      // Iterate over the last element (k) of the triplet starting from index 2
+      for (let k = 2; k < n; k++) {
+            let maxPrefix = nums[0]; // Initialize maxPrefix with the first element
+
+            // Iterate over the second element (j) of the triplet
+            for (let j = 1; j < k; j++) {
+                  // Calculate triplet value and update the maximum result
+                  maxTripletValue = Math.max(maxTripletValue, (maxPrefix - nums[j]) * nums[k]);
+
+                  // Update maxPrefix to maintain the maximum value up to index j
+                  maxPrefix = Math.max(maxPrefix, nums[j]);
+            }
+      }
+
+      return maxTripletValue; // Return the maximum triplet value
+};
+
+
+//!---------------------------------------------------------------------- 
+
+//? ⌚ Time complexity ➺ O(n ^ 3) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+//*  Three nested loops
+
+var maximumTripletValue = function (nums) {
+      let n = nums.length; // Get the length of the array
+      let maxTripletValue = 0; // Variable to store the maximum triplet value
+
+      // Iterate over all possible triplets (i, j, k)
+      for (let i = 0; i < n; i++) {
+            for (let j = i + 1; j < n; j++) {
+                  for (let k = j + 1; k < n; k++) {
+                        // Compute the triplet value and update the maximum result
+                        maxTripletValue = Math.max(maxTripletValue, (nums[i] - nums[j]) * nums[k]);
+                  }
+            }
+      }
+
+      return maxTripletValue; // Return the maximum triplet value
+};
