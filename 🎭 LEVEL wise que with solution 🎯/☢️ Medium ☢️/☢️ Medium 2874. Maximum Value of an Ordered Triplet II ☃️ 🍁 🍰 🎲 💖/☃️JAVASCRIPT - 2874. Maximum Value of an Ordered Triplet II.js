@@ -21,7 +21,7 @@ var maximumTripletValue = function (nums) {
 
             // Update maxSeen to track the highest value seen so far
             maxSeen = Math.max(maxSeen, nums[k]);
-      }
+      } 
 
       return maxTripletValue; // Return the maximum triplet value found
 };
