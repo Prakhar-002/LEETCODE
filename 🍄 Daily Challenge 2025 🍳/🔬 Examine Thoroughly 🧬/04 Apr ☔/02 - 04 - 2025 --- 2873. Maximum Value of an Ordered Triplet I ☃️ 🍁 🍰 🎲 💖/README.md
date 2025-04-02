@@ -1,0 +1,95 @@
+# 2873. Maximum Value of an Ordered Triplet I
+
+</br>
+
+<h2 align="center"> 
+
+<a href="https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/description/?envType=daily-question&envId=2025-04-02"><strong>➥ ♻️ 2873 Leetcode Easy ♻️ </strong></a>
+</h2>
+
+</br>
+
+# Description 📜 ˋ°•*⁀➷
+
+You are given a 0-indexed integer array `nums`.  Your task is to find the maximum value that can be obtained from all possible triplets of indices (i, j, k) such that `i < j < k`.
+
+The value of a triplet of indices `(i, j, k)` is calculated as `(nums[i] - nums[j]) * nums[k]`.
+
+If all possible triplets have a negative value, the function should return 0.
+
+</br>
+
+# Example 💡 1️⃣ ˋ°•*⁀➷
+
+  ### 📥 `Input`  ➤ nums = [12,6,1,2,7]
+
+  ### 📤 `Output`  ➤ 77
+
+  ### 🔦 `Explanation`  ➤ The value of the triplet (0, 2, 4) is (nums[0] - nums[2]) * nums[4] = (12 - 1) * 7 = 77.</br> It can be shown that there are no ordered triplets of indices with a value greater than 77.
+
+</br>
+
+# Example 💡 2️⃣ ˋ°•*⁀➷
+
+  ### 📥 `Input` ➤ nums = [1,10,3,4,19]
+
+  ### 📤 `Output`  ➤ 133
+
+  ### 🔦 `Explanation` ➤ The value of the triplet (1, 2, 4) is (nums[1] - nums[2]) * nums[4] = (10 - 3) * 19 = 133.</br> It can be shown that there are no ordered triplets of indices with a value greater than 133.
+
+</br>
+
+# Example 💡 3️⃣ ˋ°•*⁀➷
+
+  ### 📥 `Input` ➤ nums = [1,2,3]
+
+  ### 📤 `Output`  ➤ 0
+
+  ### 🔦 `Explanation`  ➤ The only ordered triplet of indices (0, 1, 2) has a negative value of (nums[0] - nums[1]) * nums[2] = (1 - 2) * 3 = -3. Hence, the answer would be 0.
+
+</br>
+
+# Example 💡 4️⃣ ˋ°•*⁀➷
+
+   ### 📥 `Input`  ➤ nums = [5, 4, 3, 2]
+
+   ### 📤 `Output`  ➤ 0
+
+   ### 🔦 `Explanation`  ➤ Using numbers in the example: (5-4) * 3 = 3; (5-3) * 2 = 4; (4-3) * 2 = 2; Using the max value gives a value of zero, that fulfills criteria*
+
+</br>
+
+# Constraints 🔒 ˋ°•*⁀➷
+
+🔹 3 <= nums.length <= 100 </br>
+
+🔹 1 <= nums[i] <= 10<sup>6</sup> </br>
+
+</br>
+
+# Topics 📋 ˋ°•*⁀➷
+
+🔸 **Array**  </br>
+
+</br>
+
+# Solution ✏️ ˋ°•*⁀➷
+
+| 📒 Language 📒  | 🪶 Solution 🪶 |
+| ------------- | ------------- |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
+| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
+
+</br>
+
+# Benchmark ⏱️ ˋ°•*⁀➷
+
+<h1  align="center" >
+
+<img src ="" width = "700px" height="462px" />
+
+</h1>
