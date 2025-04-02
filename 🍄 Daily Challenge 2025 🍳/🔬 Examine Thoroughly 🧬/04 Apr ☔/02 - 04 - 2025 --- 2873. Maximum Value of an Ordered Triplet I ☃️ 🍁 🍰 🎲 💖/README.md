@@ -89,6 +89,6 @@ If all possible triplets have a negative value, the function should return 0.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/34ef2a0f-09a0-47cb-8ce7-3ffb4f36bc7d" width = "700px" height="462px" />
 
 </h1>
