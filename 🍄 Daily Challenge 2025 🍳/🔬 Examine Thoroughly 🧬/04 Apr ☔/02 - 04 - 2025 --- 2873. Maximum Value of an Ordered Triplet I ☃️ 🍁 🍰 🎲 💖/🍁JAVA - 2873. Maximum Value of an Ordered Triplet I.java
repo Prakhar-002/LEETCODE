@@ -113,7 +113,7 @@ class Solution {
                               maxTripletValue = Math.max(maxTripletValue, (long) (nums[i] - nums[j]) * nums[k]);
                         }
                   }
-            } 
+            }
 
             return maxTripletValue; // Return the maximum triplet value
       }
