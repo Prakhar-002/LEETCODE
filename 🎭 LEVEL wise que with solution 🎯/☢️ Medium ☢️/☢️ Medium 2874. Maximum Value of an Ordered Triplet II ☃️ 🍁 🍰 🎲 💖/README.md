@@ -96,6 +96,6 @@ If all possible triplets have a negative value, the function should return 0.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/13398f7f-fdd0-46e0-9c7a-a7224e943ada" width = "700px" height="462px" />
 
 </h1>
