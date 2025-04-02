@@ -73,6 +73,12 @@ If all possible triplets have a negative value, the function should return 0.
 
 </br>
 
+# 🌯 Similar 🍲 Questions 🍜 `Solution` 🍱 ˋ°•*⁀➷
+
+### 🍫 []() </br>
+
+</br>
+
 # Solution ✏️ ˋ°•*⁀➷
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
