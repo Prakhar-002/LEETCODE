@@ -106,6 +106,6 @@ Note that nodes 6, 0, and 8 are also leaf nodes, but the depth of them is 2, but
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/d165aec9-f5d4-4bad-9e85-d0198fe8ea84" width = "700px" height="462px" />
 
 </h1>
