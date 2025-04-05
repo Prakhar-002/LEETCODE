@@ -115,6 +115,6 @@ The 8 subsets of [5,1,6] are:
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/f5676206-d165-49fa-9a5b-65b84c2aba70" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/25b9fd54-0ba4-4964-abf0-48b34896e794" width = "700px" height="462px" />
 
 </h1>
