@@ -14,7 +14,7 @@ class Solution {
       }
 
       // Helper class to store both node and depth
-      class Pair {
+      class Pair { 
             TreeNode node; // Potential LCA node
             int depth; // Depth of the deepest leaf in this subtree
 
