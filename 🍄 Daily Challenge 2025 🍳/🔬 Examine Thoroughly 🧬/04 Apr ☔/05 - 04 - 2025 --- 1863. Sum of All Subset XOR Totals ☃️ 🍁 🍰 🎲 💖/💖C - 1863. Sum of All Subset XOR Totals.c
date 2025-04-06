@@ -16,4 +16,4 @@ int subsetXORSum(int* nums, int numsSize) {
 
       // Total subset XOR sum = xorSum * 2^(numsSize - 1)
       return xorSum * (1 << (numsSize - 1));
-}
+} 
