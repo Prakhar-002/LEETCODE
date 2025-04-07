@@ -93,6 +93,6 @@ For every pair of elements (`answer[i]`, `answer[j]`) in this subset, *either*:
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/da8f5523-8312-4d38-9964-e381e78f3ff1" width = "700px" height="462px" />
 
 </h1>
