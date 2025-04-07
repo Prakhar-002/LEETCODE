@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(s)    👉🏻   s = sum(nums) // 2
 
-class Solution:
+class Solution: 
       def canPartition(self, nums: list[int]) -> bool:
             # Step 1: Find the total sum of the array
             total = sum(nums)
