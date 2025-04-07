@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n * s) 👉🏻   n = len(nums)
 
-#? 🧺 Space complexity ➺ O(s)    👉🏻   s = sum(nums) // 2
+#? 🧺 Space complexity ➺ O(1)    👉🏻   s = sum(nums) // 2
 
 class Solution: 
       def canPartition(self, nums: list[int]) -> bool:
