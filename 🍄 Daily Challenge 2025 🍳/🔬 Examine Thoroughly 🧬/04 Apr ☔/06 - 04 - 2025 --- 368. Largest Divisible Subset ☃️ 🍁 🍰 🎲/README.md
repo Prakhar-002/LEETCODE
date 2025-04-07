@@ -11,14 +11,14 @@
 
 # Description 📜 ˋ°•*⁀➷
 
-You are given a set of distinct positive integers `nums`.  Your goal is to find the largest subset, `answer`, that satisfies the following condition:
+### You are given a set of distinct positive integers `nums`.  Your goal is to find the largest subset, `answer`, that satisfies the following condition:
 
 For every pair of elements (`answer[i]`, `answer[j]`) in this subset, *either*:
 
 - `answer[i]` is divisible by `answer[j]` (i.e., `answer[i] % answer[j] == 0`), *or*
 - `answer[j]` is divisible by `answer[i]` (i.e., `answer[j] % answer[i] == 0`).
 
-If there are multiple such largest subsets that satisfy these divisibility conditions, you can return any one of them.
+### If there are multiple such largest subsets that satisfy these divisibility conditions, you can return any one of them.
 
 </br>
 
