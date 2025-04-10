@@ -7,7 +7,6 @@
 //? 🧺 Space complexity ➺ O(log(n))
 
 class Solution {
-
       // Main method to count powerful integers in the range [start, finish]
       public long numberOfPowerfulInt(long start, long finish, int limit, String s) {
 
