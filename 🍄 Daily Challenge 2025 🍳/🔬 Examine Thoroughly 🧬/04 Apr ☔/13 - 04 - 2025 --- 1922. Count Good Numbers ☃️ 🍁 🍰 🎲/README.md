@@ -1,10 +1,10 @@
-# 
+# 1922. Count Good Numbers
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/count-good-numbers/description/?envType=daily-question&envId=2025-04-13"><strong>➥ ☢️ 1922 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
