@@ -13,7 +13,7 @@
 
 ### You are given an array of integers `arr`, and three integers `a`, `b`, and `c`.  The objective is to find the number of "good" triplets.
 
-A triplet `(arr[i], arr[j], arr[k])` is considered "good" if the following conditions are all true:
+### A triplet `(arr[i], arr[j], arr[k])` is considered "good" if the following conditions are all true:
 
 1. `0 <= i < j < k < arr.length` (i, j, and k are valid indices, and they are in increasing order).
 2. `|arr[i] - arr[j]| <= a` (The absolute difference between `arr[i]` and `arr[j]` is less than or equal to `a`).
