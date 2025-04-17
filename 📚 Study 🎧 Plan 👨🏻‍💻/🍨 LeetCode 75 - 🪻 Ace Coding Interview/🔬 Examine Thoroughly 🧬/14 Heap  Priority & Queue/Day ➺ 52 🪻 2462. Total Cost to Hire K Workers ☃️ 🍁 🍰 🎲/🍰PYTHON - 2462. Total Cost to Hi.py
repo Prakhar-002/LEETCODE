@@ -2,7 +2,7 @@
 
 # Todo 💎 QUESTION NUMBER 2462
 
-#? ⌚ Time complexity ➺ O(n + k) 👉🏻  n = len(nums)
+#? ⌚ Time complexity ➺ O(n log n + k) 👉🏻  n = len(nums)
 
 #? 🧺 Space complexity ➺ O(1)
 
