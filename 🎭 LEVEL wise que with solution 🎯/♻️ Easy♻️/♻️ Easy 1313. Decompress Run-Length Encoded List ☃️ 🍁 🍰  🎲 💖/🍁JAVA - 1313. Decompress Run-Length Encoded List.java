@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-class Solution {
+class Solution { 
       public int[] decompressRLElist(int[] nums) {
             // Step 1: First pass to calculate total length of the result array
             int totalLength = 0;

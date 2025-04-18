@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def sumBase(self, n: int, k: int) -> int:
             digitSum = 0  # Initialize the sum of digits in base-k
 
