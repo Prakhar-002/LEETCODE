@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-import java.util.Arrays;
+import java.util.Arrays; 
 
 class Solution {
       // Main function to count the number of fair pairs
