@@ -51,7 +51,19 @@
 
   ### 📤 `Output`  ➤ 7
 
-  ### 🔦 `Explanation`  ➤ In the above 2 has one colour , where number `zero equal same therefore count can from base result` it equal 0;  for final to make sure both element in both zero color set and final result equal total number 6.
+  ### 🔦 `Explanation`  ➤ 
+
+Each number in the array tells how many other rabbits share the same color as the current rabbit.
+
+We calculate the minimum total number of rabbits based on these rules:
+
+- Two `0`s ➝ Each forms a group of 1 rabbit (0 + itself). So, total = `2`
+
+- One `1` ➝ Needs a group of 2 rabbits (1 + itself). So, total = `2`
+
+- One `2` ➝ Needs a group of 3 rabbits (2 + itself). So, total = `3`
+
+✅ Final Result ➤ `2 + 2 + 3 = 7`
 
 </br>
 
@@ -61,7 +73,18 @@
 
   ### 📤 `Output`  ➤  9
 
-  ### 🔦 `Explanation`  ➤ We should group those number like same count together make some form valid: therefore final number must count form by each count: this operation  then perform number total with array side 40 side; and the last will have that total.
+  ### 🔦 `Explanation`  ➤ 
+
+Group the answers based on how many same-colored rabbits each rabbit claims:
+
+- One `1` ➝ Forms a group of 2 rabbits ➝ Total = `2`
+
+- Two `2`s ➝ Need a group of 3 rabbits ➝ Can share the same group ➝ Total = `3`
+
+- Three `3`s ➝ Each needs a group of 4 ➝ All 3 can fit in 1 group ➝ Total = `4`
+
+</br>
+✅ Final Result ➤ `2 + 3 + 4 = 9`
 
 </br>
 
