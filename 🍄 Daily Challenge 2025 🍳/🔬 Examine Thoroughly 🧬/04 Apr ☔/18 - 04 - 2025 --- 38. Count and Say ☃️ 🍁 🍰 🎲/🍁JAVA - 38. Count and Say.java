@@ -2,7 +2,7 @@
 
 // Todo 💎 QUESTION NUMBER 38
 
-//? ⌚ Time complexity ➺ O(n * 2 ^ n) 
+//? ⌚ Time complexity ➺ O(n * 2 ^ n)
 
 //? 🧺 Space complexity ➺ O(2 ^ n)
 
