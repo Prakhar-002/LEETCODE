@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(differences)
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(1) 
 
 class Solution {
       public int numberOfArrays(int[] differences, int lower, int upper) {
