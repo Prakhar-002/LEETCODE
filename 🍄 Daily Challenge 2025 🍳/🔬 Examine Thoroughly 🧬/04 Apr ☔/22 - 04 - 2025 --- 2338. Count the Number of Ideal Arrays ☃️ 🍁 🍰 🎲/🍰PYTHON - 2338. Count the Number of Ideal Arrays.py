@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O((n+ω(m))⋅ω(m)+mω(m)) 👉🏻  w(m) = No. of distinct factor (Log log m)
 
-#? 🧺 Space complexity ➺ O((n+log(m))⋅log(m))
+#? 🧺 Space complexity ➺ O((n+log(m))⋅log(m)) 
 
 # https://github.com/Prakhar-002/LEETCODE
 
