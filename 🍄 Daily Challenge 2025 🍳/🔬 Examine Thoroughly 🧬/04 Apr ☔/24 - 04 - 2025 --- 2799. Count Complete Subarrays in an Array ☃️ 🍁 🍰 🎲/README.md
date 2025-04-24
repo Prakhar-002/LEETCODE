@@ -13,13 +13,13 @@
 
 ### You are given an array `nums` containing only positive integers.
 
-A subarray of the given array is considered *complete* if it satisfies this condition:
+### A subarray of the given array is considered *complete* if it satisfies this condition:
 
-*   The number of distinct elements in the subarray is equal to the number of distinct elements found in the entire array (`nums`).
+- The number of distinct elements in the subarray is equal to the number of distinct elements found in the entire array (`nums`).
 
-Your task is to return the total number of *complete* subarrays that exist within the array `nums`.
+### Your task is to return the total number of *complete* subarrays that exist within the array `nums`.
 
-Recall that a subarray is a contiguous (connected) and non-empty segment of an array.
+### Recall that a subarray is a contiguous (connected) and non-empty segment of an array.
 
 </br>
 
