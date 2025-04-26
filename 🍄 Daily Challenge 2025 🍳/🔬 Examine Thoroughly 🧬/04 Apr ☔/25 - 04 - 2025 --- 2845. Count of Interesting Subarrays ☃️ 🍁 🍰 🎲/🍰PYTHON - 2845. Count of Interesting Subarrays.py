@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(min(n, modulo))
+#? 🧺 Space complexity ➺ O(min(n, modulo)) 
 
 class Solution:
       def countInterestingSubarrays(self, nums: List[int], modulo: int, k: int) -> int:
