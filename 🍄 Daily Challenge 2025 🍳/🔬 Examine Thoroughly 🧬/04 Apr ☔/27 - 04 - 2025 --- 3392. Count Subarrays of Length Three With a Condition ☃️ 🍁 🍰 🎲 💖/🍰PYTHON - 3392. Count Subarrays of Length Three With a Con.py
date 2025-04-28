@@ -9,7 +9,7 @@
 class Solution:
       def countSubarrays(self, nums: List[int]) -> int:
             n = len(nums)                           # Length of the nums array
-            ans = 0                                  # Initialize answer to count valid subarrays
+            ans = 0                                 # Initialize answer to count valid subarrays
 
             for i in range(1, n - 1):                # Iterate from index 1 to n-2 (middle elements)
                   # Check if current element is twice the average of its neighbors
