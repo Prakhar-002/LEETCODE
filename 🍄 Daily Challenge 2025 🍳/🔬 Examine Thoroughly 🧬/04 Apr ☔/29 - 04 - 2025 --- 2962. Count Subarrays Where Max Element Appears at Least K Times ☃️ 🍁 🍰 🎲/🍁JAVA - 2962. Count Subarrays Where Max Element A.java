@@ -27,6 +27,7 @@ class Solution {
                   // Shrink window if it has exactly k max elements
                   while (left <= right && count == k) {
                         subArr += (n - right);      // All subarrays from left to n-1 ending at right are valid
+
                         if (nums[left] == maxElem) {
                               count--;              // Reduce count if removing maxElem
                         }
