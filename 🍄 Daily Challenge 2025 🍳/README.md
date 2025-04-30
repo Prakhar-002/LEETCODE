@@ -1,7 +1,24 @@
-
 <img align="left" src="https://github.com/user-attachments/assets/4acebbcb-32a1-4e0d-b2c1-0b0d5bb1c8de" width="90" height="90" alt="Coin Gif">
 
 <img align="right" src="https://github.com/user-attachments/assets/4acebbcb-32a1-4e0d-b2c1-0b0d5bb1c8de" width="90" height="90" alt="Coin Gif">
+
+</br>
+
+<h1 align="center">
+
+𝐌α𝗒 🏕️ 𝟐𝟎𝟐𝟓
+
+</h1>
+
+| 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
+|-------------|-------------|------------------|-----------------|----------------|
+| 01 ┆ MAY ┆ 2025 | ☢️Medium☢️ | []() | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+</br>
+
+<img align="left" src="https://github.com/user-attachments/assets/c90f804d-9131-4f99-bc68-d40c323a2ba4" width="90" height="90" alt="May Gif">
+
+<img align="right" src="https://github.com/user-attachments/assets/c90f804d-9131-4f99-bc68-d40c323a2ba4" width="90" height="90" alt="May Gif">
 
 </br>
 
