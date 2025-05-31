@@ -6,19 +6,19 @@
 
 <h1 align="center">
 
-𝐌α𝗒 🏕️ 𝟐𝟎𝟐𝟓
+𝐉υ𐓣𝖾 🏕️ 𝟐𝟎𝟐𝟓
 
 </h1>
 
 | 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
 |-------------|-------------|------------------|-----------------|----------------|
-| 01 ┆ MAY ┆ 2025 | ☢️Medium☢️ | []() | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+| 01 ┆ JUNE ┆ 2025 | ☢️Medium☢️ | []() | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
 
 </br>
 
-<img align="left" src="https://github.com/user-attachments/assets/c90f804d-9131-4f99-bc68-d40c323a2ba4" width="90" height="90" alt="May Gif">
+<img align="left" src="https://github.com/user-attachments/assets/c90f804d-9131-4f99-bc68-d40c323a2ba4" width="90" height="90" alt="April Gif">
 
-<img align="right" src="https://github.com/user-attachments/assets/c90f804d-9131-4f99-bc68-d40c323a2ba4" width="90" height="90" alt="May Gif">
+<img align="right" src="https://github.com/user-attachments/assets/c90f804d-9131-4f99-bc68-d40c323a2ba4" width="90" height="90" alt="April Gif">
 
 </br>
 
