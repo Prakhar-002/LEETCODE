@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n log(max(piles))) 👉🏻  n = len(piles)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def minEatingSpeed(self, piles, H):
