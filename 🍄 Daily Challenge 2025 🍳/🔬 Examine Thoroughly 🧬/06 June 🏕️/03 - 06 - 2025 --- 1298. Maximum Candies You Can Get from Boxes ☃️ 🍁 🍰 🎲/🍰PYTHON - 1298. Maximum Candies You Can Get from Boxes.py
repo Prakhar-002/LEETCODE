@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(n)
 
 import collections
-from typing import List
+from typing import List 
 
 class Solution:
       def maxCandies(
