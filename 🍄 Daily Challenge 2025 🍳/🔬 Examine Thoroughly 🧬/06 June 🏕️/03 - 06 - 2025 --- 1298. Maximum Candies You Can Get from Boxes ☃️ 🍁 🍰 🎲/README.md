@@ -111,6 +111,6 @@ The total number of candies will be 6.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/357e0475-6842-4085-aec1-2df0a5cc9b20" width = "700px" height="462px" />
 
 </h1>
