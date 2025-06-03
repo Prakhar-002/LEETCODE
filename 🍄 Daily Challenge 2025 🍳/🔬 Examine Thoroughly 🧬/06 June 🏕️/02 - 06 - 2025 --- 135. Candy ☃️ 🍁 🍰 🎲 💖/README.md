@@ -76,6 +76,6 @@ Your task is to return the *minimum* number of candies you need to distribute to
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/7772c99a-fde8-4128-9f1e-d8eddc144ef8" width = "700px" height="462px" />
 
 </h1>
