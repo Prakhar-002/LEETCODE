@@ -7,7 +7,7 @@
 //? 🧺 Space complexity ➺  O(n - numFriends + 1)
 
 class Solution {
-      public String answerString(String word, int numFriends) {
+      public String answerString(String word, int numFriends) { 
             // If there's only 1 friend, return the whole word
             if (numFriends == 1) {
                   return word;
