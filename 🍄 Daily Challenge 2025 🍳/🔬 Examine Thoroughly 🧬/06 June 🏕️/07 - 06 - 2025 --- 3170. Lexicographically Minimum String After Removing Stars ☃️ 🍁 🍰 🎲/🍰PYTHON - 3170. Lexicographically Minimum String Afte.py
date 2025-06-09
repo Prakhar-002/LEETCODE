@@ -9,7 +9,7 @@
 class Solution:
       def clearStars(self, input_str: str) -> str:
             # Create 26 stacks, one for each lowercase letter
-            char_indices = [[] for _ in range(26)]
+            char_indices = [[] for _ in range(26)] 
 
             # Convert the string to a list for easy modification
             chars = list(input_str)
