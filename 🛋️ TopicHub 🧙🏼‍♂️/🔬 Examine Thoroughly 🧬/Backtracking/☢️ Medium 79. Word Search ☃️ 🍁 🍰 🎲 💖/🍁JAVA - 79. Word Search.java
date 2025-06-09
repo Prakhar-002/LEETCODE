@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(ROWS * COLS)
 
-class Solution {
+class Solution { 
       public boolean exist(char[][] board, String word) {
             int ROWS = board.length;
             int COLS = board[0].length;
