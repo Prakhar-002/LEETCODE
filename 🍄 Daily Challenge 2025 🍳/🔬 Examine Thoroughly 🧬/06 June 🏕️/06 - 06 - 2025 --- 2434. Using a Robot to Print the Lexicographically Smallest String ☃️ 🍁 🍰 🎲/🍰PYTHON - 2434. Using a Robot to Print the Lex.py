@@ -22,7 +22,7 @@ class Solution:
 
             for ch in s:
                   stack.append(ch)                   # Robot picks up character
-                  cnt[ord(ch) - ord('a')] -= 1       # Decrease frequency
+                  cnt[ord(ch) - ord('a')] -= 1       # Decrease frequency 
 
                   # Move to next available smallest character
                   while min_char <= 'z' and cnt[ord(min_char) - ord('a')] == 0:

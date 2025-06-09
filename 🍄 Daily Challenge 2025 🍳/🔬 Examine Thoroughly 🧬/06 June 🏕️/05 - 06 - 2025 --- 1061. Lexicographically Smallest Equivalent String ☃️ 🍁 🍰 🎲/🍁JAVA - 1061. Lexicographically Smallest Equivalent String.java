@@ -8,7 +8,7 @@
 
 class Solution { 
 
-      int[] parent = new int[26]; // Union-Find parent array
+      int[] parent = new int[26]; // Union-Find parent array 
 
       // Find operation with path compression
       private int find(int x) {
