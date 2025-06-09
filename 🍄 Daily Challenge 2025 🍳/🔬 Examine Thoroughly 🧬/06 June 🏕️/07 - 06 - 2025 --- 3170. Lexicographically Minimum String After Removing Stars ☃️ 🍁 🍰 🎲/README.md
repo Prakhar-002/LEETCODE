@@ -78,6 +78,6 @@ We should delete one of the 'a' characters with '*'. If we choose s[3], s become
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/d30dc9de-409b-4fc2-a9af-318ec6055ad5" width = "700px" height="462px" />
 
 </h1>
