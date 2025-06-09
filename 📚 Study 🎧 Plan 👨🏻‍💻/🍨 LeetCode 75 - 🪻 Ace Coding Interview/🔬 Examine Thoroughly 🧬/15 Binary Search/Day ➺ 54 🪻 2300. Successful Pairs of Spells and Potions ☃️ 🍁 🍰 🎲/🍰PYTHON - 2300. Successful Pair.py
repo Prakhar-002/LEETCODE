@@ -10,7 +10,7 @@ class Solution:
       def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
             # Get the number of spells and potions
             n = len(spells)
-            pot_len = len(potions)
+            pot_len = len(potions) 
 
             # Initialize the result list to store the number of successful pairs for each spell
             pairs = [0] * n
