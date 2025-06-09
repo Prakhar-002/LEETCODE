@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(log n)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def findKthNumber(self, n: int, k: int) -> int:
