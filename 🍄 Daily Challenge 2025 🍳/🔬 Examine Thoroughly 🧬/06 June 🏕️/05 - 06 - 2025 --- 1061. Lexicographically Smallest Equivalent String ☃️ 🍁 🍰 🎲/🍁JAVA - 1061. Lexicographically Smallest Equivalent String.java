@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)    -> m = Mapping baseStr
 
-class Solution {
+class Solution { 
 
       int[] parent = new int[26]; // Union-Find parent array
 
