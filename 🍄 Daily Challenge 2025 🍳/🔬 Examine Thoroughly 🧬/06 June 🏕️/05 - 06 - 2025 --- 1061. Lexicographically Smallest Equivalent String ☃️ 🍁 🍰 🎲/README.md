@@ -1,70 +1,80 @@
-# 
+# 1061. Lexicographically Smallest Equivalent String
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/lexicographically-smallest-equivalent-string/description/?envType=daily-question&envId=2025-06-05"><strong>➥ ☢️ 1061 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### You are given two strings, `s1` and `s2`, of the same length, along with a string `baseStr`.
+
+### The strings `s1` and `s2` contain information about character equivalencies: we say `s1[i]` and `s2[i]` are *equivalent* characters.
+
+### For example, if `s1 = "abc"` and `s2 = "cde"`, then we know the following equivalencies: 'a' == 'c', 'b' == 'd', and 'c' == 'e'.
+
+### Character equivalencies follow standard equivalence relation rules:
+
+- **Reflexivity:** 'a' == 'a'.
+- **Symmetry:** If 'a' == 'b', then 'b' == 'a'.
+- **Transitivity:** If 'a' == 'b' and 'b' == 'c', then 'a' == 'c'.
+
+### Given this equivalency information derived from `s1` and `s2`, the goal is to determine the lexicographically smallest equivalent string of `baseStr`.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  ### 📥 `Input`  ➤ s1 = "parker", s2 = "morris", baseStr = "parser"
 
-  ### 📥 `Input`  ➤ 
+  ### 📤 `Output`  ➤ "makkek"
 
-  ### 📤 `Output`  ➤ 2
-
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤ Based on the equivalency information in s1 and s2, we can group their characters as [m,p], [a,o], [k,r,s], [e,i].
+The characters in each group are equivalent and sorted in lexicographical order.
+So the answer is "makkek".
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ s1 = "hello", s2 = "world", baseStr = "hold"
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ "hdld"
 
-  ### 🔦 `Explanation` ➤ 
+  ### 🔦 `Explanation` ➤ Based on the equivalency information in s1 and s2, we can group their characters as [h,w], [d,e,o], [l,r].
+So only the second letter 'o' in baseStr is changed to 'd', the answer is "hdld".
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ s1 = "leetcode", s2 = "programs", baseStr = "sourcecode"
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ "aauaaaaada"
 
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation` ➤ We group the equivalent characters in s1 and s2 as [a,o,e,r,s,c], [l,p], [g,t] and [d,m], thus all letters in baseStr except 'u' and 'd' are transformed to 'a', the answer is "aauaaaaada".
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
+🔹 1 <= s1.length, s2.length, baseStr <= 1000 </br>
 
-🔹 **** </br>
+🔹 s1.length == s2.length </br>
 
-🔹 **** </br>
+🔹 s1, s2, and baseStr consist of lowercase English letters. </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **String**  </br>
+
+🔸 **Union Find**  </br>
 
 </br>
 
