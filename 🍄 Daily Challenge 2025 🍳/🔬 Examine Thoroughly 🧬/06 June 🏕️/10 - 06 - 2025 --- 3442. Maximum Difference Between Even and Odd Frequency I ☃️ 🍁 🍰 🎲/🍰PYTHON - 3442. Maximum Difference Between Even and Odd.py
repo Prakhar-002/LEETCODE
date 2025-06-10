@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-from collections import Counter
+from collections import Counter 
 
 class Solution:
       def maxDifference(self, s: str) -> int:
