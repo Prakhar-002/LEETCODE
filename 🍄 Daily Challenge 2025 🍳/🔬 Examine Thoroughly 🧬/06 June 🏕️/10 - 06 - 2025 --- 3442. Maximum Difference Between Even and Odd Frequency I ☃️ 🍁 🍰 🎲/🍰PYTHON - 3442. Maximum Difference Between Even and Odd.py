@@ -1,13 +1,25 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER 3442
 
-#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(s)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(n)
 
-# https://github.com/Prakhar-002/LEETCODE
+from collections import Counter
 
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
+class Solution:
+      def maxDifference(self, s: str) -> int:
+            cnt = Counter(s)                    # Count frequency of each character in the string
 
-#  Space complexity -> O(1)
+            evenFreq = float("inf")             # Initialize minimum even frequency to +infinity
+            oddFreq = float("-inf")             # Initialize maximum odd frequency to -infinity
+
+            for value in cnt.values():          # Loop through all character frequencies
+                  if value % 2 == 0:            # If frequency is even
+                        evenFreq = min(evenFreq, value)  # Track minimum even frequency
+                  else:                         # If frequency is odd
+                        oddFreq = max(oddFreq, value)    # Track maximum odd frequency
+
+            # Return the difference (max odd - min even) as integer
+            return int(oddFreq - evenFreq)
