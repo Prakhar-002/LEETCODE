@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/?envType=daily-question&envId=2025-06-10"><strong>➥ ☢️ 3442 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/?envType=daily-question&envId=2025-06-10"><strong>➥ ♻️ 3442 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
@@ -77,6 +77,6 @@ Return the maximum possible value of this difference `diff`.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/eb8d8d01-b5c2-4a07-bc6d-32f6d233e8ed" width = "700px" height="462px" />
 
 </h1>
