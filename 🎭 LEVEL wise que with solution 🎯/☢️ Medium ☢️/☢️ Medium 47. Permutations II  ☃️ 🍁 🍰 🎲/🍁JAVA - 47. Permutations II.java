@@ -8,7 +8,7 @@
 
 import java.util.*;
 
-class Solution {
+class Solution { 
       public List<List<Integer>> permuteUnique(int[] nums) {
             List<List<Integer>> res = new ArrayList<>();
             List<Integer> perm = new ArrayList<>();
