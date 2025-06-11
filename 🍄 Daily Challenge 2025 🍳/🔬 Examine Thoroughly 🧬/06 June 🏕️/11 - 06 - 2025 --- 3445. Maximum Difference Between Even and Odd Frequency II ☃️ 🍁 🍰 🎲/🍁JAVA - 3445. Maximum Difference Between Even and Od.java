@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(s)
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(1) 
 
 class Solution {
       public int maxDifference(String s, int k) {
