@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n*logV+ n*log n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def minimizeMax(self, nums: List[int], p: int) -> int:
