@@ -9,7 +9,7 @@
 class Solution:
       def minMaxDifference(self, num: int) -> int:
             # Convert the number to string for easy manipulation
-            s = str(num)
+            s = str(num) 
             t = s
 
             pos = 0
