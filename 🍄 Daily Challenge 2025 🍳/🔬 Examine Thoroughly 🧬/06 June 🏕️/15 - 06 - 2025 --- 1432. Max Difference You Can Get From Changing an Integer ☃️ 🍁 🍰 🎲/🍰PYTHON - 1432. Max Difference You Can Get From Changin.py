@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(log n)
 
-#? 🧺 Space complexity ➺ O(log n)
+#? 🧺 Space complexity ➺ O(log n) 
 
 class Solution:
       def maxDiff(self, num: int) -> int:
