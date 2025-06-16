@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/maximum-difference-between-increasing-elements/submissions/1665558772/?envType=daily-question&envId=2025-06-16"><strong>➥ ♻️ 2016 Leetcode Easy ♻️ </strong></a>
+<a href="https://leetcode.com/problems/maximum-difference-between-increasing-elements/description/?envType=daily-question&envId=2025-06-16"><strong>➥ ♻️ 2016 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
