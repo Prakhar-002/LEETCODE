@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(log(n − k)) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 MOD = 10**9 + 7           # Large prime for modulo operations
 MAX = 10**5               # Maximum size for factorial precomputation
