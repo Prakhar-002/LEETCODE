@@ -19,7 +19,7 @@ class Solution {
             int idx = 0;
 
             // Step 2: Iterate through the sorted array in steps of 3
-            for (int i = 0; i < n; i += 3) {
+            for (int i = 0; i < n; i += 3) { 
                   // Step 3: Check if this group of 3 elements is valid
                   // A group is valid if max - min <= k
                   if (nums[i + 2] - nums[i] > k) {
