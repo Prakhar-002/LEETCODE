@@ -1,7 +1,7 @@
 
 <img align="left" src="https://github.com/user-attachments/assets/33d3a2d1-55e1-426d-9ebe-0b19920d0532" width="90" height="90" alt="December Gif">
 
-<img align="right" src="https://github.com/user-attachments/assets/33d3a2d1-55e1-426d-9ebe-0b19920d0532" width="90" height="90" alt="December Gif">
+<img align="right" src="https://github.com/user-attachments/assets/33d3a2d1-55e1-426d-9ebe-0b19920d0532" width="90" height="90" alt="December Gif"> 
 
 </br>
 
