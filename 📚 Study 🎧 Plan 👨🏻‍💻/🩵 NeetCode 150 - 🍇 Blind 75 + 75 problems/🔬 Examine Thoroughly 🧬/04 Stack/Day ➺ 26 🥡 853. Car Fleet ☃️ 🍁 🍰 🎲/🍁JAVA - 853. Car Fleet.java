@@ -8,7 +8,7 @@
 
 class Solution {
       public int carFleet(int target, int[] position, int[] speed) {
-            int n = position.length;
+            int n = position.length; 
 
             // Pair up position and speed for each car
             int[][] pairs = new int[n][2];
