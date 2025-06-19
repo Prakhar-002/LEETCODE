@@ -11,7 +11,7 @@ class Solution:
             # Sort the array to process elements in non-decreasing order
             nums.sort()
 
-            # Pointer to traverse the array
+            # Pointer to traverse the array 
             i = 0
 
             # Counter for the number of subsequences
