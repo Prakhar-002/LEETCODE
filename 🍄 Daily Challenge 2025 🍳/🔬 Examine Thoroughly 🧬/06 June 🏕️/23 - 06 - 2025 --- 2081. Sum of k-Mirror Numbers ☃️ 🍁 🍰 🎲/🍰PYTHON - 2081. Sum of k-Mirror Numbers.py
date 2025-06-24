@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n ^ 5) 👉🏻  n = 10
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def kMirror(self, k: int, n: int) -> int:
