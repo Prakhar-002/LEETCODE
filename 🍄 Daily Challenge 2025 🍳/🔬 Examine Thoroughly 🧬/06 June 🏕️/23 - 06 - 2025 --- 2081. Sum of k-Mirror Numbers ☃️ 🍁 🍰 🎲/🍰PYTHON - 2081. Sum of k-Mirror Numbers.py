@@ -21,7 +21,7 @@ class Solution:
             total = 0           # Sum of valid numbers found
 
             while count < n:
-                  right = left * 10   # End of current length group
+                  right = left * 10   # End of current length group 
 
                   # Try building palindromes with odd and even lengths
                   for op in [0, 1]:   # op = 0 → odd-length, op = 1 → even-length
