@@ -23,7 +23,7 @@ Your function must return the longest subsequence that can be repeated `k` times
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/ceb71a30-31ed-4b74-8fab-0dfc3eaf4401" width="" height=""/>
 
   ### 📥 `Input`  ➤ s = "letsleetcode", k = 2
 
