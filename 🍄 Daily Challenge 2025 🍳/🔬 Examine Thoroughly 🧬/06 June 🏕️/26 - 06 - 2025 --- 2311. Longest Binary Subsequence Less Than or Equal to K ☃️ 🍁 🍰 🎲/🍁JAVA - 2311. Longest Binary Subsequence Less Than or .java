@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-class Solution {
+class Solution { 
       public int longestSubsequence(String s, int k) {
             long sum = 0; // Stores current binary value of selected subsequence
             int count = 0; // Count of characters included in the subsequence
