@@ -7,7 +7,6 @@
 //? 🧺 Space complexity ➺ O(1) -> n2 = len(nums2)
 
 class Solution {
-
       // Helper function to count how many products nums1[i] * nums2[j] are <= v
       int f(int[] nums2, long x1, long v) {
             int n2 = nums2.length;
