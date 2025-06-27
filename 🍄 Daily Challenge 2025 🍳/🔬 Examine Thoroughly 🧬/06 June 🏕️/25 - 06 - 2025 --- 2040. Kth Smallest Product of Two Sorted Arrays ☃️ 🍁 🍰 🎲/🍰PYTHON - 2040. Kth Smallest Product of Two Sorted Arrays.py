@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity ➺ O(1) -> n2 = len(nums2)
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(n1 log n2 * log C) ->  n1 = len(nums1)
-
-#  Space complexity -> O(1) -> n2 = len(nums2)
-
 class Solution:
       # Helper function: Counts how many elements in nums2 when multiplied by x1 are <= v
       def f(self, nums2: List[int], x1: int, v: int) -> int:
