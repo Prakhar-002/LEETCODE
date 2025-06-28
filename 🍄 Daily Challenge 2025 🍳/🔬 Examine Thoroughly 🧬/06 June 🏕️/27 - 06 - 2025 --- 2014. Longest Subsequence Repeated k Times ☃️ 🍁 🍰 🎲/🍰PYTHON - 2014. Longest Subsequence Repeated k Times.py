@@ -9,7 +9,7 @@
 class Solution:
       def longestSubsequenceRepeatedK(self, s: str, k: int) -> str:
             # Convert each character in the string to its alphabet index (0 for 'a', ..., 25 for 'z')
-            s = [ord(c) - ord("a") for c in s]
+            s = [ord(c) - ord("a") for c in s] 
 
             n = len(s)
 
