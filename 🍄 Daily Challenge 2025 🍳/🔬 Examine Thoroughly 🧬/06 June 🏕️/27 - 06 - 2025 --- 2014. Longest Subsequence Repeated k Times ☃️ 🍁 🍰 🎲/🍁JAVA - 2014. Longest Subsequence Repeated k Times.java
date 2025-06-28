@@ -84,7 +84,7 @@ class Solution {
                   curr.add(a.get(i));
                   generatePermutations(a, len, curr, used, res);
                   curr.remove(curr.size() - 1);
-                  used[i] = false;
+                  used[i] = false; 
             }
       }
 }
