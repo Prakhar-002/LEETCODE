@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28"><strong>➥ ☢️ 2099 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/find-subsequence-of-length-k-with-the-largest-sum/description/?envType=daily-question&envId=2025-06-28"><strong>➥ ♻️ 2099 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
@@ -90,6 +90,6 @@ Another possible subsequence is [4, 3].
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/b08bcc8a-c5b3-41d9-860e-31691ef34e93" width = "700px" height="462px" />
 
 </h1>
