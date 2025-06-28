@@ -95,6 +95,6 @@ Your function must return the longest subsequence that can be repeated `k` times
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/01e7551e-b9de-4f96-8d93-4ae8ba429712" width = "700px" height="462px" />
 
 </h1>
