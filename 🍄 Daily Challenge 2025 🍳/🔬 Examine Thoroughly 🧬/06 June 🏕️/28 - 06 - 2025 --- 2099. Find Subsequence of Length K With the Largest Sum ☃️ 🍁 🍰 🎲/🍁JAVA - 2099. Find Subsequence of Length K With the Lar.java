@@ -13,7 +13,7 @@ class Solution {
             // Step 1: Pair each number with its original index
             int[][] pairs = new int[n][2];
             for (int i = 0; i < n; i++) {
-                  pairs[i][0] = i; // index
+                  pairs[i][0] = i; // index 
                   pairs[i][1] = nums[i]; // value
             }
 
