@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(n)
 
 class Solution:
-      def findLHS(self, nums: List[int]) -> int:
+      def findLHS(self, nums: List[int]) -> int: 
             freq = Counter(nums)      # Count the frequency of each number
             maxLength = 0
 
