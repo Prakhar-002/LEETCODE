@@ -6,6 +6,24 @@
 
 <h1 align="center">
 
+𝐉υᥣ𝗒 🍹 𝟐𝟎𝟐𝟓
+
+</h1>
+
+| 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
+|-----------|-------------|------------------|---------------|----------------|
+| 01 ┆ JULY ┆ 2025 | ☢️Medium☢️ | []() | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+</br>
+
+<img align="left" src="https://github.com/user-attachments/assets/403bc0a0-700d-4e17-85d3-e6e6db4d61a5" width="90" height="90" alt="JUNE Gif">
+
+<img align="right" src="https://github.com/user-attachments/assets/403bc0a0-700d-4e17-85d3-e6e6db4d61a5" width="90" height="90" alt="JUNE Gif">
+
+</br>
+
+<h1 align="center">
+
 𝐉υ𐓣𝖾 🏕️ 𝟐𝟎𝟐𝟓
 
 </h1>
