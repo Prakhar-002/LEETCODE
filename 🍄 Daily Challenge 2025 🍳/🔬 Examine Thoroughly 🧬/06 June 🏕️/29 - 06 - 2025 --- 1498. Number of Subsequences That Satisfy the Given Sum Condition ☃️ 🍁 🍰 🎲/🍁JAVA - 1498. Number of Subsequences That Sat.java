@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(n)
 
-class Solution {
+class Solution { 
       public int numSubseq(int[] nums, int target) {
             int mod = 1_000_000_007; // Large prime number to take modulo as per the problem.
             int n = nums.length;
