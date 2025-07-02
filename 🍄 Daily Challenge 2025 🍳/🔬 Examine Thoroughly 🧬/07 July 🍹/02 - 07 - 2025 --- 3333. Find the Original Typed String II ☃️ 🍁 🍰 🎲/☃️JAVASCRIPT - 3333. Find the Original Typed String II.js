@@ -9,7 +9,7 @@
 var possibleStringCount = function (word, k) {
       const MOD = 1e9 + 7;
 
-      if (word.length === 0) return 0;
+      if (word.length === 0) return 0; 
 
       const groups = [];
       let count = 1;
