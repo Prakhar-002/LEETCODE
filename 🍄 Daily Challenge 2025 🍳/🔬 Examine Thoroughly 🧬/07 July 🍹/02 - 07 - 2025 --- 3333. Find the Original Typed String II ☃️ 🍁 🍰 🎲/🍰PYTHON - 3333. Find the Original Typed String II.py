@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity ➺ O(k)
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(k * g) ->  n = len(groups)
-
-#  Space complexity -> O(k)
-
 class Solution:
       MOD = 10**9 + 7   # Define modulo constant
 
