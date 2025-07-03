@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(log k) 
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def kthCharacter(self, k: int) -> str:
