@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(arr)
 
-//? 🧺 Space complexity ➺ O(n)
+//? 🧺 Space complexity ➺ O(n) 
 
 class Solution {
       public int findLucky(int[] arr) {
