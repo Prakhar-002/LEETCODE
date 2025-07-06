@@ -8,7 +8,7 @@
 
 class FindSumPairs {
       private int[] nums1, nums2;
-      private Map<Integer, Integer> freqMap;
+      private Map<Integer, Integer> freqMap; 
 
       public FindSumPairs(int[] nums1, int[] nums2) {
             this.nums1 = nums1;
