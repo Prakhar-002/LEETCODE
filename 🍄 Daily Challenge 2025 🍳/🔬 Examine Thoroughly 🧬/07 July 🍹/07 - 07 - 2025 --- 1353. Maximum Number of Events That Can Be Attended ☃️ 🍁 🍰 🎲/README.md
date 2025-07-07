@@ -81,6 +81,6 @@ Attend the third event on day 3.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/9a77ae4e-d992-468e-8388-3ca02b23178e" width = "700px" height="462px" />
 
 </h1>
