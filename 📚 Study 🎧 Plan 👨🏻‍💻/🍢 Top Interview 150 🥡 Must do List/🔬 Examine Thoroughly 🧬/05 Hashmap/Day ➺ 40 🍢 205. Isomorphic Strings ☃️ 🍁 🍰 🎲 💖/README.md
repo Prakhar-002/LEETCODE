@@ -88,6 +88,6 @@ The strings s and t can not be made identical as 'o' needs to be mapped to both 
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/52066b97-bf2f-4580-b572-1174ace55f14" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/52066b97-bf2f-4580-b572-1174ace55f14" width = "700px" height="462px" /> 
 
 </h1>
