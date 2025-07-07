@@ -2,7 +2,7 @@
 
 // Todo 💎 QUESTION NUMBER 1353
 
-//? ⌚ Time complexity ➺ O(n log n) 👉🏻  n = len(nums)
+//? ⌚ Time complexity ➺ O(n log n) 👉🏻  n = len(events)
 
 //? 🧺 Space complexity ➺ O(n)
 
