@@ -29,4 +29,4 @@ class Solution:
                   else:
                         mapTS[c2] = c1  # Create reverse mapping from c2 to c1
 
-            return True  # All characters are mapped consistently
+            return True  # All characters are mapped consistently 
