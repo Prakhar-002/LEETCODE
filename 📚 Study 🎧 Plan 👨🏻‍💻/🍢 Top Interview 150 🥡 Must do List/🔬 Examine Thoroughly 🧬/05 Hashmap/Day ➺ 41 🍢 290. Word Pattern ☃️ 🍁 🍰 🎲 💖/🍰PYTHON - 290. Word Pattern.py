@@ -15,7 +15,6 @@
 from collections import defaultdict
 from typing import Counter
 
-
 class Solution:
       def wordPattern(self, pattern: str, s: str) -> bool:
             words = s.split(' ')
