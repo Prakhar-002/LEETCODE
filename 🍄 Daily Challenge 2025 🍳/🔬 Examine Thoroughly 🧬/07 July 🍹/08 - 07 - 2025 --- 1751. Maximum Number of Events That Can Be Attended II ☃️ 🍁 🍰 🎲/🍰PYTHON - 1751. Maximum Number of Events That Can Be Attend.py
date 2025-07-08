@@ -16,7 +16,7 @@ class Solution:
 
             # Recursive DFS function with memoization
             def dfs(cur, count, prev_end):
-                  if cur == n or count == k:
+                  if cur == n or count == k: 
                         return 0
 
                   if prev_end >= events[cur][0]:  # Overlapping, skip
