@@ -11,7 +11,7 @@ class Solution:
             n = len(startTime)
 
             # Calculate the gaps (free times) before, between, and after meetings
-            gap = [0] * (n + 1)
+            gap = [0] * (n + 1) 
 
             # Gap before the first meeting
             gap[0] = startTime[0] - 0
