@@ -115,7 +115,7 @@ There is no time during the event not occupied by meetings.
 
 # Benchmark ⏱️ ˋ°•*⁀➷
 
-<h1  align="center" >
+<h1  align="center" > 
 
 <img src ="" width = "700px" height="462px" />
 
