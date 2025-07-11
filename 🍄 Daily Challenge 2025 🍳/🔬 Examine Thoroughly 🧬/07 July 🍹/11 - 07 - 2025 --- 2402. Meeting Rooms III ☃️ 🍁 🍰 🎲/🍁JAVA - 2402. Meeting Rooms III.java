@@ -7,7 +7,7 @@
 //? 🧺 Space complexity ➺ O(n)
 
 class Solution {
-      public int mostBooked(int n, int[][] meetings) {
+      public int mostBooked(int n, int[][] meetings) { 
             // Array to count how many meetings each room has hosted
             var meetingCount = new int[n];
 
