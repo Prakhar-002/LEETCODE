@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n ^ 4) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(log n)
+#? 🧺 Space complexity ➺ O(log n) 
 
 class Solution:
       def earliestAndLatest(self, n: int, firstPlayer: int, secondPlayer: int) -> List[int]:
