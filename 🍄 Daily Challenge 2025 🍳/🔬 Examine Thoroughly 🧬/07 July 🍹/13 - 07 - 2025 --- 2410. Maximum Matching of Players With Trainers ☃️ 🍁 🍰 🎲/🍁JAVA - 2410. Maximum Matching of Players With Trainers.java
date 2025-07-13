@@ -10,7 +10,7 @@ class Solution {
       public int matchPlayersAndTrainers(int[] players, int[] trainers) {
             // Sort both arrays to allow greedy matching
             Arrays.sort(players);
-            Arrays.sort(trainers);
+            Arrays.sort(trainers); 
 
             int pIdx = 0, tIdx = 0, matches = 0;
             int pLen = players.length, tLen = trainers.length;
