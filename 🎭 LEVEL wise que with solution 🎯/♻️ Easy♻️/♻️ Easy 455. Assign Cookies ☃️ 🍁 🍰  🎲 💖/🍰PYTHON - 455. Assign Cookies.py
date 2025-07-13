@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(1)  👉🏻 m = len(s)
 
 class Solution:
-      def findContentChildren(self, g: List[int], s: List[int]) -> int:
+      def findContentChildren(self, g: List[int], s: List[int]) -> int: 
             # g = list of children's greed factors
             # s = list of cookie sizes
 
