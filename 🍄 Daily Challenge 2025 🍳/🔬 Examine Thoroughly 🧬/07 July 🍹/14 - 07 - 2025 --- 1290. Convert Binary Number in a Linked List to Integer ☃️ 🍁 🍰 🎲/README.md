@@ -19,7 +19,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img width="426" height="108" alt="1290 que 1" src="https://github.com/user-attachments/assets/3a1af7bc-99eb-4f01-bf40-c258a727d173" />
 
   ### 📥 `Input`  ➤ head = [1,0,1]
 
