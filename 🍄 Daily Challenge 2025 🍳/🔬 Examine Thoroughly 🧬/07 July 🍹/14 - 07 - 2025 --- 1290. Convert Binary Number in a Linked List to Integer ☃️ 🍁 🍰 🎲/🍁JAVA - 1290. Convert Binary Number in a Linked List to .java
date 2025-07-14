@@ -10,7 +10,7 @@ class Solution {
       public int getDecimalValue(ListNode head) {
             int result = 0;
 
-            // Traverse the linked list
+            // Traverse the linked list 
             while (head != null) {
                   result = (result << 1) | head.val; // Shift left and add current bit
                   head = head.next; // Move to the next node
