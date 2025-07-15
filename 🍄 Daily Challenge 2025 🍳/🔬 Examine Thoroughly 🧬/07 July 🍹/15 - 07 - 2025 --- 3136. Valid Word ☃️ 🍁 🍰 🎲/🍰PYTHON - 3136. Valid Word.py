@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(1)
 
 class Solution:
-      def isValid(self, word: str) -> bool:
+      def isValid(self, word: str) -> bool: 
             # A valid word must be at least 3 characters long
             if len(word) < 3:
                   return False
