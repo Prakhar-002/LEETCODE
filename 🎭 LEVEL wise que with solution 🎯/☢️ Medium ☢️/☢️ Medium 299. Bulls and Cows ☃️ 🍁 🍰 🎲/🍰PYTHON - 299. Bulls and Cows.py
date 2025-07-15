@@ -12,7 +12,7 @@ class Solution:
       def getHint(self, secret: str, guess: str) -> str:
             # Count the frequency of each digit in both secret and guess
             secretArr = Counter(secret)
-            guessArr = Counter(guess)
+            guessArr = Counter(guess) 
 
             bulls = 0  # Exact matches at the same position
             cows = 0   # Correct digits but in wrong position
