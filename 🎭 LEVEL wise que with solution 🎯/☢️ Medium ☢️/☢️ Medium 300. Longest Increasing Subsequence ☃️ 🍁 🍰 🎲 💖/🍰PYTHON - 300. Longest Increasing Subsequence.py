@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n log n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(len(res))
+#? 🧺 Space complexity ➺ O(len(res)) 
 
 class Solution:
       def lengthOfLIS(self, nums: List[int]) -> int:
