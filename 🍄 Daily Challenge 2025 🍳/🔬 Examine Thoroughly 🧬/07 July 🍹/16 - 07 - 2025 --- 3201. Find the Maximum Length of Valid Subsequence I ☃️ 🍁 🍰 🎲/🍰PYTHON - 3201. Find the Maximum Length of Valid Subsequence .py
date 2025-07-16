@@ -25,3 +25,31 @@ class Solution:
                   res = max(res, count)
 
             return res  # Return the longest matching subsequence length
+
+#!----------------------------------------------------------------------
+
+#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+
+#? 🧺 Space complexity ➺ O(1)
+
+class Solution:
+      def maximumLength(self, nums: List[int]) -> int:
+            n = len(nums)
+            odd_count = 0         # Count of odd numbers
+            even_count = 0        # Count of even numbers
+            alt_count = 1         # Count of alternating parity sequence
+            prev = nums[0]        # Previous number for parity comparison
+
+            for i in range(n):
+                  if nums[i] % 2 == 1:
+                        odd_count += 1
+                  else:
+                        even_count += 1
+
+                  # Check for parity alternation with previous number
+                  if i >= 1 and nums[i] % 2 != prev % 2:
+                        alt_count += 1
+                        prev = nums[i]
+
+            # Return max of all three
+            return max(odd_count, even_count, alt_count)

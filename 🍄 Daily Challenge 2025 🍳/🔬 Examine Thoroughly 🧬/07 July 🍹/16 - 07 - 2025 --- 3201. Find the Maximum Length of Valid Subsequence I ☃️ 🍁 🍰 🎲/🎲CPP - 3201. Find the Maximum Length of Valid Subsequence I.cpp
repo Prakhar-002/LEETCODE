@@ -30,3 +30,38 @@ public:
             return maxLen;
       }
 };
+
+//!----------------------------------------------------------------------
+
+//? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+class Solution {
+public:
+      int maximumLength(vector<int>& nums) {
+            int n = nums.size();
+            int oddCount = 0;         // Count of all odd numbers
+            int evenCount = 0;        // Count of all even numbers
+            int altCount = 1;         // Count of longest alternating parity subsequence
+            int prev = nums[0];       // Keep track of the previous number for alternating check
+
+            for (int i = 0; i < n; i++) {
+                  // Count odd and even numbers
+                  if (nums[i] % 2 == 1) {
+                        oddCount++;
+                  } else {
+                        evenCount++;
+                  }
+
+                  // Starting from second element, check if parity alternates
+                  if (i >= 1 && nums[i] % 2 != prev % 2) {
+                        altCount++;       // Increase count for alternating sequence
+                        prev = nums[i];   // Update previous number
+                  }
+            }
+
+            // Return the maximum among all odd numbers, even numbers, or longest alternating sequence
+            return max({oddCount, evenCount, altCount});
+      }
+};

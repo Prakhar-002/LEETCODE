@@ -29,3 +29,34 @@ var maximumLength = function (nums) {
 
       return maxLen; // Final answer
 };
+
+//!----------------------------------------------------------------------
+
+//? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+var maximumLength = function (nums) {
+      let n = nums.length;
+      let oddCount = 0;      // Count of odd numbers
+      let evenCount = 0;     // Count of even numbers
+      let altCount = 1;      // Alternating parity sequence length
+      let prev = nums[0];    // Store previous number to compare parity
+
+      for (let i = 0; i < n; i++) {
+            if (nums[i] % 2 === 1) {
+                  oddCount++;
+            } else {
+                  evenCount++;
+            }
+
+            // Check if current number has different parity from previous
+            if (i >= 1 && nums[i] % 2 !== prev % 2) {
+                  altCount++;
+                  prev = nums[i];
+            }
+      }
+
+      // Return maximum of odd, even, or alternating count
+      return Math.max(oddCount, evenCount, altCount);
+};

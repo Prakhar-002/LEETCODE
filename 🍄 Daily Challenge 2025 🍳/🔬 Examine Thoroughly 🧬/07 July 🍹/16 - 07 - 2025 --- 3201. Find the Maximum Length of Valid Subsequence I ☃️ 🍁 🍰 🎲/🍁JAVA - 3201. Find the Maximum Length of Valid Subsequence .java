@@ -32,3 +32,37 @@ class Solution {
             return maxLen; // Return the maximum subsequence length found
       }
 }
+
+//!----------------------------------------------------------------------
+
+//? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+class Solution {
+      public int maximumLength(int[] nums) {
+            int n = nums.length;
+            int oddCount = 0; // Count of odd numbers
+            int evenCount = 0; // Count of even numbers
+            int altCount = 1; // Count of alternating parity sequence
+            int prev = nums[0]; // Track previous number for alternating check
+
+            for (int i = 0; i < n; i++) {
+                  // Count odds and evens
+                  if (nums[i] % 2 == 1) {
+                        oddCount++;
+                  } else {
+                        evenCount++;
+                  }
+
+                  // Check alternating parity sequence
+                  if (i >= 1 && nums[i] % 2 != prev % 2) {
+                        altCount++;
+                        prev = nums[i];
+                  }
+            }
+
+            // Return the maximum of odd count, even count, or alternating sequence
+            return Math.max(Math.max(oddCount, evenCount), altCount);
+      }
+}
