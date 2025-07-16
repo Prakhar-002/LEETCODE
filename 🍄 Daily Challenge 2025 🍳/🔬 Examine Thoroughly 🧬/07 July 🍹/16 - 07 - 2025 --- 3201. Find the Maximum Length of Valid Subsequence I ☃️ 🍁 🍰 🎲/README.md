@@ -1,70 +1,78 @@
-# 
+# 3201. Find the Maximum Length of Valid Subsequence I
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/?envType=daily-question&envId=2025-07-16"><strong>➥ ☢️ 3201 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### You are given an integer array `nums`.
+
+### A subsequence `sub` of `nums` with length `x` is considered *valid* if it satisfies the following condition:
+
+`(sub[0] + sub[1]) % 2 == (sub[1] + sub[2]) % 2 == ... == (sub[x - 2] + sub[x - 1]) % 2`
+
+### In other words, the sum of any two consecutive elements in the subsequence `sub`, when taken modulo 2, results in the same value.
+
+### Your task is to return the length of the *longest* valid subsequence that can be formed from `nums`.
+
+### Note:
+
+- A subsequence is an array that can be derived from another array by deleting some or no elements without changing the order of the remaining elements.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  ### 📥 `Input`  ➤ nums = [1,2,3,4]
 
-  ### 📥 `Input`  ➤ 
+  ### 📤 `Output`  ➤ 4
 
-  ### 📤 `Output`  ➤ 2
-
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤
+The longest valid subsequence is [1, 2, 3, 4].  ( (1+2)%2 = (2+3)%2 = (3+4)%2 == 1 )
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ nums = [1,2,1,1,2,1,2]
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ 6
 
-  ### 🔦 `Explanation` ➤ 
+  ### 🔦 `Explanation`  ➤
+The longest valid subsequence is [1, 2, 1, 2, 1, 2].
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ nums = [1,3]
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ 2
 
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation`  ➤
+The longest valid subsequence is [1, 3].
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
+🔹 2 <= nums.length <= 2 * 10<sup>5</sup> </br>
 
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 1 <= nums[i] <= 10<sup>7</sup> </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
 🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+
+🔸 **Dynamic Programming**  </br>
 
 </br>
 
@@ -76,8 +84,6 @@
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
