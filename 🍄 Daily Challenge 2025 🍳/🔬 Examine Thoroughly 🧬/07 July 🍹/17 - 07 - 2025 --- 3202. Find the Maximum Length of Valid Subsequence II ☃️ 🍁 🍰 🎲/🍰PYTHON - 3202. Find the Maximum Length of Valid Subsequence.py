@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(k ^ 2)
 
-class Solution:
+class Solution: 
       def maximumLength(self, nums: List[int], k: int) -> int:
             # Initialize a 2D dp array of size k x k with all values 0
             dp = [[0] * k for _ in range(k)]
