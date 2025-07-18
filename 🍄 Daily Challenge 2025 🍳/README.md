@@ -30,7 +30,7 @@
 | 16 ┆ JULY ┆ 2025 | ☢️Medium☢️ | [3201. Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/description/?envType=daily-question&envId=2025-07-16) | [🍹SOLUTION🍹](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/07%20July%20%F0%9F%8D%B9/16%20-%2007%20-%202025%20---%203201.%20Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20I%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | 17 ┆ JULY ┆ 2025 | ☢️Medium☢️ | [3202. Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/description/?envType=daily-question&envId=2025-07-17) | [🍹SOLUTION🍹](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/07%20July%20%F0%9F%8D%B9/17%20-%2007%20-%202025%20---%203202.%20Find%20the%20Maximum%20Length%20of%20Valid%20Subsequence%20II%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
-</br>
+</br> 
 
 <img align="left" src="https://github.com/user-attachments/assets/403bc0a0-700d-4e17-85d3-e6e6db4d61a5" width="90" height="90" alt="JUNE Gif">
 
