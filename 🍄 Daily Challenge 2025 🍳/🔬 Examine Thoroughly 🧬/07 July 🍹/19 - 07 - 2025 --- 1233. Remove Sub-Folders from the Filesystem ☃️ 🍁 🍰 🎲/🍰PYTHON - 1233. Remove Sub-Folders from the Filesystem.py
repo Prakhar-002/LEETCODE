@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-import typing
+import typing 
 
 class Solution:
       def removeSubfolders(self, folder: typing.List[str]) -> typing.List[str]:
