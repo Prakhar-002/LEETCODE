@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(1)
 
 import heapq
-from typing import List
+from typing import List 
 
 class Solution:
       def minimumDifference(self, nums: List[int]) -> int:
