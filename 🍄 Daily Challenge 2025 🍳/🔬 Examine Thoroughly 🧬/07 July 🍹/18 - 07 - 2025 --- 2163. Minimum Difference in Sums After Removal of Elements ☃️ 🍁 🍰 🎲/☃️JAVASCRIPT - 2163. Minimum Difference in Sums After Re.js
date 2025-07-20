@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-var minimumDifference = function (nums) {
+var minimumDifference = function (nums) { 
       const n3 = nums.length,
             n = Math.floor(n3 / 3);
       const part1 = new Array(n + 1).fill(0);
