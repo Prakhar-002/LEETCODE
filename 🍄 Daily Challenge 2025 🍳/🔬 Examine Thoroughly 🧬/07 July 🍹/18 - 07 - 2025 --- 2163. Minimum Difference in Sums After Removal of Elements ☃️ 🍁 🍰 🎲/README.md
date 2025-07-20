@@ -93,6 +93,6 @@ It can be shown that it is not possible to obtain a difference smaller than 1.
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/9702525e-caed-434d-aff8-870dd12e9f76" width = "700px" height="462px" />
 
 </h1>
