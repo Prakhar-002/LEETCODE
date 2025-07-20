@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/?envType=daily-question&envId=2025-07-18"><strong>➥ ☢️ 2193 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/minimum-difference-in-sums-after-removal-of-elements/description/?envType=daily-question&envId=2025-07-18"><strong>➥ 🫀 2193 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
