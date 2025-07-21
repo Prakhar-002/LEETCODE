@@ -14,7 +14,7 @@ class Solution:
 
             # Start iterating from the third character in the string.
             for i in range(2, len(s)):
-                  ch = s[i]
+                  ch = s[i] 
 
                   # Check if the last two characters in 'fancy' are the same as the current character.
                   # If they are, it means we would have three consecutive identical characters, 
