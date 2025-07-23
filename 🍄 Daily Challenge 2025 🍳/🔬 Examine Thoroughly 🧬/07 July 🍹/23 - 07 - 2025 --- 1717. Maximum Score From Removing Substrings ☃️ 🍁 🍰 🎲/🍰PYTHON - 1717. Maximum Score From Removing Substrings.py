@@ -41,7 +41,7 @@ class Solution:
                               # remove b from top 
                               stack.pop()
                               # add point for removing
-                              points += y
+                              points += y 
 
                         else :
                               # just push to our stack
