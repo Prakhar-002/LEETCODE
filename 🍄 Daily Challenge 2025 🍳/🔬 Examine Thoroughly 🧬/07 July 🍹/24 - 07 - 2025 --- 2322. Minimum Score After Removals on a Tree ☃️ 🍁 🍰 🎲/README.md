@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 2322 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/minimum-score-after-removals-on-a-tree/?envType=daily-question&envId=2025-07-24"><strong>➥ 🫀 2322 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
@@ -27,7 +27,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img width="372" height="366" alt="2322 que 1" src="https://github.com/user-attachments/assets/1775bd6c-fcc7-4834-be60-9ae7a96e6e34" />
 
   ### 📥 `Input`  ➤ nums = [1,5,5,4,11], edges = [[0,1],[1,2],[1,3],[3,4]]
 
@@ -46,7 +46,7 @@ It can be shown that no other pair of removals will obtain a smaller score than 
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img width="451" height="236" alt="2322 que 2" src="https://github.com/user-attachments/assets/f607fbef-abfe-4d22-b742-14cb24bee0a4" />
 
   ### 📥 `Input` ➤ nums = [5,5,2,4,4,2], edges = [[0,1],[1,2],[5,2],[4,3],[1,3]]
 
