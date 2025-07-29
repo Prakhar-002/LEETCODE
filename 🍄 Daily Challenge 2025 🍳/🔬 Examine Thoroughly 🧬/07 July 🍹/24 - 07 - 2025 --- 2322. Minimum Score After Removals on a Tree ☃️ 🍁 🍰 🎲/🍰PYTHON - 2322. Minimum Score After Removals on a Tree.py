@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n ^ 2) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def calc(self, part1: int, part2: int, part3: int) -> int:
