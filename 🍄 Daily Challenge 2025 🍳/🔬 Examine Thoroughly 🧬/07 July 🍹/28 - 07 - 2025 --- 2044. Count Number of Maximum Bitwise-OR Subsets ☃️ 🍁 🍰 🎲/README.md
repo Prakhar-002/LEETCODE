@@ -105,6 +105,6 @@ All non-empty subsets of [2,2,2] have a bitwise OR of 2. There are 2<sup>3</sup>
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/d5ea6489-10e3-489f-8a20-8a0b3790eb1e" width = "700px" height="462px" />
 
 </h1>
