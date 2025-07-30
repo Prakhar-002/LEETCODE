@@ -10,7 +10,7 @@ class Solution:
       def countMaxOrSubsets(self, nums: List[int]) -> int:
             # Initialize the variable to store the maximum OR value
             max_or_value = 0
-            
+
             # Create a DP array to store the count of subsets resulting in each OR value
             # Size is 2^17 because the maximum number from nums can be up to 10^5 (~17 bits)
             dp = [0] * (1 << 17)
