@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(N log W) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(N log W) 
+#? 🧺 Space complexity ➺ O(N log W)
 
 class Solution(object):
       def subarrayBitwiseORs(self, A):
