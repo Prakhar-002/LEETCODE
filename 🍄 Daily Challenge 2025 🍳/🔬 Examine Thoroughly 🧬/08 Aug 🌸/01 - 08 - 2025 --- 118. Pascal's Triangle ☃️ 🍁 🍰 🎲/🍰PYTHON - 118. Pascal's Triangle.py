@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n ^ 2) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n * n)
+#? 🧺 Space complexity ➺ O(n * n) 
 
 class Solution:
       def generate(self, numRows: int) -> List[List[int]]:
