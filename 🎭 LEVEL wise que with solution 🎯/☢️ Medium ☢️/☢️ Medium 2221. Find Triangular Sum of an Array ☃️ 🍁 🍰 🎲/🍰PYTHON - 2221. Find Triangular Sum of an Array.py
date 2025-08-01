@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n * 2) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def triangularSum(self, nums: List[int]) -> int:
