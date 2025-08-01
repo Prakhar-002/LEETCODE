@@ -15,7 +15,7 @@
 
 ### Pascal's triangle is a triangular array of numbers where each number is the sum of the two numbers directly above it, as illustrated in the examples.
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/45c202c7-2ba0-4ee7-8010-9a37af007aa5" />
 
 </br>
 
