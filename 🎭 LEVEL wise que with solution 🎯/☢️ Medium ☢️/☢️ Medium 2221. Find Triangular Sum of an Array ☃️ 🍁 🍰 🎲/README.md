@@ -13,15 +13,15 @@
 
 ### You are given a 0-indexed integer array `nums`, where each `nums[i]` is a digit between 0 and 9 (inclusive).
 
-The *triangular sum* of `nums` is defined as the value of the sole remaining element in `nums` after the following process terminates:
+### The *triangular sum* of `nums` is defined as the value of the sole remaining element in `nums` after the following process terminates:
 
-1.  If `nums` contains only one element (n == 1), the process ends.
-2.  Otherwise, construct a new 0-indexed integer array `newNums` of length `n - 1`.
-3.  For each index `i` (where `0 <= i < n - 1`), calculate `newNums[i]` as `(nums[i] + nums[i+1]) % 10`. In other words, each element in `newNums` is the modulo 10 sum of two consecutive elements in `nums`.
-4.  Replace the array `nums` with `newNums`.
-5.  Repeat the entire process from step 1.
+1. If `nums` contains only one element (n == 1), the process ends.
+2. Otherwise, construct a new 0-indexed integer array `newNums` of length `n - 1`.
+3. For each index `i` (where `0 <= i < n - 1`), calculate `newNums[i]` as `(nums[i] + nums[i+1]) % 10`. In other words, each element in `newNums` is the modulo 10 sum of two consecutive elements in `nums`.
+4. Replace the array `nums` with `newNums`.
+5. Repeat the entire process from step 1.
 
-Your task is to return the triangular sum of `nums`.
+### Your task is to return the triangular sum of `nums`.
 
 </br>
 
@@ -72,12 +72,10 @@ The above diagram depicts the process from which we obtain the triangular sum of
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%98%A2%EF%B8%8F%20Medium%20%E2%98%A2%EF%B8%8F/%E2%98%A2%EF%B8%8F%20Medium%202221.%20Find%20Triangular%20Sum%20of%20an%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA%20-%202221.%20Find%20Triangular%20Sum%20of%20an%20Array.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%98%A2%EF%B8%8F%20Medium%20%E2%98%A2%EF%B8%8F/%E2%98%A2%EF%B8%8F%20Medium%202221.%20Find%20Triangular%20Sum%20of%20an%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP%20-%202221.%20Find%20Triangular%20Sum%20of%20an%20Array.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%98%A2%EF%B8%8F%20Medium%20%E2%98%A2%EF%B8%8F/%E2%98%A2%EF%B8%8F%20Medium%202221.%20Find%20Triangular%20Sum%20of%20an%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON%20-%202221.%20Find%20Triangular%20Sum%20of%20an%20Array.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%98%A2%EF%B8%8F%20Medium%20%E2%98%A2%EF%B8%8F/%E2%98%A2%EF%B8%8F%20Medium%202221.%20Find%20Triangular%20Sum%20of%20an%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%202221.%20Find%20Triangular%20Sum%20of%20an%20Array.js) |
 
 </br>
 
@@ -85,6 +83,6 @@ The above diagram depicts the process from which we obtain the triangular sum of
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/1ffc51dc-291a-4e2e-bd2e-0d8bdf91ba21" width = "700px" height="462px" />
 
 </h1>
