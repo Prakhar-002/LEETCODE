@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n log n) 👉🏻  n = len(bucket1 + bucket2)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 from collections import Counter
 
