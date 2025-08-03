@@ -4,7 +4,7 @@
 
 # ? ⌚ Time complexity ➺ O(n log n) 👉🏻  n = len(nums1 + nums2)
 
-# ? 🧺 Space complexity ➺ O(1)
+# ? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
