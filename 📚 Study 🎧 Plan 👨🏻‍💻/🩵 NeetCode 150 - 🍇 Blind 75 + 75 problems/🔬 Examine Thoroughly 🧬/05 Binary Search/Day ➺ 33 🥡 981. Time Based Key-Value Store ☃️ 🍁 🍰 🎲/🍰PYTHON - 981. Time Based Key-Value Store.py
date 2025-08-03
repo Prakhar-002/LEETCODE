@@ -7,7 +7,6 @@
 #? 🧺 Space complexity ➺ O(m * n)
 
 class TimeMap:
-
       def __init__(self):
             # Initialize the store dictionary where:
             # key -> list of [value, timestamp] pairs (sorted by timestamp)
