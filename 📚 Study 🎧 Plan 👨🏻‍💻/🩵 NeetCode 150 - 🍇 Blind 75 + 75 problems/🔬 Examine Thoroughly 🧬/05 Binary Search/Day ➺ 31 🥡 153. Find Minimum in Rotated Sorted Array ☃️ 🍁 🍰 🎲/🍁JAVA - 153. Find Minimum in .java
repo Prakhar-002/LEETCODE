@@ -10,7 +10,7 @@ class Solution {
       public int findMin(int[] nums) {
             int n = nums.length - 1; // Last index
             int l = 0; // Left pointer
-            int r = n; // Right pointer
+            int r = n; // Right pointer 
 
             // If the array is already sorted, return first element
             if (nums[0] <= nums[n]) {
