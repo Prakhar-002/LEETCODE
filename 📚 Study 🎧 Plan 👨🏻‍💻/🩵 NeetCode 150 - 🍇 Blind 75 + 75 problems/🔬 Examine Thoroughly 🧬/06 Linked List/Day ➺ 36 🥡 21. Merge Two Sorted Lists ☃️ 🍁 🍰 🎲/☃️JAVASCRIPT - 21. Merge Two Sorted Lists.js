@@ -1,6 +1,5 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
-
 // Todo 📌 QUESTION NUMBER 21
 
 //? ⌚ Time complexity -> O(n)  👉 nodes of min(list1, list2)
