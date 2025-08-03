@@ -1,7 +1,0 @@
-{
-      "files.associations": {
-            "*.ejs": "html",
-            "ios": "cpp",
-            "xiosbase": "cpp"
-      }
-}
