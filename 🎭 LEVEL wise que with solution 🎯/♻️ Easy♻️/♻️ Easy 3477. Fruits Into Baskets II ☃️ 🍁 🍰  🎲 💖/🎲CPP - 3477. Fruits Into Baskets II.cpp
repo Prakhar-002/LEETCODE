@@ -24,7 +24,7 @@ public:
 
                   if (unplug) {
                         unplacedFruits++; // Count as unplaced if not inserted
-                  }
+                  } 
             }
 
             return unplacedFruits; // Return final count
