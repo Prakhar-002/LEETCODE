@@ -32,7 +32,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  <img width="1900" height="386" alt="138 que 1" src="https://github.com/user-attachments/assets/69ad9ca7-806d-4630-9a17-bc01e7212131" />
 
   ### 📥 `Input`  ➤ head = [[7,null],[13,0],[11,4],[10,2],[1,0]]
 
@@ -42,7 +42,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img width="1670" height="272" alt="138 que 2" src="https://github.com/user-attachments/assets/082fba4c-6253-49af-8820-e7b680c53a38" />
 
   ### 📥 `Input` ➤ head = [[1,1],[2,1]]
 
@@ -52,7 +52,7 @@
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img width="1890" height="330" alt="138 que 3" src="https://github.com/user-attachments/assets/1b4fd37c-70c2-4a15-8b76-5ff692ff3855" />
 
   ### 📥 `Input` ➤ head = [[3,null],[3,0],[3,null]]
 
@@ -86,8 +86,6 @@
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
