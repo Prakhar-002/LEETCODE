@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity -> O(n) 👉 Total nodes
 
-//? 🧺 Space complexity -> O(1) 
+//? 🧺 Space complexity -> O(1)
 
 class Solution {
       public ListNode removeNthFromEnd(ListNode head, int n) {
