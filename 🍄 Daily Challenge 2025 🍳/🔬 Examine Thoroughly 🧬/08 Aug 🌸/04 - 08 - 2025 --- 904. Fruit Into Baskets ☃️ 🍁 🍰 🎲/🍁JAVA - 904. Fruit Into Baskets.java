@@ -25,7 +25,7 @@ class Solution {
                               bucket.remove(fruits[l]); // Remove it if count becomes zero
                         }
 
-                        l++; // Move left pointer
+                        l++; // Move left pointer 
                   }
 
                   // Update maxFruits with the size of the current valid window
