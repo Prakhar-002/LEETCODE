@@ -58,7 +58,7 @@ lRUCache.get(4);    // return 4
 
 </br>
 
-# Topics 📋 ˋ°•*⁀➷
+# Topics 📋 ˋ°•*⁀➷ 
 
 🔸 **Hash Table**  </br>
 
