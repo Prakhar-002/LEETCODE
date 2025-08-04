@@ -9,7 +9,7 @@
 class Solution:
       def mergeKLists(self, lists: List[ListNode]) -> ListNode:
             # `List` to temporarily store all the values from all linked lists
-            merge_list = []
+            merge_list = [] 
 
             # iterates through each linked list in the `lists` 
             for linked_list in lists:
