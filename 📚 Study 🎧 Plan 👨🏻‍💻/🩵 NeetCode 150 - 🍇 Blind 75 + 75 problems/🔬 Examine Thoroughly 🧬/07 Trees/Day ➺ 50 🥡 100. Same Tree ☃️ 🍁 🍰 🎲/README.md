@@ -15,10 +15,6 @@
 
 ### Two binary trees are considered the same if they are structurally identical, and the nodes have the same value.
 
- 
-
-
-
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
@@ -77,3 +73,13 @@
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%99%BB%EF%B8%8F%20Easy%E2%99%BB%EF%B8%8F/%E2%99%BB%EF%B8%8F%20Easy%20100.%20Same%20Tree%20%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%92%96/%F0%9F%8D%B0PYTHON_100.SameTree.py) |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%99%BB%EF%B8%8F%20Easy%E2%99%BB%EF%B8%8F/%E2%99%BB%EF%B8%8F%20Easy%20100.%20Same%20Tree%20%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%92%96/%E2%98%83%EF%B8%8FJAVASCRIPT_100.SameTree.js) |
 |   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8E%AD%20LEVEL%20wise%20que%20with%20solution%20%F0%9F%8E%AF/%E2%99%BB%EF%B8%8F%20Easy%E2%99%BB%EF%B8%8F/%E2%99%BB%EF%B8%8F%20Easy%20100.%20Same%20Tree%20%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%92%96/%F0%9F%92%96C_100.SameTree.c)  |
+
+</br>
+
+# Benchmark ⏱️ ˋ°•*⁀➷
+
+<h1  align="center" >
+
+<img src ="https://github.com/user-attachments/assets/0aba5635-0681-49b7-8512-b76a579297e0" width = "700px" height="462px" />
+
+</h1>
