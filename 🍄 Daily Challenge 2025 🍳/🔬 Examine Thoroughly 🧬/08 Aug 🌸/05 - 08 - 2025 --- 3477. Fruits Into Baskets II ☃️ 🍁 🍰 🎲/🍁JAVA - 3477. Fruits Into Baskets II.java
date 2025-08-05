@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n ^ 2) 👉🏻  n = len(fruits)
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(1) 
 
 public class Solution {
       public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
