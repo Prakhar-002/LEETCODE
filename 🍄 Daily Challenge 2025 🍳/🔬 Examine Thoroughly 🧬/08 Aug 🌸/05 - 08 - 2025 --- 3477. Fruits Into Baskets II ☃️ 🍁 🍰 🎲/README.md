@@ -9,7 +9,7 @@
 
 </br>
 
-# Description 📜 ˋ°•*⁀➷
+# Description 📜 ˋ°•*⁀➷ 
 
 ### You are given two arrays of integers, `fruits` and `baskets`, each with length `n`. `fruits[i]` represents the quantity of the i<sup>th</sup> type of fruit, while `baskets[j]` represents the capacity of the j<sup>th</sup> basket.
 
