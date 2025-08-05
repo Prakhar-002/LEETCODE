@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 226 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/invert-binary-tree/"><strong>➥ ♻️ 226 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
