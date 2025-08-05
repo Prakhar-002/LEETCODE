@@ -13,7 +13,7 @@ class Solution:
       def dfs(self, node, maxVal):
             # Base case: If the node is None, return 0 as there are no good nodes
             if not node:
-                  return 0
+                  return 0 
 
             # Check if the current node is a "good" node
             # A node is "good" if its value is greater than or equal to the maxVal seen so far
