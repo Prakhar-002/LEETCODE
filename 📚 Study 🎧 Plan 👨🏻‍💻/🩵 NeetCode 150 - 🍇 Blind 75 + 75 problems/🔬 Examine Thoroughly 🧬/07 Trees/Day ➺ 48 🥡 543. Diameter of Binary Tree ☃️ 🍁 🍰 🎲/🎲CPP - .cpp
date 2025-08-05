@@ -7,7 +7,7 @@
 //? 🧺 Space complexity ➺ O(n)
 
 class Solution {
-public:
+public: 
       int res = 0; // Variable to store the maximum diameter
 
       int diameterOfBinaryTree(TreeNode* root) {

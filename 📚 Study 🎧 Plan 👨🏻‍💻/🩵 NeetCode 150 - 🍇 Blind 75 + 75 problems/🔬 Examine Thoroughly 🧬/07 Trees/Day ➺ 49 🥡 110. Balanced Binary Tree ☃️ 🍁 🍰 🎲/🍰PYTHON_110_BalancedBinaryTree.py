@@ -7,7 +7,7 @@
 #? 🧺 Space complexity -> O(1) 
 
 class Solution:
-      def isBalanced(self, root: Optional[TreeNode]) -> bool:
+      def isBalanced(self, root: Optional[TreeNode]) -> bool: 
 
             def checkBalance(root):
                   # if null return tree for balance and height of tree till that
