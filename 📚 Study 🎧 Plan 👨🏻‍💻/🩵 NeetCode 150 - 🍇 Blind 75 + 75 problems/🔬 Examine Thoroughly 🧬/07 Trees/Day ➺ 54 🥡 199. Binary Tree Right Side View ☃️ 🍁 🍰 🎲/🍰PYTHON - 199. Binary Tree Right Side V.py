@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(w)   ->  m = max width 
 
-from collections import deque
+from collections import deque 
 
 class Solution:
       def rightSideView(self, root: Optional[TreeNode]) -> List[int]:
