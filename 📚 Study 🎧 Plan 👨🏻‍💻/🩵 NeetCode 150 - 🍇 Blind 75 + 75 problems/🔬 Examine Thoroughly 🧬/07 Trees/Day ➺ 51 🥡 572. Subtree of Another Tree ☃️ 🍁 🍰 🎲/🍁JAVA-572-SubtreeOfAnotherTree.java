@@ -11,7 +11,7 @@ class Solution {
             // an empty tree is a subtree of any tree
             if (subRoot == null) {
                   // If `subRoot` is `null`, returns `true`
-                  return true;
+                  return true; 
             }
 
             // An empty tree cannot contain a non-empty subtree
