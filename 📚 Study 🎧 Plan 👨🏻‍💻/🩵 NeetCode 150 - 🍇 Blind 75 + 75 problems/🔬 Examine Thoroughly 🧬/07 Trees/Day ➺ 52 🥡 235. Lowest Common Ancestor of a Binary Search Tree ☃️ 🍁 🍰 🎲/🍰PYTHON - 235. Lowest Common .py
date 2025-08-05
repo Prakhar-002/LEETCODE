@@ -26,4 +26,4 @@ class Solution:
                   # If p and q are on opposite sides (or one matches the current node),
                   # the current node is the lowest common ancestor
                   else:
-                        return cur
+                        return cur 
