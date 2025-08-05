@@ -10,7 +10,7 @@ class Solution {
             Queue<TreeNode> q = new LinkedList<>();
             // if we got null we'll return our wrapList
             if (root == null) {
-                  return wrapList; 
+                  return wrapList;
             }
 
             // adding root to our queue first
