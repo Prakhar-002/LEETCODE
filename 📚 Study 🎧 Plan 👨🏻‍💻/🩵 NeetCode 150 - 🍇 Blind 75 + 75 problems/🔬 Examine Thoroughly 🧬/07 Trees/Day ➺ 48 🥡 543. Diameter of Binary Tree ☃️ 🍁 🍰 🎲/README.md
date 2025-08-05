@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/diameter-of-binary-tree/description/"><strong>➥ ☢️ 543 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/diameter-of-binary-tree/description/"><strong>➥ ♻️ 543 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
