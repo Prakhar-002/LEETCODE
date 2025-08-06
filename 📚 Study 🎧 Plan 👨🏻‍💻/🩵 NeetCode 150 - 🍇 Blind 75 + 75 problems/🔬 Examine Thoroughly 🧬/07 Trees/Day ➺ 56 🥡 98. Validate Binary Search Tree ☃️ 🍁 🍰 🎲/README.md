@@ -15,15 +15,15 @@
 
 A valid BST is defined as follows:
 
-1.  **Left Subtree Property:** Every node in the left subtree of a given node contains only keys that are *strictly less than* the node's key.
-2.  **Right Subtree Property:** Every node in the right subtree of a given node contains only keys that are *strictly greater than* the node's key.
-3.  **Recursive Structure:** Both the left and right subtrees themselves must also be binary search trees (must also satisfy the properties above).
+1. **Left Subtree Property:** Every node in the left subtree of a given node contains only keys that are *strictly less than* the node's key.
+2. **Right Subtree Property:** Every node in the right subtree of a given node contains only keys that are *strictly greater than* the node's key.
+3. **Recursive Structure:** Both the left and right subtrees themselves must also be binary search trees (must also satisfy the properties above).
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+![98 que 1](https://github.com/user-attachments/assets/472e46aa-96d3-46ec-ac08-e9ad8a3d6dd1)
 
   ### 📥 `Input`  ➤ root = [2,1,3]
 
@@ -33,7 +33,7 @@ A valid BST is defined as follows:
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+![98 que 2](https://github.com/user-attachments/assets/5335e1d1-be6e-4a67-b70c-945549f827e5)
 
   ### 📥 `Input` ➤ root = [5,1,4,null,null,3,6]
 
@@ -71,8 +71,6 @@ A valid BST is defined as follows:
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
@@ -80,6 +78,6 @@ A valid BST is defined as follows:
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/c57590dd-b0c6-4cac-b1a9-3d8a6a584a7d" width = "700px" height="462px" />
 
 </h1>
