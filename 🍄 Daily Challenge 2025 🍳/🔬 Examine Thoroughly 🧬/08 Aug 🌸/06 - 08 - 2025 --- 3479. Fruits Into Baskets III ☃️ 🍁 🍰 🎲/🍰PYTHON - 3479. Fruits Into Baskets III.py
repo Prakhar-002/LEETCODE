@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-class Solution:
+class Solution: 
       def numOfUnplacedFruits(self, fruits: list[int], baskets: list[int]) -> int:
             n = len(baskets)
 
