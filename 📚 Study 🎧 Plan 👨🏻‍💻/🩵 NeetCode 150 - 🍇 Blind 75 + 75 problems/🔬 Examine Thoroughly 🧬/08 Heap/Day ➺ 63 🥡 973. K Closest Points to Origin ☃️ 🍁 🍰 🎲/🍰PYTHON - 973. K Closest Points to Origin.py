@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(k * log n) 👉🏻  n = len(points)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 import heapq
 
