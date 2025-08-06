@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(h)
+#? 🧺 Space complexity ➺ O(h) 
 
 class Solution:
       def maxPathSum(self, root: Optional[TreeNode]) -> int:
