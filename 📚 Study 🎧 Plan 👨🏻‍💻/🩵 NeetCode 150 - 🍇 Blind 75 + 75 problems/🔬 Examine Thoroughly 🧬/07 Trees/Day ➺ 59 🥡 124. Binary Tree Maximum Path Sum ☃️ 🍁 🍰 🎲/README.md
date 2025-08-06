@@ -15,10 +15,10 @@
 
 Key Definitions:
 
-*   A *path* in a binary tree is a sequence of nodes where there is an edge connecting each pair of adjacent nodes in the sequence.
-*   A node can appear in the sequence at most *once*.
-*   Importantly, the path *does not* need to pass through the root node.
-*   The *path sum* is simply the sum of the node values within a path.
+- A *path* in a binary tree is a sequence of nodes where there is an edge connecting each pair of adjacent nodes in the sequence.
+- A node can appear in the sequence at most *once*.
+- Importantly, the path *does not* need to pass through the root node.
+- The *path sum* is simply the sum of the node values within a path.
 
 </br>
 
