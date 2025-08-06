@@ -24,7 +24,7 @@ Key Definitions:
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+![124 que 1](https://github.com/user-attachments/assets/6aa78a0f-47af-46aa-bbdf-1b918d2c54d7)
 
   ### 📥 `Input`  ➤ root = [1,2,3]
 
@@ -36,7 +36,7 @@ Key Definitions:
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+![124 que 2](https://github.com/user-attachments/assets/7d8230e8-5e27-4a62-9e5b-24e6fd8b62d8)
 
   ### 📥 `Input` ➤ root = [-10,9,20,null,null,15,7]
 
