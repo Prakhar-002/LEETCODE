@@ -6,57 +6,52 @@
 
 //? 🧺 Space complexity ➺ O(n)
 
-// Constructor for the Codec class
-var Codec = function () { };
+var serialize = function (root) {
+      if (!root) return "null";                        // If tree is empty, return "null"
 
-// Serializes a binary tree to a single string using BFS (level-order)
-Codec.prototype.serialize = function (root) {
-      if (!root) return "null";                     // If root is null, return string "null"
+      let q = [root];                                  // Initialize queue with root
+      let res = [];                                    // Array to store node values
 
-      let q = [root];                               // Initialize queue with root
-      let res = [];                                 // Result array to store serialized values
-
-      while (q.length) {                            // Continue until queue is empty
-            let node = q.shift();                   // Dequeue the front node
+      while (q.length) {
+            let node = q.shift();                      // Dequeue the front node
 
             if (node) {
-                  res.push(node.val);               // Store node value in result
-                  q.push(node.left);                // Enqueue left child (even if it's null)
-                  q.push(node.right);               // Enqueue right child
+                  res.push(node.val);                  // Store node value
+                  q.push(node.left);                   // Add left child to queue (even if null)
+                  q.push(node.right);                  // Add right child to queue
             } else {
-                  res.push("null");                 // If node is null, add "null" to result
+                  res.push("null");                    // Add "null" if node doesn't exist
             }
       }
 
-      return res.join(",");                         // Join result array with commas
+      return res.join(",");                            // Join array into string with commas
 };
 
-// Deserializes string data back to binary tree using BFS
-Codec.prototype.deserialize = function (data) {
-      if (data === "null") return null;             // If data is "null", return null root
+var deserialize = function (data) {
+      if (data === "null") return null;                // Return null if input is "null"
 
-      const arr = data.split(",");                  // Split data into array
-      let root = new TreeNode(parseInt(arr[0]));    // First value is root node
-      let q = [root];                               // Queue for level-order reconstruction
-      let i = 1;                                     // Index to track position in arr
+      const arr = data.split(",");                     // Split the string by comma
+      let root = new TreeNode(parseInt(arr[0]));       // Create root node from first value
+      let q = [root];                                  // Queue to build tree level by level
+      let i = 1;                                       // Start from the second element
 
       while (q.length) {
-            let node = q.shift();                   // Dequeue the current node
+            let node = q.shift();                      // Get current node from queue
 
             // Process left child
             if (arr[i] !== "null") {
-                  node.left = new TreeNode(parseInt(arr[i])); // Create left child
-                  q.push(node.left);                          // Enqueue left child
+                  node.left = new TreeNode(parseInt(arr[i]));  // Create left child
+                  q.push(node.left);                           // Enqueue the left child
             }
-            i++;                                               // Move to next value
+            i++;                                                // Move to next value
 
             // Process right child
             if (arr[i] !== "null") {
                   node.right = new TreeNode(parseInt(arr[i])); // Create right child
-                  q.push(node.right);                          // Enqueue right child
+                  q.push(node.right);                          // Enqueue the right child
             }
-            i++;                                               // Move to next value
+            i++;                                                // Move to next value
       }
 
-      return root;                                             // Return reconstructed tree
+      return root;                                              // Return rebuilt root node
 };
