@@ -7,7 +7,6 @@
 //? 🧺 Space complexity ➺ O(n)
 
 public class Codec {
-
       // Serializes a tree to a single string.
       public String serialize(TreeNode root) {
             StringBuilder sb = new StringBuilder();
