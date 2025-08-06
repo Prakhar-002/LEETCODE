@@ -6,46 +6,57 @@
 
 //? 🧺 Space complexity ➺ O(n)
 
+// Constructor for the Codec class
 var Codec = function () { };
 
-// Serializes a tree to a single string.
+// Serializes a binary tree to a single string using BFS (level-order)
 Codec.prototype.serialize = function (root) {
-      let res = [];
+      if (!root) return "null";                     // If root is null, return string "null"
 
-      // Helper DFS function to serialize in preorder
-      const dfs = (node) => {
-            if (!node) {
-                  res.push("N");           // "N" for null
-                  return;
+      let q = [root];                               // Initialize queue with root
+      let res = [];                                 // Result array to store serialized values
+
+      while (q.length) {                            // Continue until queue is empty
+            let node = q.shift();                   // Dequeue the front node
+
+            if (node) {
+                  res.push(node.val);               // Store node value in result
+                  q.push(node.left);                // Enqueue left child (even if it's null)
+                  q.push(node.right);               // Enqueue right child
+            } else {
+                  res.push("null");                 // If node is null, add "null" to result
             }
+      }
 
-            res.push(node.val.toString()); // Add node value
-            dfs(node.left);               // Serialize left
-            dfs(node.right);              // Serialize right
-      };
-
-      dfs(root);
-      return res.join(",");               // Join values with comma
+      return res.join(",");                         // Join result array with commas
 };
 
-// Deserializes your encoded data to tree.
+// Deserializes string data back to binary tree using BFS
 Codec.prototype.deserialize = function (data) {
-      const vals = data.split(",");
-      let i = 0;
+      if (data === "null") return null;             // If data is "null", return null root
 
-      // Helper DFS function to build the tree
-      const dfs = () => {
-            if (vals[i] === "N") {
-                  i++;
-                  return null;
+      const arr = data.split(",");                  // Split data into array
+      let root = new TreeNode(parseInt(arr[0]));    // First value is root node
+      let q = [root];                               // Queue for level-order reconstruction
+      let i = 1;                                     // Index to track position in arr
+
+      while (q.length) {
+            let node = q.shift();                   // Dequeue the current node
+
+            // Process left child
+            if (arr[i] !== "null") {
+                  node.left = new TreeNode(parseInt(arr[i])); // Create left child
+                  q.push(node.left);                          // Enqueue left child
             }
+            i++;                                               // Move to next value
 
-            let node = new TreeNode(parseInt(vals[i]));
-            i++;
-            node.left = dfs();           // Build left
-            node.right = dfs();          // Build right
-            return node;
-      };
+            // Process right child
+            if (arr[i] !== "null") {
+                  node.right = new TreeNode(parseInt(arr[i])); // Create right child
+                  q.push(node.right);                          // Enqueue right child
+            }
+            i++;                                               // Move to next value
+      }
 
-      return dfs();
+      return root;                                             // Return reconstructed tree
 };
