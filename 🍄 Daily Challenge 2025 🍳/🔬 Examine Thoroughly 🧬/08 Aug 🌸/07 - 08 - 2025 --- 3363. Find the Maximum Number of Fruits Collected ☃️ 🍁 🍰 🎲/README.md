@@ -38,13 +38,13 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
-
   ### 📥 `Input`  ➤ fruits = [[1,2,3,4],[5,6,8,7],[9,10,11,12],[13,14,15,16]]
 
   ### 📤 `Output`  ➤ 100
 
   ### 🔦 `Explanation`  ➤
+
+<img src="https://github.com/user-attachments/assets/3b497493-bf10-411e-a2d9-ddbdf834faef" width="" height=""/>
 
 In this example:
 
