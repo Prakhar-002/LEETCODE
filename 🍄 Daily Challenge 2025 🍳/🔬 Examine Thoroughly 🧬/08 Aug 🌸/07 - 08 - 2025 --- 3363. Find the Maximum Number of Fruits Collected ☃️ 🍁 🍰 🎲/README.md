@@ -58,8 +58,6 @@ In total they collect 1 + 6 + 11 + 16 + 4 + 8 + 12 + 13 + 14 + 15 = 100 fruits.
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
-
   ### 📥 `Input` ➤ fruits = [[1,1],[1,1]]
 
   ### 📤 `Output`  ➤ 4
