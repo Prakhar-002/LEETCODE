@@ -28,4 +28,4 @@ int totalHammingDistance(int* nums, int n) {
       }
 
       return total; // Return the final total Hamming distance
-}
+} 
