@@ -14,7 +14,7 @@ class Solution:
 
 #!---------------------------------------------------------------------------------------
 
-#? ⌚ Time complexity ➺ O(log n)
+#? ⌚ Time complexity ➺ O(log n) 
 
 #? 🧺 Space complexity ➺ O(1)
 
