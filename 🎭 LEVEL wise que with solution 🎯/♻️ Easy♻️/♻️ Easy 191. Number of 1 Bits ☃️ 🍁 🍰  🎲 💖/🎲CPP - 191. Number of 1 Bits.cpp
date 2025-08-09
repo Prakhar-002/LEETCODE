@@ -16,7 +16,7 @@ public:
             while (n > 0) {
                   // Check if the least significant bit is 1
                   if (n & 1) {
-                        oneBit++; // Increment count if bit is 1
+                        oneBit++; // Increment count if bit is 1 
                   }
 
                   // Right shift n by 1 to check the next bit
