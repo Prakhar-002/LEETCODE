@@ -89,6 +89,6 @@ medianFinder.findMedian(); // return 2.0
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/9cd657a6-b4b2-4700-9ea6-b848563ea64f" width = "700px" height="462px" />
 
 </h1>
