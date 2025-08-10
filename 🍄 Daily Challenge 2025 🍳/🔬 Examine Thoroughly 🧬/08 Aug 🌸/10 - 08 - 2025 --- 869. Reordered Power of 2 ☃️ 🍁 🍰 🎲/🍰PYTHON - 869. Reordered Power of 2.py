@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(d log d) 👉🏻  d = Digits in n
 
-#? 🧺 Space complexity ➺ O(d)
+#? 🧺 Space complexity ➺ O(d) 
 
 class Solution:
       def reorderedPowerOf2(self, n: int) -> bool:
