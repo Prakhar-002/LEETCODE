@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(m * log n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(m)
+#? 🧺 Space complexity ➺ O(m) 
 
 import heapq
 
