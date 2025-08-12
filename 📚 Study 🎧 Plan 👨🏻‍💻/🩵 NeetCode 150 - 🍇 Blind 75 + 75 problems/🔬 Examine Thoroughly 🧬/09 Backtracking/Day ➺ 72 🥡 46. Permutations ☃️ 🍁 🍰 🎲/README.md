@@ -5,7 +5,7 @@
 <h2 align="center"> 
 
 <a href="https://leetcode.com/problems/permutations/description/"><strong>➥ ☢️ 46 Leetcode Que Medium ☢️ </strong></a>
-</h2>
+</h2> 
 
 </br>
 
