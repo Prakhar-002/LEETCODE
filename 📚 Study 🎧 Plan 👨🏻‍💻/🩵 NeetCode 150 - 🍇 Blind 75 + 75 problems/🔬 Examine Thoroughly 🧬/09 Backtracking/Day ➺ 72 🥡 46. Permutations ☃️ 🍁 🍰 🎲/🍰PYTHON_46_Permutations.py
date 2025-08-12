@@ -8,7 +8,7 @@
 
 #? 🧺 Space complexity -> O(n! * n) 👉 length of nums array
 
-class Solution:
+class Solution: 
       def permute(self, nums: List[int]) -> List[List[int]]:
             # base case
             if len(nums) == 0:
