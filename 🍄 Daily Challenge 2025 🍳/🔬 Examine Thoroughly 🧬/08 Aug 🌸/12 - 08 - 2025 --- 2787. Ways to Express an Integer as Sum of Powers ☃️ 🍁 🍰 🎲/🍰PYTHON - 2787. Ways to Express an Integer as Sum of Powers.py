@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n * n ^ (1 / x)) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def numberOfWays(self, n: int, x: int) -> int:
