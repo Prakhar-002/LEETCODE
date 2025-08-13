@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(t)
 
-class TrieNode:
+class TrieNode: 
       def __init__(self) -> None:
             # Dictionary mapping character → child TrieNode
             self.children = {}
