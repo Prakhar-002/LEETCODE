@@ -11,4 +11,4 @@ class Solution:
             # maximum value of an integer that is a power of 3 
             # within the 32-bit integer range is 3^19 = 1162261467, 
             # any number n that divides 1162261467 evenly must be a power of 3.
-            return n > 0 and 1162261467 % n == 0
+            return n > 0 and 1162261467 % n == 0 
