@@ -7,7 +7,7 @@
 //? 🧺 Space complexity ➺ O(s)
 
 #include <bits/stdc++.h>
-using namespace std;
+using namespace std; 
 
 class TrieNode {
 public:
