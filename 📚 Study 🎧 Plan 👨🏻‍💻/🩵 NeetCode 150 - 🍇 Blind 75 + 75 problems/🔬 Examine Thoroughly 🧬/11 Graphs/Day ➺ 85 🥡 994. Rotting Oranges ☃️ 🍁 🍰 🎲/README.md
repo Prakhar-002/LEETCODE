@@ -13,19 +13,19 @@
 
 ### You are given an `m x n` 2D grid named `grid`. Each cell in the grid can contain one of three values:
 
-*   0: Represents an empty cell.
-*   1: Represents a fresh orange.
-*   2: Represents a rotten orange.
+- 0: Represents an empty cell.
+- 1: Represents a fresh orange.
+- 2: Represents a rotten orange.
 
-The premise of the problem: every minute, any fresh orange (value 1) that is 4-directionally adjacent to a rotten orange (value 2) becomes rotten itself. This process continues, minute by minute.
+### The premise of the problem: every minute, any fresh orange (value 1) that is 4-directionally adjacent to a rotten orange (value 2) becomes rotten itself. This process continues, minute by minute.
 
-The task is to determine the *minimum* number of minutes that must pass until there are no fresh oranges left in the grid. If it is impossible for all fresh oranges to rot, return -1.
+### The task is to determine the *minimum* number of minutes that must pass until there are no fresh oranges left in the grid. If it is impossible for all fresh oranges to rot, return -1.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/03f7b945-5d48-4759-bc2a-53eabdee3c0" width="" height=""/>
 
   ### 📥 `Input`  ➤ grid = [[2,1,1],[1,1,0],[0,1,1]]
 
@@ -34,8 +34,6 @@ The task is to determine the *minimum* number of minutes that must pass until th
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
-
-<img src="" width="" height=""/>
 
   ### 📥 `Input` ➤ grid = [[2,1,1],[0,1,1],[1,0,1]]
 
