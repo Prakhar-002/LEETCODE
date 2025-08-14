@@ -55,7 +55,7 @@ class Solution:
                               fresh -= 1
 
                   # After one layer, increment time (1 minute passed)
-                  time += 1 
+                  time += 1
 
             # If there are still fresh oranges, return -1. Otherwise, return minutes elapsed.
             return time if fresh == 0 else -1
