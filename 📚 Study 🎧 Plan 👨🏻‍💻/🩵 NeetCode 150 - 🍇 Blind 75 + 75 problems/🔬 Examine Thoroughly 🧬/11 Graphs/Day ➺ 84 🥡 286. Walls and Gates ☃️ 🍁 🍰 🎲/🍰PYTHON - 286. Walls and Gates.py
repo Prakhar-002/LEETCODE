@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(m * n)
 
 from collections import deque
-from typing import List
+from typing import List 
 
 class Solution:
       def islandsAndTreasure(self, grid: List[List[int]]) -> None:
