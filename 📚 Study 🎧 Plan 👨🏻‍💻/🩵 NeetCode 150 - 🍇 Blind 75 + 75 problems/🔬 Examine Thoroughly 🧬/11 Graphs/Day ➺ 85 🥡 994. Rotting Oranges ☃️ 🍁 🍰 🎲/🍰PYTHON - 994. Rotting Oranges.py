@@ -51,7 +51,7 @@ class Solution:
 
                               # Rot this fresh orange, enqueue it
                               grid[row][col] = 2
-                              q.append([row, col])
+                              q.append([row, col]) 
                               fresh -= 1
 
                   # After one layer, increment time (1 minute passed)
