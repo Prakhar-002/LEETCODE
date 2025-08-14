@@ -33,7 +33,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img width="2008" height="2210" alt="133 que 1" src="https://github.com/user-attachments/assets/56500d7c-571d-4da0-9a2b-c660401d5eba" />
+<img width="450" height="500" alt="133 que 1" src="https://github.com/user-attachments/assets/56500d7c-571d-4da0-9a2b-c660401d5eba" />
 
   ### 📥 `Input`  ➤ adjList = [[2,4],[1,3],[2,4],[1,3]]
 
