@@ -89,7 +89,7 @@
 🔸 **Hash Table**  </br>
 🔸 **Depth-First Search**  </br>
 🔸 **Breadth-First Search**  </br>
-🔸 **Graph**  </br>
+🔸 **Graph**  </br> 
 
 </br>
 
