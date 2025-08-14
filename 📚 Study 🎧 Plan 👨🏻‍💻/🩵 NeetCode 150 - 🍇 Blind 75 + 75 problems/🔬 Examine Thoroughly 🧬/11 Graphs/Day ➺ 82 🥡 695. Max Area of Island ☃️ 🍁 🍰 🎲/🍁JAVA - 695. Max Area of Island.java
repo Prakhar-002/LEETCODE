@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n * m) 
 
-//? 🧺 Space complexity ➺ O(n * m)
+//? 🧺 Space complexity ➺ O(n * m) 
 
 class Solution {
       public int maxAreaOfIsland(int[][] grid) {
