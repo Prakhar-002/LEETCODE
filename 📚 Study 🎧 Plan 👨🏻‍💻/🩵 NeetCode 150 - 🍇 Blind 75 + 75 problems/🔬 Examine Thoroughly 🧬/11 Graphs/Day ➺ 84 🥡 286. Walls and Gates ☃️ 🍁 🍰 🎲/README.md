@@ -1,10 +1,10 @@
-# 
+# 286. Walls and Gates
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/walls-and-gates/description/"><strong>➥ ☢️ 286 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
