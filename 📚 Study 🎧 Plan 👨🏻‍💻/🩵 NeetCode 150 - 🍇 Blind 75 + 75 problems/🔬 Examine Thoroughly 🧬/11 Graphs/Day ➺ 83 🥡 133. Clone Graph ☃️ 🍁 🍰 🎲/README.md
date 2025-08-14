@@ -87,8 +87,9 @@
 # Topics 📋 ˋ°•*⁀➷
 
 🔸 **Hash Table**  </br>
-
-🔸 **Linked List**  </br>
+🔸 **Depth-First Search**  </br>
+🔸 **Breadth-First Search**  </br>
+🔸 **Graph**  </br>
 
 </br>
 
