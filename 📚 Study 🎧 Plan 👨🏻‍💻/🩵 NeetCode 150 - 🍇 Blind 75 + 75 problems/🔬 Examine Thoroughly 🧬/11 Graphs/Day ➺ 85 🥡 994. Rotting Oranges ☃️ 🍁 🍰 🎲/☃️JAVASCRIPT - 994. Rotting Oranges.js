@@ -7,7 +7,7 @@
 //? 🧺 Space complexity ➺ O(n * m)
 
 var orangesRotting = function (grid) {
-      const ROWS = grid.length, COLS = grid[0].length;
+      const ROWS = grid.length, COLS = grid[0].length; 
 
       const q = [];
       let fresh = 0; // Count of fresh oranges

@@ -43,7 +43,7 @@ public:
 
                               // Skip if OOB or not a fresh orange
                               if (row < 0 || row == ROWS ||
-                                    col < 0 || col == COLS ||
+                                    col < 0 || col == COLS || 
                                     grid[row][col] != 1)
                                     continue;
 
