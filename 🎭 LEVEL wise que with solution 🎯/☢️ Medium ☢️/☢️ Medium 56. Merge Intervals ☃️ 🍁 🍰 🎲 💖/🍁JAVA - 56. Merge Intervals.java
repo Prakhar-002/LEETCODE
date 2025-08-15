@@ -15,10 +15,10 @@ class Solution {
             // ----------------------------------------------------------
             // Step 1: Sort intervals by their start value
             // ----------------------------------------------------------
-            Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b));
+            Arrays.sort(intervals, (a, b) -> Integer.compare(a[0], b[0]));
 
             // Step 2: Initialize 'prev' as the first interval
-            int[] prev = intervals;
+            int[] prev = intervals[0];
 
             // ----------------------------------------------------------
             // Step 3: Iterate over each interval and merge if overlapping
@@ -26,8 +26,8 @@ class Solution {
             for (int i = 1; i < intervals.length; i++) {
                   int[] interval = intervals[i];
                   // Overlap case → merge by updating the end time
-                  if (interval <= prev) {
-                        prev = Math.max(prev, interval);
+                  if (interval[0] <= prev[1]) {
+                        prev[1] = Math.max(prev[1], interval[1]);
                   }
                   // No overlap → push previous interval, update 'prev'
                   else {

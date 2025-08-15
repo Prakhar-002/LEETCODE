@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(n log n) ->  n = len(nums)
-
-#  Space complexity -> O(1)
-
 from typing import List
 
 class Solution:
@@ -24,15 +18,15 @@ class Solution:
             intervals.sort(key=lambda x: x[0])
 
             # Step 2: Initialize 'prev' as the first interval
-            prev = intervals
+            prev = intervals[0]
 
             # ----------------------------------------------------------
             # Step 3: Iterate over each interval and merge if overlapping
             # ----------------------------------------------------------
             for interval in intervals[1:]:
                   # Overlap case → merge by updating the end time
-                  if interval <= prev:
-                        prev = max(prev, interval)
+                  if interval[0] <= prev[1]:
+                        prev[1] = max(prev[1], interval[1])
                   # No overlap → push previous interval, update 'prev'
                   else:
                         merged.append(prev)
