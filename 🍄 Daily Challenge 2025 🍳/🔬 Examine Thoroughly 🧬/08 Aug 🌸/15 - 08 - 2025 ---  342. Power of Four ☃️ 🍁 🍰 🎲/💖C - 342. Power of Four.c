@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-#include <stdbool.h>
+#include <stdbool.h> 
 
 bool isPowerOfFour(int n) {
       // n > 0: Ensures the number is positive.
