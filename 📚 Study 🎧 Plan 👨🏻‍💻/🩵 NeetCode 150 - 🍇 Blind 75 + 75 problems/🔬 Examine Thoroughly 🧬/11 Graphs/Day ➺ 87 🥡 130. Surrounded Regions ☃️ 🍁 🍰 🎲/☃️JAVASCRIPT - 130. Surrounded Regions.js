@@ -9,7 +9,7 @@
 var solve = function (board) {
       // Get the number of rows and columns in the board
       let ROWS = board.length,
-            COLS = board[0].length;
+            COLS = board[0].length; 
 
       // ----------------------------------------------------------
       // DFS helper function to mark connected 'O's from a cell
