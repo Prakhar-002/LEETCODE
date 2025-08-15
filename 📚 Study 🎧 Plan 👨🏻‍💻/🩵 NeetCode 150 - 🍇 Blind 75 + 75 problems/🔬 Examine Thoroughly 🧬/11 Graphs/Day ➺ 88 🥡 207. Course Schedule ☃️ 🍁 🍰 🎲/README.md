@@ -9,7 +9,7 @@
 
 </br>
 
-# Description 📜 ˋ°•*⁀➷
+# Description 📜 ˋ°•*⁀➷ 
 
 ### There are a total of `numCourses` courses that you need to take, labeled from 0 to `numCourses - 1`. You are provided an array `prerequisites`, where each `prerequisites[i] = [ai, bi]` signifies that you must take course `bi` *before* you can take course `ai`.
 
