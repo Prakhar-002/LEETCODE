@@ -9,7 +9,7 @@
 from typing import List
 from collections import defaultdict 
 
-class Solution:
+class Solution: 
       def findOrder(self, numCourses: int, prerequisites: List[List[int]]) -> List[int]:
             # ----------------------------------------------------------
             # Step 1: Build adjacency list (course → list of prerequisites)

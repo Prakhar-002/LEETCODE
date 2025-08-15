@@ -8,7 +8,7 @@
 
 import java.util.*;
 
-class Solution {
+class Solution { 
       public boolean canFinish(int numCourses, int[][] prerequisites) {
             // ----------------------------------------------------------
             // Step 1: Build adjacency list (course → list of prerequisites)
