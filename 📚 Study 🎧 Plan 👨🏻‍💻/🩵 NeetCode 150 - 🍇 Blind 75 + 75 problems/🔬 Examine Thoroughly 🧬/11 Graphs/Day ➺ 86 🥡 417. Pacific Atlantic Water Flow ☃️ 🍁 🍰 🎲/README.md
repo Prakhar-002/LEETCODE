@@ -1,17 +1,23 @@
-# 
+# 417. Pacific Atlantic Water Flow
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/pacific-atlantic-water-flow/description/"><strong>➥ ☢️ 417 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### You are given an `m x n` rectangular island bordered by both the Pacific Ocean and the Atlantic Ocean. The Pacific Ocean touches the island's left and top edges, and the Atlantic Ocean touches the island's right and bottom edges.
+
+### The island is divided into a grid of square cells. You are provided an `m x n` integer matrix called `heights`, where `heights[r][c]` represents the height above sea level of the cell located at coordinate (r, c).
+
+### Rainwater falling on the island can flow to neighboring cells (directly north, south, east, or west) *only if* the neighboring cell's height is less than or equal to the height of the current cell. Furthermore, water can flow from any cell adjacent to an ocean directly into that ocean.
+
+### The goal is to identify all cells from which rainwater can flow to both the Pacific and Atlantic oceans. Return a 2D list of grid coordinates, where each `result[i] = [ri, ci]` represents a cell at `heights[ri][ci]` that can reach both oceans.
 
 </br>
 
@@ -19,52 +25,62 @@
 
 <img src="" width="" height=""/>
 
-  ### 📥 `Input`  ➤ 
+  ### 📥 `Input`  ➤ heights = [[1,2,2,3,5],[3,2,3,4,4],[2,4,5,3,1],[6,7,1,4,5],[5,1,1,2,4]]
 
-  ### 📤 `Output`  ➤ 2
+  ### 📤 `Output`  ➤ [[0,4],[1,3],[1,4],[2,2],[3,0],[3,1],[4,0]]
 
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤ The following cells can flow to the Pacific and Atlantic oceans, as shown below:
+
+```JS
+
+    [0,4]: [0,4] -> Pacific Ocean
+         [0,4] -> Atlantic Ocean
+    [1,3]: [1,3] -> [0,3] -> Pacific Ocean
+         [1,3] -> [1,4] -> Atlantic Ocean
+    [1,4]: [1,4] -> [1,3] -> [0,3] -> Pacific Ocean
+         [1,4] -> Atlantic Ocean
+    [2,2]: [2,2] -> [1,2] -> [0,2] -> Pacific Ocean
+         [2,2] -> [2,3] -> [2,4] -> Atlantic Ocean
+    [3,0]: [3,0] -> Pacific Ocean
+         [3,0] -> [4,0] -> Atlantic Ocean
+    [3,1]: [3,1] -> [3,0] -> Pacific Ocean
+         [3,1] -> [4,1] -> Atlantic Ocean
+    [4,0]: [4,0] -> Pacific Ocean
+         [4,0] -> Atlantic Ocean
+```
+
+Note that there are other possible paths for these cells to flow to the Pacific and Atlantic oceans.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ heights = [[1]]
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ [[0,0]]
 
-  ### 🔦 `Explanation` ➤ 
-
-</br>
-
-# Example 💡 3️⃣ ˋ°•*⁀➷
-
-  ### 📥 `Input` ➤ 
-
-  ### 📤 `Output`  ➤ 
-
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation` ➤ The water can flow from the only cell to the Pacific and Atlantic oceans.
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
+🔹 m == heights.length </br>
 
-🔹 **** </br>
+🔹 n == heights[r].length </br>
 
-🔹 **** </br>
+🔹 1 <= m, n <= 200 </br>
+
+🔹 0 <= heights[r][c] <= 10<sup>5</sup> </br>
 
 </br>
 
-# Topics 📋 ˋ°•*⁀➷
+# Topics 📋 
 
 🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **Depth-First Search**  </br>
+🔸 **Breadth-First Search** </br>
+🔸 **Matrix** </br>
 
 </br>
 
@@ -76,8 +92,6 @@
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
@@ -85,6 +99,6 @@
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/403994e9-9010-42e0-97d7-60e5a612bb6d" width = "700px" height="462px" />
 
 </h1>
