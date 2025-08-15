@@ -30,7 +30,7 @@ class Solution {
             for (int r = 0; r < ROWS; r++) {
                   dfs(r, 0, pac, heights[r][0], heights, ROWS, COLS); // Left col → Pacific
                   dfs(r, COLS - 1, atl, heights[r][COLS - 1], heights, ROWS, COLS); // Right col → Atlantic
-            }
+            } 
 
             // ----------------------------------------------------------
             // Step 2: Intersection of Pacific and Atlantic reachable cells
