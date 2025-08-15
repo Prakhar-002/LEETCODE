@@ -12,10 +12,10 @@ var merge = function (intervals) {
       // ----------------------------------------------------------
       // Step 1: Sort intervals by their start value
       // ----------------------------------------------------------
-      intervals.sort((a, b) => a[0] - b);
+      intervals.sort((a, b) => a[0] - b[0]);
 
       // Step 2: Initialize 'prev' as the first interval
-      let prev = intervals;
+      let prev = intervals[0];
 
       // ----------------------------------------------------------
       // Step 3: Iterate over each interval and merge if overlapping
@@ -23,8 +23,8 @@ var merge = function (intervals) {
       for (let i = 1; i < intervals.length; i++) {
             let interval = intervals[i];
             // Overlap case → merge by updating the end time
-            if (interval <= prev) {
-                  prev = Math.max(prev, interval);
+            if (interval[0] <= prev[1]) {
+                  prev[1] = Math.max(prev[1], interval[1]);
             }
             // No overlap → push previous interval, update 'prev'
             else {

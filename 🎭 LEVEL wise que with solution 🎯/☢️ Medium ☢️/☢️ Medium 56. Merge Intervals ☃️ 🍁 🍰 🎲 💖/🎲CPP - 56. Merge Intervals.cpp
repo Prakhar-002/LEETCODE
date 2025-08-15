@@ -28,8 +28,8 @@ public:
             for (int i = 1; i < intervals.size(); i++) {
                   vector<int>& interval = intervals[i];
                   // Overlap case → merge by updating the end time
-                  if (interval <= prev) {
-                        prev = max(prev, interval);
+                  if (interval[0] <= prev[1]) {
+                        prev[1] = max(prev[1], interval[1]);
                   }
                   // No overlap → push previous interval, update 'prev'
                   else {
@@ -44,3 +44,4 @@ public:
             return merged;
       }
 };
+[1]
