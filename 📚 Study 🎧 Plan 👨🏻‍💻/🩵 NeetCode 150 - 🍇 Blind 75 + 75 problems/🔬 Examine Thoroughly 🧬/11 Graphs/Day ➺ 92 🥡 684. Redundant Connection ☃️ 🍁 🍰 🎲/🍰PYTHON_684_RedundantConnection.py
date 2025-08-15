@@ -10,7 +10,7 @@
 
 #? 🧺 Space complexity -> O(n) 👉 using 2 arr of length equal to len of edges
 
-class Solution:
+class Solution: 
       def findRedundantConnection(self, edges: List[List[int]]) -> List[int]:
             # parent array will store ultimate parent of each node
             parent = [i for i in range(len(edges) + 1)]
