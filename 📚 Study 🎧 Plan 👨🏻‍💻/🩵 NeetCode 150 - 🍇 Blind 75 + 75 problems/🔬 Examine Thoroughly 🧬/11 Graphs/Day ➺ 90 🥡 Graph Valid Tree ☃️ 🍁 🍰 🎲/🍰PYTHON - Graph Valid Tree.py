@@ -14,7 +14,7 @@ class Solution:
             # Condition 1: A valid tree must have exactly n - 1 edges
             # ----------------------------------------------------------
             if len(edges) != n - 1:
-                  return False
+                  return False 
 
             # Create an adjacency list to represent the graph
             adj = [[] for _ in range(n)]
