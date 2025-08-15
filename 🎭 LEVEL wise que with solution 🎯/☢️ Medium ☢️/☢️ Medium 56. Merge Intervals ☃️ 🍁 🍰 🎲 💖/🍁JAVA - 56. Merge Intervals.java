@@ -31,7 +31,7 @@ class Solution {
                   }
                   // No overlap → push previous interval, update 'prev'
                   else {
-                        merged.add(prev);
+                        merged.add(prev); 
                         prev = interval;
                   }
             }
