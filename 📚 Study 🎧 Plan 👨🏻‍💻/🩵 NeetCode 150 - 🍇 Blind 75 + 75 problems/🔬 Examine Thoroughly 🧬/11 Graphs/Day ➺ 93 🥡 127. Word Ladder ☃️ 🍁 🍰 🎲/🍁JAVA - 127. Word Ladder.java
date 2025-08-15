@@ -64,7 +64,7 @@ class Solution {
 
                               nodeChars[j] = originalChar; // Restore original character
                         }
-                  }
+                  } 
             }
 
             // If the queue becomes empty and we haven't found the endWord, it's impossible.
