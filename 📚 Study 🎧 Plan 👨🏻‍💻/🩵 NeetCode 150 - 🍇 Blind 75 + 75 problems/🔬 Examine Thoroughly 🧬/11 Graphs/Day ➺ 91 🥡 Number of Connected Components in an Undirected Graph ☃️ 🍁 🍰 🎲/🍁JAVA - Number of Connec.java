@@ -18,7 +18,7 @@ class Solution {
             boolean[] visit = new boolean[n];
 
             // Build the adjacency list from the edge list
-            for (int[] edge : edges) {
+            for (int[] edge : edges) { 
                   adj.get(edge[0]).add(edge[1]);
                   adj.get(edge[1]).add(edge[0]);
             }
