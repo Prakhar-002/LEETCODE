@@ -2,9 +2,9 @@
 
 // Todo 💎 QUESTION NUMBER 261
 
-//? ⌚ Time complexity ➺ O(n * m) 
+//? ⌚ Time complexity ➺ O(E + V)
 
-//? 🧺 Space complexity ➺ O(m * n)
+//? 🧺 Space complexity ➺ O(E + V)
 
 var validTree = function (n, edges) {
       // ----------------------------------------------------------
