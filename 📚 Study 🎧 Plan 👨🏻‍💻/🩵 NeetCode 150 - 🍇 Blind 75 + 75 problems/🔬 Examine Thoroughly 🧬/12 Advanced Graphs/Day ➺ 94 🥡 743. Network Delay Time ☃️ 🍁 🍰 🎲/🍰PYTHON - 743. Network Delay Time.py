@@ -1,6 +1,6 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER 743
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
@@ -11,3 +11,7 @@
 # ⌚ Time complexity -> O(n) ->  n = len(nums)
 
 #  Space complexity -> O(1)
+
+class Solution:
+      def networkDelayTime(self, times: List[List[int]], n: int, k: int) -> int:
+            
