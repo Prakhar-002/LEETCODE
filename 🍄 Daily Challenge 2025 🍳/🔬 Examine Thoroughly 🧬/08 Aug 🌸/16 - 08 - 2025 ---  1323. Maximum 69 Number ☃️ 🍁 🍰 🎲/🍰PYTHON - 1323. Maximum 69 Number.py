@@ -9,7 +9,7 @@
 class Solution:
       def maximum69Number (self, num: int) -> int:
             # Convert the integer to a list of characters for easy modification
-            s_list = list(str(num))
+            s_list = list(str(num)) 
 
             # ----------------------------------------------------------
             # Iterate through the digits to find the first '6'
