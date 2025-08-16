@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/reconstruct-itinerary/description/"><strong>➥ ☢️ 332 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/reconstruct-itinerary/description/"><strong>➥ 🫀 332 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
