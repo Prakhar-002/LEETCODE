@@ -8,7 +8,7 @@
 
 import heapq
 from collections import defaultdict
-from typing import List
+from typing import List 
 
 class Solution:
       def minCostConnectPoints(self, points: List[List[int]]) -> int:
