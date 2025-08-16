@@ -23,7 +23,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/ea39e6bb-a28c-4f0c-855d-75a7960655e9" width="" height=""/>
 
   ### 📥 `Input`  ➤ grid = [[0,2], [1,3]]
 
@@ -39,7 +39,7 @@ When the depth of water is 3, we can swim anywhere inside the grid.
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/b3ea5835-9b9b-4fe7-ab65-bbf026c971c5" width="" height=""/>
 
   ### 📥 `Input` ➤ grid = [
             [0,1,2,3,4], 
