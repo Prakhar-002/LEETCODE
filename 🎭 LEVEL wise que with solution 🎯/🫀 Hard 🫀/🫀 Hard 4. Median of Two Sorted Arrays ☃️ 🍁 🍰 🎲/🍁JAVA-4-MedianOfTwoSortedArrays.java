@@ -11,7 +11,7 @@ class Solution {
             // Get lengths and total length
             int m = nums1.length;
             int n = nums2.length;
-            int totalLen = m + n;
+            int totalLen = m + n; 
 
             // Pointers for nums1 and nums2
             int p1 = 0, p2 = 0;
