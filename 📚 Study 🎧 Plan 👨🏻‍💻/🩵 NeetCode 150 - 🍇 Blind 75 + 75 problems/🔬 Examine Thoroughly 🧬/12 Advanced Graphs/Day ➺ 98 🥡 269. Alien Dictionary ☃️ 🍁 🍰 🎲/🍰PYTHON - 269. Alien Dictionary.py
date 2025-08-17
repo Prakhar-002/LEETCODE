@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(V + E)
 
-from typing import List
+from typing import List 
 
 class Solution:
       def foreignDictionary(self, words: List[str]) -> str:
