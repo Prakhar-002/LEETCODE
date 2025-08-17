@@ -43,7 +43,7 @@ class Solution:
 
                   # Relax all edges by checking every flight.
                   for s, d, p in flights:  # s=source, d=destination, p=price of the flight
-                        
+
                         # We can only consider a flight from city `s` if `s` is already reachable
                         # (i.e., its price is not infinity).
                         if prices[s] == float("inf"):
