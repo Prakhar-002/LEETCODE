@@ -11,7 +11,7 @@ class Solution:
             if k == 0 or k + maxPts <= n:
                   return 1.0
 
-            windowSum =0 
+            windowSum = 0 
 
             for i in range(k, k + maxPts):
                   windowSum += 1 if i <= n else 0
