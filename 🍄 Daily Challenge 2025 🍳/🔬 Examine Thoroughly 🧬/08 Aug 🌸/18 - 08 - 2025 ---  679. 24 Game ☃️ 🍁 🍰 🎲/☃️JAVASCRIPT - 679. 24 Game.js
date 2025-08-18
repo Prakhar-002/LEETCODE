@@ -53,7 +53,7 @@ var judgePoint24 = function (cards) {
                                     // If any recursive call finds a solution, propagate true up the call stack.
                                     return true;
                               }
-                        }
+                        } 
                   }
             }
 
