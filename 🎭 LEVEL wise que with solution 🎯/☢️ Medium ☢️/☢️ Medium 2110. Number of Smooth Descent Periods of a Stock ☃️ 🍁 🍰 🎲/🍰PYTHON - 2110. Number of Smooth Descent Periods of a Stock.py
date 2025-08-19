@@ -12,7 +12,7 @@ class Solution(object):
             # for the first single-element subarray (prices[0]).
             # `prev` tracks the length of the current consecutive descent period. It also
             # starts at 1 for the first element.
-            periods = prev = 1
+            periods = prev = 1 
 
             # Iterate from the second element to the end of the list.
             for i in range(1, len(prices)):
