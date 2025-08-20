@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(1)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class DataStream:
       def __init__(self, value: int, k: int):
