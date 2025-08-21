@@ -17,7 +17,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="https://assets.leetcode.com/uploads/2020/01/02/leetcode_1277_example_1.png" width="300" height="200"/>
+<img src="https://github.com/user-attachments/assets/77362719-7492-421b-81dc-1094757fde67" width="300" height="200"/>
 
   ### 📥 `Input`  ➤ `[[1,0,1],[1,1,0],[1,1,0]]`
 
@@ -29,7 +29,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="https://assets.leetcode.com/uploads/2020/01/02/leetcode_1277_example_2.png" width="400" height="200"/>
+<img src="https://github.com/user-attachments/assets/af3fe051-2c0c-4b22-8236-09868b0ab482" width="400" height="200"/>
 
   ### 📥 `Input` ➤ `[[0,1,1,0],[0,1,1,1],[1,1,1,0]]`
 
@@ -75,8 +75,6 @@
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
@@ -84,6 +82,6 @@
 
 <h1  align="center" >
 
-<img src ="" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/c6a3358b-5600-4115-b377-24e275f1b0dd" width = "700px" height="462px" />
 
 </h1>
