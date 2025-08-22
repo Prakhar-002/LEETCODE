@@ -10,7 +10,7 @@ from typing import List
 
 class Solution:
       def minimumArea(self, grid: List[List[int]]) -> int:
-            n, m = len(grid), len(grid[0])
+            n, m = len(grid), len(grid[0]) 
             # Initialize bounds so that any found '1' will shrink/expand them appropriately.
             minRow, maxRow = n, 0
             minCol, maxCol = m, 0
