@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(n) ->  n = len(matrix)
-
-#  Space complexity -> O(1)
-
 from typing import List
 
 class Solution:
