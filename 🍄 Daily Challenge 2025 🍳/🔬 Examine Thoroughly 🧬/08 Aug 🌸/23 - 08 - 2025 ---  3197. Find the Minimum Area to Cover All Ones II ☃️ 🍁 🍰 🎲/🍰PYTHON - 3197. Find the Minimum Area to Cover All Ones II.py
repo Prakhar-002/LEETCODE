@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n * m)
 
-from typing import List
+from typing import List 
 
 class Solution:
       def minimumSum2(self, grid: List[List[int]], u: int, d: int, l: int, r: int) -> int:
