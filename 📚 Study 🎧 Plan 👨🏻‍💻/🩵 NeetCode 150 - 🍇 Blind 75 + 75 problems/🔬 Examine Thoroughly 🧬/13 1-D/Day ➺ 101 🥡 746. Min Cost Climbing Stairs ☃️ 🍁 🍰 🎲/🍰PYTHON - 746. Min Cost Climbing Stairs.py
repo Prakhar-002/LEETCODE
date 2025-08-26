@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def minCostClimbingStairs(self, cost: List[int]) -> int:
             # Loop backwards starting from the third last stair (len(cost)-3)
             # Each index i is updated to store the total minimum cost if you start stepping from cost[i].
