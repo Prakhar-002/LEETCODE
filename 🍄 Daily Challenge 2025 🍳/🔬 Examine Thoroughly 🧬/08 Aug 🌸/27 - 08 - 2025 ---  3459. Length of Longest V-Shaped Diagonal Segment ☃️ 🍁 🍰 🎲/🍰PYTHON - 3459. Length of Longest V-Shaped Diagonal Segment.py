@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(m * n)
 
 from functools import cache
-from typing import List
+from typing import List 
 
 class Solution:
       def lenOfVDiagonal(self, grid: List[List[int]]) -> int:
