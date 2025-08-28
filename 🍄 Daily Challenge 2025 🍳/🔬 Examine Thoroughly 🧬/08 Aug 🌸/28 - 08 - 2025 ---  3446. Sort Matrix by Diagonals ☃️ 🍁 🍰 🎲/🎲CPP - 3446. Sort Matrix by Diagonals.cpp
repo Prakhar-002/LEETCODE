@@ -17,7 +17,7 @@ public:
                   // Collect elements along diagonal starting from grid[i][0]
                   for (int j = 0; i + j < n; j++) {
                         tmp.push_back(grid[i + j][j]);
-                  }
+                  } 
                   // Sort diagonal elements in descending order
                   sort(tmp.begin(), tmp.end(), greater<int>());
                   // Place sorted elements back to their original diagonal positions
