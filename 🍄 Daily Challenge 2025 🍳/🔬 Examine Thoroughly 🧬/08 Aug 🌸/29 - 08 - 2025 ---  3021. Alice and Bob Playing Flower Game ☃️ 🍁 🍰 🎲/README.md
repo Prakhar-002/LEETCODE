@@ -13,7 +13,7 @@
 
 ### Alice and Bob are playing a turn-based game on a field, with two lanes of flowers between them. There are x flowers in the first lane between Alice and Bob, and y flowers in the second lane between them.
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/73dd6431-6f51-480a-868e-43392417e014" width="" height=""/>
 
 ### The game proceeds as follows:
 
