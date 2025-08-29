@@ -26,7 +26,7 @@ class Solution:
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
       def flowerGame(self, n: int, m: int) -> int:
             # For all pairs (x, y) where 1 <= x <= n and 1 <= y <= m:
             # Alice wins if x + y is odd (one is odd, one is even).
