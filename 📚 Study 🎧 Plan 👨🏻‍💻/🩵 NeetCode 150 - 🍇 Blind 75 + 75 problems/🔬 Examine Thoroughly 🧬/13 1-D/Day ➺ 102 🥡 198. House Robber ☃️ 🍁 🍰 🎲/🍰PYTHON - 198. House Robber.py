@@ -8,7 +8,7 @@
 
 class Solution:
       def rob(self, nums: List[int]) -> int:
-            robOne, roBTwo = 0, 0
+            robOne, roBTwo = 0, 0 
 
             # ? [firstSum, secSum, n, n + 1 ...] 
             for n in nums:
