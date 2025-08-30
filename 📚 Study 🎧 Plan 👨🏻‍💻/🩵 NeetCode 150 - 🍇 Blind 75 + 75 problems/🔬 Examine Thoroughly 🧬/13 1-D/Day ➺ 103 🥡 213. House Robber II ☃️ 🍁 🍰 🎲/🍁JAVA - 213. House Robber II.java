@@ -12,6 +12,7 @@ public class Solution {
             if (nums.length == 1) {
                   return nums[0];
             }
+
             // Main idea: You can't rob both the first and last house (circle).
             // Option 1: Rob houses from index 1 to the end (skip first house).
             // Option 2: Rob houses from the start to second last (skip last house).
