@@ -33,7 +33,7 @@ class Solution:
                         else:
                               fill.append((r, c))  # Track positions to fill
 
-            def dfs(i):
+            def dfs(i): 
                   """
                   Depth-first search with backtracking to fill empty cells from index i onwards.
                   """
