@@ -1,0 +1,99 @@
+# 37. Sudoku Solver
+
+</br>
+
+<h2 align="center">
+
+<a href="https://leetcode.com/problems/sudoku-solver/description/?envType=daily-question&envId=2025-08-31"><strong>➥ 🫀 37 Leetcode Hard 🫀 </strong></a>
+
+</h2>
+
+</br>
+
+# Description 📜 ˋ°•\*⁀➷
+
+### Write a program to solve a Sudoku puzzle by filling the empty cells. A Sudoku solution must satisfy the rules: each digit 1-9 must occur exactly once in each row, each column, and each of the 9 3x3 sub-boxes of the grid. The '.' character indicates empty cells.
+
+</br>
+
+# Example 💡 1️⃣ ˋ°•\*⁀➷
+
+<img src="https://github.com/user-attachments/assets/d041647e-151e-4a7a-9456-8d42992d3dff" width="" height=""/>
+
+### 📥 `Input` ➤
+
+```JS
+board = [
+  ["5","3",".",".","7",".",".",".","."],
+  ["6",".",".","1","9","5",".",".","."],
+  [".","9","8",".",".",".",".","6","."],
+  ["8",".",".",".","6",".",".",".","3"],
+  ["4",".",".","8",".","3",".",".","1"],
+  ["7",".",".",".","2",".",".",".","6"],
+  [".","6",".",".",".",".","2","8","."],
+  [".",".",".","4","1","9",".",".","5"],
+  [".",".",".",".","8",".",".","7","9"]
+]
+```
+
+### 📤 `Output` ➤
+
+```JS
+[
+  ["5","3","4","6","7","8","9","1","2"],
+  ["6","7","2","1","9","5","3","4","8"],
+  ["1","9","8","3","4","2","5","6","7"],
+  ["8","5","9","7","6","1","4","2","3"],
+  ["4","2","6","8","5","3","7","9","1"],
+  ["7","1","3","9","2","4","8","5","6"],
+  ["9","6","1","5","3","7","2","8","4"],
+  ["2","8","7","4","1","9","6","3","5"],
+  ["3","4","5","2","8","6","1","7","9"]
+]
+```
+
+### 🔦 `Explanation` ➤ The input board is shown above and the only valid solution is shown below:
+
+<img src="https://github.com/user-attachments/assets/4f3b476a-f1d8-4bd1-a35b-c5aa9624586b" width="" height=""/>
+
+</br>
+
+# Constraints 🔒 ˋ°•\*⁀➷
+
+🔹 `board.length == 9` </br>
+
+🔹 `board[i].length == 9` </br>
+
+🔹 `board[i][j]` is a digit or '.'. </br>
+
+🔹 It is guaranteed that the input board has only one solution. </br>
+
+</br>
+
+# Topics 📋 ˋ°•\*⁀➷
+
+🔸 **Array** </br>
+🔸 **Hash Table** </br>
+🔸 **Backtracking** </br>
+🔸 **Matrix** </br>
+
+</br>
+
+# Solution ✏️ ˋ°•*⁀➷
+
+| 📒 Language 📒  | 🪶 Solution 🪶 |
+| ------------- | ------------- |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+
+</br>
+
+# Benchmark ⏱️ ˋ°•*⁀➷
+
+<h1  align="center" >
+
+<img src ="" width = "700px" height="462px" />
+
+</h1>
