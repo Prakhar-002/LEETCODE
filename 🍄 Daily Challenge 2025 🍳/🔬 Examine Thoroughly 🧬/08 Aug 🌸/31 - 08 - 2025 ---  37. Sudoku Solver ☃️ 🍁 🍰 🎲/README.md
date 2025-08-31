@@ -12,7 +12,17 @@
 
 # Description 📜 ˋ°•\*⁀➷
 
-### Write a program to solve a Sudoku puzzle by filling the empty cells. A Sudoku solution must satisfy the rules: each digit 1-9 must occur exactly once in each row, each column, and each of the 9 3x3 sub-boxes of the grid. The '.' character indicates empty cells.
+### Write a program to solve a Sudoku puzzle by filling the empty cells. 
+
+### A Sudoku solution must satisfy the rules: 
+
+1. Each of the digits 1-9 must occur exactly once in each row.
+
+2. Each of the digits 1-9 must occur exactly once in each column.
+
+3. Each of the digits 1-9 must occur exactly once in each of the 9 3x3 sub-boxes of the grid.
+
+### The '.' character indicates empty cells.
 
 </br>
 
