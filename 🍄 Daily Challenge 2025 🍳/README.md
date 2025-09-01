@@ -6,6 +6,24 @@
 
 <h1 align="center">
 
+𝐒𝖾ρ𝗍𝖾ꭑᑲ𝖾𝗋 🎃 𝟐𝟎𝟐𝟓
+
+</h1>
+
+| 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
+|-----------|-------------|------------------|---------------|----------------|
+| 01 ┆ SEP ┆ 2025 | ☢️Medium☢️ | []() | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+</br>
+
+<img align="left" src="https://github.com/user-attachments/assets/125dfc80-e84a-4694-afd8-70ef5f3ada7b" width="90" height="90" alt="August Gif">
+
+<img align="right" src="https://github.com/user-attachments/assets/125dfc80-e84a-4694-afd8-70ef5f3ada7b" width="90" height="90" alt="August Gif">
+
+</br>
+
+<h1 align="center">
+
 𝐀υ𝗀υ𝗌𝗍 🌸 𝟐𝟎𝟐𝟓
 
 </h1>
