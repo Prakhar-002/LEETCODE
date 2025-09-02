@@ -43,7 +43,7 @@ There is no way to choose A and B so A is on the upper left side of B.
 
   ### 🔦 `Explanation` ➤
 
-<img src="https://github.com/user-attachments/assets/869cb7bd-418e-48bc-9d10-c477d73b22b7" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/869cb7bd-418e-48bc-9d10-c477d73b22b7" width="600" height="165"/>
 
 - The left one is the pair (points[1], points[0]), where points[1] is on the upper left side of points[0] and the rectangle is empty.
 
@@ -61,7 +61,7 @@ There is no way to choose A and B so A is on the upper left side of B.
 
   ### 🔦 `Explanation` ➤
 
-<img src="https://github.com/user-attachments/assets/3c0ccf6b-22bb-4725-b095-4df5b697c60f" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/3c0ccf6b-22bb-4725-b095-4df5b697c60f" width="600" height="165"/>
 
 - The left one is the pair (points[2], points[0]), where points[2] is on the upper left side of points[0] and there are no other points on the line they form. Note that it is a valid state when the two points form a line.
 
