@@ -24,13 +24,13 @@
 
 ### Your task is to return the number of pairs of points (representing potential placements for Alice and Bob) where Alice does *not* become sad when building the rectangular fence. Remember, Alice's location must be the upper-left and Bob's location must be the lower-right corner.
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/f6592ea2-2c83-4383-9fc4-72722dafaffc" width="" height=""/>
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/2afb50fe-1fae-4e53-bd2d-bf615b3a593a" width="" height=""/>
 
   ### 📥 `Input`  ➤ points = [[1,1],[2,2],[3,3]]
 
@@ -42,7 +42,7 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/ec13b79d-cc66-46b9-9cfa-095f07f0aeda" width="" height=""/>
 
   ### 📥 `Input` ➤ points = [[6,2],[4,4],[2,6]]
 
@@ -59,7 +59,7 @@ You cannot place Alice at (2, 6) and Bob at (6, 2) because the person at (4, 4) 
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/c0859083-acc0-4480-b013-8da1fbee966a" width="" height=""/>
 
   ### 📥 `Input` ➤ points = [[3,1],[1,3],[1,1]]
 
