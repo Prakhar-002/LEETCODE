@@ -1,0 +1,115 @@
+# 3516. Find Closest Person
+
+</br>
+
+<h2 align="center"> 
+
+<a href="https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04"><strong>➥ ♻️ 3516 Leetcode Easy ♻️ </strong></a>
+</h2>
+
+</br>
+
+# Description 📜 ˋ°•*⁀➷
+
+### You are given three integers x, y, and z, representing the positions of three people on a number line:
+
+  - x is the position of Person 1.
+
+  - y is the position of Person 2.
+
+  - z is the position of Person 3, who does not move.
+
+### Both Person 1 and Person 2 move toward Person 3 at the same speed.
+
+### Determine which person reaches Person 3 first:
+
+- Return 1 if Person 1 arrives first.
+
+- Return 2 if Person 2 arrives first.
+
+- Return 0 if both arrive at the same time.
+
+### Return the result accordingly.
+
+</br>
+
+# Example 💡 1️⃣ ˋ°•*⁀➷
+
+  ### 📥 `Input`  ➤ `x = 2, y = 7, z = 4`
+
+  ### 📤 `Output`  ➤ 1
+
+  ### 🔦 `Explanation`  ➤ ➺
+
+  - Person 1 is at position 2 and can reach Person 3 (at position 4) in 2 steps.
+  
+  - Person 2 is at position 7 and can reach Person 3 in 3 steps.
+
+### Since Person 1 reaches Person 3 first, the output is 1.
+
+</br>
+
+# Example 💡 2️⃣ ˋ°•*⁀➷
+
+  ### 📥 `Input` ➤ `x = 2, y = 5, z = 6`
+
+  ### 📤 `Output`  ➤ 2
+
+  ### 🔦 `Explanation` ➤
+  
+  - Person 1 is at position 2 and can reach Person 3 (at position 6) in 4 steps.
+  
+  - Person 2 is at position 5 and can reach Person 3 in 1 step.
+  
+  ### Since Person 2 reaches Person 3 first, the output is 2.
+
+</br>
+
+# Example 💡 3️⃣ ˋ°•*⁀➷
+
+  ### 📥 `Input` ➤ `x = 1, y = 5, z = 3`
+
+  ### 📤 `Output`  ➤ 0
+
+  ### 🔦 `Explanation`  ➤
+  
+  - Person 1 is at position 1 and can reach Person 3 (at position 3) in 2 steps.
+  
+  - Person 2 is at position 5 and can reach Person 3 in 2 steps.
+  
+  ### Since both Person 1 and Person 2 reach Person 3 at the same time, the output is 0.
+
+</br>
+
+# Constraints 🔒 ˋ°•*⁀➷
+
+🔹 `1 <= x, y, z <= 100` </br>
+
+</br>
+
+# Topics 📋 ˋ°•*⁀➷
+
+🔸 **Math** </br>
+
+</br>
+
+# Solution ✏️ ˋ°•*⁀➷
+
+| 📒 Language 📒  | 🪶 Solution 🪶 |
+| ------------- | ------------- |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
+| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
+
+</br>
+
+# Benchmark ⏱️ ˋ°•*⁀➷
+
+<h1  align="center" >
+
+<img src ="" width = "700px" height="462px" />
+
+</h1>
