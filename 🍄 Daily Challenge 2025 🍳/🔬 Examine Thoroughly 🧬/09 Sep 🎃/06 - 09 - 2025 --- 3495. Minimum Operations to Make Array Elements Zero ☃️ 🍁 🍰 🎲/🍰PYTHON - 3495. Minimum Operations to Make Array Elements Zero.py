@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n log R)  👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       # Get the sum for numbers from 1 to num, based on grouping logic
