@@ -16,7 +16,7 @@ class Solution:
 
                   # ------ If x is less than k, impossible to represent x as sum of k distinct powers of two
                   if x < k:
-                        return -1
+                        return -1 
 
                   # ------ If k is at least the Hamming weight (number of 1s in binary representation of x), it's possible
                   # x.bit_count() returns number of bits set to 1, i.e., minimum powers of two needed for x
