@@ -23,4 +23,4 @@ class Solution:
             if n % 2 == 1:
                   arr.append(0)
 
-            return arr
+            return arr 
