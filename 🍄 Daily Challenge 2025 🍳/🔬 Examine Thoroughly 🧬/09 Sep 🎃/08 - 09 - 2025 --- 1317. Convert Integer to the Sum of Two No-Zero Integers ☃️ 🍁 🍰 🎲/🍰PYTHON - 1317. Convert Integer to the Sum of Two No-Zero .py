@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n log n)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def getNoZeroIntegers(self, n: int) -> List[int]:
