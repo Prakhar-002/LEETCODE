@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-from collections import deque
+from collections import deque 
 
 class Solution:
       def peopleAwareOfSecret(self, n: int, delay: int, forget: int) -> int:
