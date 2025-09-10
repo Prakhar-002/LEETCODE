@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(m + n) 👉🏻  m = lang
 
-import java.util.*;
+import java.util.*; 
 
 class Solution {
       public int minimumTeachings(int n, int[][] languages, int[][] friendships) {
