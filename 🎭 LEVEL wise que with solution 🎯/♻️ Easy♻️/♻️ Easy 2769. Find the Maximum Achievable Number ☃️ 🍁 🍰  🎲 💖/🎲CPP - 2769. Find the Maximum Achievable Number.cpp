@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-class Solution {
+class Solution { 
 public:
       int theMaximumAchievableX(int num, int t) {
             //      Calculate the max achievable x
