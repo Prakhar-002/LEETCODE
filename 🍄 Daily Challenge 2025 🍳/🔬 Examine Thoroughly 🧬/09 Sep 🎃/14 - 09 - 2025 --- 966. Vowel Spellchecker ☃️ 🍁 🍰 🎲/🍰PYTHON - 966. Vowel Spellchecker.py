@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-from typing import List
+from typing import List 
 
 class Solution:
       def spellchecker(self, wordlist: List[str], queries: List[str]) -> List[str]:
