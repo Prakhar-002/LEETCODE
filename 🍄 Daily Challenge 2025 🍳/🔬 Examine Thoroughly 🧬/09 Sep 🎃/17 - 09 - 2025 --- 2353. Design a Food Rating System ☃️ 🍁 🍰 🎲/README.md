@@ -39,7 +39,7 @@
 
   ### 📥 `Input`  ➤
 
-```JS
+```PY
 `["FoodRatings", "highestRated", "highestRated", "changeRating", "highestRated", "changeRating", "highestRated"]
 [
   [
