@@ -8,7 +8,7 @@
 
 from typing import List
 from collections import defaultdict
-from sortedcontainers import SortedSet
+from sortedcontainers import SortedSet 
 
 class FoodRatings:
 
