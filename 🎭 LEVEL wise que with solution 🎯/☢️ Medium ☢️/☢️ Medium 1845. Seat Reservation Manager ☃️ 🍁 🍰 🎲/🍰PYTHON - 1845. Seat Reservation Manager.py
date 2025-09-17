@@ -8,7 +8,7 @@
 
 import heapq     # Import heapq to use min-heap operations (priority queue)
 
-class SeatManager:
+class SeatManager: 
 
       # O(n) → Constructor initializes the seat manager with n seats
       def __init__(self, n: int):
