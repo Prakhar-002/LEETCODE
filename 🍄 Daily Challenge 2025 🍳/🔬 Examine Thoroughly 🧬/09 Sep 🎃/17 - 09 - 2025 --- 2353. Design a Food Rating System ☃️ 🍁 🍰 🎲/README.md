@@ -41,7 +41,19 @@
 
 ```JS
 `["FoodRatings", "highestRated", "highestRated", "changeRating", "highestRated", "changeRating", "highestRated"]
-[[["kimchi", "miso", "sushi", "moussaka", "ramen", "bulgogi"], ["korean", "japanese", "japanese", "greek", "japanese", "korean"], [9, 12, 8, 15, 14, 7]], ["korean"], ["japanese"], ["sushi", 16], ["japanese"], ["ramen", 16], ["japanese"]]`
+[
+  [
+    ["kimchi", "miso", "sushi", "moussaka", "ramen", "bulgogi"], 
+    ["korean", "japanese", "japanese", "greek", "japanese", "korean"], 
+    [9, 12, 8, 15, 14, 7]
+  ], 
+  ["korean"], 
+  ["japanese"], 
+  ["sushi", 16], 
+  ["japanese"], 
+  ["ramen", 16], 
+  ["japanese"]
+]`
 ```
 
   ### 📤 `Output`  ➤ `[null, "kimchi", "ramen", null, "sushi", null, "ramen"]`
