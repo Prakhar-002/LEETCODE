@@ -33,6 +33,7 @@
 
   ### 📥 `Input`  ➤ `["TaskManager", "add", "edit", "execTop", "rmv", "add", "execTop"]
 
+```PY
   [
     [[[1, 101, 10], [2, 102, 20], [3, 103, 15]]
     ], 
@@ -43,6 +44,7 @@
     [5, 105, 15], 
     []
   ]`
+```
 
   ### 📤 `Output`  ➤ `[null, null, null, 3, null, null, 5]`
 
