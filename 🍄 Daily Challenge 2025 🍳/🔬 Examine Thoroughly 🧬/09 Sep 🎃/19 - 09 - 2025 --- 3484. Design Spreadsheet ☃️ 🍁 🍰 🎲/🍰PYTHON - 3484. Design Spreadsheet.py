@@ -38,4 +38,4 @@ class Spreadsheet:
                   valRight = self.cells[right]
 
             # Return the sum of the two values
-            return valLeft + valRight
+            return valLeft + valRight 
