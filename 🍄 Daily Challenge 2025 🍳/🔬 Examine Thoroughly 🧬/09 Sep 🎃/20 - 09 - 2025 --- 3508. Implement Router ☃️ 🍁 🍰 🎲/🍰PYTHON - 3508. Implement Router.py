@@ -9,7 +9,7 @@
 from collections import deque, defaultdict
 import bisect
 
-class Router:
+class Router: 
 
       # O(1)
       def __init__(self, memoryLimit: int):
