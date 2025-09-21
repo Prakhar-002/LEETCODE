@@ -111,6 +111,7 @@ class MovieRentingSystem {
                   Node n = it.next();
                   ans.add(Arrays.asList(n.shop, n.movie));
             }
+
             return ans;
       }
 }
