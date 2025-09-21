@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 1912 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/design-movie-rental-system/description/?envType=daily-question&envId=2025-09-21"><strong>➥ 🫀 1912 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
