@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-from collections import Counter 
+from collections import Counter
 from typing import List
 
 class Solution:
