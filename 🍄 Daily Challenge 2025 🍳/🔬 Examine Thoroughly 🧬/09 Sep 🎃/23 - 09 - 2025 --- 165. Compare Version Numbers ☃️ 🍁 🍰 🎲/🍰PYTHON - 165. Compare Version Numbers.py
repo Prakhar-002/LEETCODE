@@ -15,7 +15,7 @@ class Solution:
             # Find the max length to align both versions
             maxLength = max(len(s1), len(s2))
 
-            for i in range(maxLength):
+            for i in range(maxLength): 
                   # Get integer value for each segment, default 0 if missing
                   v1 = int(s1[i]) if i < len(s1) else 0
                   v2 = int(s2[i]) if i < len(s2) else 0
