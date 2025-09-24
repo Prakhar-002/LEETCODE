@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(d) 👉🏻  d = denominator
 
-#? 🧺 Space complexity ➺ O(d)
+#? 🧺 Space complexity ➺ O(d) 
 
 class Solution:
       def fractionToDecimal(self, numerator: int, denominator: int) -> str:
