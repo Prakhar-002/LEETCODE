@@ -26,10 +26,10 @@
   ### 🔦 `Explanation`  ➤ ➺
    The triangle looks like:
 
-<u>2</u>
-  <u>3</u> 4
- 6 <u>5</u> 7
-4 <u>1</u> 8 3
+<ins>2</ins></br>
+  <ins>3</ins> 4</br>
+ 6 <ins>5</ins> 7</br>
+4 <ins>1</ins> 8 3
 
    The minimum path sum from top to bottom is 2 + 3 + 5 + 1 = 11 (underlined above).
 
