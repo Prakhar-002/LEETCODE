@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 120 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/triangle/?envType=daily-question&envId=2025-09-25"><strong>➥ ☢️ 120 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
