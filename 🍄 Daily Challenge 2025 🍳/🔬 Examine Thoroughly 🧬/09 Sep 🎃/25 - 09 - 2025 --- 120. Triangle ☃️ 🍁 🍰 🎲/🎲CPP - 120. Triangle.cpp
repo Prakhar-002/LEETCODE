@@ -15,7 +15,7 @@ public:
       int minimumTotal(vector<vector<int>>& triangle) {
             int n = triangle.size();
             // Create DP array of size n+1 (bottom-up)
-            vector<int> dp(n + 1, 0);
+            vector<int> dp(n + 1, 0); 
 
             // Process from last row up to first row
             for (int row = n - 1; row >= 0; --row) {
