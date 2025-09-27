@@ -17,7 +17,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img width="541" height="444" alt="812 que 1" src="https://github.com/user-attachments/assets/82bdd020-d691-4a46-b43b-e84025004f83" />
+<img width="300" height="246" alt="812 que 1" src="https://github.com/user-attachments/assets/82bdd020-d691-4a46-b43b-e84025004f83" />
 
   ### 📥 `Input`  ➤ `points = [[0,0],[0,1],[1,0],[0,2],[2,0]]`
 
