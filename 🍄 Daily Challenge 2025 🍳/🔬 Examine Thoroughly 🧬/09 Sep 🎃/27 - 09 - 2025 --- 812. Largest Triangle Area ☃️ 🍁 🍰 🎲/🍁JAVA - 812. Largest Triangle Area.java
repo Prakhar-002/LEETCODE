@@ -22,7 +22,7 @@ class Solution {
                   }
             }
 
-            return maxArea;
+            return maxArea; 
       }
 
       // Helper function to calculate the area of a triangle
