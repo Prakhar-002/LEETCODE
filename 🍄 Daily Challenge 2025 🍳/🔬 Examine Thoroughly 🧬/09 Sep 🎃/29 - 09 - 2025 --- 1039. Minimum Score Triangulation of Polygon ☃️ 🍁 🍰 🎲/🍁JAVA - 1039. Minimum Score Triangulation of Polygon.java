@@ -41,7 +41,7 @@ class Solution {
                   return values[i] * values[i + 1] * values[j];
             }
 
-            // Build memoization key from (i, j)
+            // Build memoization key from (i, j) 
             int key = i * n + j;
 
             // If not cached, compute by trying all possible middle vertices k (i < k < j)

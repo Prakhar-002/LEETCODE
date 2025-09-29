@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n ^ 3) 👉🏻  n = len(nums)
 
-//? 🧺 Space complexity ➺ O(n ^ 2)
+//? 🧺 Space complexity ➺ O(n ^ 2) 
 
 var minScoreTriangulation = function (values) {
       // n = number of vertices in the polygon
