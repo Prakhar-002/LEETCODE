@@ -6,6 +6,24 @@
 
 <h1 align="center">
 
+𝐎𝖼𝗍ⱺᑲ𝖾𝗋 🛕 𝟐𝟎𝟐𝟓
+
+</h1>
+
+| 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
+|-----------|-------------|------------------|---------------|----------------|
+| 01 ┆ OCT ┆ 2025 | ☢️Medium☢️ | []() | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+</br>
+
+<img align="left" src="https://github.com/user-attachments/assets/964e54c3-5087-48b4-995a-258f6ba802e5" width="90" height="90" alt="September Gif">
+
+<img align="right" src="https://github.com/user-attachments/assets/964e54c3-5087-48b4-995a-258f6ba802e5" width="90" height="90" alt="September Gif">
+
+</br>
+
+<h1 align="center">
+
 𝐒𝖾ρ𝗍𝖾ꭑᑲ𝖾𝗋 🎃 𝟐𝟎𝟐𝟓
 
 </h1>
