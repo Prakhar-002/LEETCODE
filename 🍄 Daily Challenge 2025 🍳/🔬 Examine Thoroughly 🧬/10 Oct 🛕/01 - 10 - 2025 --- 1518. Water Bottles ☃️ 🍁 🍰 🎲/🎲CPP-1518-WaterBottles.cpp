@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity -> O(1) 
 
-class Solution { 
+class Solution {
 public:
       int numWaterBottles(int numBottles, int numExchange) {
             int waterBottles = 0;
