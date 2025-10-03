@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(m * n)           👉🏻  n = len(heightMap[0])
 
-import java.util.PriorityQueue;
+import java.util.PriorityQueue; 
 
 class Solution {
       public int trapRainWater(int[][] heightMap) {
