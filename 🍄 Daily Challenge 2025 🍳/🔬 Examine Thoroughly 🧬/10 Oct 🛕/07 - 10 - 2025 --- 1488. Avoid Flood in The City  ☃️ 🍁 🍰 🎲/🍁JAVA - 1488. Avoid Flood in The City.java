@@ -11,7 +11,7 @@ import java.util.*;
 class Solution {
       public int[] avoidFlood(int[] rains) {
             int n = rains.length;
-            int[] res = new int[n];
+            int[] res = new int[n]; 
 
             // 1 is default for sunny days, set rainy days to -1 later
             Arrays.fill(res, 1);
