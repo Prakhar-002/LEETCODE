@@ -90,6 +90,6 @@ Thus, [2,0,2] is returned.
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/b312b4d7-da35-43f3-9049-1694ae366ee2" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/76e47b6b-1eb6-4e8e-8ca2-12286d344a13" width = "700px" height="462px" />
 
 </h1>
