@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)  ->  m = n = len(potions)
 
-class Solution:
+class Solution: 
       def successfulPairs(self, spells: List[int], potions: List[int], success: int) -> List[int]:
             # Get the number of spells and potions
             n = len(spells)
