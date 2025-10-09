@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ 3494 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description/?envType=daily-question&envId=2025-10-09"><strong>➥ ☢️ 3494 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
@@ -36,7 +36,7 @@
 | 2              | 54          | 58               | 78               | 86               | 102              |
 | 3              | 86          | 88               | 98               | 102              | 110              |
 
-  - As an example for why wizard 0 cannot start working on the 1st potion before time t = 52, consider the case where the wizards started preparing the 1st potion at time t = 50. At time t = 58, wizard 2 is done with the 1st potion, but wizard 3 will still be working on the 0th potion till time t = 60.
+  - As an example for why wizard 0 cannot start working on the 1st potion before time `t = 52`, consider the case where the wizards started preparing the 1st potion at time `t = 50`. At time `t = 58`, wizard 2 is done with the 1st potion, but wizard 3 will still be working on the 0th potion till time `t = 60`.
 
 </br>
 
