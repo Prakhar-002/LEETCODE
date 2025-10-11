@@ -37,7 +37,7 @@ class Solution {
             int l = 1; // Points to earliest available spell that can combine with current one
 
             for (int r = 1; r < n; r++) {
-                  // Move lefr pointer forward while separation constraint holds
+                  // Move left pointer forward while separation constraint holds
                   // Spells must be >2 damage apart to combine, so update maxPrevDamage
                   while (l < r && freqList.get(l)[0] < freqList.get(r)[0] - 2) {
                         maxPrevDamage = Math.max(maxPrevDamage, dp[l]);
