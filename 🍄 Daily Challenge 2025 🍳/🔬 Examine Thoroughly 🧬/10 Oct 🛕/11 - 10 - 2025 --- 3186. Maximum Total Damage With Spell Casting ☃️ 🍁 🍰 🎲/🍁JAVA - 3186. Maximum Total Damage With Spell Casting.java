@@ -33,7 +33,7 @@ class Solution {
             long[] dp = new long[n];
 
             long maxPrevDamage = 0; // Tracks max dp value for valid separation
-            long answer = 0;
+            long answer = 0; 
             int l = 1; // Points to earliest available spell that can combine with current one
 
             for (int r = 1; r < n; r++) {
