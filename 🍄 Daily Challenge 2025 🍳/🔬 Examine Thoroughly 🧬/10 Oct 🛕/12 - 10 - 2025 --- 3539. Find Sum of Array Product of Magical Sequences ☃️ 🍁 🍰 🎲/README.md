@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/?envType=daily-question&envId=2025-10-12"><strong>➥ ☢️ 3539 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/?envType=daily-question&envId=2025-10-12"><strong>➥ 🫀 3539 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
