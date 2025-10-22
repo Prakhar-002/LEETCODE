@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n log n) 👉🏻  n = len(nums)
 
-//? 🧺 Space complexity ➺ O(n)
+//? 🧺 Space complexity ➺ O(n) 
 
 var maxFrequency = function (nums, k, numOperations) {
       nums.sort((a, b) => a - b);      // Sort ascending
