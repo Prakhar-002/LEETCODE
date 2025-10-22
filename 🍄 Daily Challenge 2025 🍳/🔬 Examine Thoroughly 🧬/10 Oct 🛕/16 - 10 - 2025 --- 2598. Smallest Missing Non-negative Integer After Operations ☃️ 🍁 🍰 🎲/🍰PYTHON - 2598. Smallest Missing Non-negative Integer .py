@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(m)  ->  m = values
 
-from typing import List
+from typing import List 
 
 class Solution:
       def findSmallestInteger(self, nums: List[int], value: int) -> int:
