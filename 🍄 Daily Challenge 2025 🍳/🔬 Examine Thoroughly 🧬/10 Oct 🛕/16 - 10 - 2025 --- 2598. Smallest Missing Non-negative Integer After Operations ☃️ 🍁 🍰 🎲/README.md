@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/?envType=daily-question&envId=2025-10-14"><strong>➥ ☢️ 2598 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/?envType=daily-question&envId=2025-10-16"><strong>➥ ☢️ 2598 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
