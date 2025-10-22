@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(n)
 
-import java.util.*;
+import java.util.*; 
 
 class Solution {
       public int maxFrequency(int[] nums, int k, int numOperations) {
