@@ -9,7 +9,6 @@
 import java.util.*;
 
 class Solution {
-
       /**
        * Computes the maximum frequency of an element in nums after applying
        * operations
