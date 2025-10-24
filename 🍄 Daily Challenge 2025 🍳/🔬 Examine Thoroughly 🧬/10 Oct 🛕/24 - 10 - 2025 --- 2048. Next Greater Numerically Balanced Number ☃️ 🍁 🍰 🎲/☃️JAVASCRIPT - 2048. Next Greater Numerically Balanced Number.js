@@ -31,7 +31,7 @@ function isBalance(x) {
 
       // Validate numeric balance condition:
       // For any non-zero digit 'd', its frequency must equal 'd'
-      for (let d = 1; d < 10; d++) {
+      for (let d = 0; d < 10; d++) {
             if (count[d] > 0 && count[d] !== d) {
                   return false;
             }
