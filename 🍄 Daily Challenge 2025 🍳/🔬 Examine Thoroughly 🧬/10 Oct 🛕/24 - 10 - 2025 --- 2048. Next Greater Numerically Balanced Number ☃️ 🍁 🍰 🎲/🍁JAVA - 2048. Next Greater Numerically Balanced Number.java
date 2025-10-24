@@ -52,7 +52,7 @@ class Solution {
                         // Condition failed: digit appeared but not exactly 'd' times
                         return false;
                   }
-            }
+            } 
 
             // All digits satisfy the numeric balance condition
             return true;
