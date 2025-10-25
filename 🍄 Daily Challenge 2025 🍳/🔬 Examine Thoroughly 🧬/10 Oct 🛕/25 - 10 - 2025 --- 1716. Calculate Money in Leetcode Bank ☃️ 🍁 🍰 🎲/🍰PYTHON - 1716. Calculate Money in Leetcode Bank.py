@@ -15,7 +15,7 @@ class Solution:
             # Week 0: 1+2+...+7, Week 1: 2+3+...+8, ...
             # Formula: 7 * (week start) + sum(0..6) for each week
             money = 0
-            for i in range(weeks): 
+            for i in range(weeks):
                   # i-th week starts with i+1 on Monday
                   money += 7 * (i + 1) + 21  # 21 = 1+2+...+6
                   # The sum 1+2+...+6 is always 21, so each week is 7*(i+1)+21
