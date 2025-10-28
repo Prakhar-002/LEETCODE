@@ -30,6 +30,7 @@ class Solution {
                         right -= nums[i];
                   }
             }
+
             return selections;
       }
 }
