@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)   -> m = len(max(bank))
 
-from typing import List
+from typing import List 
 
 class Solution:
       def numberOfBeams(self, bank: List[str]) -> int:
