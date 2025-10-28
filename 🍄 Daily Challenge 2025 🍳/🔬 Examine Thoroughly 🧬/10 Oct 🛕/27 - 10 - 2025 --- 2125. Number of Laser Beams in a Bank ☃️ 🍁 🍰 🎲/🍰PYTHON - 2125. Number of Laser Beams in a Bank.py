@@ -1,13 +1,25 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER 2125
 
-#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+#? ⌚ Time complexity ➺ O(n * m) 👉🏻  n = len(bank)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1)   -> m = len(max(bank))
 
-# https://github.com/Prakhar-002/LEETCODE
+from typing import List
 
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
+class Solution:
+      def numberOfBeams(self, bank: List[str]) -> int:
+            beams = 0         # Total beams count
+            prev = 0          # Number of security devices in previous row with devices
 
-#  Space complexity -> O(1)
+            for s in bank:
+                  # Count devices in current row
+                  cam = sum(1 for ch in s if ch == "1")
+
+                  if cam > 0:
+                        # Beams formed are product of current and previous row devices
+                        beams += prev * cam
+                        prev = cam  # Update previous row devices count
+
+            return beams
