@@ -26,6 +26,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+<img src ="https://github.com/user-attachments/assets/fee8cb0c-88ca-4b7d-ae13-066ead9a85ca" width = "" height="" />
+
   ### 📥 `Input`  ➤ `bank = ["011001","000000","010100","001000"]`
 
   ### 📤 `Output`  ➤ `8`
@@ -46,6 +48,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+<img src ="https://github.com/user-attachments/assets/0b5b8368-c1a5-44c6-85c2-72f958a8af19" width = "" height="" />
 
   ### 📥 `Input`  ➤ `bank = ["000","111","000"]`
 
