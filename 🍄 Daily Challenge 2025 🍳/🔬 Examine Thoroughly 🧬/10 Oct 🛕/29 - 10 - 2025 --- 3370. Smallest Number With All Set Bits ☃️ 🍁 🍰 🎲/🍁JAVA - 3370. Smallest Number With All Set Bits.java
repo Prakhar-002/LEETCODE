@@ -12,7 +12,7 @@ class Solution {
             // Keep shifting left to find 2^k - 1 >= n
             while ((1 << k) - 1 < n) {
                   k++;
-            }
+            } 
 
             // Return number with all bits set (binary ones)
             return (1 << k) - 1;
