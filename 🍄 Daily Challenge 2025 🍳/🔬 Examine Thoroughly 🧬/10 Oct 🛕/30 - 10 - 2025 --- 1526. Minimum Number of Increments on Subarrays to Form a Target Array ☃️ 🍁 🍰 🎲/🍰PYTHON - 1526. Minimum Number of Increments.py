@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(1)
 
 class Solution:
-      def minNumberOperations(self, target: List[int]) -> int:
+      def minNumberOperations(self, target: List[int]) -> int: 
             # Start with first bar as initial operations
             opr = target[0]
 
