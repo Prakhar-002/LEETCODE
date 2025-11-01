@@ -9,7 +9,7 @@
 class Solution:
       def maxSubArray(self, nums: List[int]) -> int:
             cur_sum = 0
-            max_sum = float('-inf')
+            max_sum = float('-inf') 
 
             for num in nums:
                   # if less than 0 make it's own train
