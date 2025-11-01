@@ -24,4 +24,4 @@ class Solution {
             // If we can iterate through all elements, reaching the last index is possible
             return true;
       }
-}
+} 
