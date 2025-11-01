@@ -1,80 +1,82 @@
-# 1899. Merge Triplets to Form Target Triplet
+# 763. Partition Labels
 
 </br>
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/merge-triplets-to-form-target-triplet/description/"><strong>➥ ☢️ 1899 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/partition-labels/description/?envType=daily-question&envId=2025-03-30"><strong>➥ ☢️ 763 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### A triplet is an array of three integers. You are given a 2D integer array `triplets`, where `triplets[i] = [ai, bi, ci]` describes the ith triplet. You are also given an integer array `target = [x, y, z]` that describes the triplet you want to obtain.
+You are given a string `s`. The goal is to **partition** `s` into as many parts as possible with the constraint that **each letter appears in at most one part**.  
 
-### To obtain `target`, you may apply the following operation on `triplets` any number of times (possibly zero):
+This means that if a letter appears in a certain part, **it cannot appear in any other part**.  
+After concatenating the resulting parts back together, they should **equal the original string `s`**.
 
-- Choose two indices (0-indexed) `i` and `j` (`i != j`) and update `triplets[j]` to become `[max(ai, aj), max(bi, bj), max(ci, cj)]`.
-  - For example, if `triplets[i] = [2, 5, 3]` and `triplets[j] = [1, 7, 5]`, `triplets[j]` will be updated to `[max(2, 1), max(5, 7), max(3, 5)] = [2, 7, 5]`.
-
-### Return `true` if it is possible to obtain the target triplet `[x, y, z]` as an element of `triplets`, or `false` otherwise.
+🔹 You must return a **list of integers**, where each integer represents the **size (length) of each partitioned part**.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input`  ➤ `triplets = [[2,5,3],[1,8,4],[1,7,5]], target = [2,7,5]`
+  ### 📥 `Input`  ➤ s = "ababcbacadefegdehijhklij"
 
-  ### 📤 `Output`  ➤ `true`
+  ### 📤 `Output`  ➤ [9,7,8]
 
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤
 
-  - Perform the following operations:
-    - Choose the first and last triplets `[[2,5,3],[1,8,4],[1,7,5]]`. Update the last triplet to be `[max(2,1), max(5,7), max(3,5)] = [2,7,5]`. `triplets = [[2,5,3],[1,8,4],[2,7,5]]`
-  - The target triplet `[2,7,5]` is now an element of `triplets`.
+The partition is "ababcbaca", "defegde", "hijhklij".
+
+This is a partition so that each letter appears in at most one part.
+
+A partition like "ababcbacadefegde", "hijhklij" is incorrect, because it splits s into less parts.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input`  ➤ `triplets = [[3,4,5],[4,5,6]], target = [3,2,5]`
+  ### 📥 `Input` ➤ s = "eccbbbbdec"
 
-  ### 📤 `Output`  ➤ `false`
-
-  ### 🔦 `Explanation`  ➤ ➺
-
-  - It is impossible to have `[3,2,5]` as an element because there is no 2 in any of the triplets.
+  ### 📤 `Output`  ➤ [10]
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input`  ➤ `triplets = [[2,5,3],[2,3,4],[1,2,5],[5,2,3]], target = [5,5,5]`
+  ### 📥 `Input` ➤ s = "caedbdedda"
 
-  ### 📤 `Output`  ➤ `true`
+  ### 📤 `Output`  ➤ [1,9]
 
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤ Partition the string to: ["c", "aedbdedda"]
 
-  - Perform the following operations:
-    - Choose the first and third triplets `[[2,5,3],[2,3,4],[1,2,5],[5,2,3]]`. Update the third triplet to be `[max(2,1), max(5,2), max(3,5)] = [2,5,5]`. `triplets = [[2,5,3],[2,3,4],[2,5,5],[5,2,3]]`.
-    - Choose the third and fourth triplets `[[2,5,3],[2,3,4],[2,5,5],[5,2,3]]`. Update the fourth triplet to be `[max(2,5), max(5,2), max(5,3)] = [5,5,5]`. `triplets = [[2,5,3],[2,3,4],[2,5,5],[5,5,5]]`.
-  - The target triplet `[5,5,5]` is now an element of `triplets`.
+</br>
+
+# Example 💡 4️⃣ ˋ°•*⁀➷
+
+   ### 📥 `Input`  ➤ s = "aaaa"
+
+   ### 📤 `Output`  ➤ [4]
+
+   ### 🔦 `Explanation`  ➤ Since all are a it has only one partitions can available.
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 `1 <= triplets.length <= 10^5` </br>
-🔹 `triplets[i].length == target.length == 3` </br>
-🔹 `1 <= ai, bi, ci, x, y, z <= 1000` </br>
+🔹 `1 <= s.length <= 500` </br>
+🔹 s consists of lowercase English letters. </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array** </br>
-🔸 **Greedy** </br>
+🔸 **Hash Table**  </br>
+🔸 **Two Pointers**  </br>
+🔸 **String**  </br>
+🔸 **Greedy**  </br>
 
 </br>
 
@@ -82,12 +84,10 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/30%20-%2003%20-%202025%20---%20763.%20Partition%20Labels%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA%20-%20763.%20Partition%20Labels.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/30%20-%2003%20-%202025%20---%20763.%20Partition%20Labels%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP%20-%20763.%20Partition%20Labels.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/30%20-%2003%20-%202025%20---%20763.%20Partition%20Labels%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON%20-%20763.%20Partition%20Labels.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/03%20Mar%20%F0%9F%8C%BC/30%20-%2003%20-%202025%20---%20763.%20Partition%20Labels%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%20763.%20Partition%20Labels.js) |
 
 </br>
 
@@ -95,6 +95,6 @@
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/192ca904-c82d-4324-9f51-5e5886dd8d96" width = "700px" height="462px" />
 
 </h1>
