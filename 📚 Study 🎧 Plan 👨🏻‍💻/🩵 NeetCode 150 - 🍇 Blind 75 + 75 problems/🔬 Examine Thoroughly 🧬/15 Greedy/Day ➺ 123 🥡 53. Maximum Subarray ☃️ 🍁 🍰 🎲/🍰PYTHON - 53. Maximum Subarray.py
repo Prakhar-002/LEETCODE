@@ -1,13 +1,22 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 📌 QUESTION NUMBER 53
 
-#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+#? ⌚ Time complexity -> O(n) 👉 For length 
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity -> O(1) 
 
-# https://github.com/Prakhar-002/LEETCODE
+class Solution:
+      def maxSubArray(self, nums: List[int]) -> int:
+            cur_sum = 0
+            max_sum = float('-inf')
 
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
+            for num in nums:
+                  # if less than 0 make it's own train
+                  # else it will a part of existing train
+                  cur_sum = num if cur_sum < 0 else cur_sum + num
 
-#  Space complexity -> O(1)
+                  # take the max
+                  max_sum = max(max_sum, cur_sum)
+
+            return max_sum
