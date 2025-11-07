@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n lod D) 👉🏻  n = len(stations)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def maxPower(self, stations: List[int], r: int, k: int) -> int:
