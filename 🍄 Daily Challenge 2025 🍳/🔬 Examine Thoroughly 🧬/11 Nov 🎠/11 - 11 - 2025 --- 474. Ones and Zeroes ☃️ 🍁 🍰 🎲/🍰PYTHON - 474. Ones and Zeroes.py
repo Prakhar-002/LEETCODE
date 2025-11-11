@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(l * m * n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(l * m * n)
+#? 🧺 Space complexity ➺ O(l * m * n) 
 
 class Solution:
       def findMaxForm(self, strs: List[str], m: int, n: int) -> int:
