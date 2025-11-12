@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-from math import gcd
+from math import gcd 
 
 class Solution:
       def minOperations(self, nums: List[int]) -> int:
