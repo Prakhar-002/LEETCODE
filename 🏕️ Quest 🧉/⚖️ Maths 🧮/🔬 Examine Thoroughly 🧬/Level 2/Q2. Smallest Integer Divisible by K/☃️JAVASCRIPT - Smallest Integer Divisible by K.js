@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(k)
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(1) 
 
 function smallestRepunitDivByK(k) {
       // If k divisible by 2 or 5, no valid repunit exists
