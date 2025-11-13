@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def getPermutation(self, n: int, k: int) -> str:
