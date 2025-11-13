@@ -1,10 +1,10 @@
-# 
+# Q2. Factorial Trailing Zeroes
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/factorial-trailing-zeroes/description/?envType=problem-list-v2&envId=maths-m4-prime-numbers-factors-number-theory"><strong>➥ ☢️ Q2 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
