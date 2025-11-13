@@ -1,70 +1,70 @@
-# 
+# Q2. Smallest Integer Divisible by K
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/smallest-integer-divisible-by-k/?envType=problem-list-v2&envId=maths-m2-divisibility-modular-arithmetic"><strong>➥ ☢️ Q2 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### Given a positive integer `k`, you need to find the length of the smallest positive integer `n` such that `n` is divisible by `k`, and `n` only contains the digit 1.
+
+### Return the length of `n`. If there is no such `n`, return -1.
+
+### Note: `n` may not fit in a 64-bit signed integer.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  ### 📥 `Input`  ➤ `k = 1`
 
-  ### 📥 `Input`  ➤ 
-
-  ### 📤 `Output`  ➤ 2
+  ### 📤 `Output`  ➤ `1`
 
   ### 🔦 `Explanation`  ➤ ➺
+
+  - The smallest answer is `n = 1`, which has length 1.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input`  ➤ `k = 2`
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ `-1`
 
-  ### 🔦 `Explanation` ➤ 
+  ### 🔦 `Explanation`  ➤ ➺
+
+  - There is no such positive integer `n` divisible by 2.
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input`  ➤ `k = 3`
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ `3`
 
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation`  ➤ ➺
+
+  - The smallest answer is `n = 111`, which has length 3.
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
-
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 `1 <= k <= 10^5` </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **Hash Table** </br>
+🔸 **Math** </br>
 
 </br>
 
@@ -72,12 +72,10 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/Q2.%20Smallest%20Integer%20Divisible%20by%20K/%F0%9F%8D%81JAVA%20-%20Smallest%20Integer%20Divisible%20by%20K.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/Q2.%20Smallest%20Integer%20Divisible%20by%20K/%F0%9F%8E%B2CPP%20-%20Smallest%20Integer%20Divisible%20by%20K.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/Q2.%20Smallest%20Integer%20Divisible%20by%20K/%F0%9F%8D%B0PYTHON%20-%20Smallest%20Integer%20Divisible%20by%20K.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/Q2.%20Smallest%20Integer%20Divisible%20by%20K/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%20Smallest%20Integer%20Divisible%20by%20K.js) |
 
 </br>
 
@@ -85,6 +83,6 @@
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/8f3c6815-c26c-4d62-a432-3026d9424b35" width = "700px" height="462px" />
 
 </h1>
