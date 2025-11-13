@@ -1,6 +1,6 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER 119
+# Todo 💎 QUESTION NUMBER Quest Maths L3 Q2
 
 #? ⌚ Time complexity ➺ O(rowIdx * 2) 👉🏻  n = len(nums)
 
