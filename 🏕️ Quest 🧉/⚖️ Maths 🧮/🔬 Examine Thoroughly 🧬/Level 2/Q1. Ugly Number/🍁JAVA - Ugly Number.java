@@ -2,7 +2,7 @@
 
 // Todo 💎 QUESTION NUMBER Quest Maths L2 Q1
 
-//? ⌚ Time complexity ➺ O(log n)
+//? ⌚ Time complexity ➺ O(log n) 
 
 //? 🧺 Space complexity ➺ O(1)
 
