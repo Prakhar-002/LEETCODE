@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n) 👉🏻  n = No. of Integer
 
-//? 🧺 Space complexity ➺ O(n)
+//? 🧺 Space complexity ➺ O(n) 
 
 class Solution {
       // Checks if integer x is a palindrome by comparing characters from both ends
