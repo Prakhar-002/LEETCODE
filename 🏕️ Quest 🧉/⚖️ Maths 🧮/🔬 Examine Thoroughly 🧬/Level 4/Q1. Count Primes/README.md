@@ -11,7 +11,7 @@
 
 # Description 📜 ˋ°•*⁀➷
 
-### Given an integer n, return the number of prime numbers that are strictly less than n.
+### Given an integer `n`, return `the number of prime numbers that are strictly less than` `n`.
 
 </br>
 
