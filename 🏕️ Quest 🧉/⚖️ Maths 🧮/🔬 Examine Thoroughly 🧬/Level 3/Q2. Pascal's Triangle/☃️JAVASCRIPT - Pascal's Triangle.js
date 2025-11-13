@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(rowIdx * 2) 👉🏻  n = len(nums)
 
-//? 🧺 Space complexity ➺ O(n)
+//? 🧺 Space complexity ➺ O(n) 
 
 var getRow = function (rowIndex) {
       // Start with the first row [1]
