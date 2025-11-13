@@ -25,7 +25,7 @@ class Solution {
             for (int n = 2; n * n <= right; n++) {
                   // If 'n' is already marked as not prime, skip it.
                   if (!isPrime[n]) {
-                        continue;
+                        continue; 
                   }
 
                   // Mark all multiples of 'n' (starting from 2n, 3n, ...) as not prime.
