@@ -1,6 +1,6 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER 812
+# Todo 💎 QUESTION NUMBER Quest Maths L5 Q1
 
 #? ⌚ Time complexity ➺ O(n ^ 3) 👉🏻  n = len(nums)
 

@@ -1,10 +1,10 @@
-# 812. Largest Triangle Area
+# Q2. Largest Triangle Area
 
 </br>
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/largest-triangle-area/description/?envType=daily-question&envId=2025-09-27"><strong>➥ ♻️ 812 Leetcode Easy ♻️ </strong></a>
+<a href="https://leetcode.com/problems/largest-triangle-area/description/?envType=daily-question&envId=2025-09-27"><strong>➥ ♻️ Q2 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
