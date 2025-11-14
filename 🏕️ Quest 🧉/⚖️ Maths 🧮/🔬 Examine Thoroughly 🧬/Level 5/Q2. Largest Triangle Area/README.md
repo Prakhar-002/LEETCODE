@@ -66,7 +66,7 @@
 
 # Benchmark ⏱️ ˋ°•*⁀➷
 
-<h1  align="center" >
+<h1  align="center" > 
 
 <img src ="https://github.com/user-attachments/assets/1703fc5e-9784-4912-8393-62beb94e47bb" width = "700px" height="462px" />
 
