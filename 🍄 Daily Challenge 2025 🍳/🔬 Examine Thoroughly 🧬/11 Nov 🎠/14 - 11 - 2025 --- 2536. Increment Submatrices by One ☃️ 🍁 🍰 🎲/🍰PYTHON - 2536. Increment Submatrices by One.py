@@ -6,7 +6,7 @@
 
 # ? 🧺 Space complexity ➺ O(n ^ 2)
 
-class Solution:
+class Solution: 
       def rangeAddQueries(self, n: int, queries: List[List[int]]) -> List[List[int]]:
             # Initialize a difference matrix (n+1 by n+1) to efficiently perform range updates
             diff = [[0] * (n + 1) for _ in range(n + 1)]
