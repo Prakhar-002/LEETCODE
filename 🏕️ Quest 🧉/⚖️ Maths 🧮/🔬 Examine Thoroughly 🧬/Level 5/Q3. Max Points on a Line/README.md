@@ -17,7 +17,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-![149 Que 1](https://github.com/user-attachments/assets/bcdd2a83-8254-4d38-aa09-9fb6cb18c219)
+<img src ="https://github.com/user-attachments/assets/bcdd2a83-8254-4d38-aa09-9fb6cb18c219" width = "300px" height="294px" />
 
   ### 📥 `Input`  ➤ points = [[1,1],[2,2],[3,3]]
 
@@ -27,7 +27,8 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-![149 Que 2](https://github.com/user-attachments/assets/da6025e6-cd3a-498e-8450-790a58554ae9)
+<img src ="https://github.com/user-attachments/assets/da6025e6-cd3a-498e-8450-790a58554ae9" width = "300px" height="294px" />
+
 
   ### 📥 `Input` ➤ points = [[1,1],[3,2],[5,3],[4,1],[2,3],[1,4]]
 
