@@ -14,7 +14,7 @@ public:
             // Calculate area of rectangle A
             int area1 = (ax2 - ax1) * (ay2 - ay1);
             // Calculate area of rectangle B
-            int area2 = (bx2 - bx1) * (by2 - by1);
+            int area2 = (bx2 - bx1) * (by2 - by1); 
 
             // Calculate overlapping width (0 if no overlap)
             int overlapWidth = max(0, min(ax2, bx2) - max(ax1, bx1));
