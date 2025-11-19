@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=daily-question&envId=2025-11-19"><strong>➥ ☢️ 2154 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=daily-question&envId=2025-11-19"><strong>➥ ♻️ 2154 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
