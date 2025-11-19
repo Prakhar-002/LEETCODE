@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n sqrt(n)) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def numberOfSubstrings(self, s: str) -> int:
