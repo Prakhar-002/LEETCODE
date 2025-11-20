@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/projection-area-of-3d-shapes/?envType=problem-list-v2&envId=maths-m5-geometry"><strong>➥ ☢️ Q1 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/projection-area-of-3d-shapes/?envType=problem-list-v2&envId=maths-m5-geometry"><strong>➥ ♻️ Q1 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
