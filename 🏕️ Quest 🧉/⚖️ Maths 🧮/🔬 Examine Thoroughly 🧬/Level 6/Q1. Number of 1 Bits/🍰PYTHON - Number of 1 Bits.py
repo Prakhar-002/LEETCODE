@@ -21,4 +21,4 @@ class Solution:
                   n >>= 1
 
             # Return the total count of 1 bits
-            return oneBit
+            return oneBit 
