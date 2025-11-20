@@ -1,7 +1,7 @@
 
 //! https://github.com/Prakhar-002/LEETCODE
 
-// Todo 💎 QUESTION NUMBER 191
+// Todo 💎 QUESTION NUMBER Quest Maths L6 Q1
 
 //? ⌚ Time complexity ➺ O(k) 👉🏻  k = 32
 
