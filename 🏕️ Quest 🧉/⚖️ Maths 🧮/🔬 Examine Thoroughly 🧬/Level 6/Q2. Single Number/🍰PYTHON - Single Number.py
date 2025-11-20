@@ -6,8 +6,16 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-# https://github.com/Prakhar-002/LEETCODE
+class Solution:
+      def singleNumber(self, nums: List[int]) -> int:
+            xorNum = 0  # Initialize XOR accumulator to 0
 
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
+            # Iterate over each number in the list
+            for n in nums:
+                  # XOR current number with accumulator
+                  # XOR of same number cancels out (x ^ x = 0)
+                  # XOR with 0 returns the number itself (x ^ 0 = x)
+                  xorNum ^= n
 
-#  Space complexity -> O(1)
+            # Final result is the number that appears only once
+            return xorNum
