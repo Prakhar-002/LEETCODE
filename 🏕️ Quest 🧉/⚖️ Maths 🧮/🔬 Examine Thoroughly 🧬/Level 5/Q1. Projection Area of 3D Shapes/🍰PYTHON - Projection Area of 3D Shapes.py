@@ -11,7 +11,7 @@ class Solution:
             res = 0        # Initialize total projection area
             n = len(grid)  # Grid size (assuming square grid)
 
-            # Iterate through each row and column
+            # Iterate through each row and column 
             for i in range(n):
                   max_row = 0  # Max height in current row (for ZX plane)
                   max_col = 0  # Max height in current column (for YZ plane)
