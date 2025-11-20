@@ -8,7 +8,7 @@
 
 class Solution {
 public:
-      int singleNumber(vector<int>& nums) {
+      int singleNumber(vector<int>& nums) { 
             int ones = 0;  // Bits appeared once
             int twos = 0;  // Bits appeared twice
 
