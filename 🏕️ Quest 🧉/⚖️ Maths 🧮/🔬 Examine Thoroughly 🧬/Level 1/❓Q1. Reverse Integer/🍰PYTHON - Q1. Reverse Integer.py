@@ -23,7 +23,7 @@ class Solution:
                   rev = rev * 10 + pop   # Append digit at end of reversed number
 
             # Check for overflow (32-bit signed int range)
-            if rev > 2**31 - 1:
+            if rev > 2**31 - 1: 
                   return 0
 
             return -rev if x < 0 else rev  # Restore original sign
