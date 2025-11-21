@@ -42,3 +42,20 @@
 | ❶ | ♻️ Easy ♻️ | [Q1. Ugly Number](https://leetcode.com/problems/ugly-number/description/?envType=problem-list-v2&envId=maths-m2-divisibility-modular-arithmetic) | [🌼SOLUTION🌼](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/Q1.%20Ugly%20Number) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❷ | ☢️Medium☢️ | [Q2. Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/?envType=problem-list-v2&envId=maths-m2-divisibility-modular-arithmetic) | [🌼SOLUTION🌼](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/Q2.%20Smallest%20Integer%20Divisible%20by%20K) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❸ | ♻️ Easy ♻️ | [Q3. Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/?envType=problem-list-v2&envId=maths-m2-divisibility-modular-arithmetic) | [🌼SOLUTION🌼](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/Q3.%20Self%20Dividing%20Numbers) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+</br>
+</br>
+
+<h2 align="center"> 
+
+🍙 𝐂ⱺꭑᑲ𝗂𐓣α𝗍ⱺ𝗋𝗂𝖼𝗌 & 𝐏𝖾𝗋ꭑυ𝗍α𝗍𝗂ⱺ𐓣𝗌 🍙
+
+</h2>
+
+<div align="center">
+
+| Level3️⃣ | 🔏LEVEL🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|----------|-------------|------------------|-----------------|----------------|
+| ❶ | 🫀 Hard 🫀 | [Q1. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/?envType=problem-list-v2&envId=maths-m3-combinatorics-permutations) | [🍙SOLUTION🍙](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%203/Q1.%20Permutation%20Sequence) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❷ | ♻️ Easy ♻️ | [''](https://leetcode.com/problems/pascals-triangle/?envType=problem-list-v2&envId=maths-m3-combinatorics-permutations) | [🍙SOLUTION🍙](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%203/Q2.%20Pascal's%20Triangle) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❸ | 🫀 Hard 🫀 | [Q3. Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/?envType=problem-list-v2&envId=maths-m3-combinatorics-permutations) | [🍙SOLUTION🍙](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%203/Q3.%20Number%20of%20Ways%20to%20Rearrange%20Sticks%20With%20K%20Sticks%20Visible) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
