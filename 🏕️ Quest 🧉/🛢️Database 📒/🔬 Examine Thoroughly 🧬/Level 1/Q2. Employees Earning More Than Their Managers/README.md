@@ -1,10 +1,10 @@
-# 
+# Q2. Employees Earning More Than Their Managers
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/employees-earning-more-than-their-managers/description/?envType=problem-list-v2&envId=db-db1-sql-i"><strong>➥ ♻️ Q2 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
