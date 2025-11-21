@@ -94,3 +94,20 @@
 | ❷ | ♻️ Easy ♻️ | [Q2. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/?envType=daily-question&envId=2025-09-27) | [🎄SOLUTION🎄](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q2.%20Largest%20Triangle%20Area) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❸ | 🫀 Hard 🫀 | [Q3. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/?envType=problem-list-v2&envId=maths-m5-geometry) | [🎄SOLUTION🎄](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q3.%20Max%20Points%20on%20a%20Line) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❹ | ☢️Medium☢️ | [Q4. Rectangle Area](https://leetcode.com/problems/rectangle-area/description/?envType=problem-list-v2&envId=maths-m5-geometry) | [🎄SOLUTION🎄](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q4.%20Rectangle%20Area) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+</br>
+</br>
+
+<h2 align="center"> 
+
+🛕 𝐁α𝗌𝗂𝖼 𝐁𝗂𝗍 𝐎ρ𝖾𝗋α𝗍𝗂ⱺ𐓣𝗌 🛕
+
+</h2>
+
+<div align="center">
+
+| Level6️⃣ | 🔏LEVEL🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|----------|-------------|------------------|-----------------|----------------|
+| ❶ | ♻️ Easy ♻️ | [Q1. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [🛕SOLUTION🛕](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Q1.%20Number%20of%201%20Bits) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❷ | ♻️ Easy ♻️ | [Q2. Single Number](https://leetcode.com/problems/single-number/description/) | [🛕SOLUTION🛕](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Q2.%20Single%20Number) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❸ | ☢️Medium☢️ | [Q3. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=maths-m6-basic-bit-operations) | [🛕SOLUTION🛕](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Q3.%20Sum%20of%20Two%20Integers) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
