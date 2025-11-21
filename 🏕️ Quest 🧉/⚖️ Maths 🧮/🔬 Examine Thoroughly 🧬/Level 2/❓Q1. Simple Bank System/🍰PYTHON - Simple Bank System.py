@@ -47,7 +47,7 @@ class Bank:
                   return False
             # Perform the transfer
             self.balance[account1 - 1] -= money
-            self.balance[account2 - 1] += money
+            self.balance[account2 - 1] += money 
             return True
 
       def deposit(self, account: int, money: int) -> bool:
