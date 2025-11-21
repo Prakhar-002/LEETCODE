@@ -59,3 +59,20 @@
 | ❶ | 🫀 Hard 🫀 | [Q1. Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/?envType=problem-list-v2&envId=maths-m3-combinatorics-permutations) | [🍙SOLUTION🍙](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%203/Q1.%20Permutation%20Sequence) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❷ | ♻️♻️Easy♻️♻️ | [Q2. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/?envType=problem-list-v2&envId=maths-m3-combinatorics-permutations) | [🍙SOLUTION🍙](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%203/Q2.%20Pascal's%20Triangle) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❸ | 🫀 Hard 🫀 | [Q3. Number of Ways to Rearrange Sticks With K Sticks Visible](https://leetcode.com/problems/number-of-ways-to-rearrange-sticks-with-k-sticks-visible/?envType=problem-list-v2&envId=maths-m3-combinatorics-permutations) | [🍙SOLUTION🍙](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%203/Q3.%20Number%20of%20Ways%20to%20Rearrange%20Sticks%20With%20K%20Sticks%20Visible) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+</br>
+</br>
+
+<h2 align="center"> 
+
+⛲ 𝐏𝗋𝗂ꭑ𝖾 𐓣υꭑᑲ𝖾𝗋𝗌, 𝖿α𝖼𝗍ⱺ𝗋𝗌 & 𐓣υꭑᑲ𝖾𝗋 𝗍ɦ𝖾ⱺ𝗋𝗒 ⛲
+
+</h2>
+
+<div align="center">
+
+| Level4️⃣ | 🔏LEVEL🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|----------|-------------|------------------|-----------------|----------------|
+| ❶ | ☢️Medium☢️ | [Q1. Count Primes](https://leetcode.com/problems/count-primes/description/?envType=problem-list-v2&envId=maths-m4-prime-numbers-factors-number-theory) | [⛲SOLUTION⛲](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%204/Q1.%20Count%20Primes) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❷ | ☢️Medium☢️ | [Q2. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/?envType=problem-list-v2&envId=maths-m4-prime-numbers-factors-number-theory) | [⛲SOLUTION⛲](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%204/Q2.%20Factorial%20Trailing%20Zeroes) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❸ | ☢️Medium☢️ | [Q3. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/?envType=problem-list-v2&envId=maths-m4-prime-numbers-factors-number-theory) | [⛲SOLUTION⛲](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%204/Q3.%20Closest%20Prime%20Numbers%20in%20Range) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
