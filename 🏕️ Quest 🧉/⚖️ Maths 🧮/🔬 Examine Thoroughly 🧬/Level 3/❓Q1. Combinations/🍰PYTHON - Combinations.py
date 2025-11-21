@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(k)
+#? 🧺 Space complexity ➺ O(k) 
 
 class Solution:
       def combine(self, n: int, k: int) -> List[List[int]]:
