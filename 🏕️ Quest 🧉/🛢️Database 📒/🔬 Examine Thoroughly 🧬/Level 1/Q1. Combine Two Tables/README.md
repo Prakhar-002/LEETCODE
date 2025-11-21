@@ -1,10 +1,10 @@
-# 
+# Q1. Combine Two Tables
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/combine-two-tables/description/?envType=problem-list-v2&envId=db-db1-sql-i"><strong>➥ ☢️ Q1 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
