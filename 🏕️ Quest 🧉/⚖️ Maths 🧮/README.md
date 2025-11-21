@@ -76,3 +76,21 @@
 | ❶ | ☢️Medium☢️ | [Q1. Count Primes](https://leetcode.com/problems/count-primes/description/?envType=problem-list-v2&envId=maths-m4-prime-numbers-factors-number-theory) | [⛲SOLUTION⛲](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%204/Q1.%20Count%20Primes) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❷ | ☢️Medium☢️ | [Q2. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/?envType=problem-list-v2&envId=maths-m4-prime-numbers-factors-number-theory) | [⛲SOLUTION⛲](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%204/Q2.%20Factorial%20Trailing%20Zeroes) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❸ | ☢️Medium☢️ | [Q3. Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/?envType=problem-list-v2&envId=maths-m4-prime-numbers-factors-number-theory) | [⛲SOLUTION⛲](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%204/Q3.%20Closest%20Prime%20Numbers%20in%20Range) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+</br>
+</br>
+
+<h2 align="center"> 
+
+🎄 𝐆𝖾ⱺꭑ𝖾𝗍𝗋𝗒 🎄
+
+</h2>
+
+<div align="center">
+
+| Level5️⃣ | 🔏LEVEL🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|----------|-------------|------------------|-----------------|----------------|
+| ❶ | ♻️ Easy ♻️ | [Q1. Projection Area of 3D Shapes](https://leetcode.com/problems/projection-area-of-3d-shapes/?envType=problem-list-v2&envId=maths-m5-geometry) | [🎄SOLUTION🎄](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q1.%20Projection%20Area%20of%203D%20Shapes) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❷ | ♻️ Easy ♻️ | [Q2. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/?envType=daily-question&envId=2025-09-27) | [🎄SOLUTION🎄](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q2.%20Largest%20Triangle%20Area) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❸ | 🫀 Hard 🫀 | [Q3. Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/?envType=problem-list-v2&envId=maths-m5-geometry) | [🎄SOLUTION🎄](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q3.%20Max%20Points%20on%20a%20Line) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❹ | ☢️Medium☢️ | [Q4. Rectangle Area](https://leetcode.com/problems/rectangle-area/description/?envType=problem-list-v2&envId=maths-m5-geometry) | [🎄SOLUTION🎄](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q4.%20Rectangle%20Area) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
