@@ -111,3 +111,20 @@
 | ❶ | ♻️ Easy ♻️ | [Q1. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/) | [🛕SOLUTION🛕](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Q1.%20Number%20of%201%20Bits) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❷ | ♻️ Easy ♻️ | [Q2. Single Number](https://leetcode.com/problems/single-number/description/) | [🛕SOLUTION🛕](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Q2.%20Single%20Number) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❸ | ☢️Medium☢️ | [Q3. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=maths-m6-basic-bit-operations) | [🛕SOLUTION🛕](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Q3.%20Sum%20of%20Two%20Integers) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+</br>
+</br>
+
+<h2 align="center"> 
+
+🌵 𝐁𝗂𝗍ꭑα𝗌𝗄𝗂𐓣𝗀 𝖿ⱺ𝗋 𝐒𝖾𝗍𝗌/𝗌𝗍α𝗍𝖾𝗌 🌵
+
+</h2>
+
+<div align="center">
+
+| Level7️⃣ | 🔏LEVEL🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|----------|-------------|------------------|-----------------|----------------|
+| ❶ | ☢️Medium☢️ | [Q1. Gray Code](https://leetcode.com/problems/gray-code/description/?envType=problem-list-v2&envId=maths-m7-bitmasking-for-setsstates) | [🌵SOLUTION🌵](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%207/Q1.%20Gray%20Code) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❷ | 🫀 Hard 🫀 | [Q2. Number of Digit One](https://leetcode.com/problems/number-of-digit-one/?envType=problem-list-v2&envId=maths-m7-bitmasking-for-setsstates) | [🌵SOLUTION🌵](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%207/Q2.%20Number%20of%20Digit%20One) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❸ | ☢️Medium☢️ | [Q3. Single Number II](https://leetcode.com/problems/single-number-ii/?envType=problem-list-v2&envId=maths-m7-bitmasking-for-setsstates) | [🌵SOLUTION🌵](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%E2%9A%96%EF%B8%8F%20Maths%20%F0%9F%A7%AE/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%207/Q3.%20Single%20Number%20II) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
