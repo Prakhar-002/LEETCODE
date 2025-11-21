@@ -1,6 +1,6 @@
 //! https://github.com/Prakhar-002/LEETCODE
 
-// Todo 💎 QUESTION NUMBER 2043
+// Todo 💎 QUESTION NUMBER Quest Maths L2 Quiz Q1
 
 //? ⌚ Time complexity ➺ O(1)
 
