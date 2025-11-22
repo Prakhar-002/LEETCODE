@@ -108,7 +108,13 @@ The given structure is always a valid tree.
 
 ```sql
 
-
+SELECT id,
+  CASE
+    WHEN p_id IS NULL THEN 'Root'
+    WHEN id IN (SELECT p_id FROM Tree) THEN 'Inner'
+    ELSE 'Leaf'
+    END AS type
+FROM Tree
 ```
 
 </br>
@@ -117,4 +123,4 @@ The given structure is always a valid tree.
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍]() |
+|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%9B%A2%EF%B8%8FDatabase%20%F0%9F%93%92/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%203/Q3.%20Tree%20Node/%F0%9F%95%8D%20SQL%20-%20Tree%20Node.sql) |
