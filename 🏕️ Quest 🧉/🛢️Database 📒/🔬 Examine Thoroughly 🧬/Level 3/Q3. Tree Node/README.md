@@ -45,7 +45,7 @@ The given structure is always a valid tree.
   ### 📥 `Input`  ➤ Tree table:
 
 | id | p_id |
-|----------|
+|----|------|
 | 1  | null |
 | 2  | 1    |
 | 3  | 1    |
@@ -57,7 +57,7 @@ The given structure is always a valid tree.
   ### 📤 `Output`  ➤
 
 | id | type  |
-|-----------|
+|----|-------|
 | 1  | Root  |
 | 2  | Inner |
 | 3  | Leaf  |
@@ -80,7 +80,7 @@ The given structure is always a valid tree.
   ### 📥 `Input`  ➤ Tree table:
 
 | id | p_id |
-|----------|
+|----|------|
 | 1  | null |
 
 </br>
@@ -88,7 +88,7 @@ The given structure is always a valid tree.
   ### 📤 `Output`  ➤
 
 | id | type  |
-|-----------|
+|----|-------|
 | 1  | Root  |
 
 </br>
