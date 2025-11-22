@@ -1,10 +1,10 @@
-# 
+# ❓Q1. List the Products Ordered in a Period
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/quest/database-quest/quiz/list-the-products-ordered-in-a-period/?envType=problem-list-v2&envId=db-db2-assignment"><strong>➥ ♻️ Q1 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
@@ -120,4 +120,4 @@ HAVING SUM(o.unit) >= 100
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍]() |
+|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%9B%A2%EF%B8%8FDatabase%20%F0%9F%93%92/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/%E2%9D%93Q1.%20List%20the%20Products%20Ordered%20in%20a%20Period/%F0%9F%95%8D%20SQL%20-%20List%20the%20Products%20Ordered%20in%20a%20Period.sql) |
