@@ -66,6 +66,15 @@ The state column is an enum of type ["approved", "declined"].
 
 ```sql
 
+SELECT 
+  date_format(trans_date, '%Y-%m') AS month ,
+  country, 
+  COUNT(id) AS trans_count ,
+  SUM(IF(state = 'approved', 1, 0)) AS approved_count ,
+  SUM(amount) AS trans_total_amount ,
+  SUM(IF(state = 'approved', amount, 0)) AS approved_total_amount
+FROM Transactions 
+GROUP BY month, country 
 ```
 
 </br>
@@ -74,4 +83,4 @@ The state column is an enum of type ["approved", "declined"].
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍]() |
+|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%9B%A2%EF%B8%8FDatabase%20%F0%9F%93%92/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/Q3.%20Monthly%20Transactions%20I/%F0%9F%95%8D%20SQL%20-%20Monthly%20Transactions%20I.sql) |
