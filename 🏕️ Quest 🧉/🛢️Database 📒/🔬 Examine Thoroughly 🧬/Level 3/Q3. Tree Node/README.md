@@ -40,7 +40,7 @@ The given structure is always a valid tree.
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src ="https://github.com/user-attachments/assets/"  />
+<img src ="https://github.com/user-attachments/assets/84532121-44dd-4148-a798-9e45337bc2d2"  />
 
   ### 📥 `Input`  ➤ Tree table:
 
@@ -75,7 +75,7 @@ The given structure is always a valid tree.
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-<img src ="https://github.com/user-attachments/assets/"  />
+<img src ="https://github.com/user-attachments/assets/5e1104af-3261-47c3-80c3-dfe6ca542699"  />
 
   ### 📥 `Input`  ➤ Tree table:
 
