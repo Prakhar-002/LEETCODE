@@ -15,3 +15,4 @@ CROSS JOIN Subjects sub
 GROUP BY s.student_id, s.student_name, sub.subject_name
 -- Order by student ID and name for organized output
 ORDER BY s.student_id, s.student_name;
+
