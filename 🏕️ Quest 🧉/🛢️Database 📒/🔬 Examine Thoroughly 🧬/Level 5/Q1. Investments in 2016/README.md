@@ -76,23 +76,30 @@ lon is the longitude of the policy holder's city. It's guaranteed that lon is no
 
 </br>
 
-# Solution ✏️ ˋ°•*⁀➷
+# SQL 🕍 ˋ°•*⁀➷
 
-| 📒 Language 📒  | 🪶 Solution 🪶 |
-| ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
+```sql
+
+SELECT ROUND(SUM(tiv_2016), 2) AS tiv_2016 
+FROM Insurance
+WHERE tiv_2015 IN (
+      SELECT tiv_2015 
+      FROM Insurance
+      GROUP BY tiv_2015
+      HAVING COUNT(*) > 1
+)
+AND (lat , lon) IN (
+      SELECT lat, lon 
+      FROM Insurance
+      GROUP BY lat, lon 
+      HAVING COUNT(*) = 1
+)
+```
 
 </br>
 
-# Benchmark ⏱️ ˋ°•*⁀➷
+# Detail Solution ✏️ ˋ°•*⁀➷
 
-<h1  align="center" >
-
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
-
-</h1>
+| 📒 Language 📒  | 🪶 Solution 🪶 |
+| ------------- | ------------- |
+|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%9B%A2%EF%B8%8FDatabase%20%F0%9F%93%92/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q1.%20Investments%20in%202016/%F0%9F%95%8D%20SQL%20-%20%20Investments%20in%202016.sql) |
