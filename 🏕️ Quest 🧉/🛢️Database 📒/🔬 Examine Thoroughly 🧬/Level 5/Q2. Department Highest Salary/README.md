@@ -91,7 +91,16 @@ Each row of this table indicates the ID of a department and its name.
 
 ```sql
 
-
+SELECT d.name AS Department, 
+       e.name AS Employee, 
+       e.salary AS Salary
+FROM Employee e
+JOIN Department d ON e.departmentId = d.id
+WHERE e.salary = (
+    SELECT MAX(salary)
+    FROM Employee
+    WHERE departmentId = e.departmentId
+);
 ```
 
 </br>
@@ -100,4 +109,4 @@ Each row of this table indicates the ID of a department and its name.
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍]() |
+|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%9B%A2%EF%B8%8FDatabase%20%F0%9F%93%92/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q2.%20Department%20Highest%20Salary/%F0%9F%95%8D%20SQL%20-%20%20Department%20Highest%20Salary.sql) |
