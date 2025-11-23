@@ -9,7 +9,7 @@
 
 </br>
 
-# Description 📜 ˋ°•*⁀➷
+# Description 📜 ˋ°•*⁀➷ 
 
 ### Table: Stadium
 
