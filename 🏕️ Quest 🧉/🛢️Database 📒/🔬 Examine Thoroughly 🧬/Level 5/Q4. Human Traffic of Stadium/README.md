@@ -77,7 +77,19 @@ As the id increases, the date increases as well.
 
 ```sql
 
-
+# Write your MySQL query statement below
+with q1 as (
+select *, 
+     count(*) over( order by id range between current row and 2 following ) following_cnt,
+     count(*) over( order by id range between 2 preceding and current row ) preceding_cnt,
+     count(*) over( order by id range between 1 preceding and 1 following ) current_cnt
+from stadium
+where people > 99
+)
+select id, visit_date, people
+from q1
+where following_cnt = 3 or preceding_cnt = 3 or current_cnt = 3
+order by visit_date
 ```
 
 </br>
@@ -86,4 +98,4 @@ As the id increases, the date increases as well.
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍]() |
+|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%9B%A2%EF%B8%8FDatabase%20%F0%9F%93%92/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q4.%20Human%20Traffic%20of%20Stadium/%F0%9F%95%8D%20SQL%20-%20Q4.%20Human%20Traffic%20of%20Stadium.sql) |
