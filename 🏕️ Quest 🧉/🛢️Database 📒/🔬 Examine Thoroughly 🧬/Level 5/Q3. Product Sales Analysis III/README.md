@@ -70,7 +70,17 @@ Note that the per-unit price.
 
 ```sql
 
-
+SELECT
+    product_id,
+    year AS first_year, quantity, price
+FROM sales
+WHERE ((product_id, year) IN (
+SELECT 
+    product_id,
+    MIN(year)
+    FROM sales
+    GROUP BY product_id
+))
 ```
 
 </br>
@@ -79,4 +89,4 @@ Note that the per-unit price.
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍]() |
+|  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)  | [SQL 🕍](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%9B%A2%EF%B8%8FDatabase%20%F0%9F%93%92/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%205/Q3.%20Product%20Sales%20Analysis%20III/%F0%9F%95%8D%20SQL%20-%20Product%20Sales%20Analysis%20III.sql) |
