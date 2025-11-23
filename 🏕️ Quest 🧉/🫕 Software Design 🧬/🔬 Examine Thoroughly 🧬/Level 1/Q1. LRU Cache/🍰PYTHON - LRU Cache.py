@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(1) 👉🏻  n = capacity
 
-#? 🧺 Space complexity ➺ O(n) 
+#? 🧺 Space complexity ➺ O(n)
 
 class Node:
       def __init__(self, key, val) -> None:
