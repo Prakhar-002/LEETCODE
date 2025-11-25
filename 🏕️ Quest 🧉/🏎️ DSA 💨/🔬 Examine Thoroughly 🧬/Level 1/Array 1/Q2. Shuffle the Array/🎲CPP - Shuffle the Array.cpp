@@ -21,6 +21,7 @@ public:
                   res[idx++] = nums[l++];
                   res[idx++] = nums[r++];
             }
+
             return res;
       }
 };
