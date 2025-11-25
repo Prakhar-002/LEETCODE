@@ -15,7 +15,7 @@ class Solution:
 
             # Count frequency for each number in nums
             for n in nums:
-                  freq[n] += 1
+                  freq[n] += 1 
 
             # Find the duplicate and missing numbers based on counts
             for i in range(1, len(freq)):
