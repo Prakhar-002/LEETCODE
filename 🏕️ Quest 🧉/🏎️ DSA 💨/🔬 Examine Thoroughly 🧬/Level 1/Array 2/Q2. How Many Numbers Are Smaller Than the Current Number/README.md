@@ -1,4 +1,4 @@
-# How Many Numbers Are Smaller Than the Current Number
+# Q2. How Many Numbers Are Smaller Than the Current Number
 
 </br>
 
