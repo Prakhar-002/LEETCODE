@@ -13,7 +13,7 @@ var smallerNumbersThanCurrent = function (nums) {
       // Assign rank (index) to each unique number
       sortedNums.forEach((num, idx) => {
             if (!rank.has(num)) rank.set(num, idx);
-      });
+      }); 
 
       // Map each number in original nums to its rank
       return nums.map(num => rank.get(num));
