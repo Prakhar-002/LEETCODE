@@ -6,21 +6,20 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-class Solution {
-      public int findMaxConsecutiveOnes(int[] nums) {
-            int maxOnes = 0;
-            int left = 0;
+import java.util.*;
 
-            // Use sliding window approach to track longest run of 1s
-            for (int right = 0; right < nums.length; right++) {
-                  if (nums[right] == 0) {
-                        // Reset left pointer to one position after current zero
-                        left = right + 1;
-                  } else {
-                        // Update maxOnes with current window size if greater
-                        maxOnes = Math.max(maxOnes, right - left + 1);
-                  }
+class Solution {
+      public int[] shuffle(int[] nums, int n) {
+            int l = 0, r = nums.length / 2;
+            int[] res = new int[nums.length];
+            int idx = 0;
+
+            // Interleave elements from left and right halves
+            while (r < nums.length) {
+                  res[idx++] = nums[l++];
+                  res[idx++] = nums[r++];
             }
-            return maxOnes;
+
+            return res;
       }
 }

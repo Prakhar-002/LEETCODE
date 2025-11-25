@@ -6,20 +6,14 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-var findMaxConsecutiveOnes = function (nums) {
-      let maxOnes = 0;
-      let left = 0;
+var shuffle = function (nums, n) {
+      let l = 0, r = Math.floor(nums.length / 2);
+      const res = [];
 
-      // Use sliding window approach to track longest run of 1s
-      for (let right = 0; right < nums.length; right++) {
-            if (nums[right] === 0) {
-                  // Reset left pointer to one position after current zero
-                  left = right + 1;
-            } else {
-                  // Update maxOnes with current window size if greater
-                  maxOnes = Math.max(maxOnes, right - left + 1);
-            }
+      // Interleave elements from left and right halves
+      while (r < nums.length) {
+            res.push(nums[l++]);
+            res.push(nums[r++]);
       }
-
-      return maxOnes;
+      return res;
 };

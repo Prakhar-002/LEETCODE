@@ -9,17 +9,18 @@
 from typing import List
 
 class Solution:
-      def findMaxConsecutiveOnes(self, nums: List[int]) -> int:
-            max_ones = 0
-            l = 0
+      def shuffle(self, nums: List[int], n: int) -> List[int]:
+            # Initialize pointers for left and right halves
+            l, r = 0, len(nums) // 2
 
-            # Use a sliding window to count consecutive 1s
-            for r in range(len(nums)):
-                  if nums[r] == 0:
-                        # Move left pointer to the next element after 0
-                        l = r + 1
-                  else:
-                        # Calculate current window size when nums[r] == 1
-                        max_ones = max(max_ones, r - l + 1)
+            # Result list to store shuffled elements
+            res = []
 
-            return max_ones
+            # Interleave elements from left and right halves
+            while r < len(nums):
+                  res.append(nums[l])
+                  res.append(nums[r])
+                  l += 1
+                  r += 1
+
+            return res

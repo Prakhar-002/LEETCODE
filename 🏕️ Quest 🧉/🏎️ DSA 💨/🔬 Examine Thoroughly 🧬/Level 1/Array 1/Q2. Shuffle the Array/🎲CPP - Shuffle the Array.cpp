@@ -6,23 +6,21 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
+#include <vector>
+using namespace std;
+
 class Solution {
 public:
-      int findMaxConsecutiveOnes(vector<int>& nums) {
-            int maxOnes = 0;
-            int left = 0;
+      vector<int> shuffle(vector<int>& nums, int n) {
+            int l = 0, r = nums.size() / 2;
+            vector<int> res(nums.size());
+            int idx = 0;
 
-            // Use sliding window approach to track longest run of 1s
-            for (int right = 0; right < (int)nums.size(); right++) {
-                  if (nums[right] == 0) {
-                        // Reset left pointer to one position after current zero
-                        left = right + 1;
-                  } else {
-                        // Update maxOnes with current window size if greater
-                        maxOnes = max(maxOnes, right - left + 1);
-                  }
+            // Interleave elements from left and right halves
+            while (r < (int)nums.size()) {
+                  res[idx++] = nums[l++];
+                  res[idx++] = nums[r++];
             }
-
-            return maxOnes;
+            return res;
       }
 };
