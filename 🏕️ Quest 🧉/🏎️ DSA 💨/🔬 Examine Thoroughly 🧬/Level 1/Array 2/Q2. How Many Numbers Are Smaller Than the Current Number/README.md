@@ -7,7 +7,7 @@
 <a href="https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/?envType=problem-list-v2&envId=dsa-linear-shoal-array-ii"><strong>➥ ♻️ Q2 Leetcode Easy ♻️ </strong></a>
 </h2>
 
-</br>
+</br> 
 
 # Description 📜 ˋ°•*⁀➷
 
