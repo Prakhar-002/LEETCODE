@@ -1,13 +1,19 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER Quest DSA L1.2 Q3
 
-#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+# ? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(1)
+# ? 🧺 Space complexity ➺ O(1)
 
 # https://github.com/Prakhar-002/LEETCODE
 
 # ⌚ Time complexity -> O(n) ->  n = len(nums)
 
 #  Space complexity -> O(1)
+
+class Solution:
+      def findDisappearedNumbers(self, nums: List[int]) -> List[int]:
+            
+            for n in nums:
+                  
