@@ -1,10 +1,10 @@
-# 84. Largest Rectangle in Histogram
+# Q3. Largest Rectangle in Histogram
 
 </br>
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/largest-rectangle-in-histogram/description/"><strong>➥ 🫀 84 Leetcode Hard 🫀 </strong></a>
+<a href="https://leetcode.com/problems/largest-rectangle-in-histogram/description/?envType=problem-list-v2&envId=dsa-linear-shoal-monotonic-stack"><strong>➥ 🫀 Q3 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
