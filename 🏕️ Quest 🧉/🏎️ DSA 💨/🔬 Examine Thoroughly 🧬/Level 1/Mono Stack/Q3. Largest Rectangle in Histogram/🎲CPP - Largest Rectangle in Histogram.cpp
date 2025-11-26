@@ -23,7 +23,7 @@ public:
                         st.pop();
 
                         // Calculate width
-                        int width = st.empty() ? i : i - st.top() - 1;
+                        int width = st.empty() ? i : i - st.top() - 1; 
 
                         // Calculate area and update maxArea
                         maxArea = max(maxArea, height * width);
