@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def buildArray(self, target: List[int], n: int) -> List[str]:
