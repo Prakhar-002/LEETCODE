@@ -4,67 +4,75 @@
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ Q3 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/construct-target-array-with-multiple-sums/?envType=problem-list-v2&envId=dsa-sequence-valley-heap"><strong>➥ 🫀 Q3 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### You are given an array `target` of `n` integers. From a starting array `arr` consisting of `n` 1's, you may perform the following procedure :
+
+- let `x` be the sum of all elements currently in your array.
+- choose index `i`, such that `0 <= i < n` and set the value of arr at index i to `x`.
+
+### You may repeat this procedure as many times as needed.
+
+### Return `true` if it is possible to construct the target array from `arr`, otherwise, return `false`.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  ### 📥 `Input`  ➤ target = [9,3,5]
 
-  ### 📥 `Input`  ➤ 
+  ### 📤 `Output`  ➤ true
 
-  ### 📤 `Output`  ➤ 2
-
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤ Start with arr = [1, 1, 1] 
+[1, 1, 1], sum = 3 choose index 1
+[1, 3, 1], sum = 5 choose index 2
+[1, 3, 5], sum = 9 choose index 0
+[9, 3, 5] Done
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ target = [1,1,1,2]
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ false
 
-  ### 🔦 `Explanation` ➤ 
+  ### 🔦 `Explanation` ➤ Impossible to create target array from [1,1,1,1].
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ target = [8,5]
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ true
 
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation` ➤ Start with arr = [1, 1].
+[1, 1], sum = 2 choose index 0
+[2, 1], sum = 3 choose index 1
+[2, 3], sum = 5 choose index 0
+[5, 3], sum = 8 choose index 1
+[5, 8], which when sorted becomes [8, 5] Done
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
-
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 n == target.length </br>
+🔹 1 <= n <= 5 * 10<sup>4</sup> </br>
+🔹 1 <= target[i] <= 10<sup>9</sup> </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **Array** </br>
+🔸 **Heap (Priority Queue)** </br>
 
 </br>
 

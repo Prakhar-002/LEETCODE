@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/last-stone-weight/?envType=problem-list-v2&envId=dsa-sequence-valley-heap"><strong>➥ ☢️ Q1 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/last-stone-weight/?envType=problem-list-v2&envId=dsa-sequence-valley-heap"><strong>➥ ♻️ Q1 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
