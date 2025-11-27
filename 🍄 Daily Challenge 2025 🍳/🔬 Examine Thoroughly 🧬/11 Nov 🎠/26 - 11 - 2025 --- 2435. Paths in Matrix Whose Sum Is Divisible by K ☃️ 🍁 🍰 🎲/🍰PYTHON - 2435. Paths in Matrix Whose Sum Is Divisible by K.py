@@ -38,3 +38,4 @@ class Solution:
 
             # Start DFS from top-left corner with initial remainder 0
             return dfs(0, 0, 0)
+
