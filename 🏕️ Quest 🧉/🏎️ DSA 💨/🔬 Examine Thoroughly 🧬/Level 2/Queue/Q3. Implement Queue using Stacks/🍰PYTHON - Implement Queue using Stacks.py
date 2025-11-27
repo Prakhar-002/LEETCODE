@@ -40,7 +40,7 @@ class MyQueue:
                   return self.s2[-1]
             return self.front
 
-      def empty(self):
+      def empty(self): 
             """
             Check if queue is empty.
             Empty only when both stacks are empty.
