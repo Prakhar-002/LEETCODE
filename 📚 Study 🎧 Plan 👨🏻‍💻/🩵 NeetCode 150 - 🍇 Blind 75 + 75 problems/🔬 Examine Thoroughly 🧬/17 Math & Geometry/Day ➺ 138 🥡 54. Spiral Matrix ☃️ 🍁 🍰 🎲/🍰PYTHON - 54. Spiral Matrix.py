@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(m * n) 👉🏻 m = No. o rows n = No. of columns
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution: 
       def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
