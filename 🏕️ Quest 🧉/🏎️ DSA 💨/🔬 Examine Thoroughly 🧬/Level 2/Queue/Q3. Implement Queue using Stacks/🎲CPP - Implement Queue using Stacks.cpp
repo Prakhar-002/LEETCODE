@@ -61,7 +61,7 @@ public:
       /**
        * Returns whether the queue is empty.
        */
-      bool  {
+      bool empty() {
             return s1.empty() && s2.empty();
       }
 };
