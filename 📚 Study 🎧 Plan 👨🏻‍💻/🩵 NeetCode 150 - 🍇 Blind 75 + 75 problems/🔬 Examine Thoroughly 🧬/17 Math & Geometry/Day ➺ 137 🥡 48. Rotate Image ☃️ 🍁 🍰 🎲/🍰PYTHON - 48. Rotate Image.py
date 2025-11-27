@@ -1,13 +1,19 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER 48
 
-#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+#? ⌚ Time complexity ➺ O(n ^ 2) 👉🏻  n = len(nums)
 
 #? 🧺 Space complexity ➺ O(1)
 
-# https://github.com/Prakhar-002/LEETCODE
+class Solution:
+      def rotate(self, matrix: List[List[int]]) -> None:
+            # reverse the matrix first
+            matrix.reverse()
 
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
+            n = len(matrix)
 
-#  Space complexity -> O(1)
+            for i in range(n):
+                  for j in range(i + 1, n):
+                        # Taking transpose of matrix
+                        matrix[i][j], matrix[j][i] = matrix[j][i], matrix[i][j]
