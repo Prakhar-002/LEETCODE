@@ -20,4 +20,4 @@ class Solution:
                         # For people after position k, they can buy up to k_ticket-1 tickets
                         total += min(ticket, k_ticket - 1)
 
-            return total
+            return total 
