@@ -1,6 +1,6 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER Quest DSA L2.2 Q2
+# Todo 💎 QUESTION NUMBER Quest DSA L2.2 Q3
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
