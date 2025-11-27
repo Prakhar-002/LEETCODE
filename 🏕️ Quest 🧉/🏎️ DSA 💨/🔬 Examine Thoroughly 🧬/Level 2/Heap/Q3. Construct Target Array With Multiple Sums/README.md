@@ -1,10 +1,10 @@
-# 
+# Q3. Construct Target Array With Multiple Sums
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href=""><strong>➥ ☢️ Q3 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
