@@ -11,7 +11,7 @@ class Solution:
             prefix = [float("inf")] * k  # Array to track minimum prefix sums for each remainder mod k
             prefix[0] = 0                # Prefix sum for remainder 0 is initialized as 0
             res = float("-inf")          # Result initialized to negative infinity for max comparison
-            total = 0                   # Running total prefix sum
+            total = 0                    # Running total prefix sum
 
             # Iterate over each element in nums array
             for i, n in enumerate(nums):
