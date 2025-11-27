@@ -1,70 +1,60 @@
-# 
+# 50. Pow(x, n)
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/powx-n/description/"><strong>➥ ☢️ 50 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### Implement pow(x, n), which calculates x raised to the power n (i.e., x<sup>n</sup>).
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  ### 📥 `Input`  ➤ x = 2.00000, n = 10
 
-  ### 📥 `Input`  ➤ 
-
-  ### 📤 `Output`  ➤ 2
-
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 📤 `Output`  ➤ 1024.00000
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ x = 2.10000, n = 3
 
-  ### 📤 `Output`  ➤ 
-
-  ### 🔦 `Explanation` ➤ 
+  ### 📤 `Output`  ➤ 9.26100
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ x = 2.00000, n = -2
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ 0.25000
 
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation` ➤ 2<sup>-2</sup> = 1/2<sup>2</sup> = 1/4 = 0.25
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
-
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 -100.0 < x < 100.0 </br>
+🔹 -2<sup>31</sup> <= n <= 2<sup>31</sup>-1 </br>
+🔹 n is an integer. </br>
+🔹 Either x is not zero or n > 0. </br>
+🔹 -10<sup>4</sup> <= x<sup>n</sup> <= 10<sup>4</sup> </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **Math** </br>
+🔸 **Recursion** </br>
 
 </br>
 
