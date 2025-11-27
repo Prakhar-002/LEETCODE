@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(1) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def multiply(self, num1: str, num2: str) -> str:
