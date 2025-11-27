@@ -75,6 +75,6 @@
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/6c398727-e97e-49ad-85af-09ea5752e8fc" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/6c398727-e97e-49ad-85af-09ea5752e8fc" width = "700px" height="462px" /> 
 
 </h1>
