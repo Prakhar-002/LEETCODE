@@ -1,70 +1,62 @@
-# 
+# 190. Reverse Bits
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/reverse-bits/description/"><strong>➥ ♻️ 190 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### Reverse bits of a given 32 bits signed integer.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  ### 📥 `Input`  ➤ n = 43261596
 
-  ### 📥 `Input`  ➤ 
+  ### 📤 `Output`  ➤ 964176192
 
-  ### 📤 `Output`  ➤ 2
+  ### 🔦 `Explanation`  ➤
 
-  ### 🔦 `Explanation`  ➤ ➺
+|Integer	|Binary|
+|---------|------|
+|43261596|	00000010100101000001111010011100|
+|964176192	|00111001011110000010100101000000|
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ n = 2147483644
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ 1073741822
 
-  ### 🔦 `Explanation` ➤ 
+  ### 🔦 `Explanation` ➤
 
-</br>
-
-# Example 💡 3️⃣ ˋ°•*⁀➷
-
-  ### 📥 `Input` ➤ 
-
-  ### 📤 `Output`  ➤ 
-
-  ### 🔦 `Explanation`  ➤ 
+|Integer	|Binary|
+|---------|------|
+|2147483644|	01111111111111111111111111111100|
+|1073741822	|00111111111111111111111111111110|
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
-
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 0 <= n <= 2<sup>31</sup> - 2 </br>
+🔹 n is even. </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **Divide and Conquer** </br>
+🔸 **Bit Manipulation** </br>
+
 
 </br>
 
@@ -76,8 +68,6 @@
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
