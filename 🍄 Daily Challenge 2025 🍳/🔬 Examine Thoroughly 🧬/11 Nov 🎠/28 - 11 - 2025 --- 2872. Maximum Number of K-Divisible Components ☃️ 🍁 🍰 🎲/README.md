@@ -103,6 +103,6 @@ It can be shown that no other valid split has more than 3 connected components.
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/8650ea14-d799-46d7-9414-d32a78af6039" width = "700px" height="462px" />
 
 </h1>
