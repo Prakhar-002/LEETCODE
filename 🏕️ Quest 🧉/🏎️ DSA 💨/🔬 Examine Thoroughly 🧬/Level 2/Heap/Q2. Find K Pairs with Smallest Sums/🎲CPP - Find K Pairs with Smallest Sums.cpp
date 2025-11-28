@@ -39,7 +39,7 @@ public:
                   // Extract pair with smallest sum: auto destructuring with C++17
                   auto [sum, i, j] = heap.top();
                   heap.pop();
-                  
+
                   // Add current pair [nums1[i], nums2[j]] to result
                   result.push_back({nums1[i], nums2[j]});
 
