@@ -76,6 +76,13 @@
 | ❸ | 🫀 Hard 🫀 | [Q3. Construct Target Array With Multiple Sums](https://leetcode.com/problems/construct-target-array-with-multiple-sums/?envType=problem-list-v2&envId=dsa-sequence-valley-heap) | [🌼SOLUTION🌼](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8F%8E%EF%B8%8F%20DSA%20%F0%9F%92%A8/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/Heap/Q3.%20Construct%20Target%20Array%20With%20Multiple%20Sums) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
 </br>
+
+| 𝖲𝗍𝗋ꪱᜒ𐓣𝗀 | 🔏LEVEL🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+| ❶ | ♻️ Easy ♻️ | [Q1. Detect Capital](https://leetcode.com/problems/detect-capital/description/?envType=problem-list-v2&envId=dsa-sequence-valley-string) | [🌼SOLUTION🌼](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8F%8E%EF%B8%8F%20DSA%20%F0%9F%92%A8/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/String/Q1.%20Detect%20Capital) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❷ | ♻️ Easy ♻️ | [Q2. License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/?envType=problem-list-v2&envId=dsa-sequence-valley-string) | [🌼SOLUTION🌼](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8F%8E%EF%B8%8F%20DSA%20%F0%9F%92%A8/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/String/Q2.%20License%20Key%20Formatting) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❸ | ☢️Medium☢️ | [Q3. Masking Personal Information](https://leetcode.com/problems/masking-personal-information/?envType=problem-list-v2&envId=dsa-sequence-valley-string) | [🌼SOLUTION🌼](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8F%8E%EF%B8%8F%20DSA%20%F0%9F%92%A8/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%202/String/Q3.%20Masking%20Personal%20Information) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+</br>
 </br>
 
 <h2 align="center"> 
