@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(1) 
 
-#? 🧺 Space complexity ➺ O(1) 
+#? 🧺 Space complexity ➺ O(1)
 
 class Solution:
       def reverseBits(self, n: int) -> int:
