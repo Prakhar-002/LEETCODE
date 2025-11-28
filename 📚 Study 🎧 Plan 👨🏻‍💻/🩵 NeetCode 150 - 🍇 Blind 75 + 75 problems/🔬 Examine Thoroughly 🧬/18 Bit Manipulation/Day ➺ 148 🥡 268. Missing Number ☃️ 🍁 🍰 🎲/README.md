@@ -1,70 +1,67 @@
-# 
+# 268. Missing Number
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/missing-number/description/"><strong>➥ ♻️ 268 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, return the only number in the range that is missing from the array.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
-
-  ### 📥 `Input`  ➤ 
+  ### 📥 `Input`  ➤ nums = [3,0,1]
 
   ### 📤 `Output`  ➤ 2
 
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤ n = 3 since there are 3 numbers, so all numbers are in the range [0,3]. 2 is the missing number in the range since it does not appear in nums.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ nums = [0,1]
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ 2
 
-  ### 🔦 `Explanation` ➤ 
+  ### 🔦 `Explanation` ➤ n = 2 since there are 2 numbers, so all numbers are in the range [0,2]. 2 is the missing number in the range since it does not appear in nums.
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ nums = [9,6,4,2,3,5,7,0,1]
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ 8
 
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation` ➤ n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the missing number in the range since it does not appear in nums.
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
-
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 n == nums.length </br>
+🔹 1 <= n <= 10<sup>4</sup> </br>
+🔹 0 <= nums[i] <= n </br>
+🔹 All the numbers of nums are unique. </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **Array** </br>
+🔸 **Hash Table** </br>
+🔸 **Math** </br>
+🔸 **Binary Search** </br>
+🔸 **Bit Manipulation** </br>
+🔸 **Sorting** </br>
 
 </br>
 
@@ -76,8 +73,6 @@
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
