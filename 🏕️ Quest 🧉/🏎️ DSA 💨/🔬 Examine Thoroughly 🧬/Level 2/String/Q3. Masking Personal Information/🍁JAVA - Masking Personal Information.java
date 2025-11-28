@@ -23,7 +23,7 @@ public class Solution {
             for (char c : s.toCharArray()) {
                   if (Character.isDigit(c)) {
                         digits.append(c);
-                  }
+                  } 
             }
 
             // Get the last 10 digits as local number
