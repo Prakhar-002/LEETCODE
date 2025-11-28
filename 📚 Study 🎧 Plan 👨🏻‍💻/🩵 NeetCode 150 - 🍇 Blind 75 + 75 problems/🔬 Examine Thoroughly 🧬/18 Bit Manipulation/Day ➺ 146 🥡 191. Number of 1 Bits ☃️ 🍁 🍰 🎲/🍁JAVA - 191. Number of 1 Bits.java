@@ -5,7 +5,7 @@
 
 //? ⌚ Time complexity ➺ O(k) 👉🏻  k = 32
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(1) 
 
 class Solution {
       public int hammingWeight(int n) {
