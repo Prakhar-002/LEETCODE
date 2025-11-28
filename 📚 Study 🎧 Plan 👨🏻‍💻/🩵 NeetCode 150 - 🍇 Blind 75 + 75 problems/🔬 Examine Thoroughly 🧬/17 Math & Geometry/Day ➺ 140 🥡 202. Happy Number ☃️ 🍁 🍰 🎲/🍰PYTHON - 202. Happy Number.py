@@ -28,5 +28,5 @@ class Solution:
                   if n == 1:                      # Happy number reached 1
                         return True
 
-            # Cycle detected - unhappy number
+            # Cycle detected - unhappy number 
             return False
