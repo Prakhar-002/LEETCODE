@@ -14,4 +14,4 @@ class Solution:
                   a = a ^ b             # Sum bits (XOR) without carry
                   b = carry             # Carry to add in next iteration
             # If b > 0 (carry beyond 32 bits), mask a to 32 bits, else return a directly
-            return (a & mask) if b > 0 else a
+            return (a & mask) if b > 0 else a 

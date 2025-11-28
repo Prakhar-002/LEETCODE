@@ -16,4 +16,4 @@ function getSum(a, b) {
       }
 
       return a;                   // Final sum
-}
+} 
