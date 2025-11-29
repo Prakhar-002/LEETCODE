@@ -11,4 +11,4 @@ class Solution:
             # The minimal number of operations is the remainder when
             # the total sum of array elements is divided by k
             # (assuming 1 operation adjusts the total sum by 1 unit modulo k)
-            return sum(nums) % k
+            return sum(nums) % k 
