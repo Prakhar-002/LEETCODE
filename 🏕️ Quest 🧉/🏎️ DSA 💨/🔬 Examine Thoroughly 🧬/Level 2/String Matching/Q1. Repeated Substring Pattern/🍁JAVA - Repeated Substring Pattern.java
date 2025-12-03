@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n * sqrt(n)) 👉🏻  n = len(s)
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(1) 
 
 public class Solution {
       public boolean repeatedSubstringPattern(String s) {
