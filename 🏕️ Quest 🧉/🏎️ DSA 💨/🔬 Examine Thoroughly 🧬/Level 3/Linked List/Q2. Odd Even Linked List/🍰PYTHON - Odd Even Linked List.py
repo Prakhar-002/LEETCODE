@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = No. of nodes
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def oddEvenList(self, head):
