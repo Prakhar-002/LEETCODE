@@ -10,7 +10,7 @@
 
 # ⌚ Time complexity -> O(n) ->  n = No. of Nodes
 
-#  Space complexity -> O(1)
+#  Space complexity -> O(1) 
 
 class Solution:
       def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
