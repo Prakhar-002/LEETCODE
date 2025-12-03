@@ -6,12 +6,6 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(n) ->  n = No. of Nodes
-
-#  Space complexity -> O(1) 
-
 class Solution:
       def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
             # If list is empty, nothing to do
