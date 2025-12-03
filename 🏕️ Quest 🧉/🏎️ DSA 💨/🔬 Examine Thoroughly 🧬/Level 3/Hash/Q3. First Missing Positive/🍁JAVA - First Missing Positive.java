@@ -4,7 +4,7 @@ class Solution {
       public int firstMissingPositive(int[] nums) {
             int n = nums.length;
 
-            for (int i = 0; i < n; i++) {
+            for (int i = 0; i < n; i++) { 
                   if (nums[i] < 0) {
                         // If number is -ve make it 0
                         nums[i] = 0;
