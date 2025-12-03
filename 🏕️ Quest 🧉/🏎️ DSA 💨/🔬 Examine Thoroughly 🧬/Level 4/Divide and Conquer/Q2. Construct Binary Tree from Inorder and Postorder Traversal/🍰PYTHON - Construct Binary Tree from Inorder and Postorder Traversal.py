@@ -4,7 +4,7 @@ class Solution:
       def buildTree(self, inOrder: List[int], postOrder: List[int]) -> Optional[TreeNode]:
             # If we got out inOrder empty then we'll return false 
             if not inOrder:
-                  return None
+                  return None 
 
             # Making the last of postOrder to our main root
             root = TreeNode(postOrder.pop())
