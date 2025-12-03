@@ -1,70 +1,76 @@
-# 
+# Q3. Ways to Make a Fair Array
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/ways-to-make-a-fair-array/description/?envType=problem-list-v2&envId=dsa-association-slope-prefix-sum"><strong>➥ ☢️ Q3 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### You are given an integer array `nums`. You can choose exactly one index (0-indexed) and remove the element. Notice that the index of the elements may change after the removal.
+
+### For example, if `nums = [6,1,7,4,1]`:
+
+- Choosing to remove index 1 results in `nums = [6,7,4,1]`.
+- Choosing to remove index 2 results in `nums = [6,1,4,1]`.
+- Choosing to remove index 4 results in `nums = [6,1,7,4]`.
+
+### An array is fair if the sum of the odd-indexed values equals the sum of the even-indexed values.
+
+### Return the number of indices that you could choose such that after the removal, `nums` is fair.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  ### 📥 `Input`  ➤ nums = [2,1,6,4]
 
-  ### 📥 `Input`  ➤ 
+  ### 📤 `Output`  ➤ 1
 
-  ### 📤 `Output`  ➤ 2
-
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤
+Remove index 0: [1,6,4] -> Even sum: 1 + 4 = 5. Odd sum: 6. Not fair.
+Remove index 1: [2,6,4] -> Even sum: 2 + 4 = 6. Odd sum: 6. Fair.
+Remove index 2: [2,1,4] -> Even sum: 2 + 4 = 6. Odd sum: 1. Not fair.
+Remove index 3: [2,1,6] -> Even sum: 2 + 6 = 8. Odd sum: 1. Not fair.
+There is 1 index that you can remove to make nums fair.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ nums = [1,1,1]
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ 3
 
-  ### 🔦 `Explanation` ➤ 
+  ### 🔦 `Explanation` ➤ You can remove any index and the remaining array is fair.
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ nums = [1,2,3]
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ 0
 
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation` ➤ You cannot make a fair array after removing any index.
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
-
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 1 <= nums.length <= 10<sup>5</sup> </br>
+🔹 1 <= nums[i] <= 10<sup>4</sup> </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **Array** </br>
+🔸 **Prefix Sum** </br>
 
 </br>
 
