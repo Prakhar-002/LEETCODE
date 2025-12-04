@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(k)
+#? 🧺 Space complexity ➺ O(k) 
 
 class Solution:
       def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
