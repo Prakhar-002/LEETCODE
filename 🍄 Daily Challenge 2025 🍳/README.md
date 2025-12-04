@@ -6,6 +6,24 @@
 
 <h1 align="center">
 
+𝐃𝖾𝖼𝖾ꭑᑲ𝖾𝗋 🎁 𝟐𝟎𝟐𝟓
+
+</h1>
+
+| 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
+|-----------|-------------|------------------|---------------|----------------|
+| 01 ┆ DEC ┆ 2025 | ☢️Medium☢️ | []() | [✏️SOLUTION✏️]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+<br/>
+
+<img align="left" src="https://github.com/user-attachments/assets/2b830112-0d55-46ab-946a-17d597163ed3" width="90" height="90" alt="November Gif">
+
+<img align="right" src="https://github.com/user-attachments/assets/2b830112-0d55-46ab-946a-17d597163ed3" width="90" height="90" alt="November Gif">
+
+</br>
+
+<h1 align="center">
+
 𝐍ⱺ𝗏𝖾ꭑᑲ𝖾𝗋 🎠 𝟐𝟎𝟐𝟓
 
 </h1>
@@ -41,6 +59,7 @@
 | 27 ┆ NOV ┆ 2025 | ☢️Medium☢️ | [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27) | [🎠SOLUTION🎠](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/11%20Nov%20%F0%9F%8E%A0/27%20-%2011%20-%202025%20---%203381.%20Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | 28 ┆ NOV ┆ 2025 | 🫀 Hard 🫀 | [2872. Maximum Number of K-Divisible Components](https://leetcode.com/problems/maximum-number-of-k-divisible-components/description/?envType=daily-question&envId=2025-11-28) | [🎠SOLUTION🎠](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/11%20Nov%20%F0%9F%8E%A0/28%20-%2011%20-%202025%20---%202872.%20Maximum%20Number%20of%20K-Divisible%20Components%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | 29 ┆ NOV ┆ 2025 | ♻️ Easy ♻️ | [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=daily-question&envId=2025-11-29) | [🎠SOLUTION🎠](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/11%20Nov%20%F0%9F%8E%A0/29%20-%2011%20-%202025%20---%203512.%20Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| 30 ┆ NOV ┆ 2025 | ☢️Medium☢️ | [1590. Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/?envType=daily-question&envId=2025-11-30) | [🎠SOLUTION🎠](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8D%84%20Daily%20Challenge%202025%20%F0%9F%8D%B3/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/11%20Nov%20%F0%9F%8E%A0/30%20-%2011%20-%202025%20---%201590.%20Make%20Sum%20Divisible%20by%20P%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
 <br/>
 
