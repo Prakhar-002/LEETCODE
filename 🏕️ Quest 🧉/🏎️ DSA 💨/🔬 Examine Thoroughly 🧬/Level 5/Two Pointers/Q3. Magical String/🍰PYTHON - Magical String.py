@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution(object):
       def magicalString(self, n):
