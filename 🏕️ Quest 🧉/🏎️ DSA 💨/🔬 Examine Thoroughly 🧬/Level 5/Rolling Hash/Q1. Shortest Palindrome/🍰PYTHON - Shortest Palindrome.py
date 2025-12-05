@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n^2) 👉🏻  n = len(s)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def shortestPalindrome(self, s: str) -> str:
