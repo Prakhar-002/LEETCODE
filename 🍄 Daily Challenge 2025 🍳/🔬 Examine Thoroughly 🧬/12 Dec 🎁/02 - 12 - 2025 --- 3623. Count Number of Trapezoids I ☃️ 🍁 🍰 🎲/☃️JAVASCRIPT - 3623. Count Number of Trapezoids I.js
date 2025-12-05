@@ -7,30 +7,32 @@
 //? 🧺 Space complexity ➺ O(n)
 
 var countTrapezoids = function (points) {
-      // Map y-coordinates to point counts
+      // Map to count points per y-coordinate (horizontal levels)
       const pointNum = new Map();
 
-      // Group points by y-coordinate
-      for (let point of points) {
+      // Group points by their y-coordinate (x-coordinates irrelevant)
+      for (const point of points) {
             const y = point[1];
             pointNum.set(y, (pointNum.get(y) || 0) + 1);
       }
 
-      const MOD = 1000000007;
-      let ans = 0;
-      let totalSum = 0;
+      const mod = 1000000007n;  // 10^9 + 7 for modulo arithmetic
+      let ans = 0n;             // Total number of trapezoids
+      let sum = 0n;             // Running sum of edges from previous levels
 
-      // Process each horizontal level
-      for (let pNum of pointNum.values()) {
-            // Edges per level = C(pNum, 2) = p*(p-1)/2
-            const edge = Math.floor(pNum * (pNum - 1) / 2);
+      // Process each horizontal level (distinct y-coordinate)
+      for (const pNum of pointNum.values()) {
+            // Number of horizontal edges at this level = C(pNum, 2)
+            // C(n,2) = n*(n-1)/2 = number of ways to choose 2 points on same y
+            const edge = (BigInt(pNum) * BigInt(pNum - 1)) / 2n;
 
-            // Trapezoids formed with previous levels
-            ans = (ans + edge * totalSum) % MOD;
+            // Each edge at current level forms trapezoid with EVERY previous edge
+            // (different y-coordinates guarantee parallel sides)
+            ans = (ans + edge * sum) % mod;
 
-            // Add current edges to total for next levels
-            totalSum = (totalSum + edge) % MOD;
+            // Accumulate current level's edges for future levels
+            sum = (sum + edge) % mod;
       }
 
-      return ans;
+      return Number(ans);
 };
