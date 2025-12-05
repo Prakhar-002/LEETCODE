@@ -29,7 +29,7 @@
 
   ### 🔦 `Explanation`  ➤
 
-<img width="800" height="800" alt="3623 que 1" src="https://github.com/user-attachments/assets/9b81339e-40dd-4ee4-b221-cb7656a8b6a7" />
+<img width="400" height="400" alt="3623 que 1" src="https://github.com/user-attachments/assets/9b81339e-40dd-4ee4-b221-cb7656a8b6a7" />
 
 ```Js
 There are three distinct ways to pick four points that form a horizontal trapezoid:
