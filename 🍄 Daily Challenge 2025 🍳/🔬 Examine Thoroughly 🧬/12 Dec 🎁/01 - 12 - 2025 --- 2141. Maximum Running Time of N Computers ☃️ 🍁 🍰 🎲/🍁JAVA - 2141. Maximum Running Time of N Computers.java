@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity ➺ O(n ^ 2) 👉🏻  n = len(batteries)
 
-//? 🧺 Space complexity ➺ O(1)
+//? 🧺 Space complexity ➺ O(1) 
 
 class Solution {
       public long maxRunTime(int n, int[] batteries) {
