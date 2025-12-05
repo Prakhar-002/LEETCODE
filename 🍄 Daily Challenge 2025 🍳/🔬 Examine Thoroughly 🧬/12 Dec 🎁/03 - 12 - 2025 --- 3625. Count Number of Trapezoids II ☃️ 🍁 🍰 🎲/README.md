@@ -86,4 +86,4 @@ The points [2,3], [3,2], [3,0], [2,-3] form another trapezoid.
 
 <img src ="https://github.com/user-attachments/assets/49941dcc-cd5f-4d3f-a72d-4fd02b8cacdf" width = "700px" height="462px" />
 
-</h1>
+</h1> 
