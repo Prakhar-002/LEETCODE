@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/?envType=daily-question&envId=2025-12-05"><strong>➥ ☢️ 3432 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/?envType=daily-question&envId=2025-12-05"><strong>➥ ♻️ 3432 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
