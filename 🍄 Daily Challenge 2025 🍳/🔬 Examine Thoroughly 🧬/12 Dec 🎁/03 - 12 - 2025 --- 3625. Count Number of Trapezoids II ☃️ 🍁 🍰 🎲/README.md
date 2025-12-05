@@ -27,11 +27,11 @@
 
   ### 🔦 `Explanation`  ➤
 
-<img width="400" height="800" alt="3625 Que 1.1" src="https://github.com/user-attachments/assets/1426df67-0c12-4a86-a002-e6d806f18bfe" />
+<img width="400" height="400" alt="3625 Que 1.1" src="https://github.com/user-attachments/assets/1426df67-0c12-4a86-a002-e6d806f18bfe" />
 
 <br/>
 
-<img width="800" height="800" alt="3625 Que 1.2" src="https://github.com/user-attachments/assets/1400a139-7938-48c3-aa8f-21fb1c6c8289" />
+<img width="400" height="400" alt="3625 Que 1.2" src="https://github.com/user-attachments/assets/1400a139-7938-48c3-aa8f-21fb1c6c8289" />
 
 ```Js
 There are two distinct ways to pick four points that form a trapezoid:
