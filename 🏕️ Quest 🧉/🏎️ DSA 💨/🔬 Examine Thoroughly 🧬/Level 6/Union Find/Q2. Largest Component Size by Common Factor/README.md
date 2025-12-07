@@ -22,6 +22,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+<img width="889" height="173" alt="952 Que 1" src="https://github.com/user-attachments/assets/cfa47cb5-dadc-407f-bd30-455e2a804d2d" />
+
 ### 📥 `Input`  ➤ `nums = [4,6,15,35]`
 
 ### 📤 `Output`  ➤ `4`
@@ -32,6 +34,8 @@
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
+<img width="908" height="155" alt="952 Que 2" src="https://github.com/user-attachments/assets/ae70edd3-159b-44f4-a689-3058ac0eef7b" />
+
 ### 📥 `Input` ➤ `nums = [20,50,9,63]`
 
 ### 📤 `Output`  ➤ `2`
@@ -41,6 +45,8 @@
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
+
+<img width="991" height="516" alt="952 Que 3" src="https://github.com/user-attachments/assets/1dfbea77-4708-4fda-a980-885e9cf85aac" />
 
 ### 📥 `Input` ➤ `nums = [2,3,6,7,4,12,21,39]`
 
