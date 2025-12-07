@@ -1,0 +1,88 @@
+# Q2. Largest Component Size by Common Factor
+
+</br>
+
+<h2 align="center"> 
+
+<a href="https://leetcode.com/problems/largest-component-size-by-common-factor/?envType=problem-list-v2&envId=dsa-graph-theory-peaks-union-find"><strong>➥ 🫀 Q2 Leetcode Hard 🫀 </strong></a>
+</h2>
+
+</br>
+
+# Description 📜 ˋ°•*⁀➷
+
+### You are given an integer array of **unique positive integers** `nums`. Consider the following graph: 
+
+- There are `nums.length` nodes labeled from `nums[0]` to `nums[nums.length - 1]`.
+- There is an **undirected edge** between `nums[i]` and `nums[j]` if `nums[i]` and `nums[j]` share a **common factor greater than 1**. 
+
+### Your task is to **return the size of the largest connected component** in this graph.
+
+</br>
+
+# Example 💡 1️⃣ ˋ°•*⁀➷
+
+### 📥 `Input`  ➤ `nums = [4,6,15,35]`
+
+### 📤 `Output`  ➤ `4`
+
+### 🔦 `Explanation`  ➤ All numbers are connected through shared factors, so they form a single connected component of size `4`.
+
+</br>
+
+# Example 💡 2️⃣ ˋ°•*⁀➷
+
+### 📥 `Input` ➤ `nums = [20,50,9,63]`
+
+### 📤 `Output`  ➤ `2`
+
+### 🔦 `Explanation` ➤ `{20,50}` share common factors and `{9,63}` share common factors, forming components of size `2`, and the largest connected component size is `2`.
+
+</br>
+
+# Example 💡 3️⃣ ˋ°•*⁀➷
+
+### 📥 `Input` ➤ `nums = [2,3,6,7,4,12,21,39]`
+
+### 📤 `Output`  ➤ `8`
+
+### 🔦 `Explanation` ➤ Every number can be connected to every other through a chain of shared factors greater than `1`, so all `8` numbers belong to one connected component.
+
+</br>
+
+# Constraints 🔒 ˋ°•*⁀➷
+
+🔹 `1 <= nums.length <= 2 * 10^4` </br>
+🔹 `1 <= nums[i] <= 10^5` </br>
+🔹 All the values of **`nums` are unique`**. </br>
+
+</br>
+
+# Topics 📋 ˋ°•*⁀➷
+
+🔸 **Array** </br>
+🔸 **Hash Table** </br>
+🔸 **Math** </br>
+🔸 **Union Find** </br>
+🔸 **Number Theory** </br>
+
+</br>
+
+# Solution ✏️ ˋ°•*⁀➷
+
+| 📒 Language 📒  | 🪶 Solution 🪶 |
+| ------------- | ------------- |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+
+</br>
+
+# Benchmark ⏱️ ˋ°•*⁀➷
+
+<h1  align="center" >
+
+<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+
+</h1>
