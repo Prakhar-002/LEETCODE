@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n log n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def countPartitions(self, nums: List[int], k: int) -> int:
