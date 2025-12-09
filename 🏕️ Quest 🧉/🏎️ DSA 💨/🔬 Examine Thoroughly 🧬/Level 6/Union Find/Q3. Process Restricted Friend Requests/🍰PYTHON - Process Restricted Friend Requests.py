@@ -10,28 +10,28 @@ class Solution:
       def friendRequests(self, n: int, restrictions: List[List[int]], requests: List[List[int]]) -> List[bool]:
             # parent[i] = parent of node i, initially each node is its own parent
             parent = list(range(n + 1))
-            
+
             def find(x):
                   # Path compression: find root with path compression
                   if parent[x] != x:
                         parent[x] = find(parent[x])
                   return parent[x]
-            
+
             def union(x, y):
                   # Union by linking roots
                   rootX = find(x)
                   rootY = find(y)
                   if rootX != rootY:
                         parent[rootY] = rootX
-            
+
             result = []
-            
+
             for u, v in requests:
                   rootU = find(u)
                   rootV = find(v)
-                  
+
                   canBeFriends = True
-                  
+
                   # If u and v already in same component, always allow
                   if rootU != rootV:
                         # Check all restrictions
@@ -49,5 +49,5 @@ class Solution:
                         result.append(True)
                   else:
                         result.append(False)
-            
+
             return result
