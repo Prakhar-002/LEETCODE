@@ -8,7 +8,7 @@
 
 from typing import List
 from math import sqrt, floor
-from collections import defaultdict
+from collections import defaultdict 
 
 class Solution:
       def find(self, x, parent):
