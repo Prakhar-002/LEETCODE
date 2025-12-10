@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(E + V) 
 
-#? 🧺 Space complexity ➺ O(E + V)
+#? 🧺 Space complexity ➺ O(E + V) 
 
 class Solution:
       def findSmallestSetOfVertices(self, n: int, edges: List[List[int]]) -> List[int]:
