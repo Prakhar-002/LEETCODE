@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(E * V) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(E * V)
+#? 🧺 Space complexity ➺ O(E * V) 
 
 class Solution:
       def maximalPathQuality(self, val, edges, maxTime):
