@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(m) 👉🏻  n = len(buildings)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def countCoveredBuildings(self, n: int, buildings: List[List[int]]) -> int:
