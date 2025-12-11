@@ -28,6 +28,6 @@ class Solution {
                   ans = (ans * i) % MOD;
             }
 
-            return (int) ans;
+            return (int) ans; 
       }
 }
