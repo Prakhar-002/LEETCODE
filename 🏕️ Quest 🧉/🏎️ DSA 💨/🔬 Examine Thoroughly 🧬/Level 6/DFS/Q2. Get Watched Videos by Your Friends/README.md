@@ -19,6 +19,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+<img width="129" height="179" alt="1311 que 1" src="https://github.com/user-attachments/assets/28303ae0-53c0-4949-bd25-f1e12702aedd" />
+
 ### 📥 `Input`  ➤  
 `watchedVideos = [["A","B"],["C"],["B","C"],["D"]]`  
 `friends = [[1,2],[0,3],[0,3],[1,2]]`  
@@ -35,6 +37,8 @@ The frequencies are: `B -> 1`, `C -> 2`.
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+<img width="129" height="179" alt="1311 que 2" src="https://github.com/user-attachments/assets/bd9d7159-122d-4e39-8dc8-d5eca400c253" />
 
 ### 📥 `Input` ➤  
 `watchedVideos = [["A","B"],["C"],["B","C"],["D"]]`  
