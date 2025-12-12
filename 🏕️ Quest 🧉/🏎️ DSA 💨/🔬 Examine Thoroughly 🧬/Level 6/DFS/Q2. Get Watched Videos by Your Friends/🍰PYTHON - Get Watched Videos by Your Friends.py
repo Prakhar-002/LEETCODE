@@ -9,7 +9,7 @@
 from collections import deque, Counter
 from typing import List
 
-class Solution:
+class Solution: 
       def watchedVideosByFriends(self, watchedVideos: List[List[str]], friends: List[List[int]],
                                     id: int, level: int) -> List[str]:
             n = len(friends)  # Number of people
