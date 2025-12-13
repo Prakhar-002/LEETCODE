@@ -12,7 +12,7 @@ import heapq
 class Solution:
       def findTheCity(self, n: int, edges: List[List[int]], distanceThreshold: int) -> int:
             # make adjacency list for easy lookup of connected cities and distances.
-            adjacency = defaultdict(list)
+            adjacency = defaultdict(list) 
 
             for city_one, city_two, dist in edges:
                   # Each city's list contains tuples of connected cities and their corresponding distances

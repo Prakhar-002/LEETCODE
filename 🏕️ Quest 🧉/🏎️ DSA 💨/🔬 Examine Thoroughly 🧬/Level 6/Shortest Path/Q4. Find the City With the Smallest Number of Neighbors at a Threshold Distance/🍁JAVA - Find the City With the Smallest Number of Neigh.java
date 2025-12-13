@@ -12,7 +12,7 @@ import java.util.*;
 class Solution {
       // make adjacency list for easy lookup of connected cities and distances.
       private Map<Integer, List<int[]>> buildAdjacencyList(int[][] edges) {
-            Map<Integer, List<int[]>> adjacency = new HashMap<>();
+            Map<Integer, List<int[]>> adjacency = new HashMap<>(); 
 
             for (int[] edge : edges) {
                   int cityOne = edge[0];

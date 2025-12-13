@@ -4,7 +4,7 @@
 
 //? ⌚ Time complexity -> O(n^2 log n) 👉🏻 Dijkstra algorithm
 
-//? 🧺 Space complexity -> O(n) 👉🏻 Building adjacency list 
+//? 🧺 Space complexity -> O(n) 👉🏻 Building adjacency list
 
 var findTheCity = function (n, edges, distanceThreshold) {
       // Create adjacency list for easy lookup of connected cities and distances

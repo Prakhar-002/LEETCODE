@@ -25,7 +25,7 @@ public:
                   // Each city's list contains pairs of connected cities and their corresponding distances
                   adjacency[city_one].emplace_back(city_two, dist);
                   adjacency[city_two].emplace_back(city_one, dist);
-            }
+            } 
 
             // Dijkstra algorithm to find the shortest paths from a given city to all other cities.
             auto dijkstra = [&](int city) {
