@@ -1,0 +1,27 @@
+
+//! https://github.com/Prakhar-002/LEETCODE
+
+// Todo 💎 QUESTION NUMBER 700
+
+//? ⌚ Time complexity ➺ O(h) 👉🏻  h = Height Of Tree
+
+//? 🧺 Space complexity ➺ O(1)
+
+class Solution {
+public:
+      TreeNode* searchBST(TreeNode* root, int val) {
+            TreeNode* cur = root;
+
+            while (cur != nullptr) {
+                  if (cur->val == val) {
+                        return cur; // Return the current node if the value matches
+                  } else if (cur->val > val) {
+                        cur = cur->left; // Move to the left subtree if the value is smaller
+                  } else {
+                        cur = cur->right; // Move to the right subtree if the value is greater
+                  }
+            }
+
+            return nullptr; // Return nullptr if the value is not found
+      }
+};
