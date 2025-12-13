@@ -19,6 +19,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+![687 que 1](https://github.com/user-attachments/assets/ed20e9f8-756c-4a93-978e-7c59a8f06d3d)
+
 ### 📥 `Input`  ➤ `root = [5,4,5,1,1,null,5]`
 
 ### 📤 `Output`  ➤ `2`
@@ -28,6 +30,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+![687 que 2](https://github.com/user-attachments/assets/69e95812-8403-4e0b-9c30-fc3d500c87ac)
 
 ### 📥 `Input` ➤ `root = [1,4,5,4,4,null,5]`
 
