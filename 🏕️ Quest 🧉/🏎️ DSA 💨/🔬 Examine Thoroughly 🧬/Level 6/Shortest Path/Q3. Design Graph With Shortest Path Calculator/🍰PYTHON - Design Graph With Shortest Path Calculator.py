@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(v)
 
-from heapq import heappush, heappop 
+from heapq import heappush, heappop
 from typing import List
 inf = float('inf')
 
