@@ -1,13 +1,11 @@
 #! https://github.com/Prakhar-002/LEETCODE
 
-# Todo 💎 QUESTION NUMBER ----
+# Todo 💎 QUESTION NUMBER Quest DSA L7.1 Q1
 
-#? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+#? ⌚ Time complexity ➺ O(1)
 
 #? 🧺 Space complexity ➺ O(1)
 
-# https://github.com/Prakhar-002/LEETCODE
-
-# ⌚ Time complexity -> O(n) ->  n = len(nums)
-
-#  Space complexity -> O(1)
+class Solution:
+      def checkTree(self, root: Optional[TreeNode]) -> bool:
+            return root.val == (root.left.val + root.right.val)
