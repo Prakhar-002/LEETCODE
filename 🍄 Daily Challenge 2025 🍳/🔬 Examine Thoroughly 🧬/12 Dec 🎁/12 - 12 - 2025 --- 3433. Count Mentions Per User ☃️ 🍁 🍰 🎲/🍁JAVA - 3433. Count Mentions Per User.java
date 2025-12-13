@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(n)
 
-import java.util.*;
+import java.util.*; 
 
 class Solution {
       public int[] countMentions(int numberOfUsers, List<List<String>> events) {
