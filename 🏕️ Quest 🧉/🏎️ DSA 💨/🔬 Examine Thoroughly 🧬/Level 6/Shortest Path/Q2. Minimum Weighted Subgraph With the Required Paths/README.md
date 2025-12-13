@@ -25,6 +25,8 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
+<img width="411" height="391" alt="2203 que 1" src="https://github.com/user-attachments/assets/7471c25d-1dc7-49e6-8f46-4cb8244e5536" />
+
 ### 📥 `Input`  ➤  
 `n = 6`  
 `edges = [[0,2,2],[0,5,6],[1,0,3],[1,4,5],[2,1,1],[2,3,3],[2,3,4],[3,4,2],[4,5,1]]`  
@@ -41,6 +43,8 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+<img width="491" height="71" alt="2203 que 2" src="https://github.com/user-attachments/assets/7a14fd07-8642-41ba-884f-3f2afd2aed91" />
 
 ### 📥 `Input` ➤  
 `n = 3`  
@@ -76,10 +80,10 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8F%8E%EF%B8%8F%20DSA%20%F0%9F%92%A8/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Shortest%20Path/Q2.%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths/%F0%9F%8D%81JAVA%20-%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8F%8E%EF%B8%8F%20DSA%20%F0%9F%92%A8/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Shortest%20Path/Q2.%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths/%F0%9F%8E%B2CPP%20-%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8F%8E%EF%B8%8F%20DSA%20%F0%9F%92%A8/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Shortest%20Path/Q2.%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths/%F0%9F%8D%B0PYTHON%20-%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8F%8E%EF%B8%8F%20DSA%20%F0%9F%92%A8/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/Level%206/Shortest%20Path/Q2.%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%20Minimum%20Weighted%20Subgraph%20With%20the%20Required%20Paths.js) |
 
 </br>
 
@@ -87,6 +91,6 @@
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/8dc2140f-0abe-443f-9877-2d30ec297a33" width = "700px" height="462px" />
 
 </h1>
