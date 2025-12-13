@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/design-graph-with-shortest-path-calculator/?envType=problem-list-v2&envId=dsa-graph-theory-peaks-shortest-path"><strong>➥ ☢️ Q3 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/design-graph-with-shortest-path-calculator/?envType=problem-list-v2&envId=dsa-graph-theory-peaks-shortest-path"><strong>➥ 🫀 Q3 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
@@ -22,6 +22,8 @@
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
+
+<img width="621" height="191" alt="2642 que 1" src="https://github.com/user-attachments/assets/e8676269-3255-48ad-a7f4-a356e9c43f69" />
 
 ### 📥 `Input`  ➤  
 `["Graph", "shortestPath", "shortestPath", "addEdge", "shortestPath"]`  
