@@ -16,14 +16,14 @@
 ### Each `events[i]` can be either of the following two types:
 
 1. **Message Event**: `["MESSAGE", "timestampᵢ", "mentions_stringᵢ"]`  
-  - This event indicates that a set of users was mentioned in a message at `timestampᵢ`.  
-  - The `mentions_stringᵢ` string can contain one of the following tokens:  
-    - `id<number>`: where `<number>` is an integer in range `[0, numberOfUsers - 1]`. There can be **multiple** ids separated by a single whitespace and may contain duplicates. This can mention even the **offline** users.  
-    - `ALL`: mentions **all** users.  
-    - `HERE`: mentions all **online** users.
+    - This event indicates that a set of users was mentioned in a message at `timestampᵢ`.  
+    - The `mentions_stringᵢ` string can contain one of the following tokens:  
+      - `id<number>`: where `<number>` is an integer in range `[0, numberOfUsers - 1]`. There can be **multiple** ids separated by a single whitespace and may contain duplicates. This can mention even the **offline** users.  
+      - `ALL`: mentions **all** users.  
+      - `HERE`: mentions all **online** users.
 
 2. **Offline Event**: `["OFFLINE", "timestampᵢ", "idᵢ"]`  
-  - This event indicates that the user `idᵢ` becomes **offline** at `timestampᵢ` for **60 time units**. The user will automatically be online again at time `timestampᵢ + 60`.
+    - This event indicates that the user `idᵢ` becomes **offline** at `timestampᵢ` for **60 time units**. The user will automatically be online again at time `timestampᵢ + 60`.
 
 ### Return an array `mentions` where `mentions[i]` represents the number of mentions the user with id `i` has across all `"MESSAGE"` events.
 
