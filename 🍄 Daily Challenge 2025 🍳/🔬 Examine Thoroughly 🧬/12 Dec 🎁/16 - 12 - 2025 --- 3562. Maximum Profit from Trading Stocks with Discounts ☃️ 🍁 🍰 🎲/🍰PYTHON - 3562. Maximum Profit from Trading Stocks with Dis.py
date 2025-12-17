@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(n * budget)
 
 class Solution:
-      def maxProfit(
+      def maxProfit( 
             self,
             n: int,
             present: List[int],
