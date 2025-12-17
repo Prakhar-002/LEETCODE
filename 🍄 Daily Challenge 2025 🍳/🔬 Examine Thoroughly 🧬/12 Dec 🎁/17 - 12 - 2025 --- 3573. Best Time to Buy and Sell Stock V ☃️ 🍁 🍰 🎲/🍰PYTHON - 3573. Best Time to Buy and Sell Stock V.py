@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(nk) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(k)
+#? 🧺 Space complexity ➺ O(k) 
 
 class Solution:
       def maximumProfit(self, prices: List[int], k: int) -> int:
