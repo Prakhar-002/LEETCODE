@@ -40,14 +40,11 @@
 
 ### 🔦 `Explanation`  ➤  
 
-- Original: `[-1, 0, 1]`  
-  Profit = `(-1 × 4) + (0 × 2) + (1 × 8) = -4 + 0 + 8 = 4`
-
-- Modify `[0, 1]` → `[0, 1, 1]`  
-  Profit = `(0 × 4) + (1 × 2) + (1 × 8) = 0 + 2 + 8 = 10`
-
-- Modify `[1, 2]` → `[-1, 0, 1]`  
-  Profit = `(-1 × 4) + (0 × 2) + (1 × 8) = 4`
+| Modification     | Strategy      | Profit Calculation                                   | Profit |
+|------------------|---------------|------------------------------------------------------|--------|
+| Original         | [-1, 0, 1]    | (-1 × 4) + (0 × 2) + (1 × 8) = -4 + 0 + 8             | 4      |
+| Modify [0, 1]    | [0, 1, 1]     | (0 × 4) + (1 × 2) + (1 × 8) = 0 + 2 + 8               | 10     |
+| Modify [1, 2]    | [-1, 0, 1]    | (-1 × 4) + (0 × 2) + (1 × 8) = -4 + 0 + 8             | 4      |
 
 Maximum possible profit is `10`, achieved by modifying subarray `[0, 1]`.
 
@@ -62,14 +59,11 @@ Maximum possible profit is `10`, achieved by modifying subarray `[0, 1]`.
 
 ### 🔦 `Explanation` ➤  
 
-- Original: `[1, 1, 0]`  
-  Profit = `(1 × 5) + (1 × 4) + (0 × 3) = 5 + 4 + 0 = 9`
-
-- Modify `[0, 1]` → `[0, 1, 0]`  
-  Profit = `(0 × 5) + (1 × 4) + (0 × 3) = 0 + 4 + 0 = 4`
-
-- Modify `[1, 2]` → `[1, 0, 1]`  
-  Profit = `(1 × 5) + (0 × 4) + (1 × 3) = 5 + 0 + 3 = 8`
+| Modification     | Strategy   | Profit Calculation                                   | Profit |
+|------------------|------------|------------------------------------------------------|--------|
+| Original         | [1, 1, 0]  | (1 × 5) + (1 × 4) + (0 × 3) = 5 + 4 + 0               | 9      |
+| Modify [0, 1]    | [0, 1, 0]  | (0 × 5) + (1 × 4) + (0 × 3) = 0 + 4 + 0               | 4      |
+| Modify [1, 2]    | [1, 0, 1]  | (1 × 5) + (0 × 4) + (1 × 3) = 5 + 0 + 3               | 8      |
 
 Maximum possible profit is `9`, achieved **without** any modification.
 
