@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(q log q + n) 👉🏻  q = len(queries)
 
-#? 🧺 Space complexity ➺ O(q)
+#? 🧺 Space complexity ➺ O(q) 
 
 from heapq import *
 
