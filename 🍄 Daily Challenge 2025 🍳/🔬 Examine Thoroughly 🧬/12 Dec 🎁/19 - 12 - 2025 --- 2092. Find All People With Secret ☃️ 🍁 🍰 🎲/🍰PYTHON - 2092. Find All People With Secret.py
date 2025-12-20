@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(m log m + m α(n)) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n + m)
+#? 🧺 Space complexity ➺ O(n + m) 
 
 class UnionFind:
       def __init__(self, nodes: int):
