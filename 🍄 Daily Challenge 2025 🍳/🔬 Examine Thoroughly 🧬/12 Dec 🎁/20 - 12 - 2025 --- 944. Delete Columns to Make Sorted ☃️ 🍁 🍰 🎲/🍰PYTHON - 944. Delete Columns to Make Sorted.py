@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(strs)
 
-#? 🧺 Space complexity ➺ O(strs[0])
+#? 🧺 Space complexity ➺ O(strs[0]) 
 
 class Solution:
       def minDeletionSize(self, strs: List[str]) -> int:
