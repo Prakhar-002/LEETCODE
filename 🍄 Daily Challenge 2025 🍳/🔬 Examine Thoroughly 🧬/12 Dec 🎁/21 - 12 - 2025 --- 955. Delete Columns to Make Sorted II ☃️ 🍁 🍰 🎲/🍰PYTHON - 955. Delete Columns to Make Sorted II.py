@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n * w) 👉🏻  n = len(A)
 
-#? 🧺 Space complexity ➺ O(n)      ->  m = len(A[0])
+#? 🧺 Space complexity ➺ O(n)    👉🏻  m = len(A[0])
 
 class Solution(object):
       def minDeletionSize(self, A):
