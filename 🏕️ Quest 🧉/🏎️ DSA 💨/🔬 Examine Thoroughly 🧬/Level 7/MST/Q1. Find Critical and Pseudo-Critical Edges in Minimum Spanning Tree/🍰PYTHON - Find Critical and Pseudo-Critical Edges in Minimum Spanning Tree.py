@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(E ^ 2 * α(V)) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(E + V)
+#? 🧺 Space complexity ➺ O(E + V) 
 
 class UnionFind:
       def __init__(self, n: int):
