@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/house-robber/description/"><strong>➥ ☢️ 198 Leetcode Que Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/house-robber/description/"><strong>➥ ☢️ 198 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br> 
