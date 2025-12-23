@@ -92,7 +92,7 @@ class Solution {
                   for (int m2 : graph[m]) {
                         parents.add(new int[] { m2, c, 3 - t });
                   }
-            } else {
+            } else { 
                   // Mouse moved from some node to m; c unchanged, but skip if c2 == 0 (cat can't
                   // be at hole)
                   for (int c2 : graph[c]) {
@@ -101,6 +101,7 @@ class Solution {
                         }
                   }
             }
+
             return parents;
       }
 }

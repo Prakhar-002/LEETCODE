@@ -75,4 +75,4 @@ class Solution(object):
                                           queue.append((i2, j2, t2, 3 - t2))
 
             # Return the outcome of the initial state: mouse at 1, cat at 2, mouse’s turn (t=1)
-            return color[1, 2, 1]
+            return color[1, 2, 1] 
