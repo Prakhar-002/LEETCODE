@@ -1,0 +1,50 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+// Todo 💎 QUESTION NUMBER Quest DSA L8.4 Q3
+
+//? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+class Solution {
+      // Helper function to check if a number is prime
+      private boolean isPrime(int n) {
+            // Numbers less than 2 are not prime
+            if (n < 2) {
+                  return false;
+            }
+
+            // Check divisibility from 2 to sqrt(n)
+            for (int i = 2; i * i <= n; ++i) {
+                  if (n % i == 0) {
+                        // If divisible, n is not prime
+                        return false;
+                  }
+            }
+
+            // If no divisor found, n is prime
+            return true;
+      }
+
+      public int maximumPrimeDifference(int[] nums) {
+            // Initialize small to a large value (first prime index)
+            // and large to a small value (last prime index)
+            int small = Integer.MAX_VALUE;
+            int large = Integer.MIN_VALUE;
+
+            // Traverse the array with index i and value num
+            for (int i = 0; i < nums.length; ++i) {
+                  int num = nums[i];
+                  // If current number is prime
+                  if (isPrime(num)) {
+                        // Update the first (smallest) prime index
+                        small = Math.min(small, i);
+                        // Update the last (largest) prime index
+                        large = Math.max(large, i);
+                  }
+            }
+
+            // Return the maximum difference between prime indices
+            return large - small;
+      }
+}
