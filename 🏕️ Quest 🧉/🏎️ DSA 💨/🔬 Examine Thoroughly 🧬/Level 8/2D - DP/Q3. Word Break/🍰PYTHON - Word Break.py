@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n ^ 2 * m) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n + k)
+#? 🧺 Space complexity ➺ O(n + k) 
 
 class Solution:
       def wordBreak(self, s: str, wordDict: List[str]) -> bool:
