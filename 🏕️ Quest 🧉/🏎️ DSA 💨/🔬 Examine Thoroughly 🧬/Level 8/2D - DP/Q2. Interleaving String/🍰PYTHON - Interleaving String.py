@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n * m) 👉🏻  n = len(s1)
 
-#? 🧺 Space complexity ➺ O(n * m)  ->  m = len(s2)
+#? 🧺 Space complexity ➺ O(n * m)  ->  m = len(s2) 
 
 class Solution:
       def isInterleave(self, s1: str, s2: str, s3: str) -> bool:
