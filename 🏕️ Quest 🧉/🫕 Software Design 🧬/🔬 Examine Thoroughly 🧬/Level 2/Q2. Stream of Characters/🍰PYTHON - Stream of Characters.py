@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(∑len(w))
 
 import collections
-from functools import reduce
+from functools import reduce 
 
 class StreamChecker:
       def __init__(self, words): # O((∑len(w))
