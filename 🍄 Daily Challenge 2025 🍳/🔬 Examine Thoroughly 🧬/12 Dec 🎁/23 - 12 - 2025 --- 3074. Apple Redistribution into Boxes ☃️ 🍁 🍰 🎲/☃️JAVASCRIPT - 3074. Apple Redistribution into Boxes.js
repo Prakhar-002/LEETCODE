@@ -1,0 +1,32 @@
+//! https://github.com/Prakhar-002/LEETCODE
+
+// Todo 💎 QUESTION NUMBER 3074
+
+//? ⌚ Time complexity ➺ O(m log m) 👉🏻  n = len(nums)
+
+//? 🧺 Space complexity ➺ O(1)
+
+var minimumBoxes = function (apple, capacity) {
+      // Count total apples from all packs
+      var apples = apple.reduce((sum, a) => sum + a, 0);
+
+      // Sort boxes by capacity in descending order (largest first)
+      // This greedy strategy minimizes the number of boxes used
+      capacity.sort((a, b) => b - a);
+
+      let boxes = 0; // number of boxes used so far
+
+      // Use boxes one by one (largest first)
+      for (const n of capacity) {
+            // If all apples are already stored, return current box count
+            if (apples <= 0) {
+                  return boxes;
+            }
+            // Use this box: subtract its capacity from remaining apples
+            apples -= n;
+            boxes++;
+      }
+
+      // If we finish the loop, return the total number of boxes used
+      return boxes;
+};
