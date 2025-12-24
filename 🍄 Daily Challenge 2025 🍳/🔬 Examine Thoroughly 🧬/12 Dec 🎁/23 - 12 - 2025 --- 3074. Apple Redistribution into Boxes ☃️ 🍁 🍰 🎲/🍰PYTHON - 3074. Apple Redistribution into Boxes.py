@@ -9,7 +9,7 @@
 class Solution:
       def minimumBoxes(self, apple: List[int], capacity: List[int]) -> int:
             # Count total apples from all packs
-            apples = sum(apple)
+            apples = sum(apple) 
 
             # Sort boxes by capacity in descending order (largest first)
             # This greedy strategy minimizes the number of boxes used
