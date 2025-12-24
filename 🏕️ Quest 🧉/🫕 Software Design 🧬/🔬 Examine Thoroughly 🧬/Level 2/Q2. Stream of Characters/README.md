@@ -90,6 +90,6 @@ streamChecker.query("l"); // return True, because 'kl' is in the wordlist
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/95ebfaae-3201-404d-8324-2189b7612ae0" width = "700px" height="462px" />
 
 </h1>
