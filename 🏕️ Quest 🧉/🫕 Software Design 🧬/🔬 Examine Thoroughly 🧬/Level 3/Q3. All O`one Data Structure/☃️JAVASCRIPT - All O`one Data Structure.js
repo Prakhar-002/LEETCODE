@@ -6,19 +6,19 @@
 
 //? 🧺 Space complexity ➺ O(n)
 
+// Node in a doubly-linked list: each node represents a frequency (freq)
+// and stores all keys that have that frequency.
+class Node {
+      constructor(freq) {
+            this.freq = freq;           // frequency (count) of keys in this node
+            this.prev = null;           // pointer to previous node
+            this.next = null;           // pointer to next node
+            this.keys = new Set();      // set of keys with this frequency
+      }
+}
+
 class AllOne {
       constructor() {
-            // Node in a doubly-linked list: each node represents a frequency (freq)
-            // and stores all keys that have that frequency.
-            class Node {
-                  constructor(freq) {
-                        this.freq = freq;           // frequency (count) of keys in this node
-                        this.prev = null;           // pointer to previous node
-                        this.next = null;           // pointer to next node
-                        this.keys = new Set();      // set of keys with this frequency
-                  }
-            }
-
             // Dummy head and tail nodes to simplify list operations
             this.head = new Node(0);
             this.tail = new Node(0);
