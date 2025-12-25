@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-from typing import List
+from typing import List 
 
 class Solution:
       def maximumHappinessSum(self, happiness: List[int], k: int) -> int:
