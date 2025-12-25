@@ -39,7 +39,7 @@ class AllOne {
             head.next = tail;
             tail.prev = head;
             // Initialize map
-            map = new HashMap<>();
+            map = new HashMap<>(); 
       }
 
       /**
