@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-class RangeModule(object):
+class RangeModule(object): 
       def __init__(self):
             # List of non-overlapping intervals sorted by start time [start, end)
             self.ranges = []
