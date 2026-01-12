@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n log n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 from bisect import bisect_left
 
