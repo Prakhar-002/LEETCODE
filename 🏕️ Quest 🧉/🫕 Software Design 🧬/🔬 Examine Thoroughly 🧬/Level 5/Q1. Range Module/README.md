@@ -75,6 +75,6 @@ rangeModule.queryRange(16, 17); returns `true` (16 is covered)
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/820f08f4-3816-4122-8e57-8289c7fb51cc" width = "700px" height="462px" />
 
 </h1>
