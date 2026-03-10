@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/lru-cache/description/?envType=problem-list-v2&envId=interview-instance-i"><strong>➥ ☢️ Q1 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/lru-cache/description/?envType=problem-list-v2&envId=interview-instance-i"><strong>➥ ☢️ Q1 Leetcode Medium ☢️ </strong></a> 
 </h2>
 
 </br>
