@@ -2,7 +2,7 @@
 
 // Todo 💎 QUESTION NUMBER 146
 
-//? ⌚ Time complexity ➺ O(1) 👉🏻  n = capacity
+//? ⌚ Time complexity ➺ O(1) 👉🏻  n = capacity 
 
 //? 🧺 Space complexity ➺ O(n)
 
