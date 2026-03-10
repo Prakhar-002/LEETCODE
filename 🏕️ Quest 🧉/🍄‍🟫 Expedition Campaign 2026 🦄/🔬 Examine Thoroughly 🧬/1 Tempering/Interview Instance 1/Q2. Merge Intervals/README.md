@@ -1,10 +1,10 @@
-# Q3. Merge Intervals
+# Q2. Merge Intervals
 
 </br>
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/merge-intervals/description/?envType=problem-list-v2&envId=dsa-sorting-plateau-sorting"><strong>➥ ☢️ Q3 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/merge-intervals/?envType=problem-list-v2&envId=interview-instance-i"><strong>➥ ☢️ Q2 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
