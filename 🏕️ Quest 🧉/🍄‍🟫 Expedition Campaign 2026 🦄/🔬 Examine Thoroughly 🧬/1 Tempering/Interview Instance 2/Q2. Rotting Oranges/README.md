@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align="center"> 
+<h2 align="center">  
 
 <a href="https://leetcode.com/problems/rotting-oranges/?envType=problem-list-v2&envId=interview-instance-ii"><strong>➥ ☢️ Q2 Leetcode Medium ☢️ </strong></a>
 </h2>

@@ -2,7 +2,7 @@
 
 </br>
 
-<h2 align="center"> 
+<h2 align="center">  
 
 <a href="https://leetcode.com/problems/number-of-islands/?envType=problem-list-v2&envId=interview-instance-ii"><strong>➥ ☢️ Q1 Leetcode Medium ☢️ </strong></a>
 </h2>
