@@ -21,7 +21,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="https://github.com/user-attachments/assets/4c0e4e40-accd-47fa-aaaf-20d4eabd1527" width="" height=""/>
+<img src="https://github.com/user-attachments/assets/4c0e4e40-accd-47fa-aaaf-20d4eabd1527" width="600" height="250"/>
 
 ### 📥 `Input`  ➤ `heights = [10,6,8,5,11,9]`
 
