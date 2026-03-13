@@ -1,10 +1,10 @@
-# 207. Course Schedule
+# Q2. Course Schedule
 
 </br>
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/course-schedule/description/"><strong>➥ ☢️ 207 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/course-schedule/description/?envType=problem-list-v2&envId=interview-instance-iii"><strong>➥ ☢️ Q2 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
