@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/?envType=problem-list-v2&envId=interview-instance-iii"><strong>➥ ☢️ Q1 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/number-of-visible-people-in-a-queue/description/?envType=problem-list-v2&envId=interview-instance-iii"><strong>➥ 🫀 Q1 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
