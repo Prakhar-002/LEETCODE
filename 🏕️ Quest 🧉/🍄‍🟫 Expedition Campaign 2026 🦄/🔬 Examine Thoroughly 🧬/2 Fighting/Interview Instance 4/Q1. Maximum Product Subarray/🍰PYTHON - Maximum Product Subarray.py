@@ -39,4 +39,4 @@ class Solution:
                   res = max(res, high)
 
             # Final maximum product return
-            return res
+            return res 
