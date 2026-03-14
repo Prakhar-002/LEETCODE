@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n Log n) 👉🏻  n = Total Nodes
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def mergeKLists(self, lists: List[ListNode]) -> ListNode:
