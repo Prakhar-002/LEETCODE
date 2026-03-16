@@ -21,7 +21,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="https://drive.google.com/file/d/1saQXvUNxSJ4Ij6_UOL9rEyN4WPv0qvIT/view?usp=drive_link" width="" height=""/>
+<img src="https://ibb.co/B2k3KTfh" width="" height=""/>
 
   ### 📥 `Input`  ➤ `matrix = [[0,1,0],[1,1,1],[0,1,0]], target = 0`
 
