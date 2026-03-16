@@ -7,7 +7,7 @@
 #? 🧺 Space complexity -> O(n) 👉 making of stack
 
 class Solution:
-      def isValid(self, s: str) -> bool:
+      def isValid(self, s: str) -> bool: 
             # Stack to keep track of opening brackets
             stack = []
 
