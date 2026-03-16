@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-from typing import Optional
+from typing import Optional 
 
 class Solution:
       def maxProduct(self, root: Optional[TreeNode]) -> int:
