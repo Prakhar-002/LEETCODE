@@ -21,8 +21,6 @@
 
 - Every close bracket has a corresponding open bracket of the same type.
 
-
-
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
@@ -75,7 +73,7 @@
 
 </br>
 
-# Benchmark ⏱️ ˋ°•*⁀➷
+# Benchmark ⏱️ ˋ°•*⁀➷ 
 
 <h1  align="center" >
 
