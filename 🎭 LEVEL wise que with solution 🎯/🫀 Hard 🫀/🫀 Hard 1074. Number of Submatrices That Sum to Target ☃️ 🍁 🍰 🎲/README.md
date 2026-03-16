@@ -21,7 +21,7 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="./Images/1074 que 1.jpg" width="" height=""/>
+<img src="./Images/1074 que.jpg" width="" height=""/>
 
   ### 📥 `Input`  ➤ `matrix = [[0,1,0],[1,1,1],[0,1,0]], target = 0`
 
