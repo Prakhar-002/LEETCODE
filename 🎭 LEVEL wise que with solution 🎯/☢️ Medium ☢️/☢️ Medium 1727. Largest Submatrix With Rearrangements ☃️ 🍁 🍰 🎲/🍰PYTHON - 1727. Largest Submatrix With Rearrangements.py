@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n * m) 
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def largestSubmatrix(self, matrix: List[List[int]]) -> int:
