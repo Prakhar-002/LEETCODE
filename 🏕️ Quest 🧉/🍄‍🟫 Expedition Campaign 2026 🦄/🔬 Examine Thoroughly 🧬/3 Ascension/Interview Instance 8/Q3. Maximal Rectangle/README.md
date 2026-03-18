@@ -1,10 +1,10 @@
-# Q1 Maximal Rectangle
+# Q3 Maximal Rectangle
 
 </br>
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=interview-instance-viii"><strong>➥ ☢️ Q1 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=interview-instance-viii"><strong>➥ 🫀 Q3 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
