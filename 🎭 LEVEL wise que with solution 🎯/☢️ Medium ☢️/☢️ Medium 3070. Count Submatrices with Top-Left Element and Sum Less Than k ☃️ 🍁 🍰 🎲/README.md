@@ -73,6 +73,6 @@
 
 <h1  align="center" > 
 
-<img src ="./Images/image.png" />
+<img src ="./Images/image.png" width = "700px" height="462px" />
 
 </h1>
