@@ -22,7 +22,7 @@
   ### 📤 `Output`  ➤ 3
   ### 🔦 `Explanation`  ➤ There are 3 submatrices containing `grid[0][0]` with equal frequency of `'X'` and `'Y'` and at least one `'X'`.
 
-<img src ="./Images/image1.png" />
+<img src ="./Images/image1.png" width = "175px" height="330px"  />
 
 </br>
 
