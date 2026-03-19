@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(m * n) 👉🏻 two extra prefix sum matrices
 
-from typing import List
+from typing import List 
 
 class Solution:
       def numberOfSubmatrices(self, grid: List[List[str]]) -> int:
