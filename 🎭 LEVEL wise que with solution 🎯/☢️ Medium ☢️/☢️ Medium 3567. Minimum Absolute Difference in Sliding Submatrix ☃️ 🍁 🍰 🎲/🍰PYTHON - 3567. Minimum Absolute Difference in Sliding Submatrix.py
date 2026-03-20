@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(k^2) 👉🏻 storing unique values for each subMatrix
 
-from typing import List
+from typing import List 
 
 class Solution:
       def minAbsDiff(self, grid: List[List[int]], k: int) -> List[List[int]]:
