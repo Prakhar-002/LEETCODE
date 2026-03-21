@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/flip-square-submatrix-vertically/description/?envType=daily-question&envId=2026-03-21"><strong>➥ ☢️ 3643 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/flip-square-submatrix-vertically/description/?envType=daily-question&envId=2026-03-21"><strong>➥ ♻️ 3643 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
@@ -18,6 +18,9 @@
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
+
+<img width="621" height="241" alt="image" src="https://github.com/user-attachments/assets/061539af-3fc7-4ed9-9d69-fb3d55c95d6c" />
+
   ### 📥 `Input`  ➤ grid = [[1,2,3,4],[5,6,7,8],[9,10,11,12],[13,14,15,16]], x = 1, y = 0, k = 3
   ### 📤 `Output`  ➤ [[1,2,3,4],[13,14,15,8],[9,10,11,12],[5,6,7,16]]
   ### 🔦 `Explanation`  ➤ The `3x3` submatrix starting at `(1,0)` has its rows reversed vertically, swapping row 1 and row 3 of the submatrix while row 2 stays in place.
@@ -25,6 +28,9 @@
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
+
+<img width="621" height="121" alt="image" src="https://github.com/user-attachments/assets/64d6a673-04be-4cc0-98cb-668effdab42a" />
+
   ### 📥 `Input` ➤ grid = [[3,4,2,3],[2,3,4,2]], x = 0, y = 2, k = 2
   ### 📤 `Output`  ➤ [[3,4,4,2],[2,3,2,3]]
   ### 🔦 `Explanation` ➤ The `2x2` submatrix starting at `(0,2)` has its rows reversed vertically, swapping the two rows within the submatrix columns only.
@@ -64,8 +70,6 @@
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
@@ -73,6 +77,6 @@
 
 <h1  align="center" >
 
-<img src ="./Images/image.png" width = "700px" height="462px" />
+<img src ="" width = "700px" height="462px" />
 
 </h1>
