@@ -61,7 +61,7 @@ class Solution:
             max_product, _ = solve(0, 0)
 
             # If best product is negative → no valid non-negative path exists
-            if max_product < 0:
+            if max_product < 0: 
                   return -1
 
             return max_product % self.MOD
