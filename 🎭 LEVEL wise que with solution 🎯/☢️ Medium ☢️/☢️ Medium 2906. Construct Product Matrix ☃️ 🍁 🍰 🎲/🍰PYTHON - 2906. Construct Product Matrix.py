@@ -13,7 +13,7 @@ class Solution:
             ROWS, COLS = len(grid), len(grid[0])
             MOD        = 12345
 
-            product = [[0] * COLS for _ in range(ROWS)]
+            product = [[0] * COLS for _ in range(ROWS)] 
 
             # ---------- Pass 1 (Right to Left, Bottom to Top): fill suffix products ----------
             # product[i][j] = product of all elements AFTER (i,j) in row-major order
