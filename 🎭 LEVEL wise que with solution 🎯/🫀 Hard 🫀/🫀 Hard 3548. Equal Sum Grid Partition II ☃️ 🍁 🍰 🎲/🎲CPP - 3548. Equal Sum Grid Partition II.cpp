@@ -91,4 +91,4 @@ public:
             reverse(transposeGrid);
             return checkHorCuts(transposeGrid);
       }
-};
+}; 

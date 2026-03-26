@@ -90,4 +90,4 @@ class Solution {
             reverse(transposeGrid);
             return checkHorCuts(transposeGrid);
       }
-}
+} 

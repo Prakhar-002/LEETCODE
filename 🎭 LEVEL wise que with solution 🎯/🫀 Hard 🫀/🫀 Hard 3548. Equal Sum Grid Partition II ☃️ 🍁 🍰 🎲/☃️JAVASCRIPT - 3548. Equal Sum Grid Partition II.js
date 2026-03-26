@@ -42,7 +42,7 @@ var canPartitionGrid = function (grid) {
                         return true;
             }
 
-            return false;
+            return false; 
       }
 
       // ---------- Reverse rows of grid in-place ----------
