@@ -12,7 +12,7 @@ class Solution {
             int COLS = grid[0].length;
 
             long[] rows = new long[ROWS];
-            long[] cols = new long[COLS];
+            long[] cols = new long[COLS]; 
             long total = 0;
 
             // ---------- Build row sums, col sums, and total ----------
