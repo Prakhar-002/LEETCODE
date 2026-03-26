@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n + m)
 
-from typing import List
+from typing import List 
 
 class Solution:
       def canPartitionGrid(self, grid: List[List[int]]) -> bool:
