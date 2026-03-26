@@ -24,7 +24,7 @@
   ### 📤 `Output`  ➤ true
   ### 🔦 `Explanation`  ➤ A **horizontal cut** after the first row gives sums `1 + 4 = 5` and `2 + 3 = 5`, which are **equal**. Thus, the answer is `true`.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/755d07d0-78fd-40cb-9754-ba907c33093f" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/755d07d0-78fd-40cb-9754-ba907c33093f" />
 
 </br>
 
@@ -33,7 +33,7 @@
   ### 📤 `Output`  ➤ true
   ### 🔦 `Explanation` ➤ A **vertical cut** after the first column gives sums `1 + 3 = 4` and `2 + 4 = 6`. By discounting `2` from the right section (`6 - 2 = 4`), both sections have **equal sums** and remain **connected**. Thus, the answer is `true`.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/048870a3-a778-44f6-8836-12c7591cff67" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/048870a3-a778-44f6-8836-12c7591cff67" />
 
 </br>
 
@@ -42,7 +42,7 @@
   ### 📤 `Output`  ➤ false
   ### 🔦 `Explanation` ➤ A **horizontal cut** after the first row gives `1+2+4 = 7` and `2+3+5 = 10`. By discounting `3` from the bottom section (`10 - 3 = 7`), sums are equal, but the bottom section is **no longer connected** as it splits into `[2]` and `[5]`. Thus, the answer is `false`.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/1ea530fe-4dea-4de3-8227-98f095234345" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/1ea530fe-4dea-4de3-8227-98f095234345" />
 
 </br>
 
