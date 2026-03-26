@@ -11,7 +11,7 @@ from typing import List
 class Solution:
 
       def __init__(self):
-            self.total = 0 
+            self.total = 0
 
       # ---------- Check if any horizontal cut yields equal halves ----------
       def checkHorCuts(self, grid: List[List[int]]) -> bool:
