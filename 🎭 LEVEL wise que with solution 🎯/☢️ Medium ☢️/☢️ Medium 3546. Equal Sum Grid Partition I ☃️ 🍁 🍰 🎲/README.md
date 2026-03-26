@@ -22,7 +22,7 @@
   ### 📤 `Output`  ➤ true
   ### 🔦 `Explanation`  ➤ A **horizontal cut** between row 0 and row 1 results in two non-empty sections, each with a sum of `5`. Thus, the answer is `true`.
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/599fdee2-9ae5-41c3-b5a6-e91d4bc4505a" />
+<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/599fdee2-9ae5-41c3-b5a6-e91d4bc4505a" />
 
 </br>
 
