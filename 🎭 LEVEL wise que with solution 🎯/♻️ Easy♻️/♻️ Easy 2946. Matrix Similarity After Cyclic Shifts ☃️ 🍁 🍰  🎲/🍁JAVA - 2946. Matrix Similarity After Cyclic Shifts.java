@@ -6,7 +6,7 @@
 
 // ? 🧺 Space complexity ➺ O(n * m)
 
-class Solution {
+class Solution { 
       public boolean areSimilar(int[][] mat, int k) {
             int m = mat.length; // Number of rows
             int n = mat[0].length; // Number of columns
