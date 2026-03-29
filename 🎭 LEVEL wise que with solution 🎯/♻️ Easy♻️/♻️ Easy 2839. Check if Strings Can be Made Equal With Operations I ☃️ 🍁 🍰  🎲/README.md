@@ -62,7 +62,7 @@
 
 # 🌯 Similar 🍲 Questions 🍜 `Solution` 🍱 ˋ°•*⁀➷
 
-### 🍫 []() </br>
+### 🍫 [2840. Check if Strings Can be Made Equal With Operations II]() </br>
 
 </br>
 
@@ -70,6 +70,6 @@
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/5c1f1536-9e94-43bc-839b-476ae7bb99a3" width = "700px" height="462px" />
 
 </h1>
