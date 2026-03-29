@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(1) 👉🏻  fixed 4-character strings, constant comparisons
 
-#? 🧺 Space complexity ➺ O(1) 
+#? 🧺 Space complexity ➺ O(1)  
 
 class Solution:
       def canBeEqual(self, s1: str, s2: str) -> bool:
