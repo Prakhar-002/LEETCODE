@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/?envType=daily-question&envId=2026-03-29"><strong>➥ ☢️ 2839 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/description/?envType=daily-question&envId=2026-03-29"><strong>➥ ♻️ 2839 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
