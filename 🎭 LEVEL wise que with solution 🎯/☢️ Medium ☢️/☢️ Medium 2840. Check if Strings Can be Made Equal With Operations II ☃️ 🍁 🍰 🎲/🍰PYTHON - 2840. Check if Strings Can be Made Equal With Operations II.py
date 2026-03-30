@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(s1)
 
-#? 🧺 Space complexity ➺ O(26)
+#? 🧺 Space complexity ➺ O(26) 
 
 class Solution:
       def checkStrings(self, s1: str, s2: str) -> bool:
