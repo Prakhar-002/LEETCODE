@@ -8,7 +8,7 @@
 
 var maximumAmount = function (coins) {
       const m = coins.length;
-      const n = coins[0].length;
+      const n = coins[0].length; 
       const NEG = -Infinity;
 
       // dp[i][j][neu] = best coins collectible from (i,j) with neu neutralizes left

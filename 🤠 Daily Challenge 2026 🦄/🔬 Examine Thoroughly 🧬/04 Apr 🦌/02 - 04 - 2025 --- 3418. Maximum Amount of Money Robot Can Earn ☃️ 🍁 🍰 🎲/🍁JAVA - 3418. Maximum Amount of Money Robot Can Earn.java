@@ -63,6 +63,6 @@ class Solution {
                         for (int k = 0; k < 3; k++)
                               dp[i][j][k] = Integer.MIN_VALUE;
 
-            return solve(coins, 0, 0, 2);
+            return solve(coins, 0, 0, 2); 
       }
 }

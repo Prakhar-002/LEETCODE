@@ -6,7 +6,7 @@
 
 # ? 🧺 Space complexity ➺ O(n * m * 3)
 
-from typing import List
+from typing import List 
 
 class Solution:
       def maximumAmount(self, coins: List[List[int]]) -> int:
