@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/user-attachments/assets/c8acd93a-2ab7-4a1f-9204-8f4e442d6b02" width="90" height="90" alt="December Gif">
+<img align="left" src="https://github.com/user-attachments/assets/b7c10476-28a1-4025-8288-41b8ea7044cc" width="90" height="90" alt="Coin Gif">
 
-<img align="right" src="https://github.com/user-attachments/assets/c8acd93a-2ab7-4a1f-9204-8f4e442d6b02" width="90" height="90" alt="December Gif">
+<img align="right" src="https://github.com/user-attachments/assets/b7c10476-28a1-4025-8288-41b8ea7044cc" width="90" height="90" alt="Coin Gif">
 
 </br>
 
