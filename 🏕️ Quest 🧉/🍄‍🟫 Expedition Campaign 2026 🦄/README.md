@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="120" height="120" alt="Math Quest">
+<img align="left" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="100" height="100" alt="Math Quest">
 
-<img align="right" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="120" height="120" alt="Math Quest">
+<img align="right" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="100" height="100" alt="Math Quest">
 
 </br> 
 
