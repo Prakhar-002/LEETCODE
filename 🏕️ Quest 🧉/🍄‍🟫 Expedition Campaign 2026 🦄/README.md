@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="100" height="100" alt="Math Quest">
+<img align="left" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="120" height="120" alt="2026 Spring Sprint">
 
-<img align="right" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="100" height="100" alt="Math Quest">
+<img align="right" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="120" height="120" alt="2026 Spring Sprint">
 
 </br> 
 
@@ -25,6 +25,30 @@
 | ❶ | ☢️Medium☢️ | [Q1 LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=problem-list-v2&envId=Practice-I) | [🏕️SOLUTION🏕️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB%20Expedition%20Campaign%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/1%20Tempering/Interview%20Instance%201) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❷ | ☢️Medium☢️ | [Q2. Merge Intervals](https://leetcode.com/problems/merge-intervals/?envType=problem-list-v2&envId=Practice-I) | [🏕️SOLUTION🏕️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB%20Expedition%20Campaign%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/1%20Tempering/Interview%20Instance%201/Q2.%20Merge%20Intervals) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 | ❸ | 🫀 Hard 🫀 | [198. House Robber](https://leetcode.com/problems/house-robber/?envType=problem-list-v2&envId=Practice-I) | [🏕️SOLUTION🏕️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB%20Expedition%20Campaign%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/1%20Tempering/Interview%20Instance%201/Q3.%20House%20Robber) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+</div>
+
+</br>
+
+<div align="center">
+
+| 𝚰𐓣𝗌𝗍α𐓣𝖼𝖾2️⃣ | 🔏LEVEL🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|----------|-------------|------------------|-----------------|----------------|
+| ❶ | ☢️Medium☢️ | [Q1. Number of Islands](https://leetcode.com/problems/number-of-islands/description/?envType=problem-list-v2&envId=Practice-II) | [🏕️SOLUTION🏕️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB%20Expedition%20Campaign%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/1%20Tempering/Interview%20Instance%202/Q1.%20Number%20of%20Islands) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❷ | ☢️Medium☢️ | [Q2. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/?envType=problem-list-v2&envId=Practice-II) | [🏕️SOLUTION🏕️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB%20Expedition%20Campaign%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/1%20Tempering/Interview%20Instance%202/Q2.%20Rotting%20Oranges) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❸ | ☢️Medium☢️ | [Q3. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/?envType=problem-list-v2&envId=Practice-II) | [🏕️SOLUTION🏕️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB%20Expedition%20Campaign%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/1%20Tempering/Interview%20Instance%202/Q3.%20Generate%20Parentheses) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+
+</div>
+
+</br>
+
+<div align="center">
+
+| 𝚰𐓣𝗌𝗍α𐓣𝖼𝖾3️⃣ | 🔏LEVEL🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🍄 LANGUAGE 🍄|
+|----------|-------------|------------------|-----------------|----------------|
+| ❶ | ♻️ Easy ♻️ | [Q1. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=Practice-III) | [🏕️SOLUTION🏕️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB%20Expedition%20Campaign%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/1%20Tempering/Interview%20Instance%203/Q1.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❷ | ☢️Medium☢️ | [Q2. Course Schedule](https://leetcode.com/problems/course-schedule/?envType=problem-list-v2&envId=Practice-III) | [🏕️SOLUTION🏕️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB%20Expedition%20Campaign%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/1%20Tempering/Interview%20Instance%203/Q2.%20Course%20Schedule) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
+| ❸ | 🫀 Hard 🫀 | [Q3. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/?envType=problem-list-v2&envId=Practice-III) | [🏕️SOLUTION🏕️](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%8F%95%EF%B8%8F%20Quest%20%F0%9F%A7%89/%F0%9F%8D%84%E2%80%8D%F0%9F%9F%AB%20Expedition%20Campaign%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/1%20Tempering/Interview%20Instance%203/Q3.%20Number%20of%20Visible%20People%20in%20a%20Queue) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
 </div>
 
