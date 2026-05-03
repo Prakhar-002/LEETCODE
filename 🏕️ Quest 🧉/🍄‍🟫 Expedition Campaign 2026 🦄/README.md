@@ -1,6 +1,6 @@
-<img align="left" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="120" height="120" alt="2026 Spring Sprint">
+<img align="left" src="https://github.com/user-attachments/assets/3fe80f27-e973-41dd-bff5-cce69efe858d" width="120" height="120" alt="2026 Spring Sprint">
 
-<img align="right" src="https://github.com/user-attachments/assets/e313b445-1f2f-474f-8df0-2e9b36272414" width="120" height="120" alt="2026 Spring Sprint">
+<img align="right" src="https://github.com/user-attachments/assets/3fe80f27-e973-41dd-bff5-cce69efe858d" width="120" height="120" alt="2026 Spring Sprint">
 
 </br> 
 
