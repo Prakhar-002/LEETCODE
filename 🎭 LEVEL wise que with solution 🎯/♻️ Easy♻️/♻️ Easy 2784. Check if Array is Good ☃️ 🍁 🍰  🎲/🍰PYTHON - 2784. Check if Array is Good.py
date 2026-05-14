@@ -12,7 +12,7 @@ from collections import Counter
 class Solution:
       def isGood(self, nums: List[int]) -> bool:
             # Counter builds frequency map in one shot
-            count_num = Counter(nums)
+            count_num = Counter(nums) 
 
             max_num = max(nums)
 
