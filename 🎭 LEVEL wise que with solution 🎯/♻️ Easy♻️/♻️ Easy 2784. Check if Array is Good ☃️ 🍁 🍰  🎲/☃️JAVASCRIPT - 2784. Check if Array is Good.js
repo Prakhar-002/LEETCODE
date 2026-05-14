@@ -27,5 +27,5 @@ var isGood = function(nums) {
                   return false;
       }
 
-      return true;
+      return true; 
 };

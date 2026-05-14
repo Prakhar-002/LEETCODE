@@ -23,7 +23,7 @@ class Solution {
 
             // Max value must appear exactly twice (as per problem definition)
             if (countNum.get(maxNum) != 2)
-                  return false;
+                  return false; 
 
             // Every value from 1 to maxNum-1 must appear exactly once
             for (int i = maxNum - 1; i >= 1; i--) {

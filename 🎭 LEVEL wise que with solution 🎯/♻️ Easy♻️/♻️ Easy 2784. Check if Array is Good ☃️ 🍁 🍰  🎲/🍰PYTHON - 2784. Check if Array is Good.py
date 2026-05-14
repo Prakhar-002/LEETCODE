@@ -7,7 +7,7 @@
 #? 🧺 Space complexity ➺ O(n)
 
 from typing import List
-from collections import Counter
+from collections import Counter 
 
 class Solution:
       def isGood(self, nums: List[int]) -> bool:
