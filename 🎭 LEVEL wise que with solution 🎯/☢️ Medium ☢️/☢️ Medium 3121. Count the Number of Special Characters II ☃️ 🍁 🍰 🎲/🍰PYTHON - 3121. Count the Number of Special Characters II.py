@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(word)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def numberOfSpecialChars(self, word: str) -> int:
