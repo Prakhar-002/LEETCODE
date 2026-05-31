@@ -27,6 +27,6 @@ public:
                   currentMass += asteroid;
             }
 
-            return true;
+            return true; 
       }
 };
