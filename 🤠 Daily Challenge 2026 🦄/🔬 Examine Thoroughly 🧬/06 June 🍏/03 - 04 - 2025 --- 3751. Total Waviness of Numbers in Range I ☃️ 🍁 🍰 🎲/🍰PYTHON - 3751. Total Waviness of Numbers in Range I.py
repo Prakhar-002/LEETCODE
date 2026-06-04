@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(1)
 
-class Solution:
+class Solution: 
 
       def totalWaviness(self, num1: int, num2: int) -> int:
 
