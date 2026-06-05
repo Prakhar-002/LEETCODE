@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(D^3 log(num2)) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(D^2 log(num2))
+#? 🧺 Space complexity ➺ O(D^2 log(num2)) 
 
 class Solution:
       def totalWaviness(self, num1: int, num2: int) -> int:
