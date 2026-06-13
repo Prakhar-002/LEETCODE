@@ -6,8 +6,6 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-import java.util.List;
-
 class Solution {
       public String mapWordWeights(String[] words, int[] weights) {
             // Maps weight mod 26 back to a letter (0→'z', 1→'y', ..., 25→'a')
