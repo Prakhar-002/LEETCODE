@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-import java.util.Arrays;
+import java.util.Arrays; 
 
 class Solution {
       public int maxIceCream(int[] costs, int coins) {
