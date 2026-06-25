@@ -32,4 +32,3 @@ class Solution:
                   res = min(res, textCount[ch] // ballon[ch])
 
             return 0
-      
