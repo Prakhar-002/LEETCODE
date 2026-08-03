@@ -24,11 +24,11 @@ class Solution:
                   'b' : 1,
                   'a' : 1,
                   'l' : 2,
-                  'o' : 2,
+                  'o' : 2,  
                   'n' : 1
             }
 
             for ch in "balon":
                   res = min(res, textCount[ch] // ballon[ch])
 
-            return 0    
+            return 0      
