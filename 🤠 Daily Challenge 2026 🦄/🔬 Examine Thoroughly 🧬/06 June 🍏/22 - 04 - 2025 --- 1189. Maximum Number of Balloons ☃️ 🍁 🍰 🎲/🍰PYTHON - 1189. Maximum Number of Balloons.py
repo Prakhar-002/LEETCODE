@@ -25,7 +25,6 @@ class Solution:
                   'a' : 1,
                   'l' : 2,
                   'o' : 2,  
-                  
                   'n' : 1
             }
 
