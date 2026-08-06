@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n ^ 3) 👉🏻  n = len(stoneValue)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def stoneGameIII(self, stoneValue: List[int]) -> str:
