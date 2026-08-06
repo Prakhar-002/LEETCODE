@@ -47,4 +47,4 @@ class Solution:
 
 class Solution:
       def stoneGame(self, piles):
-            return True
+            return True 
