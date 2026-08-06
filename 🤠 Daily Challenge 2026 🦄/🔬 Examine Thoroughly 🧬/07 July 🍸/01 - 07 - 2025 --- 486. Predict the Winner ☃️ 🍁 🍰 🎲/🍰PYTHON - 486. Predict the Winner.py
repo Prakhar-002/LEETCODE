@@ -39,4 +39,4 @@ class Solution:
             p2_score = sum(nums) - p1_score
 
             # Player 1 wins if their score is at least equal to player 2's
-            return p1_score >= p2_score
+            return p1_score >= p2_score 
