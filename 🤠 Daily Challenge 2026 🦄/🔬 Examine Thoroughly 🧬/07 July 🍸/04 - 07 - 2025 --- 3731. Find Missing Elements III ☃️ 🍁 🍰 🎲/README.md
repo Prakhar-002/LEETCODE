@@ -1,10 +1,10 @@
-# 
+# 3731. Find Missing Elements
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/find-missing-elements/description/?envType=daily-question&envId=2026-08-04"><strong>➥ ♻️ 3731 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
@@ -76,8 +76,6 @@
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
@@ -85,6 +83,6 @@
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/83be2407-5b41-4fc1-8c7c-6bef6d46cf88" width = "700px" height="462px" />
 
 </h1>
