@@ -15,7 +15,7 @@ class Solution:
             res = []
 
             # Traverse every adjacent pair
-            for i in range(len(nums) - 1):
+            for i in range(len(nums) - 1): 
 
                   # Current number
                   cur = nums[i]
