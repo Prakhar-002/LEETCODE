@@ -9,7 +9,7 @@
 class Solution:
       def findMissingElements(self, nums: List[int]) -> List[int]:
             # Sort the array so that consecutive numbers become adjacent
-            nums.sort()
+            nums.sort() 
 
             # This list will store all missing numbers
             res = []
