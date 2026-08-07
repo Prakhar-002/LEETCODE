@@ -21,13 +21,13 @@
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
-
   ### 📥 `Input`   ➤ `nums = [1,4,2,5]`
 
   ### 📤 `Output`  ➤ `[3]`
 
   ### 🔦 `Explanation`  ➤ ➺ The smallest integer is 1 and the largest is 5, so the full range should be [1,2,3,4,5]. Among these, only 3 is missing.
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b7c552d4-f70f-4344-8f04-14ab32ea892c" />
 
 </br>
 
@@ -39,6 +39,8 @@
 
   ### 🔦 `Explanation` ➤ ➺ The smallest integer is 6 and the largest is 9, so the full range is [6,7,8,9]. All integers are already present, so no integer is missing.
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/32931a83-0419-4e65-b756-f47ba4b85c45" />
+
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
@@ -48,6 +50,8 @@
   ### 📤 `Output`  ➤ `[2,3,4]`
 
   ### 🔦 `Explanation`  ➤ ➺ The smallest integer is 1 and the largest is 5, so the full range should be [1,2,3,4,5]. The missing integers are 2, 3, and 4.
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7ff8fb5f-ed11-4b01-a4b1-2d7a4f7bf493" />
 
 </br>
 
