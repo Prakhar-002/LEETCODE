@@ -29,6 +29,8 @@
 
   ### 🔦 `Explanation`  ➤ ➺ Method 2 and method 1 are suspicious, but they are directly invoked by methods 3 and 0, which are not suspicious. We return all elements without removing anything.
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b7c552d4-f70f-4344-8f04-14ab32ea892c" />
+
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
@@ -39,6 +41,8 @@
 
   ### 🔦 `Explanation` ➤ ➺ Methods 0, 1, and 2 are suspicious and they are not directly invoked by any other method. We can remove them.
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/32931a83-0419-4e65-b756-f47ba4b85c45" />
+
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
@@ -48,6 +52,8 @@
   ### 📤 `Output`  ➤ `[]`
 
   ### 🔦 `Explanation`  ➤ ➺ All methods are suspicious. We can remove them.
+
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/7ff8fb5f-ed11-4b01-a4b1-2d7a4f7bf493" />
 
 </br>
 
