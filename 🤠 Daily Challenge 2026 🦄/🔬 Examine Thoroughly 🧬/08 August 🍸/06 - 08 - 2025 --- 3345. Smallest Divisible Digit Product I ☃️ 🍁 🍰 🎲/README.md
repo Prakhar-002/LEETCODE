@@ -4,67 +4,61 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/smallest-divisible-digit-product-i/?envType=daily-question&envId=2026-08-01"><strong>➥ ☢️ 3345 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/smallest-divisible-digit-product-i/?envType=daily-question&envId=2026-08-01"><strong>➥ ♻️ 3345 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### You are given two integers `n` and `t`. 
+
+### Return the smallest number greater than or equal to `n` such that the product of its digits is divisible by `t`.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  ### 📥 `Input`   ➤ `n = 10`, `t = 2`
 
-  ### 📥 `Input`  ➤ 
+  ### 📤 `Output`  ➤ `10`
 
-  ### 📤 `Output`  ➤ 2
-
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 🔦 `Explanation`  ➤ ➺ The digit product of 10 is 0, which is divisible by 2, making it the smallest number greater than or equal to 10 that satisfies the condition.
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ `n = 15`, `t = 3`
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ `16`
 
-  ### 🔦 `Explanation` ➤ 
+  ### 🔦 `Explanation` ➤ ➺ The digit product of 16 is 6, which is divisible by 3, making it the smallest number greater than or equal to 15 that satisfies the condition.
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 `Input` ➤ `n = 20`, `t = 5`
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 `Output`  ➤ `20`
 
-  ### 🔦 `Explanation`  ➤ 
+  ### 🔦 `Explanation`  ➤ ➺ The digit product of 20 is 0 (2 * 0 = 0), which is divisible by 5.
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
+🔹 **`1 <= n <= 100`** </br>
 
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 **`1 <= t <= 10`** </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **Math** </br>
+🔸 **Enumeration** </br>
 
 </br>
 
@@ -76,8 +70,6 @@
 |  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
 |  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
 | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
 
 </br>
 
