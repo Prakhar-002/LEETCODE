@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(V + E) 
 
-#? 🧺 Space complexity ➺ O(V + E)
+#? 🧺 Space complexity ➺ O(V + E) 
 
 # BFS from k to mark all suspicious methods, then check if any have outside callers
 from typing import List
