@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n ^ 2)
 
-from typing import List
+from typing import List 
 
 class Solution:
       def predictTheWinner(self, nums: List[int]) -> bool:

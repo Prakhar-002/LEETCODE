@@ -8,7 +8,7 @@
 
 # BFS from k to mark all suspicious methods, then check if any have outside callers
 from typing import List
-from collections import deque
+from collections import deque 
 
 class Solution:
       def remainingMethods(self, n: int, k: int, invocations: List[List[int]]) -> List[int]:
