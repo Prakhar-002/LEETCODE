@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(n)
+#? 🧺 Space complexity ➺ O(n) 
 
 class Solution:
       def missingInteger(self, nums: list[int]) -> int:
