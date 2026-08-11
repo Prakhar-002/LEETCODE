@@ -12,7 +12,7 @@ class Solution:
             nums_set = set(nums)
 
             # Initialize the sequential sum with the first element
-            seq = nums[0]
+            seq = nums[0] 
 
             # Sum elements in the longest sequential prefix (where nums[j] == nums[j - 1] + 1)
             for j in range(1, len(nums)):
