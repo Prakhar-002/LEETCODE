@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n ^ 2)
 
-from functools import cache
+from functools import cache 
 
 class Solution:
       def stoneGameII(self, piles: list[int]) -> int:
