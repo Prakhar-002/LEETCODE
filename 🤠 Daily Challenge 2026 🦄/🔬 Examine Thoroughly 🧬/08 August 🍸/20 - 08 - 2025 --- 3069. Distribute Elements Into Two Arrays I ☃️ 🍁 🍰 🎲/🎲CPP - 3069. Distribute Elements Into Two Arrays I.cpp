@@ -32,6 +32,6 @@ public:
             // Concatenate arr2 to the end of arr1
             arr1.insert(arr1.end(), arr2.begin(), arr2.end());
 
-            return arr1;
+            return arr1; 
       }
 };
