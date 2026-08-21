@@ -8,7 +8,7 @@
 
 // Helper function to check if 4 consecutive seats are free
 // start = 2 → seats 2,3,4,5
-// start = 4 → seats 4,5,6,7
+// start = 4 → seats 4,5,6,7 
 // start = 6 → seats 6,7,8,9
 var blockFree = function (seats, start) {
 
