@@ -9,7 +9,7 @@
 class Solution:
       def checkDivisibility(self, n: int) -> bool:
             digit_sum = 0
-            digit_product = 1
+            digit_product = 1 
             org = n
 
             # Extract digits one by one to compute the sum and product
