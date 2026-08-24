@@ -10,7 +10,7 @@
 
 class Solution {
 public:
-      bool sumGame(std::string num) {
+      bool sumGame(string num) {
             int leftSum = 0, rightSum = 0;
             int leftQue = 0, rightQue = 0;
             int n = num.size();
