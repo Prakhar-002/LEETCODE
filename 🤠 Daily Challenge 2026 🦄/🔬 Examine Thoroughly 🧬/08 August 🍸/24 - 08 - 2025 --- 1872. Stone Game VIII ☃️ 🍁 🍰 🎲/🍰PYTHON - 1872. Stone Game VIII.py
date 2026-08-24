@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-from functools import cache
+from functools import cache 
 
 class Solution:
       def stoneGameVIII(self, stones: list[int]) -> int:
