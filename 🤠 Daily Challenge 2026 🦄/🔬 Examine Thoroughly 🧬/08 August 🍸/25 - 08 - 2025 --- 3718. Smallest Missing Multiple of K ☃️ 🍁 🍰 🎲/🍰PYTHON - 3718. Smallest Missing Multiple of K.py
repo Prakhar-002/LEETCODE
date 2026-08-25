@@ -4,7 +4,7 @@
 
 #? ⌚ Time complexity ➺ O(n log n) 👉🏻  n = len(nums)
 
-#? 🧺 Space complexity ➺ O(1)
+#? 🧺 Space complexity ➺ O(1) 
 
 class Solution:
       def missingMultiple(self, nums: list[int], k: int) -> int:
