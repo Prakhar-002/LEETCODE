@@ -23,7 +23,7 @@ class Solution:
                   # 2. Leading character is '0' (stripping unnecessary zeros)
                   while l <= r and (ones > k or s[l] == '0'):
                         if s[l] == '1':
-                              ones -= 1 
+                              ones -= 1  
                         l += 1
 
                   # When the window contains exactly k '1's, evaluate candidate substring
