@@ -1,3 +1,23 @@
+
+<img align="left" src="https://github.com/user-attachments/assets/b7c10476-28a1-4025-8288-41b8ea7044cc" width="90" height="90" alt="Coin Gif">
+
+<img align="right" src="https://github.com/user-attachments/assets/b7c10476-28a1-4025-8288-41b8ea7044cc" width="90" height="90" alt="Coin Gif">
+
+</br>
+
+<h1 align="center">
+
+𝐒𝖾ρ𝗍𝖾ꭑᑲ𝖾𝗋 🪷 𝟐𝟎𝟐𝟔
+
+</h1>
+
+| 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
+|-----------|-------------|------------------|---------------|----------------|
+| 01 ┆ SEP ┆ 2025 | ☢️Medium☢️ | []() | [🪷SOLUTION🪷]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+
+
+</br>
+
 <img align="left" src="https://github.com/user-attachments/assets/b7c10476-28a1-4025-8288-41b8ea7044cc" width="90" height="90" alt="Coin Gif">
 
 <img align="right" src="https://github.com/user-attachments/assets/b7c10476-28a1-4025-8288-41b8ea7044cc" width="90" height="90" alt="Coin Gif">

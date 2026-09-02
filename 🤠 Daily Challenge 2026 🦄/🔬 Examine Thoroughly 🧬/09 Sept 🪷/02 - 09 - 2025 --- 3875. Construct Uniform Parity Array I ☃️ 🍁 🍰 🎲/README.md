@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/construct-uniform-parity-array-i/description/?envType=daily-question&envId=2026-09-02"><strong>➥ ☢️ 3875 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/construct-uniform-parity-array-i/description/?envType=daily-question&envId=2026-09-02"><strong>➥ ♻️ 3875 Leetcode Easy ♻️ </strong></a>
 </h2>
 
 </br>
