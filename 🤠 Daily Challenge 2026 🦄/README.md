@@ -13,7 +13,7 @@
 
 | 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
 |-----------|-------------|------------------|---------------|----------------|
-| 01 ┆ SEP ┆ 2025 | ☢️Medium☢️ | []() | [🪷SOLUTION🪷]() |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️┊🔹C 💖|
+| 02 ┆ SEP ┆ 2025 | ♻️ Easy ♻️ | [3875. Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/description/?envType=daily-question&envId=2026-09-02) | [🪷SOLUTION🪷](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%A4%A0%20Daily%20Challenge%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/09%20Sept%20%F0%9F%AA%B7/02%20-%2009%20-%202025%20---%203875.%20Construct%20Uniform%20Parity%20Array%20I%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
 
 </br>
