@@ -13,4 +13,4 @@ class Solution:
             # keep odd numbers as nums1[i], and for any even number at index i,
             # subtract an odd number nums1[j] (since even - odd = odd).
             # Therefore, it is always possible to construct such an array.
-            return True      
+            return True       
