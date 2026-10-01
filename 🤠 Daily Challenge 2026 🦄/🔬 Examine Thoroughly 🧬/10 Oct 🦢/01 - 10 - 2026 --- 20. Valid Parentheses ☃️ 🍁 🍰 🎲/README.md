@@ -1,70 +1,64 @@
-# 
+# 20. Valid Parentheses
 
 </br>
 
 <h2 align="center"> 
 
-<a href=""><strong>➥ ☢️ ---- Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/valid-parentheses/description/"><strong>➥ ♻️ 20 Leetcode Que Easy ♻️ </strong></a>
 </h2>
 
 </br>
 
 # Description 📜 ˋ°•*⁀➷
 
-### 
+### Given a string s containing just the characters `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is valid.
+
+### An input string is valid if:
+
+- Open brackets must be closed by the same type of brackets.
+
+- Open brackets must be closed in the correct order.
+
+- Every close bracket has a corresponding open bracket of the same type.
 
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
 
-<img src="" width="" height=""/>
+  ### 📥 Input  ➤  s = "()"
 
-  ### 📥 `Input`  ➤ 
-
-  ### 📤 `Output`  ➤ 2
-
-  ### 🔦 `Explanation`  ➤ ➺
+  ### 📤 Output  ➤ true
 
 </br>
 
 # Example 💡 2️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 Input ➤ s = "()[]{}"
 
-  ### 📤 `Output`  ➤ 
+  ### 📤 Output  ➤ true
 
-  ### 🔦 `Explanation` ➤ 
 
 </br>
 
 # Example 💡 3️⃣ ˋ°•*⁀➷
 
-  ### 📥 `Input` ➤ 
+  ### 📥 Input ➤  s = "(]"
 
-  ### 📤 `Output`  ➤ 
-
-  ### 🔦 `Explanation`  ➤ 
+  ### 📤 Output  ➤ false
 
 </br>
 
 # Constraints 🔒 ˋ°•*⁀➷
 
-🔹 **** </br>
-
-🔹 **** </br>
-
-🔹 **** </br>
+🔹 **1 <= s.length <= 10<sup>4</sup>** </br>
+🔹 **`s` consists of parentheses only `'()[]{}'`.** </br>
 
 </br>
 
 # Topics 📋 ˋ°•*⁀➷
 
-🔸 **Array**  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
-🔸 ****  </br>
+🔸 **String**  </br>
+🔸 **Stack**  </br>
 
 </br>
 
@@ -72,12 +66,10 @@
 
 | 📒 Language 📒  | 🪶 Solution 🪶 |
 | ------------- | ------------- |
-|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁]() |
-|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲]()  |
-|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰]() |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️]() |
-|   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)   | [C💖]()  |
-| [![LeetCode user Prakhar-002](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FPrakhar-002&logo=leetcode&logoColor=yellow)](https://leetcode.com/Prakhar-002/)  | [Explanation✏️]() |
+|  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  | [JAVA🍁](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%A4%A0%20Daily%20Challenge%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/10%20Oct%20%F0%9F%A6%A2/01%20-%2010%20-%202026%20---%2020.%20Valid%20Parentheses%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%81JAVA%20-%2020.%20Valid%20Parentheses.java) |
+|  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  | [C++🎲](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%A4%A0%20Daily%20Challenge%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/10%20Oct%20%F0%9F%A6%A2/01%20-%2010%20-%202026%20---%2020.%20Valid%20Parentheses%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8E%B2CPP%20-%2020.%20Valid%20Parentheses.cpp)  |
+|  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    | [PYTHON🍰](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%A4%A0%20Daily%20Challenge%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/10%20Oct%20%F0%9F%A6%A2/01%20-%2010%20-%202026%20---%2020.%20Valid%20Parentheses%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%F0%9F%8D%B0PYTHON%20-%2020.%20Valid%20Parentheses.py) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   | [JAVASCRIPT☃️](https://github.com/Prakhar-002/LEETCODE/blob/main/%F0%9F%A4%A0%20Daily%20Challenge%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/10%20Oct%20%F0%9F%A6%A2/01%20-%2010%20-%202026%20---%2020.%20Valid%20Parentheses%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2/%E2%98%83%EF%B8%8FJAVASCRIPT%20-%2020.%20Valid%20Parentheses.js) |
 
 </br>
 
@@ -85,6 +77,6 @@
 
 <h1  align="center" >
 
-<img src ="https://github.com/user-attachments/assets/" width = "700px" height="462px" />
+<img src ="https://github.com/user-attachments/assets/64c58da4-8f45-4512-8dc5-3b7ae09bea52" width = "700px" height="462px" />
 
 </h1>
