@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-class Solution:
+class Solution: 
       def isValid(self, s: str) -> bool:
             # Stack to store expected closing brackets or track opening brackets
             stack = []
