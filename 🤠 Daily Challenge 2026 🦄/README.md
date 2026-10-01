@@ -7,14 +7,13 @@
 
 <h1 align="center">
 
-𝐒𝖾ρ𝗍𝖾ꭑᑲ𝖾𝗋 🪷 𝟐𝟎𝟐𝟔
+𝐎𝖼𝗍ⱺᑲ𝖾𝗋 🦢 𝟐𝟎𝟐𝟔
 
 </h1>
 
 | 💠DATE💠 | 🔏 LEVEL 🔏| 📜 QUESTION 📜  | ✒️SOLUTION✒️ | 🥡 LANGUAGE 🥡|
 |-----------|-------------|------------------|---------------|----------------|
-| 02 ┆ SEP ┆ 2025 | ♻️ Easy ♻️ | [3875. Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i/description/?envType=daily-question&envId=2026-09-02) | [🪷SOLUTION🪷](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%A4%A0%20Daily%20Challenge%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/09%20Sept%20%F0%9F%AA%B7/02%20-%2009%20-%202025%20---%203875.%20Construct%20Uniform%20Parity%20Array%20I%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
-
+| 01 ┆ OCT ┆ 2026 | ♻️ Easy ♻️ | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) | [🦢SOLUTION🦢](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%A4%A0%20Daily%20Challenge%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/10%20Oct%20%F0%9F%A6%A2/01%20-%2010%20-%202026%20---%2020.%20Valid%20Parentheses%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️|
 
 </br>
 
