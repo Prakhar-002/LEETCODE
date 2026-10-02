@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/generate-parentheses/description/"><strong>➥ ☢️ 22 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/generate-parentheses/description/?envType=daily-question&envId=2026-10-02"><strong>➥ ☢️ 22 Leetcode Medium ☢️ </strong></a>
 </h2>
 
 </br>
