@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-class Solution:
+class Solution:  
       def generateParenthesis(self, n: int) -> List[str]:
             stack = []           # Temporary stack to build current combination
             res = []             # Final result list to store all valid combinations
