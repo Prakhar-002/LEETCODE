@@ -9,7 +9,7 @@
 class Solution:
       def longestValidParentheses(self, s: str) -> int:
             n = len(s)
-            open_cnt = close_cnt = 0
+            open_cnt = close_cnt = 0 
             result = 0
 
             # Pass 1: Traverse left-to-right
