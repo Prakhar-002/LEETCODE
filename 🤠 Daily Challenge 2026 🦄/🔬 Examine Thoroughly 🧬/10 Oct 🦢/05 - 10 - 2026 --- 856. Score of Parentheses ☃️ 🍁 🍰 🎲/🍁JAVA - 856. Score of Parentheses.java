@@ -6,7 +6,7 @@
 
 //? 🧺 Space complexity ➺ O(1)
 
-class Solution {
+class Solution { 
       public int scoreOfParentheses(String s) {
             int depth = 0;
             int score = 0;
