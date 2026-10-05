@@ -9,7 +9,7 @@
 class Solution { 
       public int scoreOfParentheses(String s) {
             int depth = 0;
-            int score = 0;
+            int score = 0; 
 
             for (int i = 0; i < s.length(); i++) {
                   // Increment depth for each '('
