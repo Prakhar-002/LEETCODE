@@ -4,7 +4,7 @@
 
 <h2 align="center"> 
 
-<a href="https://leetcode.com/problems/remove-invalid-parentheses/description/?envType=daily-question&envId=2026-10-07"><strong>➥ ☢️ 301 Leetcode Medium ☢️ </strong></a>
+<a href="https://leetcode.com/problems/remove-invalid-parentheses/description/?envType=daily-question&envId=2026-10-07"><strong>➥ 🫀 301 Leetcode Hard 🫀 </strong></a>
 </h2>
 
 </br>
@@ -18,8 +18,6 @@
 </br>
 
 # Example 💡 1️⃣ ˋ°•*⁀➷
-
-<img src="" width="" height=""/>
 
   ### 📥 `Input`   ➤ `s = "()())()"`
 
