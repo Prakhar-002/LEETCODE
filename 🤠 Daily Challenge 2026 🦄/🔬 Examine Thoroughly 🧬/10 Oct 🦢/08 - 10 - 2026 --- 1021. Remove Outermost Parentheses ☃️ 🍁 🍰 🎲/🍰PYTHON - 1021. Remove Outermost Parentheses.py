@@ -8,7 +8,7 @@
 
 class Solution:
       def removeOuterParentheses(self, s: str) -> str:
-            open_cnt = close_cnt = 0
+            open_cnt = close_cnt = 0 
             res = []
 
             for ch in s:
