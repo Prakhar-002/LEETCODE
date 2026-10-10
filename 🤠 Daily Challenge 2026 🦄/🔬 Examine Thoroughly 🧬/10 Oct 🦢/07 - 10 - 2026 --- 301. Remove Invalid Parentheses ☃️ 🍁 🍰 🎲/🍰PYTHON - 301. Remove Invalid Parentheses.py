@@ -21,7 +21,7 @@ class Solution:
                         return
 
                   # Base case: processed the entire string
-                  if i == self.n:
+                  if i == self.n: 
                         # A valid parentheses string must have zero unmatched '('
                         if count == 0:
                               curr_str = "".join(curr)
