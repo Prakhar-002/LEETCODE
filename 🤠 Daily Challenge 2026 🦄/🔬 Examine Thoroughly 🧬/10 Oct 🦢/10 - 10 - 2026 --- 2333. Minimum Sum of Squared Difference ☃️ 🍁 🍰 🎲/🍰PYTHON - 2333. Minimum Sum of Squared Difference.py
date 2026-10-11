@@ -6,7 +6,7 @@
 
 #? 🧺 Space complexity ➺ O(n)
 
-class Solution:
+class Solution: 
       def minSumSquareDiff(self, nums1: list[int], nums2: list[int], k1: int, k2: int) -> int:
             n = len(nums1)
 
