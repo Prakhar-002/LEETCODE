@@ -7,17 +7,27 @@
 #? 🧺 Space complexity ➺ O(n)
 
 class Solution:
-      def maxAlternatingSum(self, nums: list[int]) -> int:
-            n = len(nums)
+      def maxSumOfSquares(self, num: int, sum: int) -> str:
+            # Check feasibility:
+            # An n-digit number must have sum >= 1 (cannot be 0) and sum <= num * 9
+            if sum < 1 or sum > num * 9:
+                  return ""
 
-            # Square each element in nums
-            for i in range(n):
-                  nums[i] **= 2
+            # Single digit edge case
+            if num == 1:
+                  return str(sum)
 
-            # Sort squares in ascending order
-            nums.sort()
+            ans = ["0"] * num
 
-            # Assign the larger elements to positive terms and smaller elements to negative terms
-            # Positive count: ceil(n / 2) -> slice [n // 2:]
-            # Negative count: floor(n / 2) -> slice [:n // 2]
-            return sum(nums[n // 2:]) - sum(nums[:n // 2])
+            # Greedily place the largest possible digits ('9') from left to right
+            # to maximize both the sum of squares and the integer's value
+            for i in range(num):
+                  if sum > 9:
+                        ans[i] = "9"
+                        sum -= 9
+                  else:
+                        ans[i] = str(sum)
+                        sum = 0
+                        break
+
+            return "".join(ans)
