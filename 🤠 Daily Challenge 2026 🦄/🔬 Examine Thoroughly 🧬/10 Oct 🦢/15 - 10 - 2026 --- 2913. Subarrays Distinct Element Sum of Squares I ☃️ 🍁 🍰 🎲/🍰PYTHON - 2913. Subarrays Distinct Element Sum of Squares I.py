@@ -8,7 +8,7 @@
 
 class Solution:
       def sumCounts(self, nums: list[int]) -> int:
-            n = len(nums)
+            n = len(nums) 
             res = 0
 
             # Iterate through all possible starting indices i
