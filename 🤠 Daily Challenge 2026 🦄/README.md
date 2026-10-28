@@ -31,7 +31,7 @@
 | 17 ┆ OCT ┆ 2026 | ☢️Medium☢️ | [3551. Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum/description/?envType=daily-question&envId=2026-10-17) | [🦢SOLUTION🦢](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%A4%A0%20Daily%20Challenge%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/10%20Oct%20%F0%9F%A6%A2/17%20-%2010%20-%202026%20---%203551.%20Minimum%20Swaps%20to%20Sort%20by%20Digit%20Sum%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️| 
 | 19 ┆ OCT ┆ 2026 | ♻️ Easy ♻️ | [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=daily-question&envId=2026-10-19) | [🦢SOLUTION🦢](https://github.com/Prakhar-002/LEETCODE/tree/main/%F0%9F%A4%A0%20Daily%20Challenge%202026%20%F0%9F%A6%84/%F0%9F%94%AC%20Examine%20Thoroughly%20%F0%9F%A7%AC/10%20Oct%20%F0%9F%A6%A2/19%20-%2010%20-%202026%20---%202089.%20Find%20Target%20Indices%20After%20Sorting%20Array%20%E2%98%83%EF%B8%8F%20%F0%9F%8D%81%20%F0%9F%8D%B0%20%F0%9F%8E%B2) |🔹JAVA 🍁┊🔹C++ 🎲┊🔹PYTHON 🍰 ┊🔹JAVASCRIPT ☃️| 
 
-</br>
+</br> 
 
 <img align="left" src="https://github.com/user-attachments/assets/b7c10476-28a1-4025-8288-41b8ea7044cc" width="90" height="90" alt="Coin Gif">
 
